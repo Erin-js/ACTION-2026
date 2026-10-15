@@ -1,0 +1,2113 @@
+cover
+
+             https://jambi.bps.go.id
+
+Analisis Gender Provinsi Jambi 2022   i
+                https://jambi.bps.go.id
+
+ii
+https://jambi.bps.go.id
+
+Analisis Gender Provinsi Jambi 2022  iii
+ANALISIS GENDER PROVINSI JAMBI 2025
+Volume 9, 2026
+
+Katalog          : 2104017.15
+ISSN             : 2774-1516
+Nomor Publikasi  : 15000.25024
+
+Ukuran Buku      : 21 cm x 29,7 cm
+Jumlah Halaman   : xiv+70 halaman
+
+Penyusun Naskah:
+Badan Pusat Statistik Provinsi Jambi
+
+.id Penyunting:
+o Badan Pusat Statistik Provinsi Jambi
+ps.g Pembuat Kover:
+i.b Badan Pusat Statistik Provinsi Jambi
+//jamb Penerbit:
+s: ©Badan Pusat Statistik Provinsi Jambi
+http Sumber Ilustrasi:
+
+www.canva.com
+www.freepik.com
+
+Dilarang mereproduksi dan/atau menggandakan sebagian atau seluruh isi buku ini untuk
+tujuan komersial tanpa izin tertulis dari Badan Pusat Statistik Provinsi Jambi.
+
+ii
+                                                          ISSN 2774-1516
+               TIM PENYUSUN
+ANALISIS GENDER PROVINSI JAMBI 2025
+                 Volume 9, 2026
+
+                     Pengarah:
+               Aidil Adha, S.E., M.E.
+               Penanggung Jawab:
+            Sisilia Nurteta, S.ST, M.Si.
+
+                    Penyunting:
+            Sisilia Nurteta, S.ST, M.Si.
+
+        o.id Penulis Naskah:
+    .g Juliana Marintan Siahaan, S.ST.
+
+        i.bps Pengolah Data:
+       b Linda Annisa, S.ST.
+      //jamPenata Letak:
+https:Juliana Marintan Siahaan, S.ST.
+
+                                                                     iii
+                 https://jambi.bps.go.id
+
+iv
+                               KATA PENGANTAR
+
+          Publikasi Analisis Gender menggambarkan kondisi perempuan dibandingkan dengan
+laki-laki dalam berbagai bidang. Ketimpangan gender telah menjadi isu di sebagian besar
+negara baik negara maju maupun negara berkembang dan juga merupakan aspek yang
+sangat penting dalam tujuan pembangunan berkelanjutan (Sustainable Development
+Goals/SDGs).
+
+          Publikasi ini dibuat untuk mendukung ketersediaan data dan informasi terkait
+gender dalam perekonomian di Provinsi Jambi tahun 2025. Sumber data yang digunakan
+adalah data Survei Sosial Ekonomi Nasional (SUSENAS) bulan Maret 2025 dan Survei
+Angkatan Kerja Nasional (SAKERNAS) bulan Agustus 2025. Diharapkan hasil dari data dan
+
+.id informasi yang tertuang dalam publikasi ini dapat membantu dalam pengambilan kebijakan
+.go sehingga memberdayakan kaum perempuan dan mengurangi kesenjangan ekonomi antara
+s laki-laki dan perempuan.
+
+    i.bp Penghargaan yang tinggi disampaikan kepada tim yang telah menyusun publikasi ini.
+b Saran dan kritik dari pembaca sangat kami harapkan untuk perbaikan ke depan.
+
+               ps://jam Jambi, Juli 2026
+              tt Kepala Badan Pusat Statistik
+             h Provinsi Jambi
+
+                                                                       Aidil Adha, S.E., M.E.
+
+                                                                                             v
+                 https://jambi.bps.go.id
+
+vi
+                                     ISSN 2774-1516
+
+                  DAFTAR ISI
+ANALISIS GENDER PROVINSI JAMBI 2025
+
+                 Volume 9, 2026
+
+                                     Halaman
+
+KATA PENGANTAR……………………………………………………………………………………………………… v
+
+DAFTAR ISI …………………………………………………………………………………………………………..….… vii
+
+DAFTAR TABEL ………………………………………………………………………………………………………..… ix
+DAFTAR GAMBAR ………………………………………………………………………………………………….…. xi
+
+BAB I PENDAHULUAN …………………………………………………………………..………………………..… 1
+
+        1.1 Gender dan Partisipasi Perempuan Dalam Perekonomian …..…………………….       3
+                                                                                   4
+   .id 1.2 Kesetaraan Gender dan Pertumbuhan Ekonomi ………………………………………..             7
+.go BAB II AKSES TERHADAP SUMBER DAYA EKONOMI ………………………………..………….……..…             9
+                                                                                   12
+   i.bps 2.1 Peluang Meningkatkan Akses Terhadap Sumber Daya Melalui Pendidikan….  13
+   b 2.2 Ketimpangan Gender dalam Pemanfaatan Teknologi Informasi….……….……..        15
+   //jam 2.3 Akses Perempuan Terhadap Pelatihan Kerja ………………………………..……….…..
+https: BAB III AKSES TERHADAP PASAR KERJA ……..……………………………………………….……….…...….
+3.1 Partisipasi Angkatan Kerja Menurut Gender ………………..…………………..…….…. 17
+
+3.2 Kesenjangan Gender Dalam Partisipasi Bekerja ………………………………..….…... 19
+
+3.3 Perbedaan Dominasi Dalam Struktur Ketenagakerjaan ……………………………... 22
+
+3.4 Penyerapan di Pasar Tenaga Kerja Bagi Pekerja Berpendidikan Rendah……… 24
+
+3.5 Tingkat Pengangguran Perempuan …………………………………………………………... 26
+3.6 Prevalensi Pekerja Tidak Penuh Perempuan …………………………………………………. 27
+
+3.7 Perempuan dan Jam Kerja ……………………………………………………………..………….. 33
+
+3.8 Strategi Meningkatkan Akses Perempuan Terhadap Pasar Tenaga Kerja……. 34
+
+                                     vii
+BAB IV KONDISI PASAR TENAGA KERJA ……………….…………………….………..…..…………….…..        37
+
+      4.1 Proporsi Perempuan Bekerja dengan Status berusaha sendiri, berusaha dibantu
+             buruh tidak tetap/tidak dibayar, dan pekerja keluarga ………………………………….… 39
+
+      4.2 Pendidikan Sebagai Gerbang Pembuka Pasar Tenaga Kerja……………………………. 43
+
+      4.3 Perempuan Cenderung Bekerja di Sektor Kesehatan dan Pendidikan ………… .45
+
+      4.4 Keadilan Perlindungan Pekerja Berbasis Gender Melalui Kebijakan UMP…….… 48
+
+      4.5 Jumlah Jam Kerja Pekerja Perempuan Tidak Dibayar Lebih Tinggi daripada
+             Laki-laki …………………………………………………………………………………………………….… 51
+
+      4.6 Peran Pemangku Kebijakan Menghilangkan Ketidaksetaraan Gender Dalam
+             Pasar Tenaga Kerja ……………………………………………………………………………………… 52
+
+BAB V REKONSILIASI ANTARA BEKERJA DAN TANGGUNG JAWAB KELUARGA              55
+                                                                           57
+   o.id 5.1 Keseimbangan Antara Pekerjaan dan Keluarga ……………………………………….….  62
+   s.g 5.2 Peran Perempuan Dalam Membantu Ekonomi Keluarga …………………………….…   65
+i.bp BAB VI PENUTUP ……………..…………………………..…………………………………………………….….……           71
+https://jamb DAFTAR PUSTAKA ……………..…………………………..……………………….……………………………….….
+
+viii
+           DAFTAR TABEL
+
+                                                                                     Halaman
+
+Tabel 2.1 Komponen Indikator Pembangunan Gender di Provinsi Jambi, 11
+                 2025…………………………………………………………………………………………………..……..
+
+Tabel 4.1 Persentase Penduduk Berumur 15 Tahun ke Atas yang Bekerja dengan
+
+           Status Berusaha Sendiri, Berusaha Dibantu Buruh Tidak Tetap/Tidak
+
+           Dibayar, dan Pekerja Keluarga Menurut Komposisi dan Jenis Kelamin di
+
+           Provinsi Jambi, 2025………………………………………………………                                 41
+
+Tabel 4.2 Distribusi Penduduk Berumur 15 Tahun ke Atas Tamatan Pendidikan Tinggi
+
+           yang Bekerja Menurut Jurusan/Bidang Studi dan Jenis Kelamin di Provinsi
+
+           Jambi, 2025…………………………………………………………………………………..……..                          46
+
+Tabel 4.3  Persentase Penduduk Berumur 15 Tahun ke Atas Tamatan Pendidikan           47
+Tabel 4.4                                                                            48
+           .id Tinggi yang Menganggur Menurut Jurusan/Bidang Studi dan Jenis
+           .go Kelamin di Provinsi Jambi, 2025……………………………………………………………….
+           ps Persentase Penduduk Berumur 15 Tahun ke Atas Tamatan SMA/SMK
+           i.b yang Menganggur Menurut Jurusan dan Jenis Kelamin di Provinsi Jambi,
+           https://jamb 2025………………………………………………………………………………………………………….
+
+                                                                                     ix
+                 https://jambi.bps.go.id
+
+x
+            DAFTAR GAMBAR
+
+                           Halaman
+
+Gambar 2.1 Persentase Penduduk 7–24 Tahun Menurut Partisipasi Sekolah dan
+                      Jenis Kelamin di Provinsi Jambi, 2025…………………..…………………………. 9
+
+Gambar 2.2  Persentase Penduduk Berumur 15 Tahun ke Atas Menurut Jenis Kelamin
+            dan Pendidikan Terakhir Yang Ditamatkan di Provinsi Jambi, 2025……… 11
+
+Gambar 2.3  Persentase Penduduk yang Mengakses Komputer Menurut Jenis
+            Kelamin dan Kelompok Umur di Provinsi Jambi, 2025……..………………. 12
+
+Gambar 2.4  Persentase Penduduk yang mengakses Internet Menurut Kelompok
+            Umur dan Jenis Kelamin di Provinsi Jambi, 2025……………………………… 13
+
+Gambar 2.5  Persentase Penduduk 15 Tahun ke Atas yang Mendapatkan Pelatihan           14
+Gambar 3.1                                                                            17
+Gambar 3.2  .id Kerja di Provinsi Jambi, 2025…………………………………………...….………….               18
+Gambar 3.3  .go Tingkat Partisipasi Angkatan Kerja Menurut Jenis Kelamin di Provinsi  20
+Gambar 3.4  ps Jambi, 2025………………………………………………………………..…………………….
+            i.b Tingkat Partisipasi Angkatan Kerja Menurut Jenis Kelamin dan
+            mb Kelompok Umur di Provinsi Jambi, 2025……………………………………………
+            ://ja Tingkat Kesempatan Kerja Menurut Jenis Kelamin di Provinsi Jambi,
+            ps 2025………………………………………………………………………………………....……….
+            htt Rasio Penduduk 15 Tahun ke Atas yang Bekerja Terhadap Jumlah
+
+            Penduduk 15 Tahun ke Atas (EPR) Menurut Jenis Kelamin di Provinsi
+
+            Jambi, 2025.…………………………………………………………………………………… 21
+
+Gambar 3.5  Rasio Penduduk 15 Tahun ke Atas yang Bekerja Terhadap Jumlah
+            penduduk 15 tahun ke atas (EPR) Menurut Kabupaten/Kota dan Jenis
+            Kelamin di Provinsi Jambi, 2025…………………………………..……………….…… 22
+
+Gambar 3.6  Persentase Penduduk 15 Tahun ke Atas yang Bekerja Menurut
+            Lapangan Pekerjaan Utama dan Jenis Kelamin di Provinsi Jambi,
+            2025……………………………………………………………………………………………….. 23
+
+                                                                                      xi
+Gambar 3.7    Persentase Penduduk Berumur 15 Tahun ke Atas yang Bekerja
+              Terhadap Angkatan Kerja Menurut Pendidikan Tertinggi yang
+              Ditamatkan dan Jenis Kelamin di Provinsi Jambi, 2025……………………… 25
+
+Gambar 3.8    Tingkat Pengangguran Terbuka (TPT) Menurut Jenis Kelamin di Provinsi
+              Jambi, 2025…………………………………………………………………………..………….. 26
+
+Gambar 3.9    Tingkat Pengangguran Terbuka (TPT) Menurut Kabupaten/Kota dan
+              Jenis Kelamin di Provinsi Jambi, 2025…………………………………………………. 27
+
+Gambar 3.10 Persentase Pekerja Tidak penuh Menurut Jenis Kelamin di Provinsi
+                      Jambi, 2025……………………………………………………………………………….………... 28
+
+Gambar 3.11 Persentase Pekerja Tidak Penuh Menurut Kabupaten/Kota dan Jenis
+                      Kelamin di Provinsi Jambi, 2025………………………………..…………………….... 29
+
+Gambar  3.12  Tingkat Pekerja Paruh Waktu Menurut Jenis Kelamin di Provinsi Jambi,   30
+Gambar  3.13                                                                         31
+Gambar  3.14  .id 2025………………………………………………………………………..…………………………..                      32
+Gambar  3.15  .go Tingkat Pekerja Paruh Waktu Menurut Kabupaten/Kota dan Jenis       33
+Gambar  3.16  ps Kelamin di Provinsi Jambi, 2025……………………….…………………………….….
+              i.b Persentase Setengah Penganggur Menurut Jenis Kelamin di Provinsi
+              mb Jambi, 2025………………………………………………………….…………………………….
+              ://ja Persentase Setengah Penganggur Menurut Kabupaten/Kota dan Jenis
+              ps Kelamin di Provinsi Jambi, 2025………………………………………….….…………..
+              htt Persentase Penduduk dengan Jumlah Jam Kerja Seluruhnya <15 Jam
+
+              Selama Seminggu Menurut Jenis Kelamin di Provinsi Jambi, 2025………. 34
+
+Gambar 4.1    Persentase Penduduk Berumur 15 Tahun ke Atas yang Bekerja Sebagai
+
+              Pekerja dengan Status Berusaha Sendiri, Berusaha Dibantu Buruh Tidak
+
+              Tetap/Tidak Dibayar, dan Pekerja Keluarga Menurut Jenis Kelamin di
+
+              Provinsi Jambi, 2025………………………………………………………….                            40
+
+Gambar 4.2    Persentase Penduduk berumur 15 Tahun ke Atas yang Bekerja Sebagai Pekerja
+              Bebas Menurut Jenis Kelamin dan Lapangan Pekerjaan Utama di Provinsi Jambi,
+              2025……………………………………………………………………………………………..….. 42
+
+Gambar 4.3    Persentase Penduduk Berumur 15 Tahun ke Atas yang Bekerja Sebagai
+              Pekerja dengan Status Berusaha Sendiri, Berusaha Dibantu Buruh Tidak
+
+xii
+            Tetap/Tidak Dibayar, dan Pekerja Keluarga Menurut Kabupaten/Kota
+            dan Jenis Kelamin di Provinsi Jambi, 2025………………………………………… 43
+
+Gambar 4.4 Persentase Penduduk Berumur 15 Tahun ke Atas Tamatan SMA/SMK
+
+            yang Bekerja Menurut Jurusan/Bidang Studi dan Jenis Kelamin di
+
+            Provinsi Jambi, 2025…………………………………………………………………………                              44
+
+Gambar 4.5  Persentase Buruh/Karyawan/Pegawai dengan Upah Dibawah UMP
+            Menurut Jenis Kelamin di Provinsi Jambi, 2025……………………………….. 49
+
+Gambar 4.6  Persentase Buruh/Karyawan/Pegawai dengan Upah Dibawah UMP
+            Menurut Kabupaten/Kota dan Jenis Kelamin di Provinsi Jambi,
+            2025……………………………………………………………………………………………… 50
+
+Gambar 4.7  Rata-rata Pekerja Tidak Dibayar dengan Jam Kerja Kurang dari 15 Jam
+Gambar 5.1
+Gambar 5.2  Seminggu Menurut Jenis Kelamin di Provinsi Jambi, 2025.………..…..         52
+Gambar 5.3                                                                          58
+Gambar 5.4  .id Persentase Perempuan yang Bekerja menurut Status Perkawinan di      60
+            .go Provinsi Jambi, 2025………………………………………………………………………                     62
+            ps Rata-rata Jam Kerja Perempuan Selama 1 Minggu Menurut Status         63
+            i.b Perkawinan di Provinsi Jambi, 2025………………………………………………
+            //jamb Persentase Pekerja Berstatus Kawin Menurut Status Pekerjaan dan
+            : Jenis Kelamin di Provinsi Jambi, 2025……………………………………………
+            tps Persentase Pekerja Menurut Status Perkawinan dan Jenis Kelamin
+            ht Kepala Rumah Tangga di Provinsi Jambi, 2025………………………………
+
+                                                                                    xiii
+                 https://jambi.bps.go.id
+
+xiv
+cover
+
+             https://jambi.bps.go.id
+
+                                                                                             xv
+               https://jambi.bps.go.id
+
+2 Analisis Gender Provinsi Jambi 2025
+                                     BAB I
+                               PENDAHULUAN
+
+1.1 Gender dan Partisipasi Perempuan Dalam Perekonomian
+
+         Gender berasal dari bahasa Latin genus yang berarti jenis atau tipe. Gender
+dapat diartikan sebagai aspek hubungan sosial yang dikaitkan dengan diferensiasi
+seksual pada manusia. Gender berbeda dengan jenis kelamin, jika jenis kelamin
+diartikan sebagai perbedaan jenis kelamin secara biologis, maka gender diartikan
+sebagai konsep hubungan sosial yang membedakan (memilahkan atau memisahkan)
+fungsi dan peran antara perempuan dan laki-laki. Perbedaan peran, fungsi, dan
+tanggung jawab antara laki-laki dan perempuan, hasil konstruksi sosial dan dapat
+berubah seiring waktu (Sastrawati, 2018).
+
+         Sesuai dengan target yang dicanangkan bersama dalam pembangunan
+
+.id berkelanjutan terkait kesetaraan gender dan pemberdayaan perempuan/anak
+.go perempuan, setiap negara diharapkan memperhatikan kesetaraan gender dan
+s memberdayakan kaum perempuan. Isu ini merupakan salah satu aspek yang sangat
+i.bp penting dalam memajukan perekonomian. Terkait dengan ekonomi, analisis gender
+b dapat dikaitkan kedalam berbagai aspek, antara lain pasar kerja, lapangan usaha,
+//jam sampai kepada layanan keuangan. Dengan menganalisis partisipasi perempuan
+: dibandingkan dengan laki-laki dalam berbagai aspek ini, maka dapat dilihat juga
+ps seberapa jauh akses dan peran perempuan di dalam perekonomian sebagai salah satu
+htt indikator pengukuran keberhasilan target SDGs.
+
+         Sejumlah studi memperlihatkan bahwa pertumbuhan ekonomi berkaitan
+dengan ketimpangan gender. Kesetaraan gender memiliki dampak yang positif
+terhadap pertumbuhan ekonomi, dimana hubungan tersebut sangat erat kaitannya
+dengan masalah pendidikan dan ketenagakerjaan. Keterkaitan antara ketimpangan
+gender dan pertumbuhan ekonomi salah satu prosesnya melalui aspek
+ketenagakerjaan. Untuk aspek ketenagakerjaan ini salah satu analisisnya adalah
+dengan melihat aspek pasar tenaga kerja, status pekerjaan, juga upah pekerja
+perempuan dibandingkan dengan upah buruh laki-laki.
+
+         Di satu sisi, pembangunan ekonomi dapat memperbaiki kondisi perempuan
+dan menurunkan ketimpangan antara laki-laki dan perempuan. Di sisi lain, keterlibatan
+perempuan dalam ekonomi merupakan salah satu kunci dari pertumbuhan ekonomi.
+
+                                                                          Pendahuluan 3
+Ketika lebih banyak perempuan yang bekerja, ekonomi akan tumbuh. Kenaikan
+partisipasi perempuan dalam angkatan kerja akan mengantar pada penurunan
+kesenjangan antara partisipasi perempuan dan laki-laki dalam angkatan kerja. Hal ini
+pada gilirannya akan dapat mendorong pertumbuhan ekonomi yang lebih cepat.
+
+         Angkatan kerja untuk perempuan dengan tingkat pendidikan yang lebih baik,
+berpotensi dapat melakukan kegiatan ekonomi yang bernilai lebih tinggi. Sehingga, pada
+konsep kesetaraan gender dapat membantu meningkatkan produktivitas pekerja.
+Tentunya, dengan semakin membaiknya kesetaraan gender akan dapat membuat
+pasar tenaga kerja menjadi lebih kompetitif.
+
+         Ketimpangan gender dalam ekonomi memiliki banyak dimensi. Beberapa
+dimensi ketimpangan gender dalam ekonomi antara lain mencakup akses terhadap
+sumber daya ekonomi, akses terhadap pasar tenaga kerja, kondisi pasar tenaga kerja,
+dan rekonsiliasi antara mengurus keluarga dan bekerja. Kemajuan pencapaian
+
+.id kesetaraan gender dalam ekonomi diukur dengan kemajuan sejumlah indikator yang
+.go mencerminkan berbagai dimensi tersebut. Beberapa indikator yang dapat digunakan
+s dalam mengukur akses terhadap sumber daya ekonomi antara lain: persentase
+i.bp penduduk yang mengakses komputer, persentase penduduk yang mengakses internet,
+b persentase penduduk yang mendapatkan pelatihan kerja dan persentase penduduk
+//jam yang mengakses kredit.
+s: 1.2 Kesetaraan Gender dan Pertumbuhan Ekonomi
+
+    http Akses terhadap pasar tenaga kerja merupakan salah satu aspek penting untuk
+
+analisis ketimpangan gender dalam ekonomi. Indikator akses terhadap pasar tenaga
+kerja merefleksikan sejauh mana sebuah negara memberikan peluang pekerjaan
+yang setara antara perempuan dan laki-laki. Termasuk dalam indikator akses
+terhadap pasar tenaga kerja, antara lain tingkat partisipasi angkatan kerja. Tingkat
+partisipasi angkatan kerja mengukur peluang penduduk untuk mengakses pasar
+tenaga kerja yang ada. Indikator lain adalah persentase penduduk yang bekerja dan
+rasio penduduk bekerja terhadap total penduduk. Kedua indikator ini memberikan
+informasi tentang efisiensi ekonomi untuk menyediakan pekerjaan dan juga
+mengindikasikan berapa banyak penduduk suatu negara berkontribusi pada
+produksi barang dan jasa. Selain itu, kedua indikator tersebut juga mengukur tenaga
+kerja potensial yang belum termanfaatkan. Indikator persentase penduduk yang
+bekerja juga perlu disajikan berdasarkan aktivitas kegiatan ekonomi untuk melihat di
+
+4 Analisis Gender Provinsi Jambi 2025
+sektor mana penduduk yang bekerja terkonsentrasi, serta berdasarkan kelompok umur
+dan pendidikan untuk melihat lebih jauh karakteristik penduduk yang bekerja. Hal ini
+penting karena dapat digunakan untuk melihat lebih dalam permasalahan
+ketimpangan gender dalam ekonomi.
+
+         Termasuk indikator akses terhadap pasar tenaga kerja adalah angka
+pengangguran dan tingkat setengah pengangguran. Tingkat pengangguran dapat
+menjadi indikator ketidakpaduan antara permintaan dan penawaran tenaga kerja di
+suatu negara. Tingkat pengangguran paruh waktu (part time employment rate), di
+satu sisi memberikan fleksibilitas, tetapi di sisi lain hal ini mengindikasikan upah yang
+rendah, kurangnya keterjaminan pekerjaan dan keterbatasan akan kesempatan
+terhadap pelatihan profesional dan promosi karir dibandingkan pekerjaan penuh
+waktu (fulltime employment). Jika kedua indikator dan indikator lain terkait akses
+terhadap pasar tenaga kerja didisagregasi menurut jenis kelamin akan memberikan
+
+.id gambaran perbedaan yang sistematik terkait ketimpangan gender dalam ekonomi,
+o khususnya terkait dengan akses terhadap pasar tenaga kerja.
+
+    s.g Akses terhadap pasar tenaga kerja dan situasi pasar tenaga kerja juga
+i.bp merupakan dimensi penting karena dapat mengukur sejauh mana ketimpangan
+b gender terjadi dalam dunia kerja khususnya terkait dengan masalah upah dan
+//jam pekerjaan layak. Untuk menentukan status ekonomi laki-laki dan perempuan, tidak
+: cukup hanya mempertimbangkan status bekerjanya seseorang, melainkan juga perlu
+ps melihat kondisi pekerjaan dan tingkat upah/pendapatannya. Selain lapangan usaha,
+htt kondisi pasar tenaga kerja akan lebih tergambar lagi pada tingkat upah pekerja karena
+
+bagi sebagian besar pekerja, upah merepresentasikan bagian utama dari pendapatan
+mereka. Dengan demikian, rata-rata upah menurut jenis pekerjaan memberikan
+indikasi standar hidup dan kondisi kerja dari kelompok pekerja yang berbeda.
+
+         Rekonsiliasi antara mengurus keluarga dan bekerja merupakan bagian
+penting dalam analisis ketimpangan gender dalam ekonomi. Di sejumlah negara
+berkembang, fasilitas untuk pengasuhan anak belum tersedia secara memadai,
+maka memilih untuk tetap mengurus keluarga dan bekerja merupakan pilihan yang
+harus diambil oleh perempuan yang sudah menikah dan khususnya mereka yang
+sudah memiliki anak.
+
+                                                                          Pendahuluan 5
+               https://jambi.bps.go.id
+
+6 Analisis Gender Provinsi Jambi 2025
+https://jambi.bps.go.id
+
+                                                    Pendahuluan 7
+               https://jambi.bps.go.id
+
+8 Analisis Gender Provinsi Jambi 2025
+                                      BAB II
+              AKSES TERHADAP SUMBER DAYA EKONOMI
+
+2.1 Peluang Meningkatkan Akses Terhadap Sumber Daya Melalui Pendidikan
+         Pendidikan merupakan bagian yang sangat penting dalam pemberdayaan baik
+
+bagi laki-laki maupun perempuan. Pendidikan akan meningkatkan peluang dalam
+penguasaan teknologi, sehingga pada akhirnya mampu memanfaatkan sumber daya
+untuk meningkatkan kesejahteraan. Seiring dengan meningkatnya kapabilitas melalui
+pendidikan, human capital juga meningkat dan pada gilirannya akan berperan besar
+dalam pembangunan. Human capital dapat diartikan kemampuan dan efesiensi
+manusia dalam mengubah bahan mentah dan modal menjadi barang dan jasa, secara
+konsensus kemampuan tersebut diperoleh melalui sebuah sistem pendidikan. Sistem
+pendidikan tersebut sudah seharusnya tidak diskriminatif dan menjamin kesetaraan
+
+.id kesempatan dan akses antara laki-laki dan perempuan terhadap pendidikan.
+    s.go Upaya pemerintah baik pusat maupun di Provinsi Jambi untuk memberi
+
+p kesempatan seluas-luasnya bagi laki-laki maupun perempuan untuk berpartisipasi
+bi.b dalam sistem pendidikan yang telah menunjukkan hasil yang cukup baik. Sekalipun
+m mungkin masih ditemukan permasalahan dalam implementasinya akibat faktor sosial
+//ja dan norma di dalam masyarakat tertentu. Kondisi ini dapat memicu munculnya
+s: berbagai bentuk ketidakadilan dan kesenjangan baik akses maupun kesempatan
+http antara laki-laki dan perempuan.
+
+          Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi (Susenas) Maret, 2025
+
+  Gambar 2.1 Persentase Penduduk 7–23 Tahun Menurut Partisipasi Sekolah dan
+                             Jenis Kelamin di Provinsi Jambi, 2025
+
+                                  Akses terhadap Sumber Daya Ekonomi 9
+         Bidang pendidikan pada tahun 2025 di Provinsi Jambi dapat dilihat dari
+beberapa indikator antara lain partisipasi sekolah, pendidikan tertinggi yang
+ditamatkan, rata-rata lama sekolah, angka harapan sekolah, dan lain-lain. Pemilahan
+menurut jenis kelamin dari indikator-indikator ini dapat memberikan gambaran
+apakah isu ketimpangan gender masih nyata terjadi. Indikator mendasar terkait
+pertisipasi sekolah penduduk usia 7–23 tahun sering digunakan sebagai akses
+pendidikan bagi penduduk usia sekolah. Peningkatan partisipasi sekolah penduduk
+akan menjelaskan luasnya jangkauan pelayanan pendidikan.
+
+         Gambar 2.1 memperlihatkan tingkat partisipasi sekolah penduduk usia 7–23
+tahun menurut jenis kelamin. Penduduk perempuan yang masih bersekolah hingga
+usia 23 tahun mencapai 75,58 persen, angka ini lebih tinggi dibanding penduduk laki-
+laki dengan status masih bersekolah yang mencapai 73,06 persen. Angka ini dapat
+diartikan bahwa ada sekitar 7 dari 10 penduduk masih bersekolah, baik untuk laki-laki
+
+.id maupun perempuan. Pada kategori tidak/belum pernah sekolah, capaian laki-laki
+o sebesar 0,51 persen sedangkan penduduk perempuan mencapai 0,48 persen. Hal ini
+s.g menunjukkan nilai ketimpangan yang rendah. Pada kategori tidak bersekolah lagi,
+i.bp tingkat persentase pada penduduk laki-laki sebesar 26,42 persen sedangkan penduduk
+b perempuan yang tidak bersekolah lagi mencapai angka 23,94 persen.
+
+    //jam Tingkat Pendidikan tertinggi yang ditamatkan oleh penduduk berumur 15
+: tahun ke atas sebagaimana digambarkan dalam Gambar 2.2. Persentase lulusan SD
+ps sederajat, SMP sederajat dan SMA sederajat penduduk laki-laki lebih tinggi
+htt dibandingkan dengan perempuan, sedangkan pada level Tidak Tamat SD serta
+
+Perguruan Tinggi persentase penduduk perempuan lebih tinggi dibandingkan dengan
+laki-laki. Pada level Pendidikan Tinggi, capaian perempuan berada pada angka 12,50
+persen, sedangkan penduduk laki-laki mencapai 8,84 persen. Pada level Pendidikan
+SMA sederajat, laki-laki memiliki persentase lebih tinggi (33,54 persen) dibandingkan
+dengan perempuan (26,62 persen). Pola ini memiliki kemiripan dengan capaian
+pendidikan pada level SMP.
+
+10 Analisis Gender Provinsi Jambi 2025
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi (Susenas) Maret, 2025
+
+Gambar 2.2 Persentase Penduduk Berumur 15 Tahun ke Atas Menurut Jenis Kelamin dan
+                Pendidikan Terakhir yang Ditamatkan di Provinsi Jambi, 2025
+
+         Ulasan di atas menunjukkan bahwa kaum perempuan di Provinsi Jambi berpikiran
+
+.id maju untuk meraih pendidikan tinggi. Capaian rata-rata lama sekolah perempuan (9,20) lebih
+o tinggi dari laki-laki (8,70 tahun). Angka harapan lama sekolah penduduk perempuan sebesar
+s.g 13,67 tahun atau lebih lama dari penduduk laki-laki yang berada pada angka 13,19 tahun.
+i.bp Namun ironisnya, capaian pembangunan manusia untuk kelompok penduduk perempuan
+b masih cukup rendah dan memiliki perbedaaan cukup nyata jika dibandingkan dengan laki-laki.
+//jam Pada Tabel 2.1 terlihat Indeks Pembangunan Manusia perempuan mencapai 71,58
+: sedangkan laki-laki mencapai 79,14.
+https Tabel 2.1 Komponen Indikator Pembangunan Gender Provinsi Jambi, 2025
+
+Indikator                                       Laki-Laki                   Perempuan
+   (1)                                             (2)                           (3)
+
+Rata-Rata Lama Sekolah                          8,70                        9,20
+
+Angka Harapan Lama Sekolah                       13,19                      13,67
+Pengeluaran Per Kapita                          17.930                      8.537
+per tahun yang disesuaikan (dalam ribu rupiah)   71,91                      77,00
+Angka Harapan Hidup
+
+Indeks Pembangunan Manusia                      79,14                       71,58
+
+Indeks Pembangunan Gender                                  90,45
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi (Susenas) Maret, 2025
+
+                            Akses terhadap Sumber Daya Ekonomi 11
+2.2 Ketimpangan Gender dalam Pemanfaatan Teknologi Informasi
+         Teknologi merupakan salah satu sumber daya yang seharusnya dapat diakses
+
+dan dimanfaatkan oleh setiap masyarakat tanpa perlu membedakan jenis kelamin.
+Perkembangan dan kemajuan teknologi yang akan dibahas adalah Teknologi Informasi
+dan Komunikasi (TIK) yang begitu pesat dan telah masuk dalam setiap bidang
+kehidupan masyarakat. Perkembangan TIK telah mengubah cara masyarakat untuk
+berkomunikasi dan melakukan pekerjaan. Contoh lain, misalnya banyak perempuan
+yang lebih memilih bekerja di rumah karena jam kerja yang fleksibel, mereka juga
+masih dapat mengerjakan pekerjaan rumah tangga dan tetap membantu menambah
+income keluarga.
+
+                         bi.bps.go.id
+https://jam Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi (Susenas) Maret, 2025
+
+Gambar 2.3 Persentase Penduduk yang Mengakses Komputer Menurut Jenis Kelamin
+                dan Kelompok Umur di Provinsi Jambi, 2025
+
+         Fasilitas teknologi yang sering digunakan untuk mengakses informasi oleh
+penduduk adalah komputer dan internet. Ketimpangan gender dalam pemanfaatan
+kedua akses tersebut, tentunya akan dipengaruhi oleh usia, aktivitas pekerjaan, dan
+aktivitas sosial lainnya. Kemudahan akses pada kedua perangkat ini akan sangat
+membantu penduduk pada aktivitas sehari-hari terkait pekerjaan, hobi, belanja,
+hiburan, olahraga, dan lain sebagainya. Kemudahan ini dapat meminimalisir waktu dan
+memudahkan mobilitas pada penduduk usia produktif maupun lanjut usia.
+
+         Akses terhadap TIK dalam analisis ini dilihat dari akses terhadap komputer dan
+internet. Gambar 2.3 menunjukkan perbedaan terkait akses perempuan terhadap
+komputer untuk kelompok umur 15–24 tahun dan 15–59 tahun. Pada kelompok umur
+
+12 Analisis Gender Provinsi Jambi 2025
+yang relatif muda dan atau usia sekolah (15–24 tahun), akses perempuan ke
+komputer sebesar 27,73 persen, sedangkan akses laki-laki hanya 16,16 persen.
+Sedangkan pada kelompok umur 15-59 tahun, tingkat akses penduduk perempuan
+sebesar 15,49 persen. Dibandingkan dengan laki-laki yang mencapai 11,94 persen,
+akses terhadap komputer tiak terlalu berbeda jauh.
+
+  .go.id Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi (Susenas) Maret, 2025
+i.bps Gambar 2.4 Persentase Penduduk yang Mengakses Internet Menurut Kelompok
+
+      b Umur dan Jenis Kelamin di Provinsi Jambi, 2025
+    m Pemanfaatan internet bukan hanya sebagai media komunikasi tapi telah
+//ja berkembang menjadi sarana untuk belajar, berwiraswasta, mencari kerja, dan berbagai
+s: manfaat lainnya. Pada kelompok umur 15-24 tahun, perempuan yang mengakses internet
+http sebesar 98 persen, sedangkan laki-laki mencapai 96,80 persen. Hal yang berbeda, terjadi
+
+pada kelompok umur 15–59 tahun, dimana akses perempuan pada internet mencapai
+81,92, sedangkan laki-laki berada pada angka 88,48 persen.
+2.3 Akses Perempuan Terhadap Pelatihan Kerja
+
+         Salah satu upaya pemberdayaan perempuan adalah dengan meningkatkan
+peranan dan keterlibatan perempuan di bidang ekonomi, seperti mengadakan
+pelatihan kerja bagi perempuan dan memberikan kredit usaha bagi perempuan.
+Gambar 2.5 menunjukkan persentase penduduk 15 tahun ke atas yang mendapatkan
+pelatihan kerja tahun 2025. Pada gambar tersebut terlihat persentase perempuan
+dan laki-laki yang mendapatkan pelatihan kerja. Keterampilan yang didapatkan pada
+pelatihan kerja ini akan dapat meningkatkan keahlian dan kemampuan perempuan
+untuk memperluas pilihan dan peluang kerja serta dapat berpartisipasi secara setara
+dengan laki-laki di pasar tenaga kerja. Pada akhirnya, dengan semakin terbukanya
+
+                                Akses terhadap Sumber Daya Ekonomi 13
+pilihan dan peluang tersebut akan menaikkan taraf hidup perempuan menjadi lebih
+sejahtera. Persentase perempuan yang pernah mendapatkan pelatihan kerja sebesar
+16,91 persen, sedangkan laki-laki sebesar 17,89 persen.
+
+o.id Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+s.g Gambar 2.5 Persentase Penduduk 15 Tahun ke Atas yang Mendapatkan Pelatihan
+
+       bi.bp Kerja di Provinsi Jambi, 2025
+              https://jam
+
+14 Analisis Gender Provinsi Jambi 2025
+https://jambi.bps.go.id
+
+             Akses terhadap Sumber Daya Ekonomi 15
+              https://jambi.bps.go.id
+
+16 Analisis Gender Provinsi Jambi 2025
+                                      BAB III
+                      AKSES TERHADAP PASAR KERJA
+
+3.1 Partisipasi Angkatan Kerja Menurut Gender
+         Secara keseluruhan, TPAK Provinsi Jambi tahun 2025 sebesar 68,37 persen yang
+
+berarti terdapat sekitar 68 orang di antara 100 penduduk usia kerja yang berpartisipasi
+aktif di pasar kerja. Ditinjau dari jenis kelamin, secara signifikan partisipasi angkatan
+kerja perempuan masih jauh lebih rendah dibandingkan laki-laki, dengan TPAK
+perempuan sebesar 50,63 persen sementara TPAK laki-laki sebesar 85,60 persen.
+
+Total              68,37
+
+.go.id Perempuan50,63
+ bi.bps Laki-laki
+https://jam Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 202585,60
+
+Gambar 3.1 Tingkat Partisipasi Angkatan Kerja Menurut Jenis Kelamin di Provinsi
+              Jambi, 2025
+
+         Gambar 3.1 menunjukkan, tingkat partisipasi angkatan kerja perempuan hampir
+dua pertiga dibandingkan laki-laki. Meskipun capaian taraf pendidikan dapat diaskes
+secara merata, namun partisipasi perempuan dalam pasar kerja masih tertinggal. Perlu
+program atau kebijakan sosial yang dapat mendorong perempuan dalam memasuki pasar
+kerja dan berkontribusi aktif di dalamnya. Partisipasi angkatan kerja perempuan yang
+tergolong rendah ini mengindikasikan bahwa masih banyak perempuan dengan aktivitas
+utama mengurus rumah tangga meskipun memiliki potensi untuk dapat berkontribusi
+dalam pasar kerja. Beberapa hal yang menjadi penyebab rendahnya angka partisipasi
+perempuan dalam pasar kerja antara lain: 1) persepsi terkait peran domestik
+
+       Akses terhadap Pasar Kerja 17
+perempuan; 2) berkaitan dengan persepsi tersebut adalah perangkat pengukuran,
+penentuan, atau pendefinisian pekerjaan perempuan; 3) sifat musiman, paruh waktu,
+dan informal dari kebanyakan pekerjaan perempuan. Data Sakernas Agustus 2025
+memperlihatkan bahwa penggunaan waktu terbanyak pada wanita umur 15 tahun ke
+atas selain bekerja adalah mengurus rumah tangga dengan persentase sebesar (38,18
+persen).
+
+              97,90  98,99  98,32  99,00       98,40  97,06
+
+                                                             91,63
+
+       83,94
+
+                                        60,99  62,47  62,24        69,37
+                            54,77                            56,89
+       54,65  53,62 53,36
+
+34,56                                                               37,54
+
+                 20,59
+
+    .go.id 15 - 19 20 - 24 25 - 29 30 - 34 35 - 39 40 - 44 45 - 49 50 - 54 55 - 59 60 +
+                   ps Laki-laki Perempuan
+
+ bi.b Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+//jam Gambar 3.2 Tingkat Partisipasi Angkatan Kerja Menurut Jenis Kelamin dan Kelompok
+
+              Umur di Provinsi Jambi, 2025
+
+    tps: Jika dilihat pola TPAK menurut kelompok umur, polanya memperlihatkan
+ht rendah di usia muda, tinggi di usai produktif dan mulai menurun kembali pada usia
+
+lansia. TPAK laki-laki tertinggi terjadi pada kelompok umur 40–44 tahun sebesar
+
+99,90 persen. Sedangkan TPAK perempuan tertinggi terjadi pada kelompok umur
+
+45–49 tahun, yang mencapai angka 62,47 persen. Kelompok umur usia produktif 20–
+
+59 tahun menunjukkan capaian TPAK yang tinggi, dimana pada kelompok usia
+
+tersebut berkaitan erat dengan tanggung jawab ekonomi dalam rumah tangga. Pada
+
+kelompok usia muda (15–19 tahun) angka TPAK cukup rendah (laki-laki di angka
+
+34,56 persen dan perempuan 20,59 persen). Pada usia muda aktivitas utama
+
+penduduk terkonsentrasi pada aktivitas sekolah. Pada kelompok umur perempuan,
+
+selain kelompok umur sekolah, angka TPAK relatif lebih rendah pada usia 30–34
+
+tahun dimana pada usia tersebut perempuan terkonsentrasi aktifitasnya pada
+
+kegiatan melahirkan dan mengasuh anak-anak. Angka TPAK perempuan mulai
+
+merangkak naik dan mencapai angka tertinggi pada kelompok umur 45–49 (sebesar
+
+18 Analisis Gender Provinsi Jambi 2025
+62,47 persen). Pada kelompok usia tersebut beban mengasuh anak sudah mulai
+berkurang dan kebutuhan untuk membantu menghidupi keluarga dapat menjadi alasan
+TPAK perempuan masih bertahan stabil hingga kisaran 60–65 persen. Memasuki usia 60
+tahun, perempuan masih berkontribusi dalam pasar kerja, sekalipun persentasenya
+hanya sekitar 37,54 persen.
+
+         Ketenagakerjaan merupakan salah satu tantangan pembangunan gender, di
+mana pemerintah terus berupaya bagaimana meningkatkan partisipasi angkatan kerja
+perempuan. Jumlah penduduk perempuan yang hampir sama dengan jumlah penduduk
+laki-laki seharusnya dapat memberikan kontribusi nyata dengan berpartisipasi aktif dalam
+perekonomian. Penduduk perempuan produktif yang tidak aktif secara ekonomi akan
+menjadi beban tanggungan bagi rumah tangganya, atau dengan kata lain meningkatkan
+angka beban ketergantungan (dependency ratio). Ketersediaan pasar tenaga kerja bagi
+perempuan menjadi faktor penting untuk memfasilitasi perempuan dalam pembangunan
+
+.id gender.
+.go 3.2 Kesenjangan Gender dalam Partisipasi Bekerja
+
+    ps Seiring jumlah penduduk yang semakin besar, kebutuhan akan kesempatan
+i.b kerja juga semakin bertambah. Tingkat kesempatan kerja mengukur sejauh mana
+b penduduk yang termasuk angkatan kerja memperoleh kesempatan untuk bekerja.
+//jam Gambar 3.3 menunjukkan kesempatan kerja baik bagi penduduk laki-laki maupun
+s: perempuan tidak jauh berbeda. Pada tahun 2025, kesempatan kerja antara laki-laki dan
+tp perempuan tidak berbeda jauh. Ini artinya, ketika perempuan telah memasuki pasar
+ht tenaga kerja, kesempatannya untuk memperoleh pekerjaan relatif sama dengan laki-laki.
+
+Namun kita juga harus melihat jenis dan bidang pekerjaanya, karena keberhasilan
+perempuan dalam pasar tenaga kerja tidak selalu mencerminkan kapasitas diri
+perempuan terkait pendidikan dan keterampilannya. Hal ini akan diulas pada bab lain
+dari publikasi ini.
+
+                                                       Akses terhadap Pasar Kerja 19
+    Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 3.3 Tingkat Kesempatan Kerja Menurut Jenis Kelamin di Provinsi Jambi, 2025
+
+    o.id Selain TKK, indikator Employment to Population Ratio (EPR) mengukur rasio
+s.g kesempatan kerja terhadap penduduk usia kerja. Gambar 3.4 menunjukkan ketimpangan
+i.bp EPR yang masih cukup nyata antara laki-laki dan perempuan, dimana penduduk laki-laki
+b yang bekerja jauh lebih tinggi (82,14 persen) dibandingkan penduduk perempuan (48,28
+m persen). Ketimpangan nilai EPR antara laki-laki dan perempuan secara implisit
+//ja mengungkap adanya hal-hal non ekonomi yang berkaitan dengan sulitnya perempuan
+s: masuk ke dalam pasar tenaga kerja atau sebagai kelompok penduduk angkatan kerja.
+http Pada Gambar 3.3, TKK perempuan tidak jauh berbeda dengan TKK laki-laki. Namun,
+
+Gambar 3.4 menunjukkan EPR perempuan jauh lebih rendah dibandingkan EPR laki-laki.
+Gambaran ini mencerminkan bahwa perempuan usia kerja yang sebenarnya berpotensi
+secara ekonomi, namun belum menjadi bagian dari angkatan kerja. Mereka tidak masuk
+menjadi angkatan kerja bisa disebabkan karena masih mengenyam bangku sekolah,
+mengurus rumah tangga, maupun melakukan aktivitas lain.
+
+20 Analisis Gender Provinsi Jambi 2025
+    Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 3.4 Rasio Penduduk 15 Tahun ke Atas yang Bekerja Terhadap Jumlah
+
+      .id Penduduk 15 Tahun ke Atas (EPR/Employment to Population Ratio)
+
+              Menurut Jenis Kelamin di Provinsi Jambi, 2025
+
+    .go Stereotip budaya yang tumbuh dan berkembang di masyarakat mengenai peran
+ps laki- laki sebagai pencari nafkah utama tampaknya masih menjadi faktor dominan yang
+i.b membatasi perempuan untuk bekerja. Kemajuan pendidikan perempuan seharusnya
+mb dapat membantu peningkatan partisipasi perempuan dalam pasar tenaga kerja.
+//ja Perempuan diharapkan mampu berperan di semua sektor namun tetap tidak melupakan
+s: perannya dalam rumah tangga. Seorang pekerja perempuan atau wanita karir memiliki
+http dua peran utama yang harus berjalan seimbang, yaitu bekerja dan mengurus rumah
+
+tangga. Tantangan ini seharusnya dapat dijawab tidak hanya oleh perempuan masa kini,
+tetapi juga oleh kaum laki-laki. Sehingga persepsi yang merendahkan posisi perempuan
+dapat terus tergerus.
+
+         Jika dilihat menurut kabupaten/kota, Kabupaten Tanjung Jabung Barat
+merupakan kabupaten dengan nilai ketimpangan EPR laki-laki dan perempuan tertinggi
+(84,17 persen berbanding 36,82 persen) dibandingkan kabupaten/kota lainnya,
+sementara Kabupaten Kerinci menjadi wilayah kabupaten dengan ketimpangan EPR
+terendah (81,94 persen berbanding 63,98 persen). EPR laki-laki kabupaten/kota berada
+pada kisaran antara 74,62 sampai 86,41 persen, sedangkan EPR perempuan berada pada
+kisaran 36,82 sampai 63,98 persen. Hal ini menunjukkan akses pasar tenaga kerja
+terutama untuk penduduk perempuan belum tersebar secara merata di seluruh daerah
+di Provinsi Jambi.
+
+                                                       Akses terhadap Pasar Kerja 21
+Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 3.5 Rasio Penduduk 15 Tahun ke Atas yang Bekerja Terhadap Jumlah
+
+      .id Penduduk 15 Tahun ke Atas (EPR) Menurut Kabupaten/Kota dan Jenis
+
+              Kelamin di Provinsi Jambi, 2025
+
+s.go 3.3 Perbedaan Dominasi dalam Struktur Ketenagakerjaan
+    i.bp Pertumbuhan ekonomi biasanya dikaitkan dengan perubahan struktural dalam
+
+mb pasar tenaga kerja, di mana terjadi pergeseran tenaga kerja dari sektor primer
+//ja (pertanian) ke sektor sekunder (industri) dan sektor tersier (sektor jasa). Sektor industri
+s: yang semakin berkembang menunjukkan terjadinya peningkatan pangsa kerja industri
+http yang berarti peningkatan lapangan kerja formal, upah yang lebih tinggi, kesempatan
+
+untuk pekerjaan layak yang lebih tinggi, dan produktivitas yang semakin meningkat.
+Dalam pasar tenaga kerja, sebagian besar penduduk d i Provinsi Jambi bekerja di sektor
+pertanian. Meskipun sudah mengarah ke perubahan struktural menuju sektor sekunder,
+sektor pertanian masih berkontribusi tertinggi dalam penyerapan tenaga kerja dengan
+penyerapan mencapai 48,31 persen untuk penduduk laki-laki dan 34,68 persen untuk
+penduduk perempuan.
+
+22 Analisis Gender Provinsi Jambi 2025
+.go.id Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+i.bps Gambar 3.6 Persentase Penduduk 15 Tahun ke Atas yang Bekerja Menurut Lapangan
+
+       b Pekerjaan Utama dan Jenis Kelamin di Provinsi Jambi, 2025
+    //jam Perempuan umumnya memiliki peluang yang terbatas untuk mendapatkan
+: penghasilan tinggi. Bagi perempuan yang memasuki angkatan kerja, sebagian besar
+tps bekerja di sektor pertanian dan perdagangan. Pada kedua sektor tersebut, perempuan
+ht rentan dengan status pekerja keluarga atau pekerja tidak dibayar. Hal ini menunjukkan
+
+posisi perempuan yang cukup lemah dalam pasar tenaga kerja, di mana terdapat
+ketidaksetaraan pembagian tugas dalam rumah tangga dan kesulitan beralih dari
+pekerjaan di dalam rumah ke pekerjaan di luar rumah.
+
+         Pekerjaan yang diperuntukkan bagi laki-laki umumnya dihubungkan dengan
+faktor biologis, psikologis, dan sosial laki-laki, seperti identik dengan pekerjaan yang
+mengandalkan fisik; misalnya konstruksi (6,61 persen). Sementara pekerjaan yang
+diperuntukkan bagi perempuan identik dengan fisik lemah dan tanpa keahlian. Kaum
+perempuan pada umumnya lebih terampil dalam hal pelayanan atau berkomunikasi
+dengan orang lain, sebagai contoh menjadi pedagang, pramuniaga, pramusaji, tenaga
+pendidik, tenaga kesehatan (perawat), dan profesi jasa lainnya. Oleh sebab itu tidak
+mengherankan jika pekerja perempuan lebih banyak bekerja di sektor perdagangan
+
+                                                       Akses terhadap Pasar Kerja 23
+(21,87 persen), penyediaan makanan dan minuman (10,28 persen), dan sektor jasa
+pendidikan (11,03 persen) dibandingkan pekerja laki-laki.
+
+         Gambaran tersebut merupakan salah satu cerminan ketimpangan gender dalam
+mengakses pasar tenaga kerja. Sebagian besar perempuan bekerja di sektor pertanian
+sebagai pekerja tanpa upah atau pekerja tidak dibayar, padahal kontribusi tenaga kerja
+sektor pertanian adalah yang terbesar di antara sektor-sektor lainnya. Sektor pertanian
+menyediakan peluang kerja paling tinggi bagi perempuan, namun dengan rata-rata upah
+terendah dibandingkan sektor lainnya.
+3.4 Penyerapan di Pasar Tenaga Kerja Bagi Pekerja Berpendidikan Rendah
+
+         Tingkat pendidikan berhubungan erat dengan peluang keberhasilan seseorang
+saat memasuki pasar tenaga kerja. Semakin tinggi jenjang pendidikan yang ditamatkan,
+maka peluang untuk memperoleh pekerjaan dan jabatan yang lebih tinggi dalam pasar
+tenaga kerja semakin besar. Gambar 3.7 menunjukkan 5 dari 8 tingkat pendidikan yang
+
+.id ditamatkan, persentase pekerja laki-laki lebih tinggi dibandingkan pekerja perempuan.
+.go Perbedaan cukup jelas terlihat pada tingkat pendidikan SMP dan SMA sederajat. Anak
+ps laki-laki dianggap memiliki nilai ekonomis lebih tinggi dibandingkan anak perempuan,
+i.b sehingga anak laki-laki lebih diutamakan untuk memperoleh pendidikan lebih dulu, baru
+b kemudian dituntut untuk bekerja.
+
+    //jam Angkatan kerja yang tidak/belum pernah sekolah, sebagian besar berhasil
+s: mendapatkan pekerjaan, baik laki-laki maupun perempuan. Sementara untuk tingkat
+http pendidikan yang lebih tinggi terlihat perbedaan, tidak semua angkatan kerja berhasil
+
+mendapatkan pekerjaan. Kondisi ini berbeda antara laki-laki dan perempuan. Pada
+jenjang pendidikan Diploma I/II/III; misalnya, angkatan kerja laki-laki (92,06 persen)
+berhasil terserap dalam pasar tenaga kerja, sedangkan perempuan mencapai angka
+95,62 persen.
+
+         Ditinjau dari sisi gender, persentase pekerja perempuan yang lebih rendah
+dibanding pekerja laki-laki menjadi cermin ketimpangan gender dari sisi pendidikan
+tenaga kerja, dimana tenaga kerja terdidik perempuan yang diserap pasar tenaga kerja
+masih lebih rendah dibandingkan tenaga kerja terdidik laki-laki. Hal yang berbeda terjadi
+pada jenjang pendidikan SD, dimana angkatan kerja perempuan mendekati sama
+terserap dalam pasar tenaga kerja dengan laki-laki. (98,36 persen).
+
+24 Analisis Gender Provinsi Jambi 2025
+Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 3.7 Persentase Penduduk Berumur 15 Tahun ke Atas yang Bekerja Terhadap
+
+       .id Angkatan Kerja Menurut Pendidikan Tertinggi yang Ditamatkan dan Jenis
+       o Kelamin di Provinsi Jambi, 2025
+    s.g Pendidikan yang rendah turut berkontribusi pada diskriminasi dalam pekerjaan.
+i.bp Rendahnya pendidikan dan keterampilan menjadikan perempuan mengalami kesulitan
+b mencari pekerjaan untuk menghidupi diri dan keluarganya. Perempuan dengan
+//jam pendidikan, keterampilan dan keahlian kurang memadai umumnya lebih memilih bekerja
+: di sektor informal atau sebagai Tenaga Kerja Wanita (TKW). Permintaan tenaga kerja
+tps berkualitas dengan latar belakang pendidikan tinggi semakin bertambah, namun tidak
+ht sebanding dengan tenaga kerja yang tersedia. Sebaliknya, terdapat suplai tenaga kerja
+
+lulusan SMA sederajat ke bawah yang cenderung berlebihan dan tidak seimbang dengan
+permintaan tenaga kerja lulusan SMA ke bawah. Hal ini menyebabkan masih banyak
+lowongan pekerjaan diisi oleh pekerja yang tidak memenuhi syarat atau standar yang
+ditetapkan sebelumnya. Kesempatan yang adil bagi laki-laki dan perempuan untuk
+memiliki pekerjaan, jaminan perlindungan sosial, dan upah yang layak merupakan salah
+satu ciri pembangunan dari sektor ketenagakerjaan.
+
+                                                       Akses terhadap Pasar Kerja 25
+3.5 Tingkat Pengangguran Perempuan
+         Ditinjau dari jenis kelamin, Tingkat Pengangguran Terbuka (TPT) perempuan
+
+lebih tinggi dibandingkan TPT laki-laki. Perempuan tidak bekerja dapat disebabkan faktor
+sosial dan budaya, seperti mengurus rumah tangga, sulit masuk ke sektor formal,
+diskriminasi pekerjaan bagi perempuan, dan budaya yang tumbuh di masyarakat tentang
+peran dan kedudukan perempuan. Faktor-faktor yang menyebabkan diskriminasi dalam
+pekerjaan antara lain: marginalisasi dalam pekerjaan, kedudukan perempuan yang
+subordinat dalam sosial budaya, stereotip terhadap perempuan, dan tingkat pendidikan
+perempuan yang rendah.
+
+                         bi.bps.go.id
+s://jam Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+http Gambar 3.8 Tingkat Pengangguran Terbuka (TPT) Menurut Jenis Kelamin di Provinsi
+
+                Jambi, 2025
+         Secara umum, TPT Provinsi Jambi pada tahun 2025 sebesar 4,26 persen, dimana
+TPT perempuan (4,63 persen) lebih tinggi dibandingkan TPT laki-laki (4,04 persen). Pada
+tingkat kabupaten/kota, TPT perempuan di sebagian kabupaten/kota lebih rendah
+dibandingkan TPT laki-laki. Gambar 3.9 memperlihatkan adanya ketimpangan yang cukup
+signifikan antara TPT laki-laki dan perempuan di beberapa kabupaten/kota di Provinsi
+Jambi seperti Kabupaten Bungo, Tebo, Batanghari, Sarolangun, Merangin dan Kerinci.
+
+26 Analisis Gender Provinsi Jambi 2025
+Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 3.9 Tingkat Pengangguran Terbuka (TPT) Menurut Kabupaten/Kota dan Jenis
+
+      .id Kelamin di Provinsi Jambi, 2025
+.go 3.6 Prevalensi Pekerja Tidak Penuh Perempuan
+
+    i.bps Aturan mengenai jam kerja pekerja merupakan salah satu fokus utama yang
+b menjadi perhatian dalam penyusunan Undang-Undang Ketenagakerjaan. Jam kerja yang
+m berlebihan akan menimbulkan dampak buruk bagi kesehatan pekerja dan keluarganya.
+//ja Oleh sebab itu, regulasi terkait jam kerja dan libur pegawai diatur sedemikian rupa untuk
+s: menjamin produktivitas pekerja tetap tinggi dan kesehatan fisik dan mental pekerja tetap
+http terjaga.
+
+         Penduduk yang bekerja di bawah jam kerja normal (kurang dari 35 jam
+seminggu) atau dikenal dengan Pekerja Tidak Penuh, terdiri dari pekerja paruh waktu
+dan setengah penganggur. Menurut jenis kelamin, pekerja tidak penuh perempuan lebih
+tinggi dibandingkan dengan laki-laki. Persentase pekerja tidak penuh perempuan
+sebesar 44,06 artinya dari seluruh perempuan 15 tahun ke atas yang bekerja, 44 orang
+diantaranya merupakan pekerja tidak penuh. Sementara untuk pekerja laki-laki,
+angkanya berkisar 31,88 persennya adalah pekerja dengan jam kerja di bawah jam kerja
+normal (kurang dari 35 jam seminggu).
+
+         Perempuan yang masuk dalam angkatan kerja sebagian besar menganggur atau
+setengah menganggur, dan banyak dari mereka merupakan pekerja di sektor informal dan
+paruh waktu, pekerja tidak dibayar, atau sedang mencari pekerjaan. Bagi perempuan
+yang bekerja, mereka cenderung memiliki jam kerja tertentu. Hal ini dapat dipahami
+
+                                                       Akses terhadap Pasar Kerja 27
+mengingat seorang perempuan memiliki peran ganda dalam rumah tangga. Bagi
+perempuan yang memiliki jam kerja tertentu di luar rumah, maka ada dua pilihan yang
+dapat diambil. Pertama, tetap melaksanakan tanggung jawab dalam rumah tangga dan
+mengurangi jam kerja di luar rumah. Kedua, tetap mempertahankan jam kerja di luar
+rumah, sementara pekerjaan atau fungsi perempuan dalam rumah tangga seperti
+mengurus rumah dan anak disubstitusikan ke orang lain.
+
+  bi.bps.go.id Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+m Gambar 3.10 Persentase Pekerja Tidak Penuh Menurut Jenis Kelamin di Provinsi
+
+       //ja Jambi, 2025
+    s: Jika dilihat gambaran pekerja tidak penuh menurut kabupaten/kota di Provinsi
+http Jambi, tampak bahwa fenomena di tingkat provinsi terjadi di seluruh kabupaten/kota.
+
+Kabupaten Kerinci merupakan wilayah dengan persentase pekerja tidak penuh
+perempuan tertinggi, mencapai 58,72 persen. Sementara itu, Kota Sungai Penuh
+merupakan wilayah dengan ketimpangan pekerja tidak penuh laki-laki dan perempuan
+yang tertinggi.
+
+         Sekalipun ketimpangannya tinggi, Kota Jambi juga menjadi wilayah dengan
+persentase pekerja tidak penuh terendah dibandingkan kabupaten/kota lain di Provinsi
+Jambi (20,94 persen). Sebagai ibukota Provinsi, Kota Jambi merupakan wilayah pusat
+kegiatan ekonomi, oleh sebab itu tidak mengherankan jika pekerja tidak penuh di wilayah
+ini, baik laki-laki (16,68 persen) maupun perempuan (27,52 persen), persentasenya paling
+rendah dibandingkan kabupaten/kota lain di Provinsi Jambi.
+
+28 Analisis Gender Provinsi Jambi 2025
+Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 3.11 Persentase Pekerja Tidak Penuh Menurut Kabupaten/Kota dan Jenis
+
+       .id Kelamin di Provinsi Jambi, 2025
+    .go Keputusan pekerja untuk bekerja tidak penuh tidak selalu datang dari pihak
+ps pemberi kerja/bidang usahanya melainkan dari pekerja itu sendiri. Ada yang memang
+i.b pilihan sendiri dan bahkan mereka tidak berusaha untuk mencari pekerjaan atau tidak
+b bersedia menerima pekerjaan lain, istilahnya setengah penganggur sukarela. Pekerja
+//jam jenis ini juga disebut sebagai pekerja paruh waktu.
+    s: Pada tahun 2025, tingkat pekerja paruh waktu perempuan sebesar 35,85 yang
+http berarti dari seluruh pekerja perempuan, sekitar 35 persen merupakan pekerja paruh
+
+waktu. Sementara itu untuk pekerja paruh waktu laki-laki persentasenya lebih rendah
+sebesar 22,01 persen, seperti pada Gambar 3.12. Fenomena ini lagi-lagi menjadi indikasi
+bahwa ada hal-hal yang membatasi perempuan dalam dunia kerja. Namun demikian,
+bidang pekerjaan yang menyerap tenaga kerja perempuan dengan sistem kerja paruh
+waktu justru dapat menjadi salah satu solusi bagi perempuan untuk menggabungkan
+peran pekerjaan dan rumah tangga.
+
+         Dampak positif yang diperoleh dari bekerja paruh waktu yaitu keseimbangan
+hidup antara bekerja dan keluarga. Bagi seorang perempuan, ada kepuasan saat dapat
+bekerja untuk menambah penghasilan rumah tangga, sekaligus memiliki waktu untuk
+merawat anak dan mengurus pekerjaan rumah tangga. Namun demikian, beberapa
+konsekuensi harus diterima pekerja paruh waktu, seperti kurang dihargai, upah yang
+
+                                                       Akses terhadap Pasar Kerja 29
+lebih rendah, kesempatan memperoleh pelatihan dan pengembangan yang lebih
+terbatas, dan jika menerima pensiun, maka pensiun yang diterima jauh lebih sedikit.
+
+        Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 3.12 Tingkat Pekerja Paruh Waktu Menurut Jenis Kelamin di Provinsi Jambi,
+
+.id 2025
+    .go Jika dilihat menurut kabupaten/kota, tingkat pekerja paruh waktu menunjukkan
+
+ps gambaran yang sama untuk masing-masing wilayahnya. Tiga kabupaten/kota dengan
+i.b tingkat pekerja paruh waktu perempuan tertinggi adalah Kabupaten Merangin,
+mb Kabupaten Kerinci, Kabupaten Bungo dan Kabupaten Tebo. Sebaliknya, Kota Jambi,
+//ja Kabupaten Tanjung Jabung Barat dan Kabupaten Muaro Jambi adalah yang terendah.
+s: Namun demikian, ketimpangan gender tertinggi terjadi di Kota Sungai Penuh;
+http persentase pekerja paruh waktu perempuan dua kali lipat dibandingkan laki-laki.
+
+         Selain pekerja paruh waktu yang “sukarela” menganggur ada kelompok pekerja
+tidak penuh yang “terpaksa” mengganggur. Mereka ini adalah penduduk berumur 15
+tahun ke atas yang bekerja di bawah 35 jam, dan masih mencari pekerjaan atau masih
+bersedia menerima pekerjaan (setengah pengangguran terpaksa). Selanjutnya, setengah
+penganggur terpaksa disebut sebagai setengah penganggur. Mereka yang tergolong
+setengah penganggur pada umumnya belum puas dengan pekerjaan yang sedang
+dijalani dan masih mencari pekerjaan lain atau bersedia menerima pekerjaan lain. Hal
+ini disebabkan pekerja paruh waktu maupun setengah penganggur memiliki pilihan
+pekerjaan yang terbatas. Tidak semua jenis pekerjaan dapat dimasuki dan hanya
+lapangan pekerjaan dengan karakteristik tertentu yang membutuhkan pekerja tidak
+penuh.
+
+30 Analisis Gender Provinsi Jambi 2025
+.id Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+o Gambar 3.13 Tingkat Pekerja Paruh Waktu Menurut Kabupaten/Kota dan Jenis
+
+       .g Kelamin di Provinsi Jambi, 2025
+    bi.bps Dari seluruh pekerja perempuan tahun 2025, sebanyak 8,21 persen merupakan
+
+setengah penganggur. Sementara dari seluruh pekerja laki-laki, 8,52 persennya adalah
+
+//jam setengah penganggur. Terjadinya ketimpangan gender pada indikator ini, dipengaruhi
+: karakteristik dan latar belakang individu, kondisi rumah tangga, dan preferensi jam
+https kerja.
+
+   Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 3.14 Persentase Setengah Penganggur Menurut Jenis Kelamin di Provinsi
+Jambi, 2025
+
+                                                       Akses terhadap Pasar Kerja 31
+         Perbedaan persentase setengah penganggur laki-laki dan setengah penganggur
+perempuan terjadi di beberapa wilayah kabupaten/kota. Sebagian besar wilayah
+memiliki persentase setengah penganggur perempuan yang lebih tinggi dibanding laki-
+laki. Kabupaten Tanjung Jabung Barat adalah wilayah dengan persentase perempuan
+setengah penganggur tertinggi, mencapai 25,31 persen sedangkan persentase laki-laki
+setengah penganggur mencapai 17,69 persen. Sementara itu, gap yang cukup nyata
+terjadi di Kabupaten Tanjung Jabung Timur dimana persentase laki-laki setengah
+penganggur hamper tiga kali lipat dibanding perempuan.
+
+         Salah satu hambatan perempuan bekerja secara optimal yaitu tidak
+tercukupinya informasi tentang produktivitas perempuan dalam pasar tenaga kerja.
+Perempuan menghabiskan lebih banyak waktu untuk kegiatan domestik atau karena
+pasar kerja yang tidak berkembang. Di negara-negara berkembang, tanggung jawab atau
+
+.id peran perempuan dalam rumah tangga membutuhkan jam kerja yang cukup panjang
+o sehingga membatasi kesanggupan perempuan untuk membagi waktunya, dengan misal
+s.g berpartisipasi penuh dalam pasar tenaga kerja atau bahkan hanya untuk melanjutkan
+https://jambi.bp pendidikan ke jenjang yang lebih tinggi.
+
+Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 3.15 Persentase Setengah Penganggur Menurut Kabupaten/Kota dan Jenis
+                  Kelamin di Provinsi Jambi, 2025
+
+32 Analisis Gender Provinsi Jambi 2025
+3.7 Perempuan dan Jam Kerja
+         Persentase penduduk Provinsi Jambi dengan jumlah jam kerja kurang dari 15 jam
+
+seminggu pada tahun 2025 adalah sebesar 12,05 persen. Dari seluruh penduduk
+perempuan yang bekerja, 17,04 persennya adalah pekerja dengan jumlah jam kerja kurang
+dari 15 jam seminggu. Sementara itu, dari seluruh penduduk laki-laki yang bekerja,
+sebesar 9 , 1 9 persennya merupakan pekerja dengan jumlah jam kerja kurang dari 15
+jam seminggu. Dari gambaran ini terlihat bahwa pekerja perempuan dengan jumlah jam
+kerja kurang dari 15 jam seminggu persentasenya hampir dua kali lipat dibandingkan
+pekerja laki-laki. Kondisi ini menggambarkan bahwa perempuan memiliki kecenderungan
+bekerja dengan jam kerja yang lebih sedikit dibandingkan laki-laki.
+
+                     bi.bps.go.id
+   https://jam Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 3.16 Persentase Penduduk dengan Jumlah Jam Kerja Seluruhnya <15 Jam
+                 Selama Seminggu Menurut Jenis Kelamin di Provinsi Jambi, 2025
+
+         Kehadiran atau jam kerja perempuan cenderung lebih rendah dibandingkan laki-
+laki. Hal ini seiring dengan kodrat reproduksi perempuan yang memerlukan waktu untuk
+cuti melahirkan, cuti haid, dan sebagainya. Oleh sebab itu, banyak perusahaan yang
+memilih untuk tidak menggunakan tenaga kerja perempuan atau menggunakan tenaga
+kerja perempuan untuk pekerjaan tertentu. Stereotip yang menyatakan bahwa
+perempuan lebih bersifat irasional dan emosional menjadikan perempuan sering
+dianggap tidak pantas diangkat sebagai pemimpin dan memiliki posisi kurang penting.
+
+                                                       Akses terhadap Pasar Kerja 33
+3.8 Strategi Meningkatkan Akses Perempuan Terhadap Pasar Tenaga Kerja
+
+         Segregasi pekerjaan menurut gender menarik untuk ditelusuri karena dapat
+menjelaskan sejauh mana perempuan dan laki-laki memperoleh keuntungan dari
+berbagai kesempatan kerja yang tersedia. Segregasi ini masih terlihat jelas di pasar
+tenaga kerja, dimana perempuan memperoleh pekerjaan dengan upah yang lebih rendah
+dan prospek pengembangan karir yang lebih terbatas. Pergeseran pekerjaan perempuan
+dari sektor pertanian ke industri merupakan langkah awal kesetaraan perempuan
+terhadap akses pekerjaan. Di sektor industri, umumnya laki-laki terlibat pekerjaan mulai
+dari sektor hulu hingga ke hilir, sementara perempuan biasanya hanya terlibat di industri
+hilir atau ﬁnishing. Pemberdayaan perempuan melalui jenis pelatihan dan
+pengembangan yang tepat dapat meningkatkan partisipasi pekerja perempuan untuk
+terserap dalam kesempatan kerja yang sama dengan laki-laki.
+
+         Perempuan biasanya terlibat dalam pekerjaan dengan produktivitas rendah.
+
+.id Norma yang berlaku di masyarakat terkadang membatasi pekerjaan yang tepat bagi
+.go perempuan. Pemisahan jenis kelamin dalam pendidikan dan pelatihan mungkin timbul
+s dari norma sosial, tentang bidang studi mana yang cocok bagi perempuan, sehingga
+i.bp perempuan mungkin tidak memperoleh pelatihan yang sesuai dengan kualifikasi untuk
+b pekerjaan tertentu. Larangan bekerja di malam hari juga membatasi kesempatan kerja
+//jam perempuan. Di samping itu, perempuan identik dengan pekerjaan di lingkungan pabrik
+: dan pekerjaan domestik. Alasan utama partisipasi kerja perempuan cenderung rendah
+ps dan berada pada kisaran nilai yang sama yaitu karena tanggung jawab dalam rumah
+htt tangga yang tidak terbagi secara merata.
+
+         Akses perempuan terhadap pasar kerja mencerminkan kesempatan/peluang
+perempuan untuk terlibat dalam dunia kerja. Perempuan yang memperoleh pelatihan
+kejuruan akan lebih mudah diterima dalam pasar tenaga kerja karena menyesuaikan
+kebutuhan sektor jasa yang sedang dibutuhkan pasar tenaga kerja. Seiring kemajuan
+teknologi dan informasi, sektor jasa telah menjelma menjadi sektor yang berperan
+penting dalam perekonomian nasional. Peningkatan sektor jasa berarti peningkatan
+kebutuhan tenaga kerja berkompeten untuk mengisi pekerjaan yang berhubungan
+dengan pelayanan, dan itu dapat dilakukan oleh perempuan maupun laki-laki.
+
+         Kemajuan pendidikan perempuan yang diimbangi dengan perluasan kesempatan
+kerja bagi perempuan diharapkan dapat membuka gerbang perubahan dalam kesetaraan
+gender di bidang ketenagakerjaan. Upaya yang dapat ditempuh antara lain dengan
+
+34 Analisis Gender Provinsi Jambi 2025
+menciptakan peluang kerja yang sama antara laki-laki dan perempuan, kesesuaian
+pelatihan dan keterampilan yang diberikan kepada perempuan dengan kebutuhan pasar
+tenaga kerja, dan mengatasi segmentasi pasar tenaga kerja yang menyebabkan karir
+perempuan terbatas dan upah yang diberikan lebih rendah dibandingkan laki-laki.
+
+         Perempuan lebih melekat dengan kemiskinan. Salah satu strategi yang dapat
+ditempuh untuk mengatasi kemiskinan yaitu dengan meningkatkan akses bagi
+perempuan, terutama pada rumah tangga miskin untuk memperoleh pekerjaan dengan
+mendapat upah. Melalui peningkatan akses pekerjaan, dampak positif yang ditimbulkan
+antara lain peningkatan kemampuan SDM, penundaan usia perkawinan dan melahirkan.
+Penelitian lebih lanjut terkait hambatan apa saja dalam pengembangan karir perempuan
+perlu dilakukan. Perbaikan kondisi perempuan dalam pasar kerja melalui penyaluran
+potensi produktif perempuan menjadi langkah konkret untuk meningkatkan
+pertumbuhan dan daya saing perekonomian Jambi di masa yang akan datang. Pemerintah
+
+.id perlu terus berupaya meningkatkan produktivitas perempuan dalam pasar tenaga kerja
+o melalui peningkatan kinerja perempuan. Aturan tentang cuti bersalin, pengasuhan anak,
+s.g pengaturan jam kerja, dan kebijakan lain perlu diperhatikan guna meningkatkan
+i.bp kualifikasi dan akses perempuan terhadap pekerjaan di luar sektor pertanian. Kemajuan
+b ini diharapkan dapat mendorong produktivitas dan kinerja pekerja perempuan, dan pada
+https://jam akhirnya kesetaraan gender di Jambi dapat tercapai.
+
+                                                       Akses terhadap Pasar Kerja 35
+              https://jambi.bps.go.id
+
+36 Analisis Gender Provinsi Jambi 2025
+https://jambi.bps.go.id
+
+                                  Akses terhadap Pasar Kerja 37
+                                     BAB IV
+                     KONDISI PASAR TENAGA KERJA
+
+         Permasalahan dalam hal pemberdayaan perempuan di Jambi terjadi dalam
+banyak aspek masyarakat seperti sosial budaya, pendidikan, kesehatan, ekonomi,
+pekerjaan dan juga politik. Permasalahan ini tidak hanya berbentuk masih adanya
+diskriminasi terhadap perempuan tetapi juga berpengaruh pada rendahnya kualitas
+hidup perempuan Indonesia dalam kerangka penjaminan kesetaraan gender. Meski
+demikian, upaya menuju kesetaraan gender sudah mengalami kemajuan yang mulai
+berpengaruh pada nilai budaya dan stereotip terhadap perempuan.
+
+4.1 Proporsi Perempuan Bekerja dengan Status Berusaha Sendiri, Berusaha Dibantu
+
+.id Buruh Tidak Tetap/Tidak Dibayar, dan Pekerja Keluarga
+    o Perempuan Jambi banyak yang tidak boleh bekerja dan hanya berperan dalam
+
+s.g mengurus rumah tangga dan atau menjadi pekerja keluarga. Hal ini yang
+i.bp mengakibatkan adanya batasan peran perempuan dalam perekonomian. Batasan
+b inilah yang kemudian menyebabkan kecenderungan perempuan sebagai pekerja
+m dengan status berusaha sendiri, berusaha dibantu buruh tidak tetap/tidak dibayar, dan
+//ja pekerja keluarga.
+
+    ps: Gambar 4.1 menunjukkan bahwa sebanyak 56,45 persen pekerja perempuan
+htt di Provinsi Jambi sebagai pekerja dengan status berusaha sendiri, berusaha dibantu
+
+buruh tidak tetap/tidak dibayar, dan pekerja keluarga pada tahun 2025. Sementara
+pekerja laki-laki tercatat sebesar 41,19 persen yang berusaha sendiri, berusaha dibantu
+buruh tidak tetap/tidak dibayar, dan pekerja keluarga. Hal tersebut mengindikasikan
+bahwa dari 100 orang perempuan yang bekerja, ada sebanyak 56 orang yang bekerja
+dengan upah yang tidak memadai, produktivitas rendah dan kondisi kerja yang buruk
+dibandingkan laki-laki.
+
+         Besarnya pekerja perempuan ini diperkirakan karena alasan kewajiban dan
+tanggung jawab terhadap keluarganya. Hal ini juga mengindikasikan bahwa peran dan
+partisipasi perempuan dalam dunia kerja masih rendah. Disamping itu, para
+perempuan yang telah bekerja pun mengalami tantangan diskriminasi dalam dunia
+kerja. Akibatnya, sebagian besar perempuan lebih mendominasi pekerjaan sekunder,
+
+38 Analisis Gender Provinsi Jambi 2025
+yaitu pekerjaan yang tidak menjanjikan jaminan akan kestabilan bekerja, kompensasi
+rendah, dan tanpa prospek untuk berkembang di masa depan.
+
+.id Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus 2025
+o Gambar 4.1 Persentase Penduduk Berumur 15 Tahun ke Atas yang Bekerja Sebagai
+
+      .g Pekerja dengan Status Berusaha Sendiri, Berusaha Dibantu Buruh Tidak
+      s Tetap/Tidak Dibayar, dan Pekerja Keluarga Menurut Jenis Kelamin di
+      bi.bp Provinsi Jambi, 2025
+    m Tabel 4.1 menunjukkan komposisi pekerja dengan status berusaha sendiri,
+//ja berusaha dibantu buruh tidak tetap/tidak dibayar, dan pekerja keluarga berdasarkan
+s: jenis kelamin. Data menunjukkan sifat dan komposisi pekerjaan rentan sangatlah
+http berbeda untuk laki-laki dan perempuan. Laki-laki cenderung dianggap sebagai pekerja
+
+rentan karena status berusaha sendiri (21,01 persen), sementara perempuan
+cenderung menjadi pekerja rentan karena mereka merupakan pekerja keluarga/tanpa
+dibayar (24,33 persen). Namun, karena lebih sulit untuk transisi dari pekerja keluarga
+ke dunia kerja yang berada di luar unit keluarga, program-program yang mendukung
+perempuan untuk membangun keterampilan mereka dan mengakses pekerjaan
+formal sangat diperlukan (ILO, 2013).
+
+         Rekonsiliasi antara Bekerja dan Tanggung Jawab Keluarga 39
+Tabel 4.1 Persentase Penduduk Berumur 15 Tahun ke Atas yang Bekerja Sebagai
+            Pekerja dengan Status Berusaha Sendiri, Berusaha Dibantu Buruh Tidak
+            Tetap/Tidak Dibayar, dan Pekerja Keluarga Menurut Komposisi dan Jenis
+            Kelamin di Provinsi Jambi, 2025
+
+                       Jenis Kelamin                                                     Persentase
+
+                       (1)                                                               (2)
+
+LAKI-LAKI
+
+Berusaha sendiri                                                                         21,01
+
+Berusaha dibantu buruh tidak tetap/tidak dibayar                                         14,53
+
+Pekerja keluarga                                                                         5,65
+
+JUMLAH                                                                                   41,19
+
+PEREMPUAN
+
+Berusaha sendiri                                                                         20,20
+
+Berusaha dibantu buruh tidak tetap/tidak dibayar                                         11,93
+
+Pekerja keluarga                                                                         24,33
+
+JUMLAH                                                                                   56,45
+
+LAKI-LAKI + PEREMPUAN
+
+        Berusaha sendiri                                                                 20,71
+                                                                                         13,59
+   .id Berusaha dibantu buruh tidak tetap/tidak dibayar                                  12,44
+                                                                                         46,74
+        Pekerja keluarga
+
+   .go JUMLAH
+s Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus 2025
+bi.bp Hal menarik lainnya adalah pekerja bebas. Persentase pekerja bebas laki-laki
+m di sektor pertanian sekitar 2 kali lipat dibanding perempuan (8,68 persen berbanding
+//ja 3,53 persen). Demikian juga untuk pekerja bebas di sektor non pertanian (4,62 pada
+s: laki-laki dan 2,15 pada perempuan). Pada Gambar 4.2 terlihat pekerja bebas pertanian
+http persentasenya lebih tinggi dibandingkan non pertanian; baik pada laki-laki maupun
+perempuan.
+
+         Kondisi yang tampak adalah bahwa terjadi perbedaan pola antara pekerja
+bebas laki-laki dan perempuan. Perbedaan ini secara tidak langsung memperlihatkan
+adanya kesenjangan. Perempuan memang kurang berpartisipasi sebagai pekerja bebas
+karena lebih banyak tergolong sebagai pekerja keluarga, akan tetapi sebagai pekerja
+bebas di pertanian perempuan kerap mengalami marginalisasi yaitu keterpinggiran
+perempuan dalam pekerjaan. Pada lapangan pekerjaan pertanian, beberapa pekerja
+bebas perempuan mulai tersingkir karena pekerjaan dominan mereka seperti
+pemilihan benih, menanam, menyiangi, membuat pupuk alami, dan memanen mulai
+digantikan oleh teknologi. Hal ini tentu mengurangi pangsa pasar pekerjaan
+perempuan pada sektor pertanian terutama bagi mereka yang berketerampilan
+
+40 Analisis Gender Provinsi Jambi 2025
+rendah. Mereka bisa beralih ke pekerjaan sektor formal, informal lainnya, atau bahkan
+menjadi pengangguran.
+
+                      8,68
+
+                                    4,62
+3,53
+
+                                                   2,15
+
+Pertanian                                          Non Pertanian
+o.id Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+                              Laki-laki Perempuan
+
+s.g Gambar 4.2 Persentase Penduduk Berumur 15 Tahun ke Atas yang Bekerja Sebagai Pekerja
+      p Bebas Menurut Jenis Kelamin dan Lapangan Pekerjaan Utama di Provinsi Jambi,
+      bi.b 2025
+    m Penurunan pekerja dengan status berusaha sendiri, berusaha dibantu buruh
+//ja tidak tetap/tidak dibayar, dan pekerja keluarga serta komposisinya tidak hanya dapat
+s: dilihat secara umum tetapi juga persebarannya menurut wilayah. Persebaran pekerja
+http dengan status berusaha sendiri, berusaha dibantu buruh tidak tetap/tidak dibayar, dan
+pekerja keluarga di Provinsi Jambi tercermin pada Gambar 4.3 yang memperlihatkan
+
+Kota Jambi sebagai wilayah dengan persentase pekerja pekerja dengan status berusaha
+
+sendiri, berusaha dibantu buruh tidak tetap/tidak dibayar, dan pekerja keluarga
+
+terendah, baik untuk laki-laki (28,42 persen) maupun perempuan (44,31 persen).
+
+Sebaliknya, Kabupaten Kerinci merupakan wilayah dengan persentase pekerja dengan
+
+status berusaha sendiri, berusaha dibantu buruh tidak tetap/tidak dibayar, dan pekerja
+
+keluarga tertinggi laki-laki (55,64 persen). Kabupaten Merangin merupakan wilayah
+
+dengan persentase pekerja dengan status berusaha sendiri, berusaha dibantu buruh
+
+tidak tetap/tidak dibayar, dan pekerja keluarga tertinggi perempuan (65,29 persen).
+
+Selanjutnya, jika dibandingkan antara laki-laki dan perempuan, perbedaan cukup nyata
+
+terlihat di Kabupaten Bungo.
+
+Rekonsiliasi antara Bekerja dan Tanggung Jawab Keluarga 41
+ .id Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+.go Gambar 4.3 Persentase Penduduk Berumur 15 Tahun ke Atas yang Bekerja Sebagai
+
+      s Pekerja dengan Status Berusaha Sendiri, Berusaha Dibantu Buruh Tidak
+      p Tetap/Tidak Dibayar, dan Pekerja Keluarga Menurut Kabupaten/Kota
+      bi.b dan Jenis Kelamin di Provinsi Jambi, 2025
+m 4.2 Pendidikan Sebagai Gerbang Pembuka Pasar Tenaga Kerja
+    ://ja Pendidikan merupakan indikator utama kualitas sumber daya manusia yang
+ps dapat menjembatani kesenjangan peluang dan kesempatan memperoleh pekerjaan
+htt antara laki-laki dan perempuan. Semakin tinggi tingkat pendidikan yang dimiliki
+
+seseorang, maka lebih menonjol sikap intelektual dan kemampuan daya saingnya
+(advanced competitive). Pendidikan idealnya betujuan untuk mendapatkan ilmu yang
+dapat diterapkan dalam bidang pekerjaan di masa depan. Namun, kondisi yang terjadi
+sekarang banyak penduduk usia kerja yang telah menempuh pendidikan tetapi tidak
+mendapat pekerjaan. Fenomena ini muncul karena saat ini pertumbuhan antara
+tamatan sekolah dan lapangan pekerjaan untuk penduduk usia kerja tidak sama. Hal
+ini tentu akan menyulitkan kaum rentan seperti perempuan untuk dapat kesempatan
+sama seperti laki-laki di lingkungan sosial apabila mereka tidak mempunyai modal
+untuk menghadapi persoalan tersebut.
+
+         Peran pendidikan sangat penting sebagai katalisator kemajuan teknologi suatu
+negara dan faktor penentu kesuksesan negara dalam bersaing di pasar dunia.
+Pertumbuhan penduduk usia kerja yang meningkat merupakan bonus demografi untuk
+
+42 Analisis Gender Provinsi Jambi 2025
+meningkatkan produksi. Pemanfaatan bonus demografi ini perlu didukung oleh
+kesetaraan gender agar perempuan juga dapat berpartisipasi meningkatkan
+pertumbuhan ekonomi. Salah satu wujud kesetaraan gender dapat dilakukan melalui
+akses yang sama terhadap pendidikan. Akses yang sama dan mudah ke pendidikan
+akan berdampak pada diperolehnya kemampuan yang sama sehingga membuka
+kesempatan dan akses yang sama pada sumber daya. Disamping itu, data pendidikan
+dapat dimanfaatkan oleh pemerintah untuk membuat kebijakan dalam membuka
+lapangan pekerjaan yang sesuai dengan jumlah tamatan pendidikan.
+
+         https://jambi.bps.go.id
+
+Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 4.4 Persentase Penduduk Berumur 15 Tahun ke Atas Tamatan SMA/SMK
+                yang Bekerja Menurut Jurusan/Bidang Studi dan Jenis Kelamin di
+                Provinsi Jambi, 2025
+
+         Gambar 4.4 memberikan informasi pekerja dengan tingkat pendidikan
+menengah atas menurut jenis kelamin dan jurusan pendidikannya. Sebagian besar
+adalah tamatan jurusan SMA IPS baik laki-laki (50,75 persen) maupun perempuan
+(41,59 persen). Jika dibandingkan antara laki-laki dan perempuan, perbedaan yang
+sangat nyata terlihat pada pekerja dengan tamatan jurusan SMK Teknologi dan
+Rekayasa; 1 pekerja perempuan berbanding 16 pekerja laki-laki. Hal ini sesuai dengan
+karakter pekerja laki-laki yang lebih menyukai teknologi dibanding perempuan.
+
+         Rekonsiliasi antara Bekerja dan Tanggung Jawab Keluarga 43
+Sebaliknya, karakteristik perempuan yang cenderung menyukai ilmu hitung,
+tercermin dari persentase perempuan bekerja dengan tamatan jurusan SMA
+Matematika dan IPA yang lebih tinggi dibanding laki-laki (25,45 persen berbanding
+16,67 persen).
+
+         Masih besarnya kesenjangan gender pada tamatan SMK yang bekerja lebih
+dikarenakan oleh minat pada jurusan tertentu yang memang didominasi oleh gender
+tertentu. Selain itu, sedikitnya kesempatan atau lowongan pekerjaan pada gender
+tertentu di jenjang pendidikan ini juga dapat menjadi salah satu penyebabnya. Jika ada
+kesempatan atau lowongan pekerjaan, kebanyakan pekerjaan tersebut tidak
+memerlukan keahlian khusus sesuai jurusannya.
+
+4.3 Preferensi Perempuan pada Sektor Kesehatan dan Pendidikan
+         Selanjutnya, pada bagian ini kita akan melihat bagaimana pekerja perempuan
+
+.id dilihat dari jurusan/studi untuk jenjang pendidikan tinggi. Pada jenjang pendidikan
+.go perguruan tinggi, bidang keilmuan dan keahlian lebih terspesifikasi sehingga lulusan
+s pada jenjang ini idealnya akan terspesifikasi pada bidang pekerjaan tertentu yang
+i.bp sesuai. Tabel 4.2 memperlihatkan jurusan yang dipilih menurut lulusan terbanyak pada
+b jenjang perguruan tinggi (mencakup jurusan pada jenjang S1-S3 umum). Pekerja
+//jam lulusan perguruan tinggi yang paling banyak memperoleh pekerjaan adalah jurusan
+: ilmu Pendidikan (28,60 persen), ilmu keolahragaan (15,71 persen), ilmu bisnis (9,71
+ps persen), ilmu hukum (7,57 persen), dan ilmu kesehatan (7,12 persen).
+
+    htt Terlihat ada perbedaan menurut gender untuk penduduk usia kerja yang
+
+bekerja pada jurusan tertentu. Perempuan pekerja dengan jurusan ilmu Pendidikan
+(35,17 persen berbanding 21,10 persen), ilmu kesehatan mendominasi sebesar 10,87
+persen, dibanding laki-laki (2,85 persen). Sementara beberapa jurusan didominasi oleh
+laki-laki, antara lain jurusan hukum (11,41 persen berbanding 4,19 persen), ilmu
+keolahragaan (21,03 persen berbanding 11,03 persen), Ilmu Teknik dan rekayasa (laki-laki
+sebesar 5,87 persen dan perempuan sebesar 2,24 persen), ilmu pertanian (Laki-laki
+sebesar 5,70 persen dan perempuan 4,28 persen), serta jejaring keilmuan, multi, intern,
+atau transdisiplin didominasi laki-laki sebesar 1,51 persen dibandingkan 0,39 persen pada
+perempuan.
+
+44 Analisis Gender Provinsi Jambi 2025
+Tabel 4.2 Distribusi Penduduk Berumur 15 Tahun ke Atas Tamatan Pendidikan Tinggi
+            yang Bekerja Menurut Jurusan/Bidang Studi dan Jenis Kelamin di Provinsi
+            Jambi, 2025
+
+           Jurusan Bidang Studi                        Jenis Kelamin
+                                          Laki-laki Perempuan
+                                                                      Total
+
+                   (1)                    (2)     (3)                 (4)
+
+Ilmu Humaniora                            1,34    2,40                1,91
+
+Ilmu Alam                                 0,54    2,77                1,73
+
+Ilmu Arsitektur, Desain, dan Perencanaan  0,05    0,11                0,08
+
+Ilmu Bisnis                               8,94    9,38                9,17
+
+Ilmu Formal                               4,98    2,41                3,61
+
+Ilmu Hukum                                11,41   4,19                7,57
+
+Ilmu Keolahragaan                         21,03   11,03               15,71
+
+Ilmu Komunikasi                           0,50    0,57                0,54
+.id Ilmu Lingkungan
+                                          0,85    0,49                0,65
+
+o Ilmu Pendidikan                                                     28,60
+.g Ilmu Sains Informasi                   21,10   35,17
+
+ps Ilmu Pertanian                         0,87    0,48                0,66
+
+i.b Ilmu Teknik atau Rekayasa             5,70    4,28                4,94
+
+b Ilmu Kesehatan                          5,87    2,24                3,94
+
+m Jejaring Keilmuan, Multi, Intern, atau  2,85    10,87               7,12
+
+//ja Transdisiplin                        1,51    0,39                0,91
+
+s: Lainnya                                12,45   13,21               12,85
+tp Total
+ht Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025100,00
+                                          100,00  100,00
+
+         Serapan tenaga kerja menurut jurusan dari pendidikan yang ditamatkan memang
+tidak selalu mencerminkan kesesuaian antara jurusan dengan bidang pekerjaannya. Hal
+yang dapat diamati adalah adanya kecenderungan persaingan dalam pasar tenaga kerja
+untuk angkatan kerja dari jurusan tertentu. Seperti misalnya angkatan kerja lulusan ilmu
+pendidikan, walau dominan terserap dalam pasar tenaga kerja; ternyata masih tetap
+menyisakan pengangguran sekitar 9,42 persen, yang didominansi oleh penganggur
+perempuan (9,86 persen). Persentase perempuan yang gagal terserap dalam pasar kerja
+terlihat cukup tinggi selain jurusan Pendidikan adalah jurusan keolahragaan (34,99 persen
+perempuan menganggur), dan ilmu humaniora (8,33 persen perempuan menganggur).
+
+Rekonsiliasi antara Bekerja dan Tanggung Jawab Keluarga 45
+Tabel 4.3 Persentase Penduduk Berumur 15 Tahun ke Atas Tamatan Pendidikan
+            Tinggi yang Menganggur Menurut Jurusan/Bidang Studi dan Jenis
+            Kelamin di Provinsi Jambi, 2025
+
+        Jurusan Bidang Studi       Laki-laki  Jenis Kelamin                Total
+                                       (2)      Perempuan                    (4)
+                    (1)                               (3)
+Ilmu Humaniora                        0,00                                  4,52
+                                                      8,33
+
+Ilmu Alam                          3,78       2,15                         2,90
+
+Ilmu Bisnis                        10,87      4,79                         7,57
+
+Ilmu Formal                         8,15      4,79                         6,33
+Ilmu Hukum                         17,54
+                                              5,95                         11,25
+
+Ilmu Keolahragaan                  21,17      34,99                        28,67
+
+Ilmu Komunikasi                    0,00       7,35                         3,99
+
+Ilmu Pendidikan                    8,91       9,86                         9,42
+
+Ilmu Sains Informasi               0,00       2,51                         1,36
+
+Ilmu Pertanian                     .id 0,00   2,85                         1,54
+Ilmu Teknik atau Rekayasa                                                  4,63
+Ilmu Kesehatan                     6,94.go 6,672,68                        7,19
+                                                                           9,48
+Jejaring Keilmuan, Multi, Intern,  ps 13,44   7,62
+atau Transdisiplin                                                         1,15
+Lainnya                            bi.b2,52   6,13
+
+m Total                                       0,00
+
+                                   100,00     100,00         100,00
+//ja Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+    tps: Persaingan di pasar tenaga kerja untuk lulusan SMA/SMK persentasenya
+ht menumpuk pada jurusan tertentu antara lain SMA IPS (42,99 persen), SMA
+
+Matematika dan IPA (20,39 persen), SMK Bisnis dan Manajemen (13,17 persen), dan
+
+SMK Teknologi dan Rekayasan (9,05 persen). Jurusan ini dapat dikatakan cukup favorit
+
+sehingga tingginya supply tidak sepadan dengan demand yang kemudian melahirkan
+
+pengangguran. Kondisi ini antara laki-laki dan perempuan menunjukkan persentase
+
+yang berbeda bahkan untuk beberapa jurusan terlihat perbedaan yang nyata.
+
+         Fakta dalam data pada uraian di atas selanjutnya dapat menjadi masukan
+berharga bagi pemerintah dalam merancang kebijakan terkait pembukaan kesempatan
+kerja berdasarkan tamatan Pendidikan namun kurang diminati dalam pasar kerja,
+sekalius evaluasi bagi sekolah dalam mendesain kurikulum yang sesuai dengan
+kebutuhan pasar kerja. Program pemberdayaan perempuan juga perlu digencarkan
+agar perempuan dapat mengontrol nasibnya sendiri, sehingga perempuan tidak hanya
+
+46 Analisis Gender Provinsi Jambi 2025
+memiliki kemampuan dan akses yang sama dalam hal pendidikan atau sumber daya,
+tetapi juga memiliki hak untuk berpartisipasi pada segala bidang tanpa rasa takut akan
+paksaan serta kekerasan.
+
+Tabel 4.4 Persentase Penduduk Berumur 15 Tahun ke Atas Tamatan SMA/SMK
+             yang Menganggur Menurut Jurusan dan Jenis Kelamin di Provinsi Jambi,
+             2025
+
+                     Jurusan  Laki-laki          Jenis Kelamin                              Total
+                                                   Perempuan
+                        (1)       (2)                                                        (4)
+SMA Matematika dan IPA          17,78                     (3)                               20,39
+                                                        24,94
+
+SMA IPS                       48,50              33,37                                        42,99
+
+SMA Bahasa dan Budaya                     0,43   0,00                                         0,27
+
+SMA Keagamaan                             1,53   3,72                                         2,33
+
+SMK Teknologi dan Rekayasa                13,04   2,08                                         9,05
+                                           4,11   4,47                                         4,24
+.id SMK Teknologi Informasi dan Komunikasi 2,83   1,11                                         2,20
+o SMK Agribisnis dan Agroteknologi         8,10  22,03                                        13,17
+s.g SMK Bisnis dan Manajemen               0,00   2,52                                         0,92
+p SMK Pariwisata                           1,86   2,83                                         2,21
+bi.b SMK Seni dan Industri Kreatif
+Lainnya//jam Tidak Tahu                   1,39   2,93                                         1,95
+
+: Total                                   0,44   0,00                                         0,28
+
+https Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025100,00100,00100,00
+
+4.4 Keadilan Perlindungan Pekerja Berbasis Gender Melalui Kebijakan UMP
+
+         Kebijakan mengenai upah telah dilakukan pemerintah melalui penetapan upah
+minimum di setiap daerah. Penetapan upah minimum tersebut sebagai salah satu
+langkah menjunjung perlakuan yang adil dalam pemberian imbalan bagi setiap orang
+yang bekerja. Upah minimum ditetapkan pada masing-masing regional, yaitu
+berdasarkan wilayah provinsi atau kabupaten/kota dan upah minimum berdasarkan
+sektor pada wilayah provinsi atau kabupaten/kota. Dengan kata lain, setiap provinsi
+atau kabupaten/kota memiliki upah minimum yang berbeda sesuai dengan tingkat
+inflasi dan pertumbuhan ekonomi masing-masing daerah. Untuk wilayah Provinsi
+Jambi, upah minimun yang ditetapkan pada tahun 2025 adalah sebesar Rp
+3.234.535,00.
+
+         Rekonsiliasi antara Bekerja dan Tanggung Jawab Keluarga 47
+Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 4.5 Persentase Buruh/Karyawan/Pegawai dengan Upah di Bawah UMP
+                Menurut Jenis Kelamin di Provinsi Jambi, 2025
+
+    o.id Selama tahun 2025, persentase buruh/karyawan/pegawai perempuan yang
+.g menerima upah dibawah Upah Minimum Provinsi (UMP) lebih tinggi (74,70 persen)
+ps dibandingkan persentase buruh/karyawan/pegawai laki-laki (61,65 persen).
+i.b Perbedaan persentase tersebut menunjukkan bahwa dalam hal pemberian upah bagi
+mb pekerja laki-laki dan pekerja perempuan masih terdapat kesenjangan upah antar
+//ja gender. Pekerja baik perempuan maupun laki-laki seharusnya mendapatkan upah
+s: sesuai ketentuan UMP. Perolehan upah yang lebih rendah dari peraturan upah
+http minimum yang berlaku dapat menurunkan kesejahteraan pekerja. Hal tersebut
+
+dikarenakan kemungkinan pekerja tidak dapat memenuhi kebutuhan dasarnya
+semakin besar.
+
+48 Analisis Gender Provinsi Jambi 2025
+Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+o.id Gambar 4.6 Persentase Buruh/Karyawan/Pegawai dengan Upah di Bawah UMP
+       .g Menurut Kabupaten/Kota dan Jenis Kelamin di Provinsi Jambi, 2025
+
+    i.bps Besarnya persentase pekerja yang menerima upah di bawah UMP ini
+b menunjukkan bahwa kebijakan upah minimum belum mampu melindungi seluruh
+//jam pekerja. Tidak hanya itu, kebijakan upah minimum juga harus mampu menyentuh
+: pekerja yang berada pada usaha mikro dan kecil. Kemudian, jika dilihat di masing-
+ps masing kabupaten/kota, persentase buruh/karyawan/pegawai yang menerima upah
+htt dibawah Upah Minimum Provinsi (UMP) memiliki besaran yang bervariasi pada setiap
+
+jenis kelamin dan wilayah. Tingkatan kabupaten/kota berdasarkan persentase tersebut
+untuk masing-masing jenis kelamin pun berbeda.
+
+         Pada tahun 2025, seluruh kabupaten/kota di Provinsi Jambi persentase
+buruh/karyawan/pegawai perempuan yang menerima upah dibawah UMP lebih besar
+dibandingkan laki-laki. Persentase terbesar ada di Kabupaten Tebo, dimana 92,50 persen
+buruh/karyawan/pegawai perempuan di kabupaten tersebut menerima upah di bawah
+UMP. Sedangkan persentase terendah adalah di Kota Sungai Penuh yaitu sebanyak 90,33
+persen buruh/karyawan/pegawai perempuan di wilayah ini menerima upah di bawah
+UMP.
+
+         Rekonsiliasi antara Bekerja dan Tanggung Jawab Keluarga 49
+         Kabupaten Sarolangun merupakan wilayah dengan persentase
+buruh/karyawan/pegawai yang menerima upah dibawah UMP terendah untuk pekerja
+laki-laki (46,03 persen). Kesenjangan antara pekerja laki-laki dan perempuan terkait upah
+di bawah UMP masih sangat tinggi di Kabupaten Sarolangun, Kabupaten Tebo, dan
+Kabupaten Bungo. Hal ini perlu untuk mendapatkan perhatian yang serius.
+
+4.5 Jumlah Jam Kerja Pekerja Perempuan Tidak Dibayar Lebih Tinggi Daripada Laki-
+laki
+
+         Selain upah, kesejahteraan pekerja juga dapat dilihat dari jam kerjanya.
+Kombinasi antara keduanya, yaitu upah dan jam kerja sangat mencerminkan
+pengakuan ekonomi dari produktivitas pekerja tersebut. Pemberian upah yang kecil di
+saat jam kerja yang banyak menunjukkan bahwa hasil pekerjaan tersebut tidak
+dipandang terlalu ekonomis, namun kondisi tersebut tentunya dapat menurunkan
+
+.id kesejahteraan pekerja.
+    .go Pada gambar 4.7 terlihat bahwa pekerja perempuan yang merupakan pekerja
+
+ps keluarga/tidak dibayar, 26,20 persen diantaranya bekerja kurang dari 15 jam
+i.b seminggu. Sedangkan untuk pekerja laki-laki sebanyak 28,38 persen. Hal ini
+b menunjukkan bahwa lebih banyak waktu yang dihabiskan oleh perempuan untuk
+//jam bekerja membantu pasangan atau keluarganya dan tanpa upah, dibandingkan laki-laki.
+s: Tentu hal ini terdengar kurang adil karena kontribusi perempuan secara ekonomi
+tp dalam pekerjaan adalah nyata. Hanya saja, seperti dalam bahasan sebelumnya; laki-
+ht laki yang cenderung sebagai kepala rumah tangga harus memastikan dalam
+
+pekerjaannya dia mendapatkan upah. Sehingga ketika menjadi pekerja keluarga atau
+tidak dibayar, laki-laki cenderung memberikan waktunya tidak sebanyak perempuan.
+
+50 Analisis Gender Provinsi Jambi 2025
+Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 4.7 Rata-rata Pekerja Tidak Dibayar dengan Jam Kerja Kurang dari 15 Jam
+                  Seminggu Menurut Jenis Kelamin di Provinsi Jambi, 2025
+
+o.id 4.6 Peran Pemangku Kebijakan Menghilangkan Ketidaksetaraan Gender Dalam
+  .g Pasar Tenaga Kerja
+    i.bps Isu gender dalam pasar tenaga kerja tidak pernah lepas dari perhatian
+
+b berbagai pihak. Diskriminasi antara laki-laki dan perempuan dalam dunia kerja masih
+m terlihat dalam beberapa aspek. Semangat wanita untuk masuk ke dalam pasar tenaga
+//ja kerja tidak akan mampu mengangkat kesejahteraan mereka jika kebanyakan dari
+s: mereka adalah pekerja informal. Namun, kenyataan tersebut yang harus diterima
+http pekerja perempuan. Pekerja perempuan cenderung menjadi pekerja informal yang
+
+identik dengan upah rendah dan tidak mendapatkan perlindungan sosial.
+
+         Diskriminasi perempuan tersebut banyak terjadi sehingga memicu adanya
+ketidaksetaraan gender dalam pasar tenaga kerja. Kecenderungan perempuan
+menerima upah yang rendah akan melahirkan kesenjangan upah antar gender.
+Kesenjangan upah antar gender tersebut terjadi lantaran posisi pekerja perempuan
+yang rendah atau pandangan nilai ekonomis yang rendah terhadap pekerja
+perempuan. Perbedaan upah terjadi karena wanita cenderung berada pada sektor jasa
+seperti kesehatan dan pendidikan. Segregasi pekerjaan antara laki-laki dan perempuan
+tersebutlah yang menyebabkan kesenjangan upah antar gender.
+
+         Kesenjangan upah antar gender juga disebabkan pandangan yang mengakar
+dalam budaya Indonesia, yaitu kaum perempuan hanya sebagai pembantu ekonomi
+keluarga sedangkan peran utamanya adalah pekerja domestik. Upah yang rendah
+
+         Rekonsiliasi antara Bekerja dan Tanggung Jawab Keluarga 51
+tersebut juga ada hubungan dengan jam kerja perempuan. Kaum perempuan dengan
+tugas merawat keluarga dan anak-anaknya akan cenderung bekerja dengan jam kerja
+yang lebih sedikit dan dengan produktivitas rendah sehingga upah yang diterimapun
+lebih rendah daripada laki-laki. Padahal tidak sedikit pekerja perempuan yang
+berperan sebagai orangtua tunggal dan harus memenuhi kebutuhan keluarganya.
+
+         Oleh karena itu, para pemangku kebijakan seperti pemerintah dan para
+pengusaha harus berkoordinasi untuk menghilangkan isu ketidaksetaraan gender
+dalam pasar tenaga kerja. Kesetaraan gender di lingkungan pekerjaan diwujudkan
+dalam empat hal, yakni akses, partisipasi, kontrol, dan manfaat. Keempat faktor
+tersebut harus terpenuhi untuk mencapai kesetaraan gender yang ideal. Pemerintah
+dapat terus menyusun strategi untuk meminimalisir atau bahkan sampai
+menghilangkan praktik diskriminasi gender di dunia kerja dengan membuat kebijakan
+dan perundang-undangan yang melindungi perempuan. Selain itu, pemerintah juga
+
+.id terus mendukung berbagai konvensi internasional yang menghapuskan bias gender
+o dalam pasar tenaga kerja. Kemudian, bagi para pengusaha harus memberikan
+s.g kesempatan yang sama bagi kaum perempuan, untuk mendapatkan pekerjaan,
+i.bp jabatan, promosi, dan pelatihan. Kaum perempuan dengan modal manusiawi dan
+b tingkat pendidikan yang sama berhak untuk mendapatkan promosi jabatan yang sama
+m dengan laki-laki. Kaum perempuan mampu memiliki produktivitas yang sama, juga
+//ja berhak untuk mendapatkan upah yang sama dengan laki-laki.
+
+    ps: Rumusan kebijakan tersebut diharapkan akan menghilangkan bias gender
+htt dalam pasar tenaga kerja. Kebijakan yang melindungi pekerja perempuan tersebut perlu
+
+didukung oleh berbagai pihak terkait agar terimplementasi secara efektif. Dengan
+demikian, kesejahteraan pekerja akan diterima baik oleh laki-laki maupun perempuan
+tanpa adanya diskriminasi.
+
+52 Analisis Gender Provinsi Jambi 2025
+    https://jambi.bps.go.id
+
+Rekonsiliasi antara Bekerja dan Tanggung Jawab Keluarga 53
+              https://jambi.bps.go.id
+
+54 Analisis Gender Provinsi Jambi 2025
+                                     BAB V
+     REKONSILIASI ANTARA BEKERJA DAN TANGGUNG JAWAB
+
+                                  KELUARGA
+
+5.1 Keseimbangan Antara Pekerjaan dan Keluarga
+
+         Seiring dengan perkembangan teknologi, tuntutan terhadap perempuan untuk
+ikut bekerja merupakan hal yang lumrah terjadi. Aktivitas bekerja ini dapat dilakukan dari
+dalam rumah maupun di luar rumah dengan maksud untuk mendapatkan penghasilan.
+Aktivitas bekerja yang dilakukan oleh kaum perempuan tidak lagi dimaknai sebagai
+tuntutan semata, tapi juga merupakan ekspresi dalam berkarya serta wujud eksistensi
+kemampuan perempuan itu sendiri. Pekerjaan-pekerjaan yang dahulu dominan
+dilakukan laki-laki, sekarang ini banyak juga dilakukan perempuan. Beberapa
+perempuan bahkan mampu menduduki posisi penting dalam beberapa jabatan
+menggeser posisi laki-laki di dunia kerja.
+
+    o.id Keterlibatan perempuan dalam dunia kerja terdapat nilai plus dan minus. Nilai
+.g plus yang dapat diambil, perempuan dapat membantu pasangan dan keluarga dalam
+ps memenuhi kebutuhan ekonomi. Di sisi lain perempuan dapat mengaktualisasikan
+i.b kemampuan diri sendiri sehingga dapat meningkatkan harga diri. Sementara itu, nilai
+mb minus yang mungkin terjadi adalah perempuan akan menghadapi persoalan dalam
+//ja membagi tugas rumah tangga, seperti konflik antara peran pekerjaan dan keluarga
+s: serta waktu yang berkurang untuk keluarga. Beberapa perempuan bahkan
+http mengabaikan kepentingan diri sendiri karena lebih mengutamakan kepentingan
+
+pekerjaan dan keluarga. Terlebih lagi, keyakinan dan budaya masyarakat masih
+menginginkan perempuan berperan ganda sebagai pekerja dan ibu rumah tangga.
+Konflik yang dialami wanita pekerja tersebut akan berdampak pada kepuasan sebagai
+individu, kepuasan perkawinan, kepuasan pekerjaan yang rendah dan kepuasan hidup
+yang rendah.
+
+         Salah satu upaya meminimalkan terjadinya konflik antara pekerjaan dan
+keluarga adalah dengan menyeimbangkan antara aktivitas pekerjaan dan peran dalam
+keluarga. Ketika perempuan bekerja dapat mencapai keseimbangan antara pekerjaan
+dan tanggung jawab keluarga, hal ini akan menguntungkan banyak pihak. Keuntungan
+yang dirasakan karyawan adalah kesejahteraan meningkat, kesehatan membaik, dan
+mampu berfungsi dengan baik dalam lingkungan bermasyarakat. Kemudian dari sisi
+organisasi, akan terlihat adanya komitmen kerja, produktivitas kerja, dan kepuasan
+
+         Rekonsiliasi antara Bekerja dan Tanggung Jawab Keluarga 55
+kerja. Sementara itu dari sisi keluarga akan tercapai adanya kepuasan keluarga,
+kepuasan perkawinan, performansi keluarga, keberfungsian keluarga, kesejahteraan
+keluarga, dan kepuasan terhadap kesejahteraan anak.
+
+         Dalam praktiknya tidak mudah untuk menyeimbangkan antara beban
+pekerjaan yang dihadapi sehari-hari di tempat kerja dengan tanggung jawab untuk
+mengurusi keluarga di rumah. Perempuan yang bekerja lebih banyak mengalami
+konflik dibandingkan laki-laki yang bekerja. Hal ini disebabkan perbedaan peran antara
+suami dan istri di dalam keluarga khususnya di negara berkembang di mana fasilitas
+pengasuhan anak (child care center) masih sangat terbatas. Laki-laki lebih fleksibel
+perannya di dalam keluarga sementara perempuan cenderung lebih banyak melakukan
+kegiatan bersifat rutinitas atau kewajiban. Oleh karena itu perempuan bekerja masih
+dihadapkan pada rutinitas pekerjaan rumah tangga setelah seharian melakukan
+
+https://jambi.bps.go.id aktivitas yang menjadi tanggung jawabnya di kantor.
+
+Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+
+Gambar 5.1 Persentase Perempuan yang Bekerja Menurut Status Perkawinan di
+                Provinsi Jambi, 2025
+
+         Beban ganda perempuan merupakan masalah yang sering dihadapi
+perempuan bekerja. Perempuan seringkali harus memilih antara tidak menikah dan
+sukses berkarier, atau menikah dan menjadi ibu rumah tangga yang baik. Dibutuhkan
+pemikiran yang matang seorang perempuan berstatus menikah untuk melangkah ke
+dunia kerja, mengingat konsekuensi peran ganda yang akan dihadapi. Menurut data
+Sakernas 2025, ada sebanyak 69,46 persen perempuan bekerja berstatus kawin yang
+berarti harus berani menanggung resiko menghadapi peran ganda sebagai pekerja dan
+
+56 Analisis Gender Provinsi Jambi 2025
+tanggung jawab sebagai istri serta ibu dari anak-anaknya. Adapun perempuan bekerja
+yang berstatus belum menikah (17,25 persen) dan perempuan bercerai baik cerai
+hidup maupun cerai mati ada sebanyak 13,28 persen. Berbagai faktor yang mendorong
+perempuan berstatus kawin untuk bekerja, diantaranya karena pendidikan tinggi,
+kemampuan untuk maju dan berkembang karena ingin meningkatkan eksistensi diri,
+serta alasan paling mendasar khususnya pada keluarga miskin adalah untuk
+mendapatkan penghasilan tambahan dalam memenuhi kebutuhan rumah tangganya.
+
+         Wanita dengan status cerai dan berstatus single parent sebagian akan menjadi
+kepala rumah tangga. Disamping tuntutan keseimbangan antara pekerjaan dan
+keluarga. Sulitnya wanita single parent dalam memenuhi kebutuhan keluarga
+disebabkan oleh faktor ekonomi. Sebagai orang tua tunggal mereka menanggung
+beban lebih berat karena ditanggung sendirian. Satu sisi mereka harus mencukupi
+kebutuhan hidup keluarga, di lain pihak harus memberi perhatian dan pendidikan bagi
+
+.id anak-anaknya.
+    .go Dilihat dari penyebab perceraian, perempuan berstatus cerai mati lebih
+
+s dominan yang bekerja (besarnya 5,41 persen) dibandingkan dengan perempuan
+i.bp berstatus cerai hidup (Gambar 5.1). Hal ini berkaitan dengan tanggungan anak dalam
+b keluarga, dimana perempuan yang berstatus cerai hidup biasanya masih mendapatkan
+//jam tunjangan anak dari mantan suaminya, sedangkan yang berstatus cerai mati tidak.
+: Karenanya tuntutan untuk bekerja lebih besar pada mereka yang berstatus cerai mati
+ps daripada cerai hidup.
+
+    htt Beberapa penelitian telah dilakukan untuk mengetahui variabel-variabel yang
+
+mempengaruhi jam kerja perempuan. Perolehan penghasilan merupakan alasan
+utama seseorang untuk bekerja. Oleh karena itu, jika penghasilan pekerja meningkat
+maka jumlah jam kerja untuk bekerja juga akan meningkat. Tanggungan keluarga
+merupakan salah satu alasan utama bagi para ibu rumah tangga turut serta dalam
+membantu suami sehingga memutuskan diri bekerja untuk memperoleh penghasilan.
+Besarnya jumlah tanggungan keluarga merupakan faktor yang mempengaruhi
+kemauan untuk melakukan pekerjaan, sehingga meningkatkan jumlah jam kerja.
+
+         Jika melihat data Sakernas 2025, jam kerja perempuan yang belum kawin lebih
+panjang (39,07 jam) dibandingkan jumlah jam kerja perempuan yang berstatus kawin
+(34,92 jam) atau cerai hidup (37,28 jam) sedangkan jumlah jam kerja perempuan yang
+berstatus cerai mati (27,51 jam) merupakan jam kerja yang paling sedikit (Gambar 5.2).
+
+         Rekonsiliasi antara Bekerja dan Tanggung Jawab Keluarga 57
+Hal ini dapat dipahami, karena perempuan yang berstatus belum kawin cenderung
+lebih flexibel dalam meluangkan waktu untuk bekerja. Perempuan yang berstatus
+kawin harus dapat membagi waktu untuk keluarga dan pekerjaan, sehingga berusaha
+bekerja dengan efisien dalam waktu terbatas. Sedangkan untuk perempuan yang
+berstatus cerai mati, umumnya juga dikarenakan usia yang lebih tua yang juga tidak
+memungkinkan untuk bekerja dengan jam kerja yang banyak.
+
+bi.bps.go.id Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+m Gambar 5.2 Rata-Rata Jam Kerja Perempuan Selama 1 Minggu Menurut Status
+
+      //ja Perkawinan di Provinsi Jambi, 2025
+    tps: Selanjutnya untuk alasan lamanya jam kerja antara perempuan berstatus cerai
+ht hidup dan belum kawin tentunya berbeda. Perempuan dengan status cerai hidup atau
+
+single parent menanggung beban tanggungan keluarga sendiri tanpa bantuan suami,
+sementara untuk mencukupi kebutuhan keluarganya membutuhkan penghasilan yang
+tidak sedikit. Dengan asumsi yang sama bahwa perempuan berstatus cerai hidup
+biasanya masih berusia produktif, maka masih memungkinkan untuk bekerja lebih lama
+untuk mendapatkan penghasilan lebih besar. Lain halnya dengan perempuan yang
+belum kawin. Terlepas dari memiliki beban tanggungan keluarga atau tidak,
+perempuan belum kawin lebih fleksibel dalam pengaturan waktu bekerja karena tidak
+terikat oleh tanggung jawab lainnya, yaitu dalam hal tanggung jawab perhatian
+terhadap keluarga di rumah. Artinya, perempuan belum kawin belum terbebani
+tanggung jawab sebagai istri atau tanggung jawab sebagai seorang ibu sebagaimana
+perempuan berstatus kawin atau berstatus cerai hidup.
+
+58 Analisis Gender Provinsi Jambi 2025
+         Pada dasarnya tidak ada kewajiban bagi perempuan untuk bekerja di luar
+rumah, karena tanggung jawab mencari nafkah untuk memenuhi kebutuhan keluarga
+menjadi tanggung jawab laki-laki (suami). Namun karena bermacam alasan
+mengharuskan perempuan bekerja di luar rumah. Ketika seorang perempuan
+memutuskan untuk bekerja, bila belum memiliki anak, maka yang menjadi fokus
+rutinitasnya adalah mengurus suami dan pekerjaan. Namun, pekerjaan wanita akan
+bertambah jika perempuan tersebut memiliki anak.
+
+         Seorang ibu yang sering menghabiskan waktu bekerja di luar rumah harus
+memiliki strategi agar tetap dekat dengan anak-anak yang menjadi tanggung jawab
+utamanya. Ibu yang bekerja harus pandai membagi waktu antara karir dan rumah
+tangga. Misalnya sepulang bekerja, ibu sebaiknya langsung memberi waktu untuk anak.
+Jangan menundanya karena anak sedang dalam kondisi terbaik setelah menunggu ibu
+pulang bekerja. Paling tidak berikan waktu 15 menit untuk melayani kebutuhan anak,
+
+.id apakah mereka ingin bermain bersama atau sekadar ingin berbagi cerita tentang
+o aktivitasnya. Selelah apa pun ibu, jangan menolak anak di saat-saat seperti ini. Ketika
+s.g anak sudah merasa didengarkan dan diperhatikan, ibu bisa minta waktu pada anak
+i.bp untuk mandi dan beristirahat sebentar untuk kemudian menemani mereka lagi.
+b Mengenalkan anak pada pekerjaan ibu juga dapat dilakukan untuk memberi anak
+m pemahaman. Sesekali anak dapat diajak ke tempat kerja, tentu dengan seizin atasan.
+//ja Dengan demikian anak akan paham bahwa ibunya keluar rumah untuk bekerja, sambil
+s: menjelaskan bahwa ibu mencari uang untuk memenuhi kebutuhan hidup sehari-hari.
+http Memberi pemahaman anak tentang pekerjaan ibu, sebenarnya juga mengajarkan anak
+
+tentang nilai sebuah usaha. Anak akan melihat bahwa untuk mendapatkan uang,
+misalnya, diperlukan kerja keras sebagaimana yang dilakukan ibunya.
+
+         Disamping itu dukungan dan kontribusi suami juga mutlak diperlukan.
+Penerapan pola asuh anak juga didasarkan atas kesepakatan antara suami dan istri,
+karena pendidikan anak adalah tanggung jawab bersama. Ketika istri bekerja yang
+sudah pasti melalui restu suami, maka suami juga harus turut berperan. Misalnya, ketika
+terjadi kekosongan pengasuh, suami sebaiknya turun tangan membantu istri, misalnya
+menjaga anak, ikut membantu pekerjaan rumah tangga, atau yang lainnya. Ketika anak-
+anak melihat kerjasama antara ayah dan ibunya, sesungguhnya ini merupakan
+pelajaran berharga untuk masa depan mereka juga.
+
+         Rekonsiliasi antara Bekerja dan Tanggung Jawab Keluarga 59
+5.2 Peran Perempuan Dalam Membantu Ekonomi Keluarga
+         Sudah disebutkan sebelumnya bahwa peran ganda para perempuan pekerja
+
+adalah sebagai ibu rumah tangga (melahirkan, mengasuh anak, dan mengurus
+pekerjaan rumah tangga) sekaligus sebagai pekerja. Di satu sisi, wanita pekerja harus
+menjalankan perannya sebagai ibu rumah tangga, tetapi di sisi lain, juga dituntut
+untuk terlibat bekerja untuk dapat membantu perekonomian keluarga. Oleh karena
+itu, peran perempuan sangat diperlukan sebagai salah satu kontributor dalam
+ekonomi rumah tangga.
+
+                         bi.bps.go.id
+m Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+//ja Gambar 5.3 Persentase Pekerja Berstatus Kawin Menurut Status Pekerjaan dan Jenis
+
+       s: Kelamin di Provinsi Jambi, 2025
+    http Partisipasi perempuan yang bekerja salah satunya dilatarbelakangi karena
+
+sosial ekonomi yang rendah. Bagi perempuan yang berstatus kawin, tuntutan bekerja
+hanya sebatas membantu pendapatan suami yang belum mampu mencukupi seluruh
+kebutuhan keluarga. Ada beberapa di antara mereka, tujuan bekerja bukan untuk
+mendapatkan upah/gaji/barang, melainkan hanya sekadar membantu suami atau
+orang lain dalam kegiatan usahanya, yang biasa disebut sebagai pekerja keluarga/tidak
+dibayar. Menurut data Sakernas tahun 2025, masih cukup banyak (28,80 persen)
+perempuan berstatus kawin yang bekerja sebagai pekerja keluarga/tidak dibayar. Hal
+ini mengindikasikan semakin banyak perempuan bersuami yang ingin berkontribusi
+secara finansial dalam perannya membantu perekonomian keluarga, bukan hanya
+membantu secara fisik dan pikiran usaha pasangan tanpa balas jasa berupa uang atau
+barang.
+
+60 Analisis Gender Provinsi Jambi 2025
+         Sementara itu perempuan yang berstatus sebagai single parent atau single
+mother dalam memenuhi kebutuhan keluarga seluruhnya ditanggung sendiri tanpa
+mengandalkan bantuan dari suami. Keberadaan perempuan single mother sebagai
+kepala rumah tangga dikarenakan ketidakhadiran peran ayah sebagai kepala rumah
+tangga. Kondisi ini dapat terjadi akibat ditinggal cerai oleh suami (cerai hidup) atau
+ditinggal suami karena meninggal (cerai mati). Perempuan dengan status cerai mati
+memberikan dampak yang jauh lebih besar karena tidak adanya pasangan akibat
+kematian pasangan, sedangkan bagi perempuan yang cerai hidup akan merasakan efek
+traumatik dan tekanan emosional.
+
+                    bi.bps.go.id
+://jam Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nasional (Sakernas) Agustus, 2025
+tps Gambar 5.4 Persentase Pekerja Menurut Status Perkawinan dan Jenis Kelamin
+
+       ht Kepala Rumah Tangga di Provinsi Jambi, 2025
+
+         Wanita berstatus single parent yang menjadi kepala rumah tangga akan lebih
+mengalami kesulitan dalam memenuhi kebutuhan keluarga karena faktor ekonomi.
+Sebagai orang tua tunggal sekaligus kepala rumah tangga, mereka akan menanggung
+beban lebih berat. Di satu sisi harus mencukupi kebutuhan hidup keluarga, di lain
+pihak harus memberi perhatian dan pendidikan bagi anaknya. Tugas-tugas yang dulu
+dikerjakan berdua dengan suaminya, sekarang harus dilakukan sendiri.
+
+         Pada gambar 5.4, terlihat bahwa perempuan pekerja yang juga berstatus sebagai
+kepala rumah tangga sebagian besar adalah yang berstatus cerai sebanyak 81,02 persen
+baik cerai mati maupun cerai hidup. Sedangkan yang berstatus belum kawin dan kawin
+hanya sebagian kecil saja. Hal ini berarti mereka yang berstatus single parent, harus
+menanggung sendiri kebutuhan dirinya dan keluarganya karena berperan juga sebagai
+
+         Rekonsiliasi antara Bekerja dan Tanggung Jawab Keluarga 61
+kepala rumah tangga. Pendapatan wanita single parent dalam memenuhi kebutuhan
+keluarga juga terbatas akan umur. Umur merupakan salah satu faktor yang
+berpengaruh besar terhadap cara berpikir dan bertindak seseorang, khususnya dalam
+mengambil keputusan. Pada umumnya seseorang yang berada pada umur produktif
+dapat memperoleh pendapatan yang lebih jika dibandingkan dengan umur non
+produktif.
+
+         Dari beberapa aspek permasalahan yang dialami wanita single parent di atas,
+faktor ekonomi merupakan faktor utama yang menjadi permasalahan di dalam keluarga
+mereka. Permasalahan ekonomi tersebut adalah pekerjaan dan pendapatan yang
+dimiliki, sehingga single parent harus dapat bekerja dan memiliki penghasilan agar
+dapat memenuhi berbagai kebutuhan hidup keluarga beserta anak-anaknya. Tidak
+mudah bagi single parent untuk mendapatkan pekerjaan karena berbagai alasan, di
+antaranya karena sedikitnya lapangan kerja, persyaratan umur, waktu, dan persyaratan
+
+.id kerja lain seperti pendidikan tinggi dan fisik. Pilihan lain bagi single parent untuk dapat
+o memenuhi kebutuhan hidup keluarga adalah berwirausaha. Peluang yang ada pun
+s.g cukup besar jika ada keinginan dan motivasi yang kuat. Terlebih lagi jika single parent
+i.bp dapat menggunakan kesempatan yang ia miliki dengan baik dan banyaknya relasi
+b dengan laki-laki dalam bidang wirausaha agar tidak mengalami diskriminasi gender
+https://jam dalam berwirausaha.
+
+62 Analisis Gender Provinsi Jambi 2025
+    https://jambi.bps.go.id
+
+Rekonsiliasi antara Bekerja dan Tanggung Jawab Keluarga 63
+              https://jambi.bps.go.id
+
+64 Analisis Gender Provinsi Jambi 2025
+                                        BAB VI
+                                      PENUTUP
+
+         Keadilan ekonomi bagi perempuan telah menjadi bagian program unggulan
+pemerintah untuk menghilangkan ketimpangan gender. Perempuan mempunyai
+kesempatan yang sama dengan laki-laki untuk berpartisipasi dan berkontribusi di bidang
+ekonomi. Namun tidak mudah bagi perempuan untuk terjun dalam kegiatan ekonomi. Budaya
+dan pola pikir yang telah mengakar di kehidupan bermasyarakat terkait kedudukan
+perempuan membuat kaum perempuan harus menghadapi berbagai macam kendala untuk
+berkarya. Kendala terkait diskriminasi tersebut harus dihadapi perempuan setiap saat, mulai
+dari perannya dalam ekonomi keluarga hingga perannya dalam pasar tenaga kerja dan dunia
+usaha.
+
+    .id Dari sisi akses perempuan terhadap sumber daya, diskriminasi antar gender dapat
+o terlihat dari akses pendidikan sebagai prasyarat dalam mengakses sumber daya ekonomi,
+.g akses teknologi informasi, dan akses terhadap pelatihan. Dalam akses pendidikan,
+ps kesetaraan sudah mulai terlihat; bahkan untuk jenjang pendidikan yang lebih tinggi
+i.b partisipasi perempuan sudah menyamai laki-laki. Sementara itu, dalam mengakses
+mb teknologi informasi persentase perempuan sedikit lebih rendah dibandingkan laki-laki.
+//ja Investasi modal manusia juga dapat diperoleh dari pelatihan kerja, meskipun persentase
+s: perempuan masih lebih rendah daripada laki-laki, namun perbedaan yang ada jumlahnya
+http relatif kecil. Hal ini menandakan perempuan di Provinsi Jambi sudah berupaya untuk
+
+terus mengejar ketinggalannya dalam berbagai akses yang ada, dan juga berarti
+pemerintah daerah beserta institusi terkait lain sudah berupaya untuk meminimalkan
+kesenjangan gender yang dapat terjadi.
+
+         Diskriminasi antar gender lebih terlihat jelas pada akses perempuan ke dalam pasar
+tenaga kerja. Perbedaan TPAK antara laki-laki dan perempuan cukup jauh. Keadaan tersebut
+menunjukkan banyaknya penghambat bagi kaum perempuan untuk masuk ke pasar kerja.
+Kesempatan kerja kaum perempuanpun tidak seluas kesempatan kerja kaum laki-laki.
+Banyak kualifikasi dan prasyarat tertentu seperti fisik dan status berkeluarga yang tidak
+mudah untuk dipenuhi. Tidak hanya itu, jumlah pekerja perempuan yang banyak pada
+sektor pertanian dan perdagangan sangat rentan sebagai pekerja keluarga atau pekerja tidak
+dibayar. Perempuan masih dianggap dengan fisik yang lemah dan tanpa keahlian.
+
+                                                                                     Penutup 65
+         Meskipun adanya budaya patriarki yang menempatkan laki-laki sebagai pemimpin
+dan pemikiran stereotip bahwa perempuan sebagai sumber sekunder ekonomi keluarga,
+tidak serta merta menjadikan perempuan untuk tidak bisa mencurahkan dirinya dalam
+kegiatan ekonomi; walaupun masih dalam waktu yang terbatas. Perbedaan yang masih
+terlihat cukup nyata antara pekerja tidak penuh perempuan dibandingkan laki-laki,
+mengindikasikan bahwa jam kerja antara perempuan dan laki-laki relatif berbeda, yang juga
+menandakan bahwa peran perempuan belum seimbang dalam dunia kerja. Hal ini masih perlu
+dicermati secara detail mengenai status pekerjaan dan lapangan usahanya.
+
+         Kondisi perempuan dalam pasar tenaga kerja ternyata memperlihatkan bahwa pekerja
+perempuan lebih cenderung menjadi pekerja rentan. Padahal pekerja rentan ini identik
+dengan upah rendah dan tidak mendapatkan perlindungan sosial. Upah rendah yang
+diterima perempuan tersebut yang melahirkan kesenjangan upah antar gender. Selain itu,
+pekerja perempuan dianggap sebagai pekerja lajang, sehingga banyak kaum perempuan
+
+.id yang menjadi tulang punggung tetapi tidak mendapatkan tunjangan untuk keluarganya.
+    .go Antara berpartisipasi dalam kegiatan ekonomi dan mengurus keluarga/rumah
+
+s tangga merupakan suatu dilema bagi kaum perempuan. Ketika perempuan bekerja dapat
+i.bp mencapai keseimbangan antara pekerjaan dan tanggung jawab keluarga, hal ini akan
+b menguntungkan banyak pihak. Hal tersebut yang menyebabkan banyak perempuan
+//jam berstatus kawin dan cerai hidup memutuskan untuk bekerja. Disatu sisi mereka tetap harus
+: mengurus keluarganya, sementara di sisi lain mereka tetap harus bekerja untuk memenuhi
+ps sehari-hari. Bagaimanapun, perawatan keluarga tersebut terlihat dari jumlah jam kerja
+htt pekerja perempuan yang cenderung lebih kecil dari jam kerja pekerja laki-laki. Keputusan
+
+perempuan untuk bekerja juga dipengaruhi oleh jumlah tanggungan mereka. Semakin
+banyak jumlah tanggungan mereka, kecenderungan mereka untuk bekerja semakin besar.
+
+         Meskipun telah banyak kebijakan dan peraturan, diskriminasi antar gender masih
+terjadi di pasar tenaga kerja. Hal tersebut dikarenakan implementasinya yang belum
+optimal. Penghapusan diskriminasi gender dalam ekonomi tidak hanya dengan peran
+pemerintah tetapi juga membutuhkan peran pihak terkait seperti pengusaha, lingkungan
+kerja, keluarga, dan masyarakat. Kebijakan mengenai diskriminasi antar gender dapat
+dimulai dari aturan tentang cuti bersalin, pengasuhan anak, pengaturan jam kerja, dan
+kebijakan lain perlu diperhatikan guna meningkatkan kualifikasi dan akses perempuan.
+Perempuan juga berhak untuk mendapatkan pekerjaan, jabatan, promosi, dan pelatihan.
+
+66 Analisis Gender Provinsi Jambi 2025
+         Untuk masalah kewirausahaan, akses pelatihan dan permodalan yang kurang bagi
+perempuan ini memerlukan peraturan atau kebijakan yang memberikan perhatian khusus
+bagi pengusaha perempuan. Sifat atau kodrat perempuan yang biasanya lebih bersifat pasif
+memerlukan perhatian lebih dari pemangku kebijakan dalam pengembangan usahanya.
+Dengan demikian, produktivitas dan kinerja pekerja atau pengusaha perempuan akan
+meningkat dan mencapai kesetaraan gender, yang pada akhirnya memberikan
+kesejahteraan bagi kaum perempuan.
+
+            https://jambi.bps.go.id
+
+                                                                                     Penutup 67
+                 https://jambi.bps.go.id
+
+68 Analisis Gender Provinsi Jambi 2025
+                                                  DAFTAR PUSTAKA
+Badan Pusat Statistik. 2026. Statistik Pendidikan Provinsi Jambi 2025. Jambi: BPS.
+Badan Pusat Statistik. 2025. Buku Pedoman Konsep Definisi Susenas Maret 2025. Jakarta: BPS.
+Badan Pusat Statistik. 2025. Buku Pedoman Konsep Definisi Sakernas Agustus 2025. Jakarta:
+
+       BPS.
+Sastrawati, Nila. (2018). Laki-Laki dan Perempuan Identitas Berbedah Analisis Gender dan
+
+       Politik Perspektif PostFeminisme. Makassar: Alauddin Press.
+
+             https://jambi.bps.go.id
+
+                                                                            Daftar Pustaka 69
+                 https://jambi.bps.go.id
+
+70 Analisis Gender Provinsi Jambi 2025
+https://jambi.bps.go.id
+
+                                                 Daftar Pustaka 71
+                 https://jambi.bps.go.id
+
+72 Analisis Gender Provinsi Jambi 2025
+

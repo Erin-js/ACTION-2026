@@ -1,0 +1,17 @@
+﻿variabel,satuan,penyebut,definisi
+puk,orang,-,Penduduk usia 15 tahun ke atas
+ak,orang,-,Bekerja + penganggur
+bekerja,orang,-,"Penduduk bekerja menurut Sakernas, termasuk pekerja keluarga dan sementara tidak bekerja"
+penganggur,orang,-,Penganggur menurut definisi Sakernas
+bak,orang,-,PUK - AK; bukan otomatis orang yang ingin bekerja
+sekolah,orang,-,Kegiatan utama di luar angkatan kerja: sekolah
+mengurus_rt,orang,-,Kegiatan utama di luar angkatan kerja: mengurus rumah tangga; bukan seluruh pelaku kerja domestik
+lainnya,orang,-,Kegiatan BAK lainnya; bukan ukuran langsung putus asa mencari kerja
+tpak,persen,PUK kelompok,100 × AK/PUK
+tpt,persen,AK kelompok,100 × penganggur/AK
+epr,persen,PUK kelompok,100 × bekerja/PUK
+tkk,persen,AK kelompok,100 - TPT; bukan EPR
+upah,rupiah/bulan,Buruh/karyawan/pegawai kelompok,Rata-rata upah bersih nominal; bukan pendapatan semua pekerja
+jumlah,orang atau catatan pendaftaran,Sesuai tabel,Hitungan pada status/sektor Sakernas; catatan layanan administratif pada dataset SDI
+rt_per_puk,persen,PUK kelompok,100 × mengurus_rt/PUK
+rt_per_bak,persen,BAK kelompok,100 × mengurus_rt/BAK

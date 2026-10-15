@@ -1,0 +1,681 @@
+﻿periode,jenis_kelamin,umur,kode_sektor,sektor,jumlah,klasifikasi,sumber,halaman_pdf
+2024-02,Laki-laki,15-19,A,Pertanian,12675,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,B,Pertambangan,1270,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,C,Industri pengolahan,2228,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,F,Konstruksi,662,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,G,Perdagangan,10025,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,H,Transportasi,1557,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,I,Akomodasi dan makan minum,1317,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,J,Informasi dan komunikasi,647,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,K,Keuangan,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,L,Real estat,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,"M,N",Jasa perusahaan,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,O,Administrasi pemerintahan,616,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,P,Pendidikan,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,Q,Kesehatan dan sosial,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,15-19,"R,S,T,U",Jasa lainnya,277,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,A,Pertanian,46930,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,B,Pertambangan,8530,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,C,Industri pengolahan,9282,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,F,Konstruksi,2807,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,G,Perdagangan,22989,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,H,Transportasi,3532,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,I,Akomodasi dan makan minum,3443,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,J,Informasi dan komunikasi,1393,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,K,Keuangan,1151,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,L,Real estat,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,"M,N",Jasa perusahaan,989,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,O,Administrasi pemerintahan,3562,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,P,Pendidikan,1906,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,Q,Kesehatan dan sosial,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,20-24,"R,S,T,U",Jasa lainnya,2321,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,A,Pertanian,49575,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,B,Pertambangan,9688,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,C,Industri pengolahan,13875,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,F,Konstruksi,3447,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,G,Perdagangan,19588,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,H,Transportasi,11752,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,I,Akomodasi dan makan minum,4437,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,J,Informasi dan komunikasi,1152,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,K,Keuangan,3840,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,L,Real estat,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,"M,N",Jasa perusahaan,2046,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,O,Administrasi pemerintahan,8904,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,P,Pendidikan,3760,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,Q,Kesehatan dan sosial,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,25-29,"R,S,T,U",Jasa lainnya,2055,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,A,Pertanian,48972,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,B,Pertambangan,16021,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,C,Industri pengolahan,11733,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,E,Air dan limbah,669,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,F,Konstruksi,6435,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,G,Perdagangan,14762,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,H,Transportasi,10482,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,I,Akomodasi dan makan minum,4772,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,J,Informasi dan komunikasi,678,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,K,Keuangan,2905,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,L,Real estat,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,"M,N",Jasa perusahaan,4348,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,O,Administrasi pemerintahan,13651,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,P,Pendidikan,4296,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,Q,Kesehatan dan sosial,1025,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,30-34,"R,S,T,U",Jasa lainnya,3629,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,A,Pertanian,52164,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,B,Pertambangan,12799,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,C,Industri pengolahan,15217,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,F,Konstruksi,10975,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,G,Perdagangan,19701,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,H,Transportasi,5913,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,I,Akomodasi dan makan minum,5301,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,J,Informasi dan komunikasi,1273,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,K,Keuangan,4047,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,L,Real estat,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,"M,N",Jasa perusahaan,1401,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,O,Administrasi pemerintahan,8194,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,P,Pendidikan,3818,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,Q,Kesehatan dan sosial,585,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,35-39,"R,S,T,U",Jasa lainnya,1970,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,A,Pertanian,48590,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,B,Pertambangan,9554,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,C,Industri pengolahan,19866,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,D,Listrik dan gas,832,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,F,Konstruksi,10752,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,G,Perdagangan,22736,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,H,Transportasi,6627,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,I,Akomodasi dan makan minum,1935,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,K,Keuangan,798,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,L,Real estat,280,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,"M,N",Jasa perusahaan,943,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,O,Administrasi pemerintahan,8810,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,P,Pendidikan,4233,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,Q,Kesehatan dan sosial,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,40-44,"R,S,T,U",Jasa lainnya,1199,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,A,Pertanian,53597,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,B,Pertambangan,7313,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,C,Industri pengolahan,16460,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,F,Konstruksi,8420,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,G,Perdagangan,19022,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,H,Transportasi,6234,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,I,Akomodasi dan makan minum,1246,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,J,Informasi dan komunikasi,482,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,K,Keuangan,1565,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,L,Real estat,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,"M,N",Jasa perusahaan,1082,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,O,Administrasi pemerintahan,7707,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,P,Pendidikan,3182,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,Q,Kesehatan dan sosial,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,45-49,"R,S,T,U",Jasa lainnya,868,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,A,Pertanian,38781,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,B,Pertambangan,5276,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,C,Industri pengolahan,11759,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,D,Listrik dan gas,240,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,E,Air dan limbah,615,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,F,Konstruksi,7646,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,G,Perdagangan,17957,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,H,Transportasi,3262,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,I,Akomodasi dan makan minum,4697,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,J,Informasi dan komunikasi,298,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,K,Keuangan,805,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,L,Real estat,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,"M,N",Jasa perusahaan,1549,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,O,Administrasi pemerintahan,5390,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,P,Pendidikan,4395,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,Q,Kesehatan dan sosial,1832,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,50-54,"R,S,T,U",Jasa lainnya,2398,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,A,Pertanian,43496,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,B,Pertambangan,3574,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,C,Industri pengolahan,4562,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,F,Konstruksi,4561,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,G,Perdagangan,8046,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,H,Transportasi,3339,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,I,Akomodasi dan makan minum,3370,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,K,Keuangan,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,L,Real estat,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,"M,N",Jasa perusahaan,724,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,O,Administrasi pemerintahan,2949,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,P,Pendidikan,4933,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,Q,Kesehatan dan sosial,994,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,55-59,"R,S,T,U",Jasa lainnya,1290,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,A,Pertanian,99110,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,B,Pertambangan,1375,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,C,Industri pengolahan,1958,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,D,Listrik dan gas,633,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,F,Konstruksi,4405,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,G,Perdagangan,12108,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,H,Transportasi,2375,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,I,Akomodasi dan makan minum,2583,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,J,Informasi dan komunikasi,407,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,K,Keuangan,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,L,Real estat,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,"M,N",Jasa perusahaan,682,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,O,Administrasi pemerintahan,538,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,P,Pendidikan,1091,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,Q,Kesehatan dan sosial,0,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Laki-laki,60+,"R,S,T,U",Jasa lainnya,2170,KBLI 2020,Jambi_Feb2024,60;61
+2024-02,Perempuan,15-19,A,Pertanian,1803,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,B,Pertambangan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,C,Industri pengolahan,177,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,F,Konstruksi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,G,Perdagangan,3495,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,H,Transportasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,I,Akomodasi dan makan minum,3971,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,K,Keuangan,700,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,L,Real estat,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,"M,N",Jasa perusahaan,362,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,O,Administrasi pemerintahan,809,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,P,Pendidikan,1651,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,Q,Kesehatan dan sosial,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,15-19,"R,S,T,U",Jasa lainnya,779,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,A,Pertanian,7268,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,B,Pertambangan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,C,Industri pengolahan,1232,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,F,Konstruksi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,G,Perdagangan,24641,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,H,Transportasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,I,Akomodasi dan makan minum,3332,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,J,Informasi dan komunikasi,5341,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,K,Keuangan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,L,Real estat,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,"M,N",Jasa perusahaan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,O,Administrasi pemerintahan,7534,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,P,Pendidikan,3848,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,Q,Kesehatan dan sosial,3894,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,20-24,"R,S,T,U",Jasa lainnya,3718,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,A,Pertanian,13472,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,B,Pertambangan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,C,Industri pengolahan,2898,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,F,Konstruksi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,G,Perdagangan,11587,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,H,Transportasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,I,Akomodasi dan makan minum,8144,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,J,Informasi dan komunikasi,1674,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,K,Keuangan,2428,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,L,Real estat,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,"M,N",Jasa perusahaan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,O,Administrasi pemerintahan,9071,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,P,Pendidikan,14611,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,Q,Kesehatan dan sosial,3086,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,25-29,"R,S,T,U",Jasa lainnya,2022,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,A,Pertanian,13819,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,B,Pertambangan,1500,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,C,Industri pengolahan,2968,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,D,Listrik dan gas,647,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,F,Konstruksi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,G,Perdagangan,24408,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,H,Transportasi,600,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,I,Akomodasi dan makan minum,9371,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,K,Keuangan,1410,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,L,Real estat,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,"M,N",Jasa perusahaan,1166,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,O,Administrasi pemerintahan,5556,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,P,Pendidikan,5549,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,Q,Kesehatan dan sosial,3328,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,30-34,"R,S,T,U",Jasa lainnya,1475,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,A,Pertanian,28716,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,B,Pertambangan,2272,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,C,Industri pengolahan,7202,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,F,Konstruksi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,G,Perdagangan,13217,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,H,Transportasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,I,Akomodasi dan makan minum,5663,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,K,Keuangan,666,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,L,Real estat,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,"M,N",Jasa perusahaan,1167,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,O,Administrasi pemerintahan,4133,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,P,Pendidikan,8384,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,Q,Kesehatan dan sosial,6022,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,35-39,"R,S,T,U",Jasa lainnya,5177,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,A,Pertanian,30061,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,B,Pertambangan,1366,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,C,Industri pengolahan,7151,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,F,Konstruksi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,G,Perdagangan,13632,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,H,Transportasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,I,Akomodasi dan makan minum,10208,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,K,Keuangan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,L,Real estat,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,"M,N",Jasa perusahaan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,O,Administrasi pemerintahan,1163,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,P,Pendidikan,7052,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,Q,Kesehatan dan sosial,1633,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,40-44,"R,S,T,U",Jasa lainnya,1430,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,A,Pertanian,33068,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,B,Pertambangan,1824,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,C,Industri pengolahan,9514,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,F,Konstruksi,825,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,G,Perdagangan,18555,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,H,Transportasi,247,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,I,Akomodasi dan makan minum,6184,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,J,Informasi dan komunikasi,272,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,K,Keuangan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,L,Real estat,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,"M,N",Jasa perusahaan,149,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,O,Administrasi pemerintahan,1907,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,P,Pendidikan,4167,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,Q,Kesehatan dan sosial,1557,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,45-49,"R,S,T,U",Jasa lainnya,1596,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,A,Pertanian,32185,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,B,Pertambangan,412,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,C,Industri pengolahan,3947,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,F,Konstruksi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,G,Perdagangan,9598,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,H,Transportasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,I,Akomodasi dan makan minum,8386,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,K,Keuangan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,L,Real estat,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,"M,N",Jasa perusahaan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,O,Administrasi pemerintahan,2582,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,P,Pendidikan,6151,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,Q,Kesehatan dan sosial,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,50-54,"R,S,T,U",Jasa lainnya,1848,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,A,Pertanian,26931,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,B,Pertambangan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,C,Industri pengolahan,2335,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,F,Konstruksi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,G,Perdagangan,5540,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,H,Transportasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,I,Akomodasi dan makan minum,5429,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,K,Keuangan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,L,Real estat,263,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,"M,N",Jasa perusahaan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,O,Administrasi pemerintahan,363,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,P,Pendidikan,4621,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,Q,Kesehatan dan sosial,575,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,55-59,"R,S,T,U",Jasa lainnya,1635,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,A,Pertanian,41018,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,B,Pertambangan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,C,Industri pengolahan,2079,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,F,Konstruksi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,G,Perdagangan,11086,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,H,Transportasi,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,I,Akomodasi dan makan minum,6721,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,J,Informasi dan komunikasi,582,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,K,Keuangan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,L,Real estat,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,"M,N",Jasa perusahaan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,O,Administrasi pemerintahan,0,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,P,Pendidikan,661,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,Q,Kesehatan dan sosial,1320,KBLI 2020,Jambi_Feb2024,62;63
+2024-02,Perempuan,60+,"R,S,T,U",Jasa lainnya,1273,KBLI 2020,Jambi_Feb2024,62;63
+2025-02,Laki-laki,15-19,A,Pertanian,19054,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,B,Pertambangan,2247,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,C,Industri pengolahan,3798,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,E,Air dan limbah,513,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,F,Konstruksi,2613,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,G,Perdagangan,6412,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,H,Transportasi,452,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,I,Akomodasi dan makan minum,2189,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,K,Keuangan,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,L,Real estat,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,"M,N",Jasa perusahaan,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,O,Administrasi pemerintahan,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,P,Pendidikan,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,Q,Kesehatan dan sosial,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,15-19,"R,S,T,U",Jasa lainnya,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,A,Pertanian,35475,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,B,Pertambangan,8307,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,C,Industri pengolahan,6277,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,F,Konstruksi,4536,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,G,Perdagangan,26798,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,H,Transportasi,7949,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,I,Akomodasi dan makan minum,2818,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,K,Keuangan,3696,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,L,Real estat,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,"M,N",Jasa perusahaan,1977,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,O,Administrasi pemerintahan,2938,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,P,Pendidikan,2433,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,Q,Kesehatan dan sosial,1379,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,20-24,"R,S,T,U",Jasa lainnya,1217,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,A,Pertanian,55656,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,B,Pertambangan,5647,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,C,Industri pengolahan,11836,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,E,Air dan limbah,832,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,F,Konstruksi,437,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,G,Perdagangan,30617,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,H,Transportasi,7697,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,I,Akomodasi dan makan minum,3194,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,J,Informasi dan komunikasi,1616,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,K,Keuangan,4343,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,L,Real estat,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,"M,N",Jasa perusahaan,2014,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,O,Administrasi pemerintahan,4568,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,P,Pendidikan,3864,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,Q,Kesehatan dan sosial,192,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,25-29,"R,S,T,U",Jasa lainnya,3546,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,A,Pertanian,61679,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,B,Pertambangan,11690,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,C,Industri pengolahan,14752,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,F,Konstruksi,1454,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,G,Perdagangan,19805,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,H,Transportasi,3765,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,I,Akomodasi dan makan minum,4330,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,J,Informasi dan komunikasi,931,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,K,Keuangan,3421,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,L,Real estat,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,"M,N",Jasa perusahaan,3073,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,O,Administrasi pemerintahan,11412,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,P,Pendidikan,6873,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,Q,Kesehatan dan sosial,895,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,30-34,"R,S,T,U",Jasa lainnya,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,A,Pertanian,70542,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,B,Pertambangan,9505,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,C,Industri pengolahan,16471,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,F,Konstruksi,5986,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,G,Perdagangan,16374,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,H,Transportasi,6798,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,I,Akomodasi dan makan minum,1937,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,K,Keuangan,1644,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,L,Real estat,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,"M,N",Jasa perusahaan,735,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,O,Administrasi pemerintahan,6628,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,P,Pendidikan,4769,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,Q,Kesehatan dan sosial,1541,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,35-39,"R,S,T,U",Jasa lainnya,2230,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,A,Pertanian,61866,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,B,Pertambangan,7164,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,C,Industri pengolahan,15947,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,D,Listrik dan gas,1475,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,F,Konstruksi,1304,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,G,Perdagangan,15819,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,H,Transportasi,5637,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,I,Akomodasi dan makan minum,2639,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,J,Informasi dan komunikasi,867,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,K,Keuangan,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,L,Real estat,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,"M,N",Jasa perusahaan,646,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,O,Administrasi pemerintahan,13708,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,P,Pendidikan,7189,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,Q,Kesehatan dan sosial,1051,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,40-44,"R,S,T,U",Jasa lainnya,3735,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,A,Pertanian,59774,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,B,Pertambangan,7604,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,C,Industri pengolahan,10696,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,F,Konstruksi,6202,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,G,Perdagangan,17041,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,H,Transportasi,6157,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,I,Akomodasi dan makan minum,4155,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,J,Informasi dan komunikasi,965,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,K,Keuangan,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,L,Real estat,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,"M,N",Jasa perusahaan,274,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,O,Administrasi pemerintahan,7866,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,P,Pendidikan,3749,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,Q,Kesehatan dan sosial,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,45-49,"R,S,T,U",Jasa lainnya,2656,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,A,Pertanian,58379,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,B,Pertambangan,1893,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,C,Industri pengolahan,5129,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,F,Konstruksi,11397,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,G,Perdagangan,13169,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,H,Transportasi,4258,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,I,Akomodasi dan makan minum,3847,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,K,Keuangan,551,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,L,Real estat,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,"M,N",Jasa perusahaan,509,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,O,Administrasi pemerintahan,5985,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,P,Pendidikan,4004,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,Q,Kesehatan dan sosial,318,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,50-54,"R,S,T,U",Jasa lainnya,3383,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,A,Pertanian,50522,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,B,Pertambangan,2239,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,C,Industri pengolahan,3223,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,F,Konstruksi,2959,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,G,Perdagangan,10593,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,H,Transportasi,2439,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,I,Akomodasi dan makan minum,910,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,K,Keuangan,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,L,Real estat,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,"M,N",Jasa perusahaan,244,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,O,Administrasi pemerintahan,2851,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,P,Pendidikan,4929,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,Q,Kesehatan dan sosial,1210,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,55-59,"R,S,T,U",Jasa lainnya,1437,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,A,Pertanian,96842,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,B,Pertambangan,776,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,C,Industri pengolahan,3109,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,F,Konstruksi,2693,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,G,Perdagangan,10073,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,H,Transportasi,2753,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,I,Akomodasi dan makan minum,3275,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,K,Keuangan,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,L,Real estat,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,"M,N",Jasa perusahaan,0,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,O,Administrasi pemerintahan,2207,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,P,Pendidikan,1612,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,Q,Kesehatan dan sosial,1257,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Laki-laki,60+,"R,S,T,U",Jasa lainnya,1481,KBLI 2020,Jambi_Feb2025,61;62
+2025-02,Perempuan,15-19,A,Pertanian,1620,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,B,Pertambangan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,C,Industri pengolahan,3369,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,F,Konstruksi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,G,Perdagangan,8732,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,H,Transportasi,720,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,I,Akomodasi dan makan minum,4338,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,K,Keuangan,853,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,L,Real estat,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,"M,N",Jasa perusahaan,707,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,O,Administrasi pemerintahan,624,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,P,Pendidikan,484,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,Q,Kesehatan dan sosial,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,15-19,"R,S,T,U",Jasa lainnya,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,A,Pertanian,6400,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,B,Pertambangan,825,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,C,Industri pengolahan,7571,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,F,Konstruksi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,G,Perdagangan,26566,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,H,Transportasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,I,Akomodasi dan makan minum,4951,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,K,Keuangan,4197,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,L,Real estat,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,"M,N",Jasa perusahaan,1803,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,O,Administrasi pemerintahan,2059,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,P,Pendidikan,9911,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,Q,Kesehatan dan sosial,1151,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,20-24,"R,S,T,U",Jasa lainnya,4257,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,A,Pertanian,14236,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,B,Pertambangan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,C,Industri pengolahan,5466,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,E,Air dan limbah,690,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,F,Konstruksi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,G,Perdagangan,19493,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,H,Transportasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,I,Akomodasi dan makan minum,1423,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,J,Informasi dan komunikasi,2409,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,K,Keuangan,1008,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,L,Real estat,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,"M,N",Jasa perusahaan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,O,Administrasi pemerintahan,4997,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,P,Pendidikan,16926,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,Q,Kesehatan dan sosial,4437,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,25-29,"R,S,T,U",Jasa lainnya,2279,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,A,Pertanian,16899,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,B,Pertambangan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,C,Industri pengolahan,3016,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,F,Konstruksi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,G,Perdagangan,19856,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,H,Transportasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,I,Akomodasi dan makan minum,5438,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,J,Informasi dan komunikasi,936,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,K,Keuangan,1914,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,L,Real estat,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,"M,N",Jasa perusahaan,1981,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,O,Administrasi pemerintahan,5514,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,P,Pendidikan,10888,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,Q,Kesehatan dan sosial,5452,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,30-34,"R,S,T,U",Jasa lainnya,2337,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,A,Pertanian,19171,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,B,Pertambangan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,C,Industri pengolahan,11253,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,F,Konstruksi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,G,Perdagangan,13820,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,H,Transportasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,I,Akomodasi dan makan minum,5162,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,K,Keuangan,615,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,L,Real estat,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,"M,N",Jasa perusahaan,1608,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,O,Administrasi pemerintahan,3709,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,P,Pendidikan,12951,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,Q,Kesehatan dan sosial,5148,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,35-39,"R,S,T,U",Jasa lainnya,3811,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,A,Pertanian,27399,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,B,Pertambangan,803,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,C,Industri pengolahan,5209,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,E,Air dan limbah,531,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,F,Konstruksi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,G,Perdagangan,19162,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,H,Transportasi,789,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,I,Akomodasi dan makan minum,4079,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,K,Keuangan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,L,Real estat,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,"M,N",Jasa perusahaan,646,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,O,Administrasi pemerintahan,4890,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,P,Pendidikan,11607,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,Q,Kesehatan dan sosial,2972,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,40-44,"R,S,T,U",Jasa lainnya,2549,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,A,Pertanian,30063,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,B,Pertambangan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,C,Industri pengolahan,6432,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,F,Konstruksi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,G,Perdagangan,13034,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,H,Transportasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,I,Akomodasi dan makan minum,5342,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,K,Keuangan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,L,Real estat,568,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,"M,N",Jasa perusahaan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,O,Administrasi pemerintahan,4703,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,P,Pendidikan,7623,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,Q,Kesehatan dan sosial,982,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,45-49,"R,S,T,U",Jasa lainnya,5867,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,A,Pertanian,26006,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,B,Pertambangan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,C,Industri pengolahan,8116,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,F,Konstruksi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,G,Perdagangan,12852,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,H,Transportasi,680,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,I,Akomodasi dan makan minum,10214,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,K,Keuangan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,L,Real estat,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,"M,N",Jasa perusahaan,579,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,O,Administrasi pemerintahan,6275,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,P,Pendidikan,2875,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,Q,Kesehatan dan sosial,557,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,50-54,"R,S,T,U",Jasa lainnya,1640,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,A,Pertanian,17739,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,B,Pertambangan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,C,Industri pengolahan,1874,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,F,Konstruksi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,G,Perdagangan,5203,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,H,Transportasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,I,Akomodasi dan makan minum,5115,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,K,Keuangan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,L,Real estat,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,"M,N",Jasa perusahaan,1292,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,O,Administrasi pemerintahan,2007,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,P,Pendidikan,3932,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,Q,Kesehatan dan sosial,1832,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,55-59,"R,S,T,U",Jasa lainnya,2305,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,A,Pertanian,38163,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,B,Pertambangan,307,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,C,Industri pengolahan,3627,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,D,Listrik dan gas,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,E,Air dan limbah,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,F,Konstruksi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,G,Perdagangan,8631,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,H,Transportasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,I,Akomodasi dan makan minum,4206,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,J,Informasi dan komunikasi,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,K,Keuangan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,L,Real estat,778,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,"M,N",Jasa perusahaan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,O,Administrasi pemerintahan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,P,Pendidikan,0,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,Q,Kesehatan dan sosial,2245,KBLI 2020,Jambi_Feb2025,63;64
+2025-02,Perempuan,60+,"R,S,T,U",Jasa lainnya,2560,KBLI 2020,Jambi_Feb2025,63;64

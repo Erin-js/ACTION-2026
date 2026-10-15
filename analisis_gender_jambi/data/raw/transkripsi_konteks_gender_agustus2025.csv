@@ -1,0 +1,24 @@
+﻿periode,indikator,jenis_kelamin,nilai,satuan,penyebut,sumber,halaman_pdf
+2025-08,tpak,Laki-laki,85.6,persen,PUK kelompok,BPS_GENDER_JAMBI_2025,33
+2025-08,tpt,Laki-laki,4.04,persen,AK kelompok,BPS_GENDER_JAMBI_2025,42
+2025-08,pekerja_tidak_penuh,Laki-laki,31.88,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,44
+2025-08,paruh,Laki-laki,22.01,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,46
+2025-08,under,Laki-laki,9.87,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,47
+2025-08,berusaha_sendiri,Laki-laki,21.01,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,56
+2025-08,dibantu_tidak_tetap,Laki-laki,14.53,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,56
+2025-08,pekerja_keluarga,Laki-laki,5.65,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,56
+2025-08,pekerja_bebas,Laki-laki,13.3,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,56
+2025-08,jam_kurang15,Laki-laki,9.19,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,49
+2025-08,tpak,Perempuan,50.63,persen,PUK kelompok,BPS_GENDER_JAMBI_2025,33
+2025-08,tpt,Perempuan,4.63,persen,AK kelompok,BPS_GENDER_JAMBI_2025,42
+2025-08,pekerja_tidak_penuh,Perempuan,44.06,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,44
+2025-08,paruh,Perempuan,35.85,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,46
+2025-08,under,Perempuan,8.21,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,47
+2025-08,berusaha_sendiri,Perempuan,20.2,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,56
+2025-08,dibantu_tidak_tetap,Perempuan,11.93,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,56
+2025-08,pekerja_keluarga,Perempuan,24.33,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,56
+2025-08,pekerja_bebas,Perempuan,5.68,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,56
+2025-08,jam_kurang15,Perempuan,17.04,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,49
+2025-08,mengurus_rt_per_puk,Perempuan,38.18,persen,PUK perempuan,BPS_GENDER_JAMBI_2025,34
+2025-08,tiga_status_resmi,Laki-laki,41.19,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,56
+2025-08,tiga_status_resmi,Perempuan,56.45,persen,Bekerja kelompok,BPS_GENDER_JAMBI_2025,56

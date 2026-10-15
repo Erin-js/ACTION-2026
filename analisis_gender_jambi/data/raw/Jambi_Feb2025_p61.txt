@@ -1,0 +1,34 @@
+Tabel 3.3.2 Jumlah Penduduk Laki-Laki Berumur 15 Tahun ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Kelompok Umur dan
+Lapangan Pekerjaan Utama di Provinsi Jambi, Februari 2025
+Male Population 15 Years of Age and Over Worked During the Previous Week by Age Group and Main Industry in Jambi Province,
+February 2025
+Lapangan Pekerjaan Utama/Main Industry1
+Kelompok
+Umur
+Age Group
+A B C D E F G H I
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+15–19 19.054 2.247 3.798 – 513 2.613 6.412 452 2.189
+20–24 35.475 8.307 6.277 – – 4.536 26.798 7.949 2.818
+25–29 55.656 5.647 11.836 – 832 437 30.617 7.697 3.194
+30–34 61.679 11.690 14.752 – – 1.454 19.805 3.765 4.330
+35–39 70.542 9.505 16.471 – – 5.986 16.374 6.798 1.937
+40–44 61.866 7.164 15.947 1.475 – 1.304 15.819 5.637 2.639
+45–49 59.774 7.604 10.696 – – 6.202 17.041 6.157 4.155
+50–54 58.379 1.893 5.129 – – 11.397 13.169 4.258 3.847
+55–59 50.522 2.239 3.223 – – 2.959 10.593 2.439 910
+60 + 96.842 776 3.109 – – 2.693 10.073 2.753 3.275
+Jumlah/ Total 569.789 57.072 91.238 1.475 1.345 39.581 166.701 47.905 29.294
+Catatan/Note:
+1 A Pertanian, Kehutanan dan Perikanan
+B Pertambangan dan Penggalian
+C Industri Pengolahan
+D Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin
+E Treatment Air, Treatment Air Limbah, Treatment dan Pemulihan Material Sampah, dan Aktivitas Remediasi
+F Konstruksi
+G Perdagangan Besar dan Eceran; Reparasi dan Perawatan Mobil dan Sepeda Motor
+H Pengangkutan dan Perdagangan
+I Penyediaan Akomodasi dan Penyediaan Makan Minum
+Penduduk Bekerja
+23
+Worker

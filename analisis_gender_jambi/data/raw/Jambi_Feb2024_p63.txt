@@ -1,0 +1,32 @@
+Lanjutan Tabel 4.2.3/Table Continued 4.2.3
+Lapangan Pekerjaan Utama/Main Industry 1)
+Kelompok
+Jumlah
+Umur
+Total
+Age Group
+J K L M,N O P Q R,S,T,U
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+15–19 – 700 – 362 809 1.651 – 779 13.747
+20–24 5.341 – – – 7.534 3.848 3.894 3.718 60.808
+25–29 1.674 2.428 – – 9.071 14.611 3.086 2.022 68.993
+30–34 – 1.410 – 1.166 5.556 5.549 3.328 1.475 71.797
+35–39 – 666 – 1.167 4.133 8.384 6.022 5.177 82.619
+40–44 – – – – 1.163 7.052 1.633 1.430 73.696
+45–49 272 – – 149 1.907 4.167 1.557 1.596 79.865
+50–54 – – – – 2.582 6.151 – 1.848 65.109
+55–59 – – 263 – 363 4.621 575 1.635 47.692
+60 + 582 – – – – 661 1.320 1.273 64.740
+Jumlah/ Total 7.869 5.204 263 2.844 33.118 56.695 21.415 20.953 629.066
+Catatan/Note:
+1 J Informasi dan Komunikasi
+K Jasa Keuangan dan Asuransi
+L Real Estat
+M,N Jasa Perusahaan
+O Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib
+P Jasa Pendidikan
+Q Jasa Kesehatan dan Kegiatan Sosial
+R,S,T,U Jasa Lainnya
+Pengangguran
+29
+Unemployment

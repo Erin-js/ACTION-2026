@@ -1,0 +1,43 @@
+﻿periode,indikator,jenis_kelamin,nilai,satuan,penyebut,sumber,halaman_pdf
+2024-08,tpak,Laki-laki,86.04,persen,PUK jenis kelamin,BPS_GENDER_JAMBI_2024,33
+2024-08,epr,Laki-laki,83.73,persen,PUK jenis kelamin,BPS_GENDER_JAMBI_2024,37
+2024-08,tpt,Laki-laki,2.68,persen,AK jenis kelamin,BPS_GENDER_JAMBI_2024,42
+2024-08,pekerja_tidak_penuh,Laki-laki,28.67,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,44
+2024-08,under,Laki-laki,8.52,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,48
+2024-08,informal,Laki-laki,54.48,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,56
+2024-08,tpak,Perempuan,51.17,persen,PUK jenis kelamin,BPS_GENDER_JAMBI_2024,33
+2024-08,epr,Perempuan,47.27,persen,PUK jenis kelamin,BPS_GENDER_JAMBI_2024,37
+2024-08,tpt,Perempuan,7.62,persen,AK jenis kelamin,BPS_GENDER_JAMBI_2024,42
+2024-08,pekerja_tidak_penuh,Perempuan,43.66,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,44
+2024-08,under,Perempuan,8.25,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,48
+2024-08,informal,Perempuan,65.43,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,56
+2024-08,berusaha_sendiri,Laki-laki,23.83,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,57
+2024-08,dibantu_tidak_tetap,Laki-laki,14.84,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,57
+2024-08,pekerja_bebas,Laki-laki,10.43,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,57
+2024-08,pekerja_keluarga,Laki-laki,5.37,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,57
+2024-08,berusaha_sendiri,Perempuan,23.7,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,57
+2024-08,dibantu_tidak_tetap,Perempuan,10.17,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,57
+2024-08,pekerja_bebas,Perempuan,4.0,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,57
+2024-08,pekerja_keluarga,Perempuan,27.56,persen,Bekerja jenis kelamin,BPS_GENDER_JAMBI_2024,57
+2024-08,epr_kabupaten,Laki-laki,88.08,persen,PUK jenis kelamin di Kerinci,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Perempuan,63.38,persen,PUK jenis kelamin di Kerinci,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Laki-laki,84.92,persen,PUK jenis kelamin di Merangin,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Perempuan,57.96,persen,PUK jenis kelamin di Merangin,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Laki-laki,84.8,persen,PUK jenis kelamin di Sarolangun,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Perempuan,43.88,persen,PUK jenis kelamin di Sarolangun,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Laki-laki,83.07,persen,PUK jenis kelamin di Batang Hari,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Perempuan,37.43,persen,PUK jenis kelamin di Batang Hari,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Laki-laki,87.7,persen,PUK jenis kelamin di Muaro Jambi,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Perempuan,44.38,persen,PUK jenis kelamin di Muaro Jambi,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Laki-laki,87.72,persen,PUK jenis kelamin di Tanjung Jabung Timur,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Perempuan,39.74,persen,PUK jenis kelamin di Tanjung Jabung Timur,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Laki-laki,83.71,persen,PUK jenis kelamin di Tanjung Jabung Barat,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Perempuan,46.3,persen,PUK jenis kelamin di Tanjung Jabung Barat,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Laki-laki,85.65,persen,PUK jenis kelamin di Tebo,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Perempuan,48.32,persen,PUK jenis kelamin di Tebo,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Laki-laki,83.28,persen,PUK jenis kelamin di Bungo,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Perempuan,45.95,persen,PUK jenis kelamin di Bungo,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Laki-laki,77.4,persen,PUK jenis kelamin di Kota Jambi,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Perempuan,45.57,persen,PUK jenis kelamin di Kota Jambi,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Laki-laki,76.24,persen,PUK jenis kelamin di Kota Sungai Penuh,BPS_GENDER_JAMBI_2024,38
+2024-08,epr_kabupaten,Perempuan,50.79,persen,PUK jenis kelamin di Kota Sungai Penuh,BPS_GENDER_JAMBI_2024,38

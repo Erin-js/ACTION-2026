@@ -1,0 +1,34 @@
+Tabel 3.3.3 Jumlah Penduduk Perempuan Berumur 15 Tahun ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Kelompok Umur
+dan Lapangan Pekerjaan Utama di Provinsi Jambi, Februari 2025
+Female Population 15 Years of Age and Over Worked During the Previous Week by Age Group and Main Industry in Jambi
+Province, February 2025
+Lapangan Pekerjaan Utama/Main Industry1
+Kelompok
+Umur
+Age Group
+A B C D E F G H I
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+15–19 1.620 – 3.369 – – – 8.732 720 4.338
+20–24 6.400 825 7.571 – – – 26.566 – 4.951
+25–29 14.236 – 5.466 – 690 – 19.493 – 1.423
+30–34 16.899 – 3.016 – – – 19.856 – 5.438
+35–39 19.171 – 11.253 – – – 13.820 – 5.162
+40–44 27.399 803 5.209 – 531 – 19.162 789 4.079
+45–49 30.063 – 6.432 – – – 13.034 – 5.342
+50–54 26.006 – 8.116 – – – 12.852 680 10.214
+55–59 17.739 – 1.874 – – – 5.203 – 5.115
+60 + 38.163 307 3.627 – – – 8.631 – 4.206
+Jumlah/ Total 197.696 1.935 55.933 – 1.221 – 147.349 2.189 50.268
+Catatan/Note:
+1 A Pertanian, Kehutanan dan Perikanan
+B Pertambangan dan Penggalian
+C Industri Pengolahan
+D Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin
+E Treatment Air, Treatment Air Limbah, Treatment dan Pemulihan Material Sampah, dan Aktivitas Remediasi
+F Konstruksi
+G Perdagangan Besar dan Eceran; Reparasi dan Perawatan Mobil dan Sepeda Motor
+H Pengangkutan dan Perdagangan
+I Penyediaan Akomodasi dan Penyediaan Makan Minum
+Penduduk Bekerja
+25
+Worker

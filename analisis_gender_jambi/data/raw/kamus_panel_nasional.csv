@@ -1,0 +1,75 @@
+﻿variabel,satuan,penyebut,definisi,sumber,halaman_pdf,halaman_cetak,metode
+puk_laki,orang,-,Penduduk usia kerja 15 tahun ke atas laki-laki,BPS_IPTK_2026,161,133,Angka tabel BPS
+puk_perempuan,orang,-,Penduduk usia kerja 15 tahun ke atas perempuan,BPS_IPTK_2026,161,133,Angka tabel BPS
+puk,orang,-,Penduduk usia kerja 15 tahun ke atas total,BPS_IPTK_2026,161,133,Angka tabel BPS
+puk_laki,orang,-,Penduduk usia kerja 15 tahun ke atas laki-laki,BPS_IPTK_2026,162,134,Angka tabel BPS
+puk_perempuan,orang,-,Penduduk usia kerja 15 tahun ke atas perempuan,BPS_IPTK_2026,162,134,Angka tabel BPS
+puk,orang,-,Penduduk usia kerja 15 tahun ke atas total,BPS_IPTK_2026,162,134,Angka tabel BPS
+ak_laki,orang,-,Angkatan kerja laki-laki,BPS_IPTK_2026,164,136,Angka tabel BPS
+ak_perempuan,orang,-,Angkatan kerja perempuan,BPS_IPTK_2026,164,136,Angka tabel BPS
+ak,orang,-,Angkatan kerja total,BPS_IPTK_2026,164,136,Angka tabel BPS
+ak_laki,orang,-,Angkatan kerja laki-laki,BPS_IPTK_2026,165,137,Angka tabel BPS
+ak_perempuan,orang,-,Angkatan kerja perempuan,BPS_IPTK_2026,165,137,Angka tabel BPS
+ak,orang,-,Angkatan kerja total,BPS_IPTK_2026,165,137,Angka tabel BPS
+bekerja_laki,orang,-,Penduduk bekerja laki-laki,BPS_IPTK_2026,170,142,Angka tabel BPS
+bekerja_perempuan,orang,-,Penduduk bekerja perempuan,BPS_IPTK_2026,170,142,Angka tabel BPS
+bekerja,orang,-,Penduduk bekerja total,BPS_IPTK_2026,170,142,Angka tabel BPS
+bekerja_laki,orang,-,Penduduk bekerja laki-laki,BPS_IPTK_2026,171,143,Angka tabel BPS
+bekerja_perempuan,orang,-,Penduduk bekerja perempuan,BPS_IPTK_2026,171,143,Angka tabel BPS
+bekerja,orang,-,Penduduk bekerja total,BPS_IPTK_2026,171,143,Angka tabel BPS
+tpak_laki,persen,Penduduk usia kerja sesuai jenis kelamin,Angkatan kerja dibagi penduduk usia kerja laki-laki,BPS_IPTK_2026,169,141,Angka tabel BPS
+tpak_perempuan,persen,Penduduk usia kerja sesuai jenis kelamin,Angkatan kerja dibagi penduduk usia kerja perempuan,BPS_IPTK_2026,169,141,Angka tabel BPS
+tpak,persen,Penduduk usia kerja sesuai jenis kelamin,Angkatan kerja dibagi penduduk usia kerja total,BPS_IPTK_2026,169,141,Angka tabel BPS
+epr_laki,persen,Penduduk usia kerja sesuai jenis kelamin,Bekerja dibagi penduduk usia kerja laki-laki,BPS_IPTK_2026,172,144,Angka tabel BPS
+epr_perempuan,persen,Penduduk usia kerja sesuai jenis kelamin,Bekerja dibagi penduduk usia kerja perempuan,BPS_IPTK_2026,172,144,Angka tabel BPS
+epr,persen,Penduduk usia kerja sesuai jenis kelamin,Bekerja dibagi penduduk usia kerja total,BPS_IPTK_2026,172,144,Angka tabel BPS
+tpt_laki,persen,Angkatan kerja sesuai jenis kelamin,Penganggur dibagi angkatan kerja laki-laki,BPS_IPTK_2026,185,157,Angka tabel BPS
+tpt_perempuan,persen,Angkatan kerja sesuai jenis kelamin,Penganggur dibagi angkatan kerja perempuan,BPS_IPTK_2026,185,157,Angka tabel BPS
+tpt,persen,Angkatan kerja sesuai jenis kelamin,Penganggur dibagi angkatan kerja total,BPS_IPTK_2026,185,157,Angka tabel BPS
+upah_laki,rupiah/bulan,Buruh/karyawan/pegawai,Rata-rata upah/gaji bersih sebulan buruh/karyawan/pegawai laki-laki,BPS_IPTK_2026,192,164,Angka tabel BPS
+upah_perempuan,rupiah/bulan,Buruh/karyawan/pegawai,Rata-rata upah/gaji bersih sebulan buruh/karyawan/pegawai perempuan,BPS_IPTK_2026,192,164,Angka tabel BPS
+upah,rupiah/bulan,Buruh/karyawan/pegawai,Rata-rata upah/gaji bersih sebulan buruh/karyawan/pegawai total,BPS_IPTK_2026,192,164,Angka tabel BPS
+buruh,persen,Penduduk bekerja,Buruh/karyawan/pegawai,BPS_IPTK_2026,173,145,Angka tabel BPS
+berusaha_tetap,persen,Penduduk bekerja,Berusaha dibantu buruh tetap,BPS_IPTK_2026,173,145,Angka tabel BPS
+berusaha_tidak_tetap,persen,Penduduk bekerja,Berusaha dibantu buruh tidak tetap/tidak dibayar,BPS_IPTK_2026,173,145,Angka tabel BPS
+berusaha_sendiri,persen,Penduduk bekerja,Berusaha sendiri,BPS_IPTK_2026,174,146,Angka tabel BPS
+pekerja_bebas,persen,Penduduk bekerja,Pekerja bebas pertanian dan nonpertanian,BPS_IPTK_2026,174,146,Angka tabel BPS
+pekerja_keluarga,persen,Penduduk bekerja,Pekerja keluarga/tidak dibayar,BPS_IPTK_2026,174,146,Angka tabel BPS
+paruh_orang,orang,-,"Pekerja <35 jam, tidak mencari dan tidak bersedia menerima pekerjaan lain",BPS_IPTK_2026,180,152,Angka tabel BPS
+paruh,persen,Penduduk bekerja,Tingkat pekerja paruh waktu,BPS_IPTK_2026,180,152,Angka tabel BPS
+share_perempuan_paruh,persen,Seluruh pekerja paruh waktu,Komposisi perempuan di antara pekerja paruh waktu; bukan tingkat paruh waktu perempuan,BPS_IPTK_2026,180,152,Angka tabel BPS
+jam0,persen,Penduduk bekerja,Sementara tidak bekerja,BPS_IPTK_2026,182,154,Angka tabel BPS
+jam1_34,persen,Penduduk bekerja,Bekerja 1–34 jam seminggu,BPS_IPTK_2026,182,154,Angka tabel BPS
+jam35_48,persen,Penduduk bekerja,Bekerja 35–48 jam seminggu,BPS_IPTK_2026,183,155,Angka tabel BPS
+jam49plus,persen,Penduduk bekerja,Bekerja minimal 49 jam seminggu; bukan bukti pelanggaran hukum,BPS_IPTK_2026,183,155,Angka tabel BPS
+formal,persen,Penduduk bekerja,Buruh/karyawan/pegawai dan berusaha dibantu buruh tetap,BPS_IPTK_2026,184,156,Angka tabel BPS
+informal,persen,Penduduk bekerja,Status pekerjaan selain dua status formal BPS; bukan ukuran langsung kelayakan,BPS_IPTK_2026,184,156,Angka tabel BPS
+tpt_edu_dasar,persen,Angkatan kerja kelompok pendidikan,TPT dalam kelompok pendidikan dasar,BPS_IPTK_2026,186,158,Angka tabel BPS
+tpt_edu_menengah,persen,Angkatan kerja kelompok pendidikan,TPT dalam kelompok pendidikan menengah,BPS_IPTK_2026,186,158,Angka tabel BPS
+tpt_edu_tinggi,persen,Angkatan kerja kelompok pendidikan,TPT dalam kelompok pendidikan tinggi,BPS_IPTK_2026,186,158,Angka tabel BPS
+share_u_edu_dasar,persen,Seluruh penganggur,Komposisi pendidikan di antara penganggur dasar,BPS_IPTK_2026,187,159,Angka tabel BPS
+share_u_edu_menengah,persen,Seluruh penganggur,Komposisi pendidikan di antara penganggur menengah,BPS_IPTK_2026,187,159,Angka tabel BPS
+share_u_edu_tinggi,persen,Seluruh penganggur,Komposisi pendidikan di antara penganggur tinggi,BPS_IPTK_2026,187,159,Angka tabel BPS
+share_under_edu_dasar,persen,Seluruh setengah penganggur,Komposisi pendidikan di antara setengah penganggur dasar,BPS_IPTK_2026,188,160,Angka tabel BPS
+share_under_edu_menengah,persen,Seluruh setengah penganggur,Komposisi pendidikan di antara setengah penganggur menengah,BPS_IPTK_2026,188,160,Angka tabel BPS
+share_under_edu_tinggi,persen,Seluruh setengah penganggur,Komposisi pendidikan di antara setengah penganggur tinggi,BPS_IPTK_2026,188,160,Angka tabel BPS
+share_ak_edu_dasar,persen,Seluruh angkatan kerja,Komposisi pendidikan di antara angkatan kerja dasar,BPS_IPTK_2026,191,163,Angka tabel BPS
+share_ak_edu_menengah,persen,Seluruh angkatan kerja,Komposisi pendidikan di antara angkatan kerja menengah,BPS_IPTK_2026,191,163,Angka tabel BPS
+share_ak_edu_tinggi,persen,Seluruh angkatan kerja,Komposisi pendidikan di antara angkatan kerja tinggi,BPS_IPTK_2026,191,163,Angka tabel BPS
+bak,orang,-,Bukan angkatan kerja; bukan otomatis penganggur tersembunyi,BPS_IPTK_2026,189,161,Angka tabel BPS
+tpt_se,persen poin,-,Standard error TPT Februari 2026,BPS_IPTK_2026,211,183,Angka tabel BPS
+tpt_rse,persen,Estimasi TPT,Relative standard error TPT,BPS_IPTK_2026,211,183,Angka tabel BPS
+tpt_ci_lower,persen,Angkatan kerja,Batas bawah selang kepercayaan TPT yang dipublikasikan BPS,BPS_IPTK_2026,211,183,Angka tabel BPS
+tpt_ci_upper,persen,Angkatan kerja,Batas atas selang kepercayaan TPT yang dipublikasikan BPS,BPS_IPTK_2026,211,183,Angka tabel BPS
+penganggur,orang,-,ak - bekerja,Turunan dari BPS; lihat sumber variabel asal,,,ak - bekerja
+under_turunan,persen,Penduduk bekerja,jam1_34 - paruh; selisih persentase dibulatkan,Turunan dari BPS; lihat sumber variabel asal,,,jam1_34 - paruh; selisih persentase dibulatkan
+under,persen,Penduduk bekerja,Angka resmi untuk Indonesia dan Sulbar Februari; turunan untuk lainnya; lihat status_under,Turunan dari BPS; lihat sumber variabel asal,,,Angka resmi untuk Indonesia dan Sulbar Februari; turunan untuk lainnya; lihat status_under
+under_estimasi_orang,orang,-,under/100 × bekerja; estimasi bukan jumlah resmi,Turunan dari BPS; lihat sumber variabel asal,,,under/100 × bekerja; estimasi bukan jumlah resmi
+gap_tpak_gender,persen poin,-,tpak_laki - tpak_perempuan,Turunan dari BPS; lihat sumber variabel asal,,,tpak_laki - tpak_perempuan
+gap_upah_gender_persen,persen,Upah rata-rata buruh laki-laki,100 × (upah laki-laki - perempuan)/laki-laki; gap kasar tanpa penyesuaian,Turunan dari BPS; lihat sumber variabel asal,,,100 × (upah laki-laki - perempuan)/laki-laki; gap kasar tanpa penyesuaian
+beban_u_under_persen_ak,persen,Angkatan kerja,"100 × (penganggur + under/100 × bekerja)/ak; proksi turunan, bukan LU2 resmi",Turunan dari BPS; lihat sumber variabel asal,,,"100 × (penganggur + under/100 × bekerja)/ak; proksi turunan, bukan LU2 resmi"
+berat_penyebut,proporsi,Penduduk usia kerja,ak / puk,Turunan dari BPS; lihat sumber variabel asal,,,ak / puk
+provinsi,teks,-,Nama provinsi; Indonesia merupakan agregat nasional,Identitas dan metadata penyiapan data,,,Metadata
+periode,teks,-,Bulan referensi survei dalam format YYYY-MM,Identitas dan metadata penyiapan data,,,Metadata
+wilayah,teks,-,Provinsi atau Nasional; pisahkan Indonesia dari analisis 38 provinsi,Identitas dan metadata penyiapan data,,,Metadata
+status_under,teks,-,Status angka under: resmi terverifikasi atau turunan; tidak disamakan tingkat ketepatannya,Identitas dan metadata penyiapan data,,,Metadata
