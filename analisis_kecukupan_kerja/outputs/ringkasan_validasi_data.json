@@ -1,0 +1,15 @@
+{
+  "baris_panel": 117,
+  "provinsi": 38,
+  "periode": 3,
+  "kolom_panel": 65,
+  "jumlah_insight": 62,
+  "jumlah_visualisasi": 26,
+  "rekonsiliasi_lulus": 33,
+  "sumber_numerik_utama": [
+    "BPS_IPTK_2026",
+    "BPS_SULBAR_2026"
+  ],
+  "angka_sdi_terkini_dipakai": false,
+  "periode_utama": "2026-02"
+}
