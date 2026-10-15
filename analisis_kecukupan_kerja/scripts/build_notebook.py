@@ -89,6 +89,29 @@ def finish(fig, name, title, unit='Persen', source='BPS IPTK Februari 2026; Sake
     plt.show()
     plt.close(fig)
 
+def label_points(ax, frame, x, y):
+    ax.figure.canvas.draw()
+    renderer=ax.figure.canvas.get_renderer()
+    boxes=[]
+    area=ax.get_window_extent(renderer)
+    offsets=[(5,4),(5,14),(5,-12),(-5,4),(-5,14),(-5,-12),(5,25),(5,-24),(-5,25),(-5,-24)]
+    for p,r in frame.sort_values(y,ascending=False).iterrows():
+        best=None
+        for dx,dy in offsets:
+            ann=ax.annotate(p,(r[x],r[y]),xytext=(dx,dy),textcoords='offset points',fontsize=7,
+                            ha='left' if dx>0 else 'right',va='bottom' if dy>=0 else 'top')
+            box=ann.get_window_extent(renderer).expanded(1.03,1.16)
+            score=sum(max(0,min(box.x1,b.x1)-max(box.x0,b.x0))*max(0,min(box.y1,b.y1)-max(box.y0,b.y0)) for b in boxes)
+            score+=1000*(box.x0<area.x0 or box.x1>area.x1 or box.y0<area.y0 or box.y1>area.y1)
+            if best is None or score<best[0]:best=(score,dx,dy)
+            ann.remove()
+            if score==0:break
+        _,dx,dy=best
+        ann=ax.annotate(p,(r[x],r[y]),xytext=(dx,dy),textcoords='offset points',fontsize=7,
+                        ha='left' if dx>0 else 'right',va='bottom' if dy>=0 else 'top',
+                        arrowprops={'arrowstyle':'-','color':'#b5bcc5','lw':.4} if abs(dy)>10 else None)
+        boxes.append(ann.get_window_extent(renderer).expanded(1.03,1.16))
+
 def ranked(field, title, unit='Persen', ref=None, data=None, name=None):
     d = now if data is None else data
     s = d[field].sort_values()
@@ -225,7 +248,7 @@ fig,ax=plt.subplots(figsize=(10,11))
 d=now.sort_values('tpt')
 ax.errorbar(d.tpt,range(len(d)),xerr=np.vstack([(d.tpt-d.tpt_ci_lower).clip(lower=0),(d.tpt_ci_upper-d.tpt).clip(lower=0)]),fmt='o',color=C['teal'],ecolor=C['gray'],capsize=2)
 ax.set_yticks(range(len(d)),d.index);ax.axvspan(n.tpt_ci_lower,n.tpt_ci_upper,color=C['orange'],alpha=.25,label='Selang nasional')
-ax.set_xlabel('TPT (%) dan selang kepercayaan publikasi BPS');ax.legend()
+ax.set_xlabel('TPT (%) dan selang kepercayaan 95% publikasi BPS');ax.legend()
 finish(fig,'05_tpt_selang_kepercayaan','Peringkat estimasi titik tidak selalu berarti perbedaan yang pasti','Persen')
 low = now.tpt < n.tpt
 insight('TPT',f'{int(low.sum())} provinsi memiliki TPT di bawah {fmt(n.tpt)}%, dengan nilai terendah {fmt(now.tpt.min())}% di {now.tpt.idxmin()}.',limit='“Rendah” berarti di bawah angka Indonesia, bukan ambang resmi BPS dan bukan bukti kesejahteraan tinggi.')
@@ -253,8 +276,7 @@ fig,ax=plt.subplots(figsize=(12,8))
 for label,g in now.groupby('kelompok_jam'):
     ax.scatter(g.tpt,g.under,s=45+g.bekerja/1e6*12,alpha=.75,label=f'{label} ({len(g)})')
 ax.axvline(n.tpt,ls='--',color='gray');ax.axhline(n.under,ls='--',color='gray')
-for p in now.index:
-    ax.annotate(p,(now.loc[p,'tpt'],now.loc[p,'under']),xytext=(4,3),textcoords='offset points',fontsize=7)
+label_points(ax,now,'tpt','under')
 ax.set(xlabel='TPT (% angkatan kerja)',ylabel='Setengah pengangguran (% bekerja)');ax.legend(fontsize=8)
 finish(fig,'08_kuadran_tpt_under','TPT rendah dapat berdampingan dengan kebutuhan kerja tambahan','Persen; ukuran titik = jumlah bekerja')
 candidates=now.loc[low & (now.under>n.under)].sort_values('under',ascending=False)
@@ -378,7 +400,7 @@ code('''
 fig,ax=plt.subplots(figsize=(11,8))
 ax.scatter(delta.d_tpt,delta.d_under,s=55,color=C['teal'])
 ax.axvline(0,color='gray');ax.axhline(0,color='gray')
-for p in now.index:ax.annotate(p,(delta.loc[p,'d_tpt'],delta.loc[p,'d_under']),xytext=(3,3),textcoords='offset points',fontsize=7)
+label_points(ax,delta,'d_tpt','d_under')
 ax.set(xlabel='Perubahan TPT (pp)',ylabel='Perubahan setengah pengangguran (pp)')
 finish(fig,'21_perubahan_tpt_under','Perubahan TPT dan kecukupan jam tidak selalu searah','Persen poin',period='Feb 2025–Feb 2026')
 mixed=delta.query('d_tpt < 0 and d_under > 0.02')
@@ -439,7 +461,7 @@ code('''
 shortlist=now.loc[[p for p in ['Sulawesi Barat','Nusa Tenggara Timur','Nusa Tenggara Barat','Bali','Papua Pegunungan'] if p in now.index],['tpt','under','informal','pekerja_keluarga','paruh','jam49plus','upah','tpt_rse']]
 view(shortlist)
 insight('Pemilihan wilayah','Sulawesi Barat dipilih untuk pendalaman karena memiliki TPT di bawah nasional, estimasi titik setengah pengangguran tinggi, dan rilis BPS yang menyediakan angka resmi serta rincian kelompok.',kind='Keputusan analitis',limit='Pemilihan berbasis pertanyaan riset dan ketersediaan bukti; bukan penetapan provinsi dengan pekerjaan terburuk.')
-insight('Pemilihan wilayah','NTT memberi pembanding struktur informal/pekerja keluarga; Bali memberi pembanding TPT rendah dengan kecukupan jam berbeda; Papua Pegunungan menguji kekeliruan menyamakan TPT paling rendah dengan pekerjaan memadai.',kind='Usulan pendalaman',limit='Pembanding dipilih untuk kontras deskriptif; belum merupakan evaluasi kebijakan antarwilayah.')
+insight('Pemilihan wilayah','NTT memberi pembanding struktur informal/pekerja keluarga; Bali memberi pembanding TPT rendah dengan kecukupan jam berbeda; Papua Pegunungan menguji kekeliruan menyamakan TPT sangat rendah dengan pekerjaan memadai.',kind='Usulan pendalaman',limit='Pembanding dipilih untuk kontras deskriptif; belum merupakan evaluasi kebijakan antarwilayah.')
 ''')
 md('### 18. Sulawesi Barat: perbaikan agregat dan kebutuhan kerja tambahan')
 code('''

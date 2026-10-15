@@ -69,3 +69,7 @@ gap_tpak_gender,persen poin,-,tpak_laki - tpak_perempuan,Turunan dari BPS; lihat
 gap_upah_gender_persen,persen,Upah rata-rata buruh laki-laki,100 × (upah laki-laki - perempuan)/laki-laki; gap kasar tanpa penyesuaian,Turunan dari BPS; lihat sumber variabel asal,,,100 × (upah laki-laki - perempuan)/laki-laki; gap kasar tanpa penyesuaian
 beban_u_under_persen_ak,persen,Angkatan kerja,"100 × (penganggur + under/100 × bekerja)/ak; proksi turunan, bukan LU2 resmi",Turunan dari BPS; lihat sumber variabel asal,,,"100 × (penganggur + under/100 × bekerja)/ak; proksi turunan, bukan LU2 resmi"
 berat_penyebut,proporsi,Penduduk usia kerja,ak / puk,Turunan dari BPS; lihat sumber variabel asal,,,ak / puk
+provinsi,teks,-,Nama provinsi; Indonesia merupakan agregat nasional,Identitas dan metadata penyiapan data,,,Metadata
+periode,teks,-,Bulan referensi survei dalam format YYYY-MM,Identitas dan metadata penyiapan data,,,Metadata
+wilayah,teks,-,Provinsi atau Nasional; pisahkan Indonesia dari analisis 38 provinsi,Identitas dan metadata penyiapan data,,,Metadata
+status_under,teks,-,Status angka under: resmi terverifikasi atau turunan; tidak disamakan tingkat ketepatannya,Identitas dan metadata penyiapan data,,,Metadata

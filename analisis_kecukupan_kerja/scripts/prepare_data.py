@@ -15,8 +15,7 @@ if not SOURCE.exists():
     shutil.copy2(OLD / 'Indikator_Pasar_Tenaga_Kerja_Februari_2026_BPS.pdf', SOURCE)
 URL = 'https://www.bps.go.id/id/publication/2026/06/26/f00a5821056e518c20d1546e/indikator-pasar-tenaga-kerja-indonesia-februari-2026.html'
 SULBAR = 'https://sulbar.bps.go.id/id/pressrelease/2026/05/05/1373/tingkat-pengangguran-terbuka--tpt--sulawesi-barat-pada-februari-2026-sebesar-2-93-persen--turun-0-24-persen-poin-dibanding-februari-2025.html'
-OLD_DATA = json.loads((OLD / 'data_provinsi.json').read_text(encoding='utf-8'))
-PROVINCES = [x['provinsi'] for x in OLD_DATA['data']] + ['Indonesia']
+PROVINCES = ['Aceh','Sumatera Utara','Sumatera Barat','Riau','Jambi','Sumatera Selatan','Bengkulu','Lampung','Kep. Bangka Belitung','Kepulauan Riau','DKI Jakarta','Jawa Barat','Jawa Tengah','DI Yogyakarta','Jawa Timur','Banten','Bali','Nusa Tenggara Barat','Nusa Tenggara Timur','Kalimantan Barat','Kalimantan Tengah','Kalimantan Selatan','Kalimantan Timur','Kalimantan Utara','Sulawesi Utara','Sulawesi Tengah','Sulawesi Selatan','Sulawesi Tenggara','Gorontalo','Sulawesi Barat','Maluku','Maluku Utara','Papua Barat','Papua Barat Daya','Papua','Papua Selatan','Papua Tengah','Papua Pegunungan','Indonesia']
 PERIODS = ['2025-02', '2025-08', '2026-02']
 rows = {(p, t): {'provinsi': p, 'periode': t, 'wilayah': 'Nasional' if p == 'Indonesia' else 'Provinsi'} for p in PROVINCES for t in PERIODS}
 dictionary = []
@@ -122,6 +121,8 @@ derived = [
  ('berat_penyebut','proporsi','Penduduk usia kerja','ak / puk')]
 for f,u,d,m in derived:
     dictionary.append(dict(variabel=f,satuan=u,penyebut=d,definisi=m,sumber='Turunan dari BPS; lihat sumber variabel asal',halaman_pdf='',halaman_cetak='',metode=m))
+for f,d in [('provinsi','Nama provinsi; Indonesia merupakan agregat nasional'),('periode','Bulan referensi survei dalam format YYYY-MM'),('wilayah','Provinsi atau Nasional; pisahkan Indonesia dari analisis 38 provinsi'),('status_under','Status angka under: resmi terverifikasi atau turunan; tidak disamakan tingkat ketepatannya')]:
+    dictionary.append(dict(variabel=f,satuan='teks',penyebut='-',definisi=d,sumber='Identitas dan metadata penyiapan data',halaman_pdf='',halaman_cetak='',metode='Metadata'))
 write_csv(OUT / 'panel_38_provinsi_3_periode.csv', rows.values())
 write_csv(OUT / 'kamus_data.csv', dictionary)
 write_csv(OUT / 'audit_rekonsiliasi.csv', checks)
