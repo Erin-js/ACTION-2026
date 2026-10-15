@@ -1,0 +1,50 @@
+Lampiran 44 Kesalahan Baku Relatif (Relative Standard Error–RSE)
+Tingkat Pengangguran Terbuka (TPT) Menurut Provinsi (persen), Februari
+2026
+Kesalahan Selang Square
+TPT Kesalahan Baku Kepercayaan 95% Efek Root
+Provinsi
+(%) Baku Relatif Batas Batas Desain Design
+(%) Bawah Atas Effect
+(1) (2) (3) (4) (5) (6) (7) (8)
+Aceh 5,88 0,56 9,52 4,78 6,98 1,32 1,15
+Sumatera Utara 5,01 0,42 8,43 4,18 5,84 2,67 1,63
+Sumatera Barat 5,51 0,48 8,72 4,57 6,45 1,26 1,12
+Riau 4,09 0,50 12,16 3,11 5,06 1,85 1,36
+Jambi 3,99 0,60 15,02 2,81 5,16 1,53 1,24
+Sumatera Selatan 3,59 0,41 11,37 2,79 4,39 2,01 1,42
+Bengkulu 3,23 0,43 13,37 2,38 4,08 0,59 0,77
+Lampung 3,95 0,46 11,53 3,06 4,85 2,45 1,57
+Kep, Bangka Belitung 4,15 0,54 12,96 3,09 5,20 0,52 0,72
+Kepulauan Riau 6,87 1,06 15,39 4,79 8,94 1,69 1,30
+DKI Jakarta 6,03 0,79 13,12 4,48 7,58 5,35 2,31
+Jawa Barat 6,64 0,50 7,53 5,66 7,62 9,49 3,08
+Jawa Tengah 4,24 0,26 6,19 3,72 4,75 3,32 1,82
+DI Yogyakarta 3,05 0,54 17,78 1,99 4,11 1,98 1,41
+Jawa Timur 3,55 0,25 6,92 3,07 4,03 3,87 1,97
+Banten 6,59 0,91 13,81 4,81 8,38 7,35 2,71
+Bali 1,59 0,32 19,99 0,97 2,21 1,50 1,23
+Nusa Tenggara Barat 2,99 0,52 17,26 1,98 4,00 2,60 1,61
+Nusa Tenggara Timur 3,16 0,33 10,56 2,51 3,81 1,01 1,01
+Kalimantan Barat 4,57 0,88 19,24 2,85 6,29 4,72 2,17
+Kalimantan Tengah 3,44 0,47 13,67 2,52 4,36 0,88 0,94
+Kalimantan Selatan 3,80 0,38 10,03 3,05 4,54 0,78 0,88
+Kalimantan Timur 5,27 0,69 13,08 3,92 6,63 1,76 1,32
+Kalimantan Utara 3,90 0,99 25,30 1,97 5,83 0,89 0,95
+Sulawesi Utara 5,75 0,58 10,02 4,62 6,88 0,72 0,85
+Sulawesi Tengah 2,95 0,38 12,74 2,22 3,69 0,72 0,85
+Sulawesi Selatan 4,95 0,39 7,90 4,18 5,71 1,42 1,19
+Sulawesi Tenggara 3,25 0,37 11,36 2,53 3,97 0,55 0,74
+Gorontalo 3,17 0,57 18,14 2,04 4,30 0,63 0,79
+Sulawesi Barat 2,93 0,58 19,90 1,79 4,08 0,86 0,93
+Maluku 5,80 0,69 11,94 4,45 7,16 0,77 0,88
+Maluku Utara 4,46 0,71 15,86 3,07 5,84 0,72 0,85
+Papua Barat 4,10 0,64 15,49 2,86 5,35 0,28 0,53
+Papua Barat Daya 6,41 1,29 20,06 3,89 8,93 0,79 0,89
+Papua 7,02 1,00 14,21 5,06 8,98 0,65 0,80
+Papua Selatan 5,25 1,37 25,99 2,58 7,93 0,73 0,85
+Papua Tengah 3,83 0,91 23,67 2,05 5,61 1,78 1,34
+Papua Pegunungan 1,70 0,43 25,11 0,86 2,54 0,96 0,98
+Indonesia 4,68 0,12 2,64 4,43 4,92 4,62 2,15
+Sumber: Badan Pusat Statistik, Survei Angkatan Kerja Nas ional (Sakernas) Februari 2026
+183

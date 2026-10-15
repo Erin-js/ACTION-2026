@@ -1,0 +1,50 @@
+﻿indikator,kelompok,periode,nilai,satuan,sumber,halaman_pdf,catatan
+TPT,Laki-laki,2024-02,2.27,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT,Laki-laki,2025-02,2.15,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT,Laki-laki,2026-02,2.92,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT,Perempuan,2024-02,4.17,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT,Perempuan,2025-02,4.73,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT,Perempuan,2026-02,2.95,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT,Perkotaan,2024-02,3.42,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT,Perkotaan,2025-02,5.74,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT,Perkotaan,2026-02,4.12,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT,Perdesaan,2024-02,2.91,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT,Perdesaan,2025-02,2.39,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT,Perdesaan,2026-02,2.51,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,SD ke bawah,2024-02,2.45,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,SD ke bawah,2025-02,2.95,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,SD ke bawah,2026-02,2.86,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,SMP,2024-02,1.1,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,SMP,2025-02,2.39,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,SMP,2026-02,1.62,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,SMA,2024-02,4.47,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,SMA,2025-02,4.04,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,SMA,2026-02,3.15,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,SMK,2024-02,8.09,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,SMK,2025-02,1.16,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,SMK,2026-02,2.72,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,Diploma I/II/III,2024-02,,persen,BPS_SULBAR_2026,10,NA berarti sampel tidak cukup; bukan nol
+TPT pendidikan,Diploma I/II/III,2025-02,8.85,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,Diploma I/II/III,2026-02,,persen,BPS_SULBAR_2026,10,NA berarti sampel tidak cukup; bukan nol
+TPT pendidikan,Diploma IV/S1/S2/S3,2024-02,2.89,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,Diploma IV/S1/S2/S3,2025-02,3.74,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+TPT pendidikan,Diploma IV/S1/S2/S3,2026-02,4.6,persen,BPS_SULBAR_2026,10,Angka resmi; perubahan dihitung dari angka tampilan
+Setengah pengangguran,Laki-laki,2024-02,16.36,persen,BPS_SULBAR_2026,8,Angka resmi; perubahan dihitung dari angka tampilan
+Setengah pengangguran,Laki-laki,2025-02,14.26,persen,BPS_SULBAR_2026,8,Angka resmi; perubahan dihitung dari angka tampilan
+Setengah pengangguran,Laki-laki,2026-02,15.11,persen,BPS_SULBAR_2026,8,Angka resmi; perubahan dihitung dari angka tampilan
+Setengah pengangguran,Perempuan,2024-02,11.93,persen,BPS_SULBAR_2026,8,Angka resmi; perubahan dihitung dari angka tampilan
+Setengah pengangguran,Perempuan,2025-02,13.99,persen,BPS_SULBAR_2026,8,Angka resmi; perubahan dihitung dari angka tampilan
+Setengah pengangguran,Perempuan,2026-02,10.8,persen,BPS_SULBAR_2026,8,Angka resmi; perubahan dihitung dari angka tampilan
+Setengah pengangguran,Total,2024-02,14.63,persen,BPS_SULBAR_2026,8,Angka resmi; perubahan dihitung dari angka tampilan
+Setengah pengangguran,Total,2025-02,14.15,persen,BPS_SULBAR_2026,8,Angka resmi; perubahan dihitung dari angka tampilan
+Setengah pengangguran,Total,2026-02,13.36,persen,BPS_SULBAR_2026,8,Angka resmi; perubahan dihitung dari angka tampilan
+Paruh waktu,Laki-laki,2024-02,30.9,persen,BPS_SULBAR_2026,9,Angka resmi; perubahan dihitung dari angka tampilan
+Paruh waktu,Laki-laki,2025-02,30.4,persen,BPS_SULBAR_2026,9,Angka resmi; perubahan dihitung dari angka tampilan
+Paruh waktu,Laki-laki,2026-02,31.8,persen,BPS_SULBAR_2026,9,Angka resmi; perubahan dihitung dari angka tampilan
+Paruh waktu,Perempuan,2024-02,40.7,persen,BPS_SULBAR_2026,9,Angka resmi; perubahan dihitung dari angka tampilan
+Paruh waktu,Perempuan,2025-02,44.82,persen,BPS_SULBAR_2026,9,Angka resmi; perubahan dihitung dari angka tampilan
+Paruh waktu,Perempuan,2026-02,40.42,persen,BPS_SULBAR_2026,9,Angka resmi; perubahan dihitung dari angka tampilan
+Paruh waktu,Total,2024-02,34.72,persen,BPS_SULBAR_2026,9,Angka resmi; perubahan dihitung dari angka tampilan
+Paruh waktu,Total,2025-02,36.0,persen,BPS_SULBAR_2026,9,Angka resmi; perubahan dihitung dari angka tampilan
+Paruh waktu,Total,2026-02,35.31,persen,BPS_SULBAR_2026,9,Angka resmi; perubahan dihitung dari angka tampilan
+TPT umur,15–24 tahun,2026-02,16.36,persen,BPS_SULBAR_2026,11,Narasi rilis; RSE kelompok umur tidak disertakan di ekstrak ini
