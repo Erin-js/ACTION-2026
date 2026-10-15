@@ -111,7 +111,7 @@ Basis: BPS Sakernas; periode utama Februari 2026, perubahan terhadap Februari 20
 ## Pemilihan wilayah
 
 - **I048 [Keputusan analitis]** Sulawesi Barat dipilih untuk pendalaman karena memiliki TPT di bawah nasional, estimasi titik setengah pengangguran tinggi, dan rilis BPS yang menyediakan angka resmi serta rincian kelompok. Batas: Pemilihan berbasis pertanyaan riset dan ketersediaan bukti; bukan penetapan provinsi dengan pekerjaan terburuk.
-- **I049 [Usulan pendalaman]** NTT memberi pembanding struktur informal/pekerja keluarga; Bali memberi pembanding TPT rendah dengan kecukupan jam berbeda; Papua Pegunungan menguji kekeliruan menyamakan TPT paling rendah dengan pekerjaan memadai. Batas: Pembanding dipilih untuk kontras deskriptif; belum merupakan evaluasi kebijakan antarwilayah.
+- **I049 [Usulan pendalaman]** NTT memberi pembanding struktur informal/pekerja keluarga; Bali memberi pembanding TPT rendah dengan kecukupan jam berbeda; Papua Pegunungan menguji kekeliruan menyamakan TPT sangat rendah dengan pekerjaan memadai. Batas: Pembanding dipilih untuk kontras deskriptif; belum merupakan evaluasi kebijakan antarwilayah.
 
 ## Sulbar
 
