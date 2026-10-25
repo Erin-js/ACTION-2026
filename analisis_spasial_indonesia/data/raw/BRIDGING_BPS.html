@@ -1,0 +1,1631 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sistem Informasi Geografis BPS</title>
+        <meta charset="UTF-8">
+        <meta property="og:url"           content="https://sig-dev.bps.go.id/" />
+        <meta property="og:type"          content="website" />
+        <meta property="og:title"         content="Sistem Informasi Geospasial BPS" />
+        <meta property="og:description"   content="Sistem Informasi Geospasial BPS" />
+        <meta property="og:image"         content="https://sig-dev.bps.go.id/assets/images/logo-bps.png" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="/assets/81f6e14c/css/all.min.css" rel="stylesheet">
+<link href="/assets/8740cf70/css/bootstrap.css" rel="stylesheet">
+<link href="/css/main.css" rel="stylesheet">
+<script src="/assets/5cc5addb/jquery.js"></script>    </head>
+    <body onload="init()" >
+        <nav class="navbar navbar-webgis navbar-light bg-light">
+            <img height="50" class="" src="/assets/images/Header-Frontend-Kecil-ind.png">
+            <div class="navbar-nav">
+                <div class="" style="font-size: 12px">
+                    <a href="/home/id" style="font-size: 12px" class="btn  disabled">Indonesia</a>
+                    <label style="color:white;">|</label>
+                    <a href="/home/en" style="font-size: 12px" class="btn text-white">English</a>
+                </div>
+            </div>
+        </nav>
+        <nav class="navbar navbar-expand-lg navbar-light navbar-webgis text-light py-0">
+            <div class="navbar-brand"></div>
+            <ul  class="navbar-nav mr-auto pull-right">
+                <li class="nav-item">
+                    <a class="nav-link" href="http://sig.bps.go.id"> <i class="fa fa-home" aria-hidden="true"></i> Beranda</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://geoportal.bps.go.id" target="_blank">Geoportal BPS</a>                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://sig.bps.go.id/geoportal-api-management/" target="_blank">Geoportal API</a>                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/bridging-kode/index">Kode Relasi</a>                </li>
+                <!--                <li class="nav-item">
+                                    <a class="nav-link" href="#">Tentang</a>
+                                </li>-->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#"><i class="fas fa-layer-group"></i> Peta Interaktif </a>
+                    <div class="dropdown-menu dropdown-menu-right">
+                        <a class="dropdown-item" href="/webgis/tematik-interaktif" >Peta Tematik</a>                   
+                        <a class="dropdown-item" href="https://geoportal.bps.go.id/maps/apps/webappviewer/index.html?id=b47355787be7484f9ba023a407a5a15a" >Peta Wilkerstat</a>
+                        <a class="dropdown-item" href="/webgis/mapinflasi" >Peta Inflasi</a>
+                        <!--<a href="/webgis/interaktifpodes" >Potensi Desa</a>-->
+                        <a class="dropdown-item" href="https://geoportal.bps.go.id/maps/apps/webappviewer/index.html?id=d4daa1878311466a931175a07c9eb3fb" >Peta Ketenagakerjaan Indonesia</a>  
+                    </div>
+                </li>
+            </ul>
+        </nav>
+        <div class="container-fluid px-0 bg-white">
+
+                        
+<div class="container-fluid p-5">
+        <div class="row">
+                <div class="col-lg-2 col-xs-12">
+                        <ul class="nav flex-column" role="tablist">
+                                <li class="nav-item mb-2">
+                                        <a data-toggle="collapse" href="#collapse1" class="btn btn-primary btn-block nav-link">Kode Relasi</a>
+                                        <div id="collapse1" class="panel-collapse collapse list-group m-2">
+                                                <a class="list-group-item active" href="#sandingan1" role="tab" data-toggle="tab">
+                                                        BPS-Kemendagri
+                                                </a>
+                                                <a class="list-group-item" href="#sandingan2" role="tab" data-toggle="tab" style="display: none;">
+                                                        Kemendagri-BPS
+                                                </a>
+                                                <a class="list-group-item" href="#sandingan3" role="tab" data-toggle="tab">
+                                                        BPS-Kode Pos
+                                                </a>
+                                        </div>
+                                </li>
+                                <!-- <li class="nav-item mb-2">
+                    <a class="btn btn-primary btn-block nav-link" href="#sandingan4" role="tab" data-toggle="tab">Histori Wilayah</a>
+                </li> -->
+                                <li class="nav-item mb-2">
+                                        <a class="btn btn-primary btn-block nav-link" href="#sandingan5" role="tab" data-toggle="tab">Pencarian</a>
+                                </li>
+                        </ul>
+                </div>
+                <div class="col-md-10 col-xs-12">
+                        <div class="tab-content">
+                                <div class="tab-pane fade show active" id="sandingan1" role="tabpanel" aria-labelledby="bps-kemendagri-tab">
+<div class="card">
+    <h5 class="card-header">Kode Relasi BPS dengan Kemendagri</h5>
+        <div class="card-body">
+        <div role="tabpanel" class="tab-pane active" id="sandingan">
+            <div class="row" style="margin-left: 1%">
+                <p>
+                    Kode Wilayah yang direlasikan adalah Kode Wilayah Kerja Statistik (Wilkerstat) BPS dengan Kode Wilayah Adminitstrasi Kemendagri.
+                </p>
+            </div>
+            <div class="row">
+
+                <div class="col-lg-12 col-md-12" id="pilihan-periode">
+                    <div  class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="basic-addon1">Periode Wilkerstat</span>
+                        </div>
+                        <select class="form-control" id="periode1-bridg">
+                            <!--<option value="20102">2010 Semester 2</option>-->
+                            <!--<option value="20111">2011 Semester 1</option>-->
+                            <!--<option value="20112">2011 Semester 2</option>-->
+                            <!--<option value="20121">2012 Semester 1</option>-->
+                            <!--<option value="20122">2012 Semester 2</option>-->
+                            <!--<option value="20131">2013 Semester 1</option>-->
+                            <!--<option value="20132">2013 Semester 2</option>-->
+                            <!--<option value="20141">2014 Semester 1</option>-->
+                            <!--<option value="20142">2014 Semester 2</option>-->
+                            <!--<option value="20151">2015 Semester 1</option>-->
+                            <!--<option value="20152">2015 Semester 2</option>-->
+                            <!--<option value="20161">2016 Semester 1</option>-->
+                            <!--<option value="20162">2016 Semester 2</option>-->
+                            <!--<option value="20171">2017 Semester 1</option>-->
+                            <!--<option value="20172">2017 Semester 2</option>-->
+                            <!--<option value="20181">2018 Semester 1</option>-->
+                            <!--<option value="20182">2019 Semester 2</option>-->
+                            <!--<option value="20191">2018 Semester 1</option>-->
+                            <!--<option value="20192">2019 Semester 2</option>-->
+                            <!--<option value="20201">2020 Semester 1</option>-->
+                            <!--<option value="20202" selected>2020 Semester 2</option>-->
+                            <option value="">---</option>
+                        </select>
+                    </div>       
+                </div>
+
+                <div class="col-lg-4 col-md-4">
+                    <div class="input-group mb-4">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="basic-addon1">Provinsi</span>
+                        </div>
+                        <select class="form-control" id="provinsi-dropdown-bridg">
+                            <option value="">---</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <div class="input-group mb-4">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="basic-addon1">Kab/Kota</span>
+                        </div>
+                        <select class="form-control" id="kabupaten-dropdown-bridg">
+                            <option value="">---</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <div class="input-group mb-4">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="basic-addon1">Kecamatan</span>
+                        </div>
+                        <select class="form-control " id="kecamatan-dropdown-bridg">
+                            <option value="">---</option>
+                        </select>
+                    </div>
+                </div>
+
+            </div>
+            <div class="labelBridging">
+                <button  type='button' class="btn btn-success btn-export" id="btn_1">Download</button>
+            </div>
+            <div class="card-body">
+                <div class="container kode-tab-cont">
+                    <div>
+                        <table class="table table-fixed2 table-striped table-bordered" id="data-table" style="font-size: 14px">
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom: 10%">
+            </div>
+        </div>
+    </div>
+</div></div>
+                                <div class="tab-pane fade" id="sandingan2" role="tabpanel" aria-labelledby="kemendagri-bps-tab">
+<div class="card">
+    <h5 class="card-header">Kode Relasi Kemendagri dengan BPS</h5>
+    <div class="card-body">
+        <div role="tabpanel" class="tab-pane" id="sandingan1">
+            <div class="row" style="margin-left: 1%">
+                <p>
+                    Kode Wilayah yang direlasikan adalah Kode Wilayah Kerja Statistik pada tahun 2020 Semester 2 dengan Kode Wilayah Administrasi pada tahun 2020. 
+                </p>
+            </div>
+            <div class="row kode-tab-cont">
+                <div class="col-sm-4">
+                    <div class="input-group mb-4">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">Provinsi</span>
+                        </div>
+                        <select class="form-control" id="provinsi-dropdown-bridg-1">
+                            <option value="">---</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="input-group mb-4">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">Kab/Kota</span>
+                        </div>
+                        <select class="form-control" id="kabupaten-dropdown-bridg-1">
+                            <option value="">---</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="input-group mb-4">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">Kecamatan</span>
+                        </div>
+                        <select class="form-control" id="kecamatan-dropdown-bridg-1">
+                            <option value="">---</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <button  type='button' class="btn btn-success btn-export" id="btn_2">Download</button>
+
+            <div class="row labelBridging"></div>
+            <div class="card-body">
+                <div class="container">
+                    <table class="table table-striped table-bordered table-fixed2" id="data-table-dagri2" style="font-size: 14px"></table>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom: 100px"></div>
+        </div>
+    </div>
+</div></div>
+                                <div class="tab-pane fade" id="sandingan3" role="tabpanel" aria-labelledby="bps-kodepos-tab">
+<div class="card">
+    <h5 class="card-header">Kode Relasi Kemendagri dengan BPS</h5>
+    <div class="card-body">
+        <div role="tabpanel" class="tab-pane" id="sandingan2">
+            <div class="row" style="margin-left: 1%">
+                <p>
+                    Kode Wilayah yang direlasikan adalah Kode Wilayah Kerja Statistik pada tahun 2017 Semester 2 dengan Kode Pos pada tahun 2015. 
+                </p>
+            </div>
+            <div class="row kode-tab-cont">
+                <div class="col-sm-4">
+                    <div class="input-group mb-4">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">Provinsi</span>
+                        </div>
+                        <select class="form-control" id="provinsi-dropdown-bridg-2">
+                            <option value="">---</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="input-group mb-4">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">Kab/Kota</span>
+                        </div>
+                        <select class="form-control" id="kabupaten-dropdown-bridg-2">
+                            <option value="">---</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="input-group mb-4">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">Kecamatan</span>
+                        </div>
+                        <select class="form-control" id="kecamatan-dropdown-bridg-2">
+                            <option value="">---</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <button  type='button' class="btn btn-success btn-export" id="btn_3">Download</button>
+            <div class="row labelBridging"></div>
+            <div class="card-body">
+                <div class="container">
+                    <table class="table table-striped table-bordered table-fixed2" id="data-table-pos" style="font-size: 14px"></table>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom: 100px"></div>
+        </div>
+    </div>
+</div></div>
+                                <div class="tab-pane fade" id="sandingan4" role="tabpanel" aria-labelledby="history-wilayah-tab">
+<div role="tabpanel" class="tab-pane " id="historis">
+    <div class="row" style="margin-left: 1%">
+
+        <h4>Histori</h4>
+        <p>
+            menampilkan histori kode Wilkerstat dari BPS.
+        </p>
+
+    </div>
+    <div class='row' style='margin-left: 1%'>
+        <div class="col-sm-10 col-md-10 col-lg-10">
+            <div class="panel panel-danger" style='background-color:red; color:white'>
+                <div class="panel-heading" style='
+                     color: #fff7f6;
+                     background-color: #D91E18;'>Untuk kode wilayah pada kondisi Sensus (1961,1971,1980,1990, dan 2000), kode wilayah yang ditampilkan hanya sampai level kabupaten/kota. Selain itu, kode wilayah yang ditampilkan sampai level desa/kelurahan </div>
+            </div>
+        </div>
+    </div>
+    <div class="container kode-tab-cont">
+
+
+        <div class="col-md-5 mt-5" style="margin-right: 5%">
+            <div class="row mb-4">           
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">Periode Awal</span>                        
+                    </div>
+                    <select class="form-control " id="periode1-hist">
+                        <option value="1961" selected>Sensus Penduduk 1961</option>
+                        <option value="1971" >Sensus Penduduk 1971</option>
+                        <option value="1980" >Sensus Penduduk 1980</option>
+                        <option value="1990" >Sensus Penduduk 1990</option>
+                        <option value="2000" >Sensus Penduduk 2000</option>
+                        <option value="20102" >2010 Semester 2</option>
+                        <option value="20111">2011 Semester 1</option>
+                        <option value="20112">2011 Semester 2</option>
+                        <option value="20121">2012 Semester 1</option>
+                        <option value="20122">2012 Semester 2</option>
+                        <option value="20131">2013 Semester 1</option>
+                        <option value="20132">2013 Semester 2</option>
+                        <option value="20141">2014 Semester 1</option>
+                        <option value="20142">2014 Semester 2</option>
+                        <option value="20151">2015 Semester 1</option>
+                        <option value="20152">2015 Semester 2</option>
+                        <option value="20161">2016 Semester 1</option>
+                        <option value="20162">2016 Semester 2</option>
+                        <option value="20171">2017 Semester 1</option>
+                        <option value="20172">2017 Semester 2</option>
+                        <option value="20181">2018 Semester 1</option>
+                    </select>
+                </div>       
+            </div>
+            <div class="row">
+                <div class="input-group">
+                    <div class="input-group-prepend"> 
+                        <span class="input-group-text">Periode Akhir</span>
+                    </div>
+                    <select class="form-control" id="periode2-hist">
+                        <option value="1961" >Sensus Penduduk 1961</option>
+                        <option value="1971" >Sensus Penduduk 1971</option>
+                        <option value="1980" >Sensus Penduduk 1980</option>
+                        <option value="1990" >Sensus Penduduk 1990</option>
+                        <option value="2000" >Sensus Penduduk 2000</option>
+                        <option value="20102">2010 Semester 2</option>
+                        <option value="20111">2011 Semester 1</option>
+                        <option value="20112">2011 Semester 2</option>
+                        <option value="20121">2012 Semester 1</option>
+                        <option value="20122">2012 Semester 2</option>
+                        <option value="20131">2013 Semester 1</option>
+                        <option value="20132">2013 Semester 2</option>
+                        <option value="20141">2014 Semester 1</option>
+                        <option value="20142">2014 Semester 2</option>
+                        <option value="20151">2015 Semester 1</option>
+                        <option value="20152">2015 Semester 2</option>
+                        <option value="20161">2016 Semester 1</option>
+                        <option value="20162">2016 Semester 2</option>
+                        <option value="20171">2017 Semester 1</option>
+                        <option value="20172">2017 Semester 2</option>
+                        <option value="20181" selected>2018 Semester 1</option>
+                    </select>
+                </div>      
+            </div>
+            <div class="row" style="margin-top: 4%">
+                <div class="input-group">
+                    <label class="radio-inline"><input type="radio" name="optradio" checked value='1' ><p style='font-size:14px'>Perbandingan</p></label>
+                    <label class="radio-inline"><input type="radio" name="optradio"   value='2'><p style='font-size:14px'>Series</p></label>
+                </div>      
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="row mb-4">
+                <div class="input-group">
+                    <div class="input-group">
+                        <div class="input-group-prepend"> <span class="input-group-text">Provinsi</span></div>
+                        <select class="form-control" id="provinsi-dropdown-hist">
+                            <option value="">---</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="row mb-4">
+                <div class="input-group">
+                    <div class="input-group-prepend"> <span class="input-group-text">Kab/Kota</span></div>
+                    <select class="form-control " id ="kabupaten-dropdown-hist">
+                        <option value="">---</option>
+                    </select>
+                </div>                           
+            </div>
+            <div class="row mb-4">
+                <div class="input-group">
+                    <div class="input-group-prepend"> <span class="input-group-text">Kecamatan</span></div>
+                    <select class="form-control " id ="kecamatan-dropdown-hist">
+                        <option value="">--</option>
+                    </select>
+                </div>       
+            </div>
+        </div>
+        <div class="row labelHistoris">
+            <div class="container">
+                <button  type='button' class="btn btn-success btn-export" id="btn_4">Download</button>
+            </div>
+        </div>
+        <div class="row" style="margin-top:5%; overlayerow-x:auto;" >
+            <div class="hScroll">
+                <table class="table table-bordered table-striped table-fixed3" id="data-historis" style="font-size: 14px;">
+
+                </table>
+                <div class="vScroll">
+                    <table class="table table-bordered table-striped table-fixed3" id="data-historisBody" style="font-size: 14px; ">
+
+                    </table>    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="margin-bottom: 100px">
+        <br>
+
+    </div>
+
+</div>
+</div>
+                                <div class="tab-pane fade" id="sandingan5" role="tabpanel" aria-labelledby="pencarian-tab"><div role="tabpanel" class="tab-pane" id="pencarian">
+    <div class="row" style="margin-left: 1%">
+        <h4>Pencarian Kode Relasi</h4>
+        <p>
+            merupakan fasilitas pencarian hasil relasi dengan input berupa kode atau nama wilayah.
+        </p>
+        <div class="col-md-8" style='padding-left:0'>
+
+            <form >
+                <div class="input-group" style="">
+                    <input type="text" class="form-control" placeholder="Kata Kunci" id="cari-text">
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" id="caribtn">
+                            &zwj;<span class="glyphicon glyphicon-search">Cari</span>
+                        </button>
+
+                    </div>
+
+                </div>
+            </form>
+<!--            <div class="row labelHistoris">
+                <button  type='button' class="btn btn-success btn-export" id="btn_5">Download</button>
+            </div>-->
+            <div class="row" style="margin-top:5%">
+                <table class="table table-striped table-bordered table-fixed2" id="data-cari" style="font-size: 14px;">
+
+                </table>
+            </div>
+        </div>
+
+    </div>
+</div>
+</div>
+                        </div>
+                </div>
+        </div>
+</div>
+
+<div class="container kode-cont" style="background: white;">
+        <div class="row text-center">
+        </div>
+        <div class="container">
+        <div class="row">
+
+        <style>
+                .table-fixed2 thead {
+                        width: 100%
+                }
+
+                .table-fixed2 tbody {
+                        height: 600px;
+                        overflow-y: auto;
+                        overflow-x: auto;
+                        width: 101.5%
+                }
+
+                .table-fixed2 thead,
+                .table-fixed2 tbody,
+                .table-fixed2 tr,
+                .table-fixed2 td,
+                .table-fixed2 th {
+                        display: block;
+                }
+
+                .table-fixed2 tbody>tr>td,
+                .table-fixed2 thead>tr>th {
+                        display: inline-block;
+                        border-bottom-width: 0;
+                        vertical-align: middle;
+                        text-align: center !important
+                }
+
+                .table-fixed3 {
+                        margin-bottom: 0 !important;
+
+                        table-layout: fixed;
+                        width: 100%;
+                }
+
+                .table-fixed3 td,
+                .table-fixed3 th {}
+
+                .table {
+                        margin-bottom: 0px;
+                }
+
+                .table-fixed3 tbody>tr>td,
+                .table-fixed3 thead>tr>th {
+                        border-bottom-width: 0;
+                        vertical-align: middle;
+                        text-align: center !important
+                }
+
+                .null {
+                        background-color: #e74c3c;
+                        color: white
+                }
+
+                .hScroll {
+
+                        overflow: auto;
+
+                }
+
+                .vScroll {
+
+                        overflow-y: auto;
+                        overflow-x: hidden;
+                        height: 400px;
+                }
+
+                .Dagri {
+                        background-color: #E9D460;
+                        color: white;
+                }
+
+                .Kemendagri {
+                        background-color: #E9D460;
+                        color: white;
+                }
+
+                .BPS {
+                        background-color: #2564a9;
+                        color: white;
+                }
+
+                .Pos {
+                        background-color: #f89406;
+                        color: white;
+                }
+
+                .netral {
+                        background-color: #26A65B;
+                        color: white;
+                }
+        </style>
+
+        <script>
+                var periode = ["2010_2",
+                        "2011_1", "2011_2",
+                        "2012_1", "2012_2",
+                        "2013_1", "2013_2",
+                        "2014_1", "2014_2",
+                        "2015_1", "2015_2",
+                        "2016_1", "2016_2",
+                        "2017_1", "2017_2",
+                        "2018_1", "2018_2",
+                        "2019_1", "2019_2",
+                        "2020_1", "2020_2"
+                ];
+                var periodekode = ["kode_20102",
+                        "kode_20111", "kode_20112",
+                        "kode_20121", "kode_20122",
+                        "kode_20131", "kode_20132",
+                        "kode_20141", "kode_20142",
+                        "kode_20151", "kode_20152",
+                        "kode_20161", "kode_20162",
+                        "kode_20171", "kode_20172",
+                        "kode_20181", "kode_20182",
+                        "kode_20191", "kode_20192",
+                        "kode_20201", "kode_20202"
+                ];
+                var periodenama = ["nama_20102",
+                        "nama_20111", "nama_20112",
+                        "nama_20121", "nama_20122",
+                        "nama_20131", "nama_20132",
+                        "nama_20141", "nama_20142",
+                        "nama_20151", "nama_20152",
+                        "nama_20161", "nama_20162",
+                        "nama_20171", "nama_20172",
+                        "nama_20181", "nama_20182",
+                        "nama_20191", "nama_20192",
+                        "nama_20201", "nama_20202"
+                ];
+                var periodeH = ["1961", "1971", "1980", "1990", "2000", "2010_2",
+                        "2011_1", "2011_2",
+                        "2012_1", "2012_2",
+                        "2013_1", "2013_2",
+                        "2014_1", "2014_2",
+                        "2015_1", "2015_2",
+                        "2016_1", "2016_2",
+                        "2017_1", "2017_2",
+                        "2018_1", "2018_2",
+                        "2019_1", "2019_2",
+                        "2020_1", "2020_2"
+                ];
+                var periodekodeH = ["kode_1961", "kode_1971", "kode_1980", "kode_1990", "kode_2000", "kode_20102", "kode_20111", "kode_20112", "kode_20121", "kode_20122", "kode_20131", "kode_20132", "kode_20141", "kode_20142", "kode_20151", "kode_20152", "kode_20161", "kode_20162", "kode_20171", "kode_20172", "kode_20181"];
+                var periodenamaH = ["nama_1961", "nama_1971", "nama_1980", "nama_1990", "nama_2000", "nama_20102", "nama_20111", "nama_20112", "nama_20121", "nama_20122", "nama_20131", "nama_20132", "nama_20141", "nama_20142", "nama_20151", "nama_20152", "nama_20161", "nama_20162", "nama_20171", "nama_20172", "nama_20181"];
+                var periodeDagri = ["2013", "2015"];
+                var levelDropdown = "provinsi";
+                var levelHistoris = "provinsi";
+                var levelDropdownDagri = "provinsi";
+                var levelHistorisHistoris = "provinsi";
+
+                function generateExcel(el) {
+                        var clon = $(el).clone();
+                        var html = clon.wrap('<div>').parent().html();
+                        while (html.indexOf('á') != -1)
+                                html = html.replace(/á/g, '&aacute;');
+                        while (html.indexOf('é') != -1)
+                                html = html.replace(/é/g, '&eacute;');
+                        while (html.indexOf('í') != -1)
+                                html = html.replace(/í/g, '&iacute;');
+                        while (html.indexOf('ó') != -1)
+                                html = html.replace(/ó/g, '&oacute;');
+                        while (html.indexOf('ú') != -1)
+                                html = html.replace(/ú/g, '&uacute;');
+                        while (html.indexOf('º') != -1)
+                                html = html.replace(/º/g, '&ordm;');
+                        html = html.replace(/<td>/g, "<td>&nbsp;");
+                        window.open('data:application/vnd.ms-excel,' + encodeURIComponent(html));
+                }
+
+                $(document).ready(function() {
+                        $('#btn_1').click(function(evt) {
+                                generateExcel('#data-table')
+                        })
+
+                        $('#btn_2').click(function(evt) {
+                                generateExcel('#data-table-dagri2')
+                        })
+
+                        $('#btn_3').click(function(evt) {
+                                generateExcel('#data-table-pos')
+                        })
+
+                        $('#btn_4').click(function(evt) {
+                                generateExcel('.hScroll')
+                        })
+
+                        $('#btn_5').click(function(evt) {
+                                generateExcel('#data-cari')
+                        })
+
+                        $('.hScroll').scroll(function() {
+                                $('.vScroll').width($('.hScroll').width() + $('.hScroll').scrollLeft());
+                        });
+
+                        // $("#pilihan-periode").hide();
+                        updateDropdown("#periode1-bridg", "/rest-drop-down/getperiode");
+                        $("#provinsi-dropdown-bridg").attr('disabled',true);
+                        $("#kabupaten-dropdown-bridg").attr('disabled',true);
+                        $("#kecamatan-dropdown-bridg").attr('disabled',true);
+                        $("#btn_1").hide();
+                        $("#data-table").html("<h6 style='text-align: center;'>Silakan pilih periode wilkerstat terlebih dahulu.</h6>");
+                        
+                })
+
+
+                function toTitleCase(str) {
+                        return str.replace(/\w\S*/g, function(txt) {
+                                return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+                        });
+                }
+
+                $(document).ready(function() {
+                        $("#l1").on('click', function() {
+                                $('#historis').removeClass('active')
+                                $('#pencarian').removeClass('active')
+                                $("#l2").removeClass('active');
+                                $("#l3").removeClass('active');
+                                $("#l9").removeClass('active');
+                                $("#l4").removeClass('active');
+                                $("#l5").removeClass('active');
+                                $("#collapse2").removeClass('in');
+                                $("#collapse3").removeClass('in');
+                        });
+
+                        $("#l2").on('click', function() {
+                                $('#pencarian').removeClass('active')
+                                $('#historis').removeClass('active')
+                                $("#l1").removeClass('active');
+                                $("#l3").removeClass('active');
+                                $("#l9").removeClass('active');
+                                $("#l4").removeClass('active');
+                                $("#l5").removeClass('active');
+                                $("#collapse2").removeClass('in');
+                                $("#collapse3").removeClass('in');
+                        });
+
+                        $("#l3").on('click', function() {
+                                $('#pencarian').removeClass('active')
+                                $('#historis').addClass('active')
+
+                                $('#sandingan').removeClass('active')
+                                $('#sandingan1').removeClass('active')
+                                $('#sandingan2').removeClass('active')
+                                $("#l2").removeClass('active');
+                                $("#l1").removeClass('active');
+                                $("#l9").removeClass('active');
+                                $("#l4").removeClass('active');
+                                $("#l5").removeClass('active');
+                                $("#collapse1").removeClass('in');
+                                $("#collapse3").removeClass('in');
+                        });
+
+                        $("#l4").on('click', function() {
+                                $('#pencarian').removeClass('active')
+                                $('#historis').removeClass('active')
+                                $("#l2").removeClass('active');
+                                $("#l3").removeClass('active');
+                                $("#l9").removeClass('active');
+                                $("#l1").removeClass('active');
+                                $("#l5").removeClass('active');
+                                $("#collapse1").removeClass('in');
+                                $("#collapse3").removeClass('in');
+                        });
+
+                        $("#l5").on('click', function() {
+                                $('#sandingan').removeClass('active')
+                                $('#sandingan1').removeClass('active')
+                                $('#sandingan2').removeClass('active')
+                                $('#pencarian').addClass('active');
+                                $('#historis').removeClass('active')
+                                $("#l2").removeClass('active');
+                                $("#l3").removeClass('active');
+                                $("#l9").removeClass('active');
+                                $("#l4").removeClass('active');
+                                $("#l1").removeClass('active');
+                                $("#collapse2").removeClass('in');
+                                $("#collapse1").removeClass('in');
+                        });
+
+                        $("#l9").on('click', function() {
+                                $('#pencarian').removeClass('active')
+                                $('#historis').removeClass('active')
+                                $("#l2").removeClass('active');
+                                $("#l3").removeClass('active');
+                                $("#l5").removeClass('active');
+                                $("#l4").removeClass('active');
+                                $("#l1").removeClass('active');
+                                $("#collapse3").removeClass('in');
+                                $("#collapse1").removeClass('in');
+                        });
+
+                        updateDropdown("#provinsi-dropdown-bridg", "/rest-drop-down/getwilayah"); //bps_kemendagri
+                        updateDropdown("#provinsi-dropdown-bridg-1", "/rest-drop-down-dagri/getwilayah");
+                        updateDropdown("#provinsi-dropdown-bridg-2", "/rest-drop-down/getwilayah");
+                        updateDropdown("#provinsi-dropdown-hist", "/rest-drop-down/getwilayah");
+                        updateDropdown("#provinsi-dropdown-hist-dagri", "/rest-drop-down-dagri/getwilayah");
+                        updateDropdown("#provinsi-dropdown-bridg-dagri", "/rest-drop-down/getwilayah");
+                        updateDropdown("#provinsi-dropdown-hist-spasial", "/rest-drop-down/getwilayah");
+                        // updateTable("#data-table", "provinsi"); //bps_kemendagri
+                        updateTableD("#data-table-dagri2", "provinsi");
+                        updateTable("#data-table-pos", "provinsi");
+                        updateTable("#data-table-dagri", "provinsi");
+                        updateHistoris("#data-historis", "provinsi");
+                        updateHistoris("#data-historis-dagri", "provinsi");
+                        var kode = 0;
+                        var kodeH = 0;
+                        var kodeD = 0;
+                        var kodeHD = 0;
+
+                        //bps_kemendagri
+                        $("#periode1-bridg").on('change', function(evt) {
+                                console.log(evt.target.value);
+                                if (evt.target.value === null || evt.target.value===''){
+                                        $("#data-table").html("<h6 style='text-align: center;'>Silakan pilih periode wilkerstat terlebih dahulu.</h6>");
+                                        updateOtherDrop("#provinsi-dropdown-bridg");
+                                        updateOtherDrop("#kabupaten-dropdown-bridg");
+                                        updateOtherDrop("#kecamatan-dropdown-bridg");
+                                        $("#provinsi-dropdown-bridg").attr('disabled',true);
+                                        $("#kabupaten-dropdown-bridg").attr('disabled',true);
+                                        $("#kecamatan-dropdown-bridg").attr('disabled',true);
+                                        $("#btn_1").hide();
+                                } else{
+                                        $("#provinsi-dropdown-bridg").attr('disabled',false);
+                                        $("#kabupaten-dropdown-bridg").attr('disabled',false);
+                                        $("#kecamatan-dropdown-bridg").attr('disabled',false);
+                                        $("#btn_1").show();
+                                        updateDropdown("#provinsi-dropdown-bridg", "/rest-drop-down/getwilayah?" + "level=provinsi&parent=" + evt.target.value + "&periode_merge="+ evt.target.value);
+                                        updateOtherDrop("#kabupaten-dropdown-bridg");
+                                        updateOtherDrop("#kecamatan-dropdown-bridg");
+                                        updateTable("#data-table", "provinsi", evt.target.value);
+                                }
+                        });
+
+                        $("#provinsi-dropdown-bridg").on('change', function(evt) {
+                                updateDropdown("#kabupaten-dropdown-bridg", "/rest-drop-down/getwilayah?" + "level=kabupaten&parent=" + evt.target.value + "&periode_merge="+ $("#periode1-bridg").val());
+                                updateOtherDrop("#kecamatan-dropdown-bridg");
+                                // updateOtherDrop("#desa-dropdown-bridg");
+                                parent = evt.target.value;
+                                periode = $("#periode1-bridg").val();
+                                $('#data-table').empty();
+                                updateTable("#data-table", "kabupaten", periode, parent);
+                        });
+
+                        $("#provinsi-dropdown-bridg-1").on('change', function(evt) {
+                                updateDropdown("#kabupaten-dropdown-bridg-1", "/rest-drop-down-dagri/getwilayah?" + "level=kabupaten&parent=" + evt.target.value);
+                                updateOtherDrop("#kecamatan-dropdown-bridg-1");
+                                levelDropdown = "kabupaten";
+                                kode = evt.target.value;
+                                $('#data-table-dagri2').empty();
+                                updateTableD("#data-table-dagri2", "kabupaten", evt.target.value);
+                        });
+
+                        $("#provinsi-dropdown-bridg-2").on('change', function(evt) {
+                                updateDropdown("#kabupaten-dropdown-bridg-2", "/rest-drop-down/getwilayah?" + "level=kabupaten&parent=" + evt.target.value);
+                                updateOtherDrop("#kecamatan-dropdown-bridg-2");
+                                updateOtherDrop("#desa-dropdown-bridg-2");
+                                levelDropdown = "kabupaten";
+                                kode = evt.target.value;
+                                $('#data-table-pos').empty();
+                                updateTable("#data-table-pos", "kabupaten", evt.target.value);
+                        });
+
+                        $("#kabupaten-dropdown-bridg").on('change', function(evt) {
+                                updateDropdown("#kecamatan-dropdown-bridg", "/rest-drop-down/getwilayah?" + "level=kecamatan&parent=" + evt.target.value + "&periode_merge="+ $("#periode1-bridg").val());
+                                // updateOtherDrop("#desa-dropdown-bridg");
+                                parent = evt.target.value;
+                                periode = $("#periode1-bridg").val();
+                                $('#data-table').empty();
+                                updateTable("#data-table", "kecamatan", periode, parent);
+                        });
+
+                        $("#kabupaten-dropdown-bridg-1").on('change', function(evt) {
+                                updateDropdown("#kecamatan-dropdown-bridg-1", "/rest-drop-down-dagri/getwilayah?" + "level=kecamatan&parent=" + evt.target.value);
+                                updateOtherDrop("#desa-dropdown-bridg");
+                                levelDropdown = "kecamatan";
+                                kode = evt.target.value;
+                                $('#data-table-dagri2').empty();
+                                updateTableD("#data-table-dagri2", "kecamatan", evt.target.value);
+                        });
+
+                        $("#kabupaten-dropdown-bridg-2").on('change', function(evt) {
+                                updateDropdown("#kecamatan-dropdown-bridg-2", "/rest-drop-down/getwilayah?" + "level=kecamatan&parent=" + evt.target.value);
+                                updateOtherDrop("#desa-dropdown-bridg-1");
+                                levelDropdown = "kecamatan";
+                                kode = evt.target.value;
+                                $('#data-table-pos').empty();
+                                updateTable("#data-table-pos", "kecamatan", evt.target.value);
+                        });
+
+                        $("#kecamatan-dropdown-bridg").on('change', function(evt) {
+                                updateDropdown("#desa-dropdown-bridg", "/rest-drop-down/getwilayah?" + "level=desa&parent=" + evt.target.value + "&periode_merge="+ $("#periode1-bridg").val());
+                                parent = evt.target.value;
+                                periode = $("#periode1-bridg").val();
+                                $('#data-table').empty();
+                                updateTable("#data-table", "desa", periode, parent);
+                        })
+
+                        $("#kecamatan-dropdown-bridg-1").on('change', function(evt) {
+                                levelDropdown = "desa";
+                                kode = evt.target.value;
+                                $('#data-table-dagri2').empty();
+                                updateTableD("#data-table-dagri2", "desa", evt.target.value);
+                        })
+
+                        $("#kecamatan-dropdown-bridg-2").on('change', function(evt) {
+                                updateDropdown("#desa-dropdown-bridg-2", "/rest-drop-down/getwilayah?" + "level=desa&parent=" + evt.target.value);
+                                levelDropdown = "desa";
+                                kode = evt.target.value;
+                                $('#data-table-pos').empty();
+                                updateTable("#data-table-pos", "desa", evt.target.value);
+                        })
+
+                        $("#desa-dropdown-bridg").on('change', function(evt) {
+                                levelDropdown = "desa";
+                                kode = evt.target.value;
+                                $('#data-table').empty();
+                                if ($("#periode1-bridg").prop('selectedIndex') === 14) {
+                                        updateTable("#data-table", "desa", evt.target.value);
+                                } else {
+                                        updateBridgingPeriode("#data-table", "desa", evt.target.value, $("#periode1-bridg").prop('selectedIndex'));
+                                }
+                        })
+                        $("#provinsi-dropdown-hist").on('change', function(evt) {
+                                updateDropdown("#kabupaten-dropdown-hist", "/rest-drop-down/getwilayah?" + "level=kabupaten&parent=" + evt.target.value);
+                                updateOtherDrop("#kecamatan-dropdown-hist");
+                                updateOtherDrop("#desa-dropdown-hist");
+                                levelHistoris = "kabupaten";
+                                kodeH = evt.target.value;
+                                $('#data-historis').empty();
+                                updateHistoris("#data-historis", "kabupaten", evt.target.value);
+                        });
+
+                        $("#kabupaten-dropdown-hist").on('change', function(evt) {
+                                updateDropdown("#kecamatan-dropdown-hist", "/rest-drop-down/getwilayah?" + "level=kecamatan&parent=" + evt.target.value);
+                                updateOtherDrop("#desa-dropdown-hist");
+                                levelHistoris = "kecamatan";
+                                kodeH = evt.target.value;
+                                $('#data-historis').empty();
+                                updateHistoris("#data-historis", "kecamatan", evt.target.value);
+                        });
+                        $("#kecamatan-dropdown-hist").on('change', function(evt) {
+                                updateDropdown("#desa-dropdown-hist", "/rest-drop-down/getwilayah?" + "level=desa&parent=" + evt.target.value);
+                                levelHistoris = "desa";
+                                kodeH = evt.target.value;
+                                $('#data-historis').empty();
+                                updateHistoris("#data-historis", "desa", evt.target.value);
+                        })
+                        $("#desa-dropdown-hist").on('change', function(evt) {
+                                levelHistoris = "desa";
+                                kodeH = evt.target.value;
+                                $('#data-historis').empty();
+                                updateHistoris("#data-historis", "desa", evt.target.value);
+                        })
+                        $("#provinsi-dropdown-hist-dagri").on('change', function(evt) {
+                                updateDropdown("#kabupaten-dropdown-hist-dagri", "/rest-drop-down-dagri/getwilayah?" + "level=kabupaten&parent=" + evt.target.value);
+                                levelHistorisDagri = "kabupaten";
+                                kodeHD = evt.target.value;
+                                $('#data-historis-dagri').empty();
+                                updateHistoris("#data-historis-dagri", "kabupaten", evt.target.value);
+                        });
+                        $("#kabupaten-dropdown-hist-dagri").on('change', function(evt) {
+                                levelHistorisDagri = "kecamatan";
+                                kodeHD = evt.target.value;
+                                $('#data-historis-dagri').empty();
+                                updateHistoris("#data-historis-dagri", "kecamatan", evt.target.value);
+                        });
+                        $("#provinsi-dropdown-bridg-dagri").on('change', function(evt) {
+                                updateDropdown("#kabupaten-dropdown-bridg-dagri", "/rest-drop-down/getwilayah?" + "level=kabupaten&parent=" + evt.target.value);
+                                updateOtherDrop("#kecamatan-dropdown-bridg-dagri");
+                                levelDropdownDagri = "kabupaten";
+                                kodeD = evt.target.value;
+                                $('#data-table-dagri').empty();
+                                updateTable("#data-table-dagri", "kabupaten", evt.target.value);
+                        });
+                        $("#kabupaten-dropdown-bridg-dagri").on('change', function(evt) {
+                                updateDropdown("#kecamatan-dropdown-bridg-dagri", "/rest-drop-down/getwilayah?" + "level=kecamatan&parent=" + evt.target.value);
+                                levelDropdownDagri = "kecamatan";
+                                kodeD = evt.target.value;
+                                $('#data-table-dagri').empty();
+                                updateTable("#data-table-dagri", "kecamatan", evt.target.value);
+                        });
+                        $("#kecamatan-dropdown-bridg-dagri").on('change', function(evt) {
+                                levelDropdownDagri = "desa";
+                                kodeD = evt.target.value;
+                                $('#data-table-dagri').empty();
+                                updateTable("#data-table-dagri", "desa", evt.target.value);
+                        });
+                        $("input[name=optradio]").on('change', function(evt) {
+                                updateHistoris('#data-historis', levelHistoris, kodeH)
+                        })
+                        $("#periode2-hist").on('change', function(evt) {
+                                if ($("#periode2-hist").prop('selectedIndex') < $("#periode1-hist").prop('selectedIndex')) {
+                                        alert('Periode Terakhir harus lebih besar');
+                                } else {
+                                        if ($("#periode2-hist").prop('selectedIndex') < 5) {
+                                                $("#kecamatan-dropdown-hist").attr("disabled", true);
+                                                $("#kabupaten-dropdown-hist").attr("disabled", true);
+                                        } else {
+                                                $("#kecamatan-dropdown-hist").attr("disabled", false);
+                                                $("#kabupaten-dropdown-hist").attr("disabled", false);
+                                        };
+                                        $('#data-historis').empty();
+                                        updateHistoris('#data-historis', levelHistoris, kodeH)
+                                }
+                        });
+                        $("#periode1-hist").on('change', function(evt) {
+                                if ($("#periode2-hist").prop('selectedIndex') < $("#periode1-hist").prop('selectedIndex')) {
+                                        alert('Periode Terakhir harus lebih besar');
+                                } else {
+
+                                        if ($("#periode1-hist").prop('selectedIndex') < 5) {
+                                                $("#kecamatan-dropdown-hist").attr("disabled", true);
+                                                $("#kabupaten-dropdown-hist").attr("disabled", true);
+                                        } else {
+                                                $("#kecamatan-dropdown-hist").attr("disabled", false);
+                                                $("#kabupaten-dropdown-hist").attr("disabled", false);
+                                        };
+                                        $('#data-historis').empty();
+                                        updateHistoris('#data-historis', levelHistoris, kodeH)
+
+                                }
+                        });
+                        // $("#periode1-bridg").on('change', function(evt) {
+                        //         levelDropdown = "provinsi";
+                        //         updateOtherDrop("#desa-dropdown-bridg");
+                        //         updateOtherDrop("#kabupaten-dropdown-bridg");
+                        //         updateOtherDrop("#kecamatan-dropdown-bridg");
+                        //         updateDropdown("#provinsi-dropdown-bridg", "/rest-drop-down/getwilayah");
+                        //         $('#data-table').empty();
+                        //         updateBridgingPeriode('#data-table', levelDropdown, 0, $("#periode1-bridg").prop('selectedIndex'))
+                        // });
+                        $("#provinsi-dropdown-hist-spasial").on('change', function(evt) {
+                                $('#data-historis-spasial').empty();
+                                updateHistorisSpasial("#data-historis-spasial", "kabupaten", evt.target.value)
+                        });
+                        $("#kabupaten-dropdown-hist-spasial").on('change', function(evt) {
+                                $('#data-historis-spasial').empty();
+                                updateHistorisSpasial("#data-historis-spasial", "kabupaten", evt.target.value)
+                        });
+                        $("#caribtn").on('click', function(event) {
+                                $("#data-cari").empty();
+                                event.preventDefault();
+                                var q = $("#cari-text").prop('value');
+                                q = q.toUpperCase();
+                                $.ajax({
+                                        method: "GET",
+                                        url: "/rest-cari/getcari",
+                                        data: {
+                                                q: q
+                                        }
+                                }).done(function(data) {
+                                        var table = $("#data-cari").html("");
+                                        //                        
+                                        //                        if(data.length>25){
+                                        //                        table.append("<thead><tr><th rowspan=\"2\" class=\"col-md-12\">Hasil Pencarian lebih besar dari 25. \n\
+                                        //                Silahkan masukan keyword yang lebih detail.</th></thead><tbody></tbody>"); 
+                                        //                            
+                                        //                        }else 
+                                        if (data.length < 1) {
+                                                table.append("<thead><tr><th rowspan=\"2\" class=\" col-sm-12 col-md-12 col-lg-12\">Tidak ditemukan data untuk keyword yang diinput.</th></thead><tbody></tbody>");
+                                        } else {
+                                                table.append("<thead><tr><th rowspan=\"2\" class=\"BPS col-md-1\">No</th>" +
+                                                        "<th rowspan=\"2\" class=\"BPS col-sm-3 col-md-3 col-lg-3\">Level</th>" +
+                                                        "<th colspan=\"2\" class=\"BPS col-sm-4 col-md-4 col-lg-4\">Wilayah Kerja Statistik</th>" +
+                                                        "<th colspan=\"2\" class=\"BPS col-sm-4 col-md-4 col-lg-4\">Wilayah Administrasi</th>" +
+                                                        "</tr>" +
+                                                        "<tr>" + "<th class=\"BPS col-sm-1 col-md-1 col-lg-1\">-  </th><th class=\"BPS col-sm-3 col-md-3 col-lg-3\"> - </th>" +
+                                                        "<th class=\"BPS col-sm-2 col-md-2 col-lg-2\">Kode Wilayah</th>" +
+                                                        "<th class=\"BPS col-sm-2 col-md-2 col-lg-2\">Nama Wilayah</th>" +
+                                                        "<th class=\"BPS col-sm-2 col-md-2 col-lg-2\">Kode Wiayah</th>" +
+                                                        "<th class=\"BPS col-sm-2 col-md-2 col-lg-2\">Nama Wilayah</th>" +
+                                                        "</tr></thead>" +
+                                                        "<tbody></tbody>");
+                                                var tbody = $("#data-cari").find("tbody");
+                                                tbody.html("");
+                                                for (var i = 0; i < data.length; i++) {
+                                                        tbody.append("<tr><td class=\"col-sm-1 col-md-1 col-lg-1\">" + (i + 1) +
+                                                                "</td><td class=\"col-sm-3 col-md-3 col-lg-3\">" + data[i].level +
+                                                                "</td><td class=\"col-sm-2 col-md-2 col-lg-2\">" + data[i].kode_bps +
+                                                                "</td><td class=\"col-sm-2 col-md-2 col-lg-2\">" + toTitleCase(data[i].nama_bps) +
+                                                                "</td><td class=\"col-sm-2 col-md-2 col-lg-2\">" + data[i].kode_dagri +
+                                                                "</td><td class=\"col-sm-2 col-md-2 col-lg-2\">" + toTitleCase(data[i].nama_dagri) +
+                                                                "</td></tr>");
+                                                };
+                                        }
+                                })
+                        })
+                })
+
+
+                function updateDropdown(selector, url) {
+                        $.ajax({
+                                method: "GET",
+                                url: url
+                        }).done(function(data) {
+                                setOption(selector, data, function(row) {
+                                        return {
+                                                value: row.kode,
+                                                label: row.nama
+                                        }
+                                });
+                        });
+                }
+
+                function setOption(selector, arr, option) {
+                        $(selector).html("<option value=\"\">----</option>");
+                        for (i = 0; i < arr.length; i++) {
+                                var data = option(arr[i]);
+                                $(selector).append("<option value=\"" + data.value + "\">" + data.label + "</option>");
+                        }
+                }
+
+                function updateOtherDrop(selector) {
+                        $(selector).html("<option value=\"\">----</option>");
+                }
+
+                function createTableDagri(selector, data, level) {
+                        var table = $(selector).html("");
+                        table.append("<thead><tr><th class=\"netral col-sm-2 col-md-2 col-lg-2\" >No</th>" +
+                                "<th colspan=\"2\" class=\"BPS col-sm-5 col-md-5 col-lg-5\">Wilayah Kerja Statistik - BPS </th>" +
+                                "<th colspan=\"2\" class=\"Pos col-sm-5 col-md-5 col-lg-5\" >Wilayah Kode - Pos </th>" +
+                                "</tr>" +
+                                "<tr>" +
+                                "<th class=\"netral col-sm-2 col-md-2 col-lg-2\">  - " +
+                                "<th class=\"BPS col-sm-2 col-md-2 col-lg-2\">Kode " + level + "</th>" +
+                                "<th class=\"BPS col-sm-3 col-md-3 col-lg-3\">Nama " + level + "</th>" +
+                                "<th class=\"Pos col-sm-2 col-md-2 col-lg-2\">Kode " + level + "</th>" +
+                                "<th class=\"Pos col-sm-3 col-md-3 col-lg-3\">Nama " + level + "</th>" +
+                                "</tr></thead>" +
+                                "<tbody></tbody>");
+                        var tbody = $(selector).find("tbody");
+                        tbody.html("");
+                        for (var i = 0; i < data.length; i++) {
+                                tbody.append("<tr><td class=\"col-sm-2 col-md-2 col-lg-2\">" + (i + 1) +
+                                        "</td><td class=\"col-sm-2 col-md-2 col-lg-2\">" + data[i].kode_bps +
+                                        "</td><td class=\"col-sm-3 col-md-3 col-lg-3\">" + data[i].nama_bps +
+                                        "</td><td class=\"col-sm-3 col-md-3 col-lg-3\"> under-construction" +
+                                        "</td><td class=\"col-sm-2 col-md-2 col-lg-2\"> under-construction" +
+                                        "</td></tr>");
+                        };
+                }
+
+                function createTablePos(selector, data, level) {
+                        var table = $(selector).html("");
+                        switch (level) {
+                                case "provinsi":
+                                        level = "Provinsi";
+                                        break;
+                                case "kecamatan":
+                                        level = "Kecamatan";
+                                        break;
+                                case "desa":
+                                        level = "Desa / Kelurahan";
+                                        break;
+                                case "kabupaten":
+                                        level = "Kabupaten / Kota";
+                                        break;
+                        }
+                        table.append("<thead><tr><th  class=\"BPS col-sm-2 col-md-2 col-lg-2\" >No</th>" +
+                                "<th colspan=\"2\" class=\"BPS col-sm-5 col-md-5 col-lg-5\">Wilayah Kerja Statistik - BPS </th>" +
+                                "<th colspan=\"2\" class=\"BPS col-sm-5 col-md-5 col-lg-5\" >Wilayah Pos </th>" +
+                                "</tr>" +
+                                "<tr>" +
+                                "<th class=\"BPS col-sm-2 col-md-2 col-lg-2\" style='height: 45px'>  - " +
+                                "<th class=\"BPS col-sm-3 col-md-3 col-lg-3\" style='height: 45px'>Nama " + level + "</th>" +
+                                "<th class=\"BPS col-sm-2 col-md-2 col-lg-2\" style='height: 45px'>Kode " + level + "</th>" +
+                                "<th class=\"BPS col-sm-3 col-md-3 col-lg-3\" style='height: 45px'>Nama " + level + "</th>" +
+                                "<th class=\"BPS col-sm-2 col-md-2 col-lg-2\" style='height: 45px'>Kode Pos</th>" +
+                                "</tr></thead>" +
+                                "<tbody></tbody>");
+                        var tbody = $(selector).find("tbody");
+                        tbody.html("");
+                        for (var i = 0; i < data.length; i++) {
+                                tbody.append("<tr><td class=\"col-sm-2 col-md-2 col-lg-2\">" + (i + 1) +
+                                        "</td><td class=\"col-sm-3 col-md-3 col-lg-3\">" + toTitleCase(data[i].nama_bps) +
+                                        "</td><td class=\"col-sm-2 col-md-2 col-lg-2\">" + toTitleCase(data[i].kode_bps) +
+                                        "</td><td class=\"col-sm-3 col-md-3 col-lg-3\"> " + toTitleCase(data[i].nama_pos) +
+                                        "</td><td class=\"col-sm-2 col-md-2 col-lg-2\"> " + toTitleCase(data[i].kode_pos) +
+                                        "</td></tr>");
+                        };
+                }
+
+                function createTable(selector, data, level) {
+                        switch (level) {
+                                case "provinsi":
+                                        level = "Provinsi";
+                                        break;
+                                case "kecamatan":
+                                        level = "Kecamatan";
+                                        break;
+                                case "desa":
+                                        level = "Desa / Kelurahan";
+                                        break;
+                                case "kabupaten":
+                                        level = "Kabupaten / Kota";
+                                        break;
+                        }
+                        var table = $(selector).html("");
+                        table.append("<thead><tr><th  class=\"BPS col-sm-2 col-md-2 col-lg-2\" >No</th>" +
+                                "<th colspan=\"2\" class=\"BPS col-sm-5 col-md-5 col-lg-5\">Wilayah Kerja Statistik - BPS</th>" +
+                                "<th colspan=\"2\" class=\"BPS col-sm-5 col-md-5 col-lg-5\">Wilayah Administrasi - Kemendagri</th>" +
+                                "</tr>" +
+                                "<tr><th class=\"BPS col-sm-2 col-md-2 col-lg-2\" style='height: 45px'>  -  \n\ " +
+                                "<th class=\"BPS col-sm-3 col-md-3 col-lg-3\" style='height: 45px' >Nama " + level + "</th>" +
+                                "<th class=\"BPS col-sm-2 col-md-2 col-lg-2\" style='height: 45px'>Kode " + level + "</th>" +
+                                "<th class=\"BPS col-sm-3 col-md-3 col-lg-3\" style='height: 45px'>Nama " + level + "</th>" +
+                                "<th class=\"BPS col-sm-2 col-md-2 col-lg-2\" style='height: 45px'>Kode " + level + "</th>" +
+                                "<tbody></tbody>");
+                        var tbody = $(selector).find("tbody");
+                        tbody.html("");
+                        for (var i = 0; i < data.length; i++) {
+                                if (data[i].nama_dagri !== '') {
+                                        tbody.append("<tr><td class=\"col-sm-2 col-md-2 col-lg-2\">" + (i + 1) +
+                                                "</td><td class=\"col-sm-3 col-md-3 col-lg-3\">" + toTitleCase(data[i].nama_bps) +
+                                                "</td><td class=\"col-sm-2 col-md-2 col-lg-2\">" + toTitleCase(data[i].kode_bps) +
+                                                "</td><td class=\"col-sm-3 col-md-3 col-lg-3\">" + toTitleCase(data[i].nama_dagri) +
+                                                "</td><td class=\"col-sm-2 col-md-2 col-lg-2\">" + toTitleCase(data[i].kode_dagri) +
+                                                "</td></tr>");
+                                } else {
+                                        tbody.append("<tr><td class=\"col-sm-2 col-md-2 col-lg-2\">" + (i + 1) +
+                                                "</td><td class=\"col-sm-3 col-md-3 col-lg-3 null\">" + toTitleCase(data[i].nama_bps) +
+                                                "</td><td class=\"col-sm-2 col-md-2 col-lg-2 null\">" + toTitleCase(data[i].kode_bps) +
+                                                "</td><td class=\"col-sm-3 col-md-3 col-lg-3 null\">---" +
+                                                "</td><td class=\"col-sm-2 col-md-2 col-lg-2 null\">---" +
+                                                "</td></tr>");
+                                }
+                        };
+                }
+
+                function createTableDagri2(selector, data, level) {
+                        switch (level) {
+                                case "provinsi":
+                                        level = "Provinsi";
+                                        break;
+                                case "kecamatan":
+                                        level = "Kecamatan";
+                                        break;
+                                case "desa":
+                                        level = "Desa / Kelurahan";
+                                        break;
+                                case "kabupaten":
+                                        level = "Kabupaten / Kota";
+                                        break;
+                        }
+                        var table = $(selector).html("");
+                        table.append("<thead><tr><th  class=\"BPS col-sm-2 col-md-2 col-lg-2\" >No</th>" +
+                                "<th colspan=\"2\" class=\"BPS col-sm-5 col-md-5 col-lg-5\">Wilayah Administrasi - Kemendagri</th>" +
+                                "<th colspan=\"2\" class=\"BPS col-sm-5 col-md-5 col-lg-5\">Wilayah Kerja Statistik - BPS</th>" +
+                                "</tr>" +
+                                "<tr><th class=\"BPS col-sm-2 col-md-2 col-lg-2\" style='height: 45px'>  -  \n\ " +
+                                "<th class=\"BPS col-sm-3 col-md-3 col-lg-3\" style='height: 45px' >Nama " + level + "</th>" +
+                                "<th class=\"BPS col-sm-2 col-md-2 col-lg-2\" style='height: 45px'>Kode " + level + "</th>" +
+                                "<th class=\"BPS col-sm-3 col-md-3 col-lg-3\" style='height: 45px'>Nama " + level + "</th>" +
+                                "<th class=\"BPS col-sm-2 col-md-2 col-lg-2\" style='height: 45px'>Kode " + level + "</th>" +
+                                "<tbody></tbody>");
+                        var tbody = $(selector).find("tbody");
+                        tbody.html("");
+                        for (var i = 0; i < data.length; i++) {
+                                if (data[i].nama_bps !== '') {
+                                        tbody.append("<tr><td class=\"col-sm-2 col-md-2 col-lg-2\">" + (i + 1) +
+                                                "</td><td class=\"col-sm-3 col-md-3 col-lg-3\">" + toTitleCase(data[i].nama_dagri) +
+                                                "</td><td class=\"col-sm-2 col-md-2 col-lg-2\">" + toTitleCase(data[i].kode_dagri) +
+                                                "</td><td class=\"col-sm-3 col-md-3 col-lg-3\">" + toTitleCase(data[i].nama_bps) +
+                                                "</td><td class=\"col-sm-2 col-md-2 col-lg-2\">" + toTitleCase(data[i].kode_bps) +
+                                                "</td></tr>");
+                                } else {
+                                        tbody.append("<tr><td class=\"col-sm-2 col-md-2 col-lg-2\">" + (i + 1) +
+                                                "</td><td class=\"col-sm-3 col-md-3 col-lg-3 null\">" + toTitleCase(data[i].nama_dagri) +
+                                                "</td><td class=\"col-sm-2 col-md-2 col-lg-2 null\">" + toTitleCase(data[i].kode_dagri) +
+                                                "</td><td class=\"col-sm-3 col-md-3 col-lg-3 null\"> --- </td><td class=\"col-sm-2 col-md-2 col-lg-2 null\"> ---</td></tr>");
+                                }
+                        };
+                }
+
+                function updateTable(division, level, periode, parent = '0') {
+                        if ((division == "#data-table")) {
+                                $.ajax({
+                                        method: "GET",
+                                        url: "/rest-bridging/getwilayah?" + "level=" + level + "&parent=" + parent + "&periode_merge=" + periode
+                                }).done(function(data) {
+                                        console.log(data);
+                                        createTable(division, data, level);
+                                });
+                        } else if (division == "#data-table-dagri") {
+                                $.ajax({
+                                        method: "GET",
+                                        url: "/rest-bridging/getwilayah?" + "level=" + level + "&parent=" + parent
+                                }).done(function(data) {
+                                        createTableDagri(division, data, level);
+                                });
+                        } else {
+                                $.ajax({
+                                        method: "GET",
+                                        url: "/rest-bridging-pos/getwilayah?" + "level=" + level + "&parent=" + parent
+                                }).done(function(data) {
+                                        createTablePos(division, data, level);
+                                });
+                        }
+                }
+
+                function updateTableD(division, level, parent = '0') {
+                        $.ajax({
+                                method: "GET",
+                                url: "/rest-bridging-dagri/getwilayah" + "?level=" + level + "&parent=" + parent
+                        }).done(function(data) {
+                                createTableDagri2(division, data, level);
+                        });
+                }
+
+                function updateBridgingPeriode(division, level, parent = '0', periode) {
+                        switch (periode) {
+                                case 0: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20102"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                                case 1: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20111"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                                case 2: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20112"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                                case 3: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20121"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                                case 4: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20122"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                                case 5: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20131"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                                case 6: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20132"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                                case 7: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20141"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                                case 8: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20142"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                                case 9: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20151"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                                case 10: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20152"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                                case 11: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20161"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                                case 12: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20162"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                                case 13: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20171"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                case 15: {
+                                        $.ajax({
+                                                method: "GET",
+                                                url: "/rest-bridging/getwilayahperiode" + "?level=" + level + "&parent=" + parent + "&periode=20181"
+                                        }).done(function(data) {
+                                                createTable(division, data, level)
+                                        });
+                                }
+                                break;
+                        }
+                }
+
+                function updateHistoris(division, level, parent = '0') {
+                        if (division !== "#data-historis-dagri") {
+                                $.ajax({
+                                        method: "GET",
+                                        url: "/rest-historis/getwilayah" + "?level=" + level + "&parent=" + parent
+                                }).done(function(data) {
+                                        createHistoris(division, data, level);
+                                });
+                        } else {
+                                $.ajax({
+                                        method: "GET",
+                                        url: "/rest-historis-dagri/getwilayah" + "?level=" + level + "&parent=" + parent
+                                }).done(function(data) {
+                                        createHistorisDagri(division, data, level);
+                                });
+                        }
+                }
+
+                function createHistoris(selector, data, level) {
+                        $(selector).empty();
+                        $("#data-historisBody").empty();
+                        var table = $(selector).html("");
+                        var stringtable = "";
+                        switch (level) {
+                                case "provinsi":
+                                        level = "Provinsi";
+                                        break;
+                                case "kabupaten":
+                                        level = "Kabupaten/Kota";
+                                        break;
+                                case "kecamatan":
+                                        level = "Kecamatan";
+                                        break;
+                                case "desa":
+                                        level = "Desa/Kelurahan";
+                                        break;
+                        }
+                        if ($('input[name=optradio]:checked').val() === '1') {
+                                stringtable = stringtable + "<thead><tr><th rowspan=\"2\" class=\" BPS\" width='5%'>No</th>";
+                                stringtable = stringtable + "<th colspan=\"2\" class=\"BPS \" width='10%'>" + periodeH[$("#periode1-hist").prop('selectedIndex')] + "</th>";
+                                stringtable = stringtable + "<th colspan=\"2\" class=\"BPS \" width='10%'>" + periodeH[$("#periode2-hist").prop('selectedIndex')] + "</th>";
+                                stringtable = stringtable + ("</tr><tr> ");
+                                stringtable = stringtable + "<th class=\"BPS \" width='5%'>Kode " + level + "</th>" +
+                                        "<th class=\"BPS \" width='5%'>Nama " + level + "</th>";
+                                stringtable = stringtable + "<th class=\"BPS \" width='5%'>Kode " + level + "</th>" +
+                                        "<th class=\"BPS \" width='5%'>Nama " + level + "</th>";
+                        } else {
+                                stringtable = stringtable + "<thead><tr>";
+                                stringtable = stringtable + "<th rowspan=\"2\" class=\" BPS\" width='50px'>No</th>";
+                                for (k = $("#periode1-hist").prop('selectedIndex'); k <= $("#periode2-hist").prop('selectedIndex'); k++) {
+                                        stringtable = stringtable + "<th colspan=\"2\" class=\"BPS \" width='200px'>" + periodeH[k] + "</th>";
+                                }
+                                stringtable = stringtable + ("</tr><tr> ");
+                                for (k = $("#periode1-hist").prop('selectedIndex'); k <= $("#periode2-hist").prop('selectedIndex'); k++) {
+                                        stringtable = stringtable + "<th class=\"BPS \" width='100px'>Kode " + level + "</th>" +
+                                                "<th class=\"BPS \" width='100px'>Nama " + level + "</th>";
+                                }
+                        }
+
+                        table.append(stringtable + "</tr></thead>");
+                        var tbody = $("#data-historisBody").html("");
+                        var stringbody = "";
+                        tbody.html("");
+                        for (var i = 0; i < data.length; i++) {
+                                if ($('input[name=optradio]:checked').val() === '1') {
+                                        stringbody = stringbody + "<tr><td class=\"sColumn\" width='5%'>" + (i + 1);
+                                        stringbody = stringbody + "</td><td class=\"sColumn\" width='5%'>" + data[i][periodekodeH[$("#periode1-hist").prop('selectedIndex')]] + "</td><td class=\"sColumn\" width='5%'>" + (data[i][periodenamaH[$("#periode1-hist").prop('selectedIndex')]]);
+                                        stringbody = stringbody + "</td><td class=\"sColumn\" width='5%'>" + data[i][periodekodeH[$("#periode2-hist").prop('selectedIndex')]] + "</td><td class=\"sColumn\" width='5%'>" + (data[i][periodenamaH[$("#periode2-hist").prop('selectedIndex')]]);
+                                } else {
+                                        stringbody = stringbody + "<tr><td class=\"sColumn\" width='50px'>" + (i + 1);
+                                        for (k = $("#periode1-hist").prop('selectedIndex'); k <= $("#periode2-hist").prop('selectedIndex'); k++) {
+                                                stringbody = stringbody + "</td><td class=\"sColumn\" width='100px'>" + data[i][periodekodeH[k]] + "</td><td class=\"sColumn\" width='100px'>" + (data[i][periodenamaH[k]])
+
+                                        }
+                                }
+                                stringbody = stringbody + "</td></tr>";
+                        };
+                        tbody.append(stringbody);
+                }
+
+                function createHistorisDagri(selector, data, level) {
+                        var table = $(selector).html("");
+                        var stringtable = "";
+                        stringtable = stringtable + "<thead><tr><th rowspan=\"2\" class=\"col-md-2\">No</th>";
+                        stringtable = stringtable + "<th colspan=\"2\" class=\"Dagri col-md-5\">2013</th><th colspan=\"2\" class=\"Dagri col-md-5\">2015</th>";
+                        stringtable = stringtable + ("</tr><tr>");
+                        stringtable = stringtable + "<th class=\"col-md-2\"></th><th class=\"Dagri col-md-2\">Kode Wilayah</th>" +
+                                "<th class=\"Dagri col-md-3\">Nama Wilayah</th>" + "<th class=\"Dagri col-md-2\">Kode Wilayah</th>" +
+                                "<th class=\"Dagri col-md-3\">Nama Wilayah</th>";
+                        table.append(stringtable + "</tr></thead><tbody></tbody>");
+                        var tbody = $(selector).find("tbody");
+                        var stringbody = "";
+                        tbody.html("");
+                        for (var i = 0; i < data.length; i++) {
+                                stringbody = stringbody + "<tr ><td class=\"col-md-2\">" + (i + 1);
+                                stringbody = stringbody + "</td><td class=\"col-md-2\">" + data[i]["kode_2013"] + "</td><td class=\"col-md-3\">" + data[i]["nama_2013"];
+                                stringbody = stringbody + "</td><td class=\"col-md-2\">" + data[i]["kode_2015"] + "</td><td class=\"col-md-3\">" + data[i]["nama_2015"];
+                                stringbody = stringbody + "</td></tr>";
+                        };
+                        tbody.append(stringbody);
+                }
+        </script>
+
+        </div>
+        </div>
+</div>            <script src="/assets/b67c549d/yii.js"></script>
+<script src="/assets/8740cf70/js/bootstrap.bundle.js"></script>
+<script src="/js/main.js"></script>
+
+        </div>
+        <div class="footer-separator"></div>
+
+        <footer class="bg-4" style="background: #55a8e1!important">            
+            <div class="container">
+                <div class="row mb-5"></div>
+                <div class="row mb-2">
+                    <div class="col-lg-3 col-xl-3">
+                        <h5>Navigasi</h5>
+                        <ul class="nav flex-column">
+                            <li class="nav-item">
+                                <a href="https://bps.go.id" class="nav-link">Situs BPS</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://geoportal.bps.go.id" class="nav-link">Geoportal</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://geoportal.bps.go.id" class="nav-link">Syarat dan ketentuan</a>
+                            </li>   
+                        </ul>
+                    </div>
+                    <div class="col-lg-5 col-xl-6">
+                        <h5>Kontak</h5>
+                        <ul class="text-left">
+                            <li class="mb-3 d-flex">
+                                <i class="fas fa-map-marker-alt"></i>
+                                <div class="ml-3">
+                                    <span>
+                                        Direktorat Pengembangan Metodologi Sensus dan Survei<br/>
+                                        Badan Pusat Statistik
+                                        (BPS - Statistics Indonesia)<br/>
+                                        Jl. Dr. Sutomo 6-8 Jakarta 10710 Indonesia</span>
+                                </div>
+                            </li>
+                            <li class="mb-3 d-flex">
+                                <i class="fas fa-phone-alt"></i>
+                                <div class="ml-3">
+                                    <span>(62-21) 3841195, 3842508, 3810291</span>
+                                    <span class="d-block text-muted text-small">Senin - Selasa 07.30 - 16.00</span>
+                                </div>
+                            </li>
+                            <li class="mb-3 d-flex">
+                                <i class="fas fa-envelope"></i>
+                                <div class="ml-3">
+                                    <span>bpshq@bps.go.id</span>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4 col-xl-3 mt-3 mt-lg-0">
+                        <h5>Kritik dan saran</h5>
+                        <p>Apabila terdapat kritik dan saran silahkan tuliskan pada kolom dibawah ini</p>
+                        <form action="" data-form-email="" novalidate="">
+                            <div class="form-row">
+                                <div class="col-12">
+                                    <input type="email" class="form-control mb-2" placeholder="Email Address" name="email" required="">
+                                </div>
+                                <div class="col-12">
+                                    <textarea type="text" class="form-control mb-2" placeholder="Kritik dan saran" name="pesan" required=""></textarea>
+                                </div>
+                                <div class="col-12">
+                                    <button type="submit" class="btn btn-primary btn-loading btn-block" data-loading-text="Sending">
+                                        Kirim
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                        <small class="text-muted form-text">Kami tidak akan membagikan kontak anda pada siapaun<a href="#"></a>
+                        </small>
+                    </div>
+                </div>
+                <div class="row justify-content-center mb-2">
+                    <div class="col-auto">
+                        <nav class="nav" style="font-size: 24px">
+                            <a href="https://www.instagram.com/bps_statistics/" class="nav-link text-dark">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                            <a href="https://www.twitter.com/bps_statistics" class="nav-link text-dark">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                            <a href="https://www.facebook.com/pages/Badan-Pusat-Statistik/1394866840805957" class="nav-link text-dark">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                            <a href="https://www.youtube.com/channel/UCn4IaaxHaaP-mAjZzrAtixA" class="nav-link text-dark">
+                                <i class="fab fa-youtube"></i>
+                            </a>
+                        </nav>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col col-md-auto text-center">
+                        <small class="">
+                            Hak Cipta © 2020 Badan Pusat Statistik<br/>
+                            Semua Hak Dilindungi
+                            <br/>
+                            <br/>
+                        </small>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
+

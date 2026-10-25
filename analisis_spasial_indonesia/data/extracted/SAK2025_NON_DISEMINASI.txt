@@ -1,0 +1,312 @@
+
+
+===== PDF PAGE 1 =====
+- 2 -
+Lampiran Surat
+Nomor : B-4/04100/VS.400/2026
+Tanggal : 5 Januari 2026
+VARIABEL DATA YANG TIDAK DIDISEMINASIKAN
+SAKERNAS AGUSTUS 2025
+Pengumpulan data Sakernas data didasarkan pengakuan, dan semua pertanyaan bisa 
+dijawab hanya oleh salah satu Anggota Rumah Tangga (ART) yang mewakili ART lainnya. Oleh 
+karenanya, akurasi beberapa peubah tidak dapat dipastikan sehingga berpotensi menimbulkan 
+kesalahan interpretasi. 
+Selain itu, terdapat beberapa peubah berisi data pribadi responden dan juga peubah 
+khusus yang digunakan hanya untuk kemudahan proses identifikasi responden dan kemudahan 
+survei. Untuk itu, beberapa peubah tidak didiseminasikan ke publik. 
+Secara lengkap, berikut ini adalah daftar data yang tidak didiseminasikan: 
+No Kode Peubah Keterangan
+(1) (2) (3) (4)
+1 kode_kec Kecamatan Data hanya digunakan sebagai 
+parameter proksi Identifikasi Internal 
+bagi kemudahan survei
+2 kode_desa Desa Data hanya digunakan sebagai 
+parameter proksi Identifikasi Internal 
+bagi kemudahan survei
+3 nbs Blok Sensus Data hanya digunakan sebagai 
+parameter proksi Identifikasi Internal 
+bagi kemudahan survei
+4 nks Nomor Kode Sampel Data hanya digunakan sebagai 
+parameter proksi Identifikasi Internal 
+bagi kemudahan survei
+5 nbf Nomor Bangunan Fisik Data hanya digunakan sebagai 
+parameter proksi Identifikasi Internal 
+bagi kemudahan survei
+6 no_dsrt Nomor DSRT Data hanya digunakan sebagai 
+parameter proksi Identifikasi Internal 
+bagi kemudahan survei
+7 nmkrt_dsrt Nama KRT di DSRT Data individu, sesuai UU Nomor 16 
+tahun 1997 tentang Statistik Pasal 21, 
+wajib dirahasiakan.
+8 namakrt Nama kepala rumah tangga Data individu, sesuai UU Nomor 16 
+tahun 1997 tentang Statistik Pasal 21, 
+wajib dirahasiakan.
+* Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE), BSSN
+* Pindai kode QR di samping untuk menampilkan file asli
+
+===== PDF PAGE 2 =====
+- 3 -
+No Kode Peubah Keterangan
+(1) (2) (3) (4)
+9 kunjungan Hasil kunjungan Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+10 b1r11_no Nomor urut pemberi 
+informasi utama
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan
+survei
+11 b1r11_nm Nama pemberi informasi 
+utama
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+12 b1r12 Nomor HP pemberi 
+informasi utama
+Data individu, sesuai UU Nomor 16 
+tahun 1997 tentang Statistik Pasal 21, 
+wajib dirahasiakan.
+13 alamat Alamat lengkap Data individu, sesuai UU Nomor 16 
+tahun 1997 tentang Statistik Pasal 21, 
+wajib dirahasiakan.
+14 tgl_cacah Informasi Pendata Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+15 bln_cacah Informasi Pendata Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+16 thn_cacah Informasi Pendata Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+17 dem_cek1 Konfirmasi kesesuaian 
+anggota rumah tangga 
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+18 dem_cek2 Konfirmasi kesesuaian 
+anggota rumah tangga 
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+19 dem_name Nama Anggota Rumah 
+Tangga
+Data individu, sesuai UU Nomor 16 
+tahun 1997 tentang Statistik Pasal 21, 
+wajib dirahasiakan.
+20 dem_infonm Nama anggota rumah 
+tangga pemberi informasi
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+21 dem_info Nomor urut anggota rumah 
+tangga pemberi informasi
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+22 dem_nik NIK Data individu, sesuai UU Nomor 16 
+* Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE), BSSN
+* Pindai kode QR di samping untuk menampilkan file asli
+
+===== PDF PAGE 3 =====
+- 4 -
+No Kode Peubah Keterangan
+(1) (2) (3) (4)
+tahun 1997 tentang Statistik Pasal 21, 
+wajib dirahasiakan.
+23 dem_alasn Alasan NIK tidak terisi
+Data tidak didiseminasikan karena 
+variabel terkait (dem_nik) juga tidak 
+didiseminasikan
+24 dem_edf Deskripsi bidang 
+studi/jurusan pendidikan
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+25 dem_nmpl_x Deskripsi 
+pelatihan/kursus/training 
+dalam setahun terakhir
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+26 mjj_occtle Deskripsi apa yang 
+dikerjakan responden
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+27 mjj_occmtd Deskripsi apa yang 
+diproduksi/dijual/dilayani
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+28 mjj_bidang
+Deskripsi bidang 
+usaha/perusahaan kantor 
+tempat bekerja
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+29 mjj_plus_u
+Total pendapatan tidak rutin 
+yang diterima selama 
+sebulan terakhir (uang)
+Data hanya digunakan untuk 
+kepentingan studi internal
+30 mjj_plus_b
+Total pendapatan tidak rutin 
+yang diterima selama 
+sebulan terakhir (barang)
+Data hanya digunakan untuk
+kepentingan studi internal
+31 sjj_occtle
+Deskripsi apa yang 
+dikerjakan responden pada 
+pekerjaan tambahan utama
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+32 sjj_occmtd
+Deskripsi apa yang 
+diproduksi/dijual/dilayani 
+dari pekerjaan/kegiatan 
+usaha tambahan utama
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+33 sjj_bidang
+Deskripsi bidang 
+usaha/perusahaan kantor 
+tempat bekerja dari 
+pekerjaan tambahan utama
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+34 mpk_detail
+Deskripsi apa yang 
+dikerjakan responden pada 
+pekerjaan yang telah 
+berhenti
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+* Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE), BSSN
+* Pindai kode QR di samping untuk menampilkan file asli
+
+===== PDF PAGE 4 =====
+- 5 -
+No Kode Peubah Keterangan
+(1) (2) (3) (4)
+35 mpk_output
+Deskripsi apa yang 
+diproduksi/dijual/dilayani 
+dari pekerjaan/kegiatan 
+usaha yang telah berhenti
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+36 mpk_bidang
+Deskripsi bidang 
+usaha/perusahaan kantor 
+tempat bekerja dari 
+pekerjaan yang telah 
+berhenti
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+37 pkln_jabat
+Deskripsi apa yang 
+dikerjakan responden di 
+tempat kerja pada 
+pekerjaan pertama di luar 
+negeri
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+38 pkln_out
+Deskripsi apa yang 
+diproduksi/dijual/dilayani 
+pada pekerjaan pertama di 
+luar negeri
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+39 pkln_bid
+Deskripsi bidang 
+usaha/perusahaan kantor 
+tempat bekerja pada 
+pekerjaan pertama di luar
+negeri
+Data hanya digunakan sebagai 
+Identifikasi Internal bagi kemudahan 
+survei
+40 hll_src_a Pendapatan usaha 
+rumah tangga pertanian
+Data hanya digunakan untuk 
+keperluan internal dan penimbang 
+rumah tangga tidak tersedia
+41 hll_src_b Pendapatan usaha rumah 
+tangga non-pertanian
+Data hanya digunakan untuk 
+keperluan internal dan penimbang 
+rumah tangga tidak tersedia
+42 hll_src_c Penghasilan dari pekerjaan 
+yang dibayar
+Data hanya digunakan untuk 
+keperluan internal dan penimbang 
+rumah tangga tidak tersedia
+43 hll_src_d
+Bahan pangan yang 
+dihasilkan oleh rumah 
+tangga dari pertanian, 
+peternakan atau perikanan
+Data hanya digunakan untuk 
+keperluan internal dan penimbang 
+rumah tangga tidak tersedia
+44 hll_src_e
+Uang atau kiriman dari 
+orang yang tinggal di luar 
+negeri
+Data hanya digunakan untuk 
+keperluan internal dan penimbang 
+rumah tangga tidak tersedia
+45 hll_src_f Pendapatan dari rumah 
+tangga lain di dalam negeri
+Data hanya digunakan untuk 
+keperluan internal dan penimbang 
+rumah tangga tidak tersedia
+* Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE), BSSN
+* Pindai kode QR di samping untuk menampilkan file asli
+
+===== PDF PAGE 5 =====
+- 6 -
+No Kode Peubah Keterangan
+(1) (2) (3) (4)
+46 hll_src_g Pendapatan dari properti, 
+investasi atau tabungan
+Data hanya digunakan untuk 
+keperluan internal dan penimbang 
+rumah tangga tidak tersedia
+47 hll_src_h
+Pensiun swasta atau 
+negara atau bantuan 
+pemerintah lainnya
+Data hanya digunakan untuk 
+keperluan internal dan penimbang 
+rumah tangga tidak tersedia
+48 hll_src_i Bantuan dari LSM atau 
+organisasi lainnya
+Data hanya digunakan untuk 
+keperluan internal dan penimbang 
+rumah tangga tidak tersedia
+49 hll_src_j Sumber pendapatan lainnya
+Data hanya digunakan untuk 
+keperluan internal dan penimbang 
+rumah tangga tidak tersedia
+50 hll_smn
+Sumber nafkah utama 
+rumah tangga dalam 12 
+bulan terakhir
+Data hanya digunakan untuk 
+keperluan internal dan penimbang 
+rumah tangga tidak tersedia
+* Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE), BSSN
+* Pindai kode QR di samping untuk menampilkan file asli

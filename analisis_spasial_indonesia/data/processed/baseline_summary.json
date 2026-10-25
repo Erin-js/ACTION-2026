@@ -1,0 +1,41 @@
+{
+  "rows_panel": 117,
+  "provinces": 38,
+  "periods": [
+    "2025-02",
+    "2025-08",
+    "2026-02"
+  ],
+  "n_prov_tpak_perempuan_turun": 24,
+  "n_prov_tpt_dan_tpak_perempuan_turun": 16,
+  "nasional_tpak_perempuan_2025": 56.7007028748112,
+  "nasional_tpak_perempuan_2026": 56.41367805283461,
+  "nasional_delta_tpak_pp": -0.28702482197658696,
+  "daerah_tpak_turun": [
+    "Papua",
+    "Aceh",
+    "Papua Selatan",
+    "Sulawesi Utara",
+    "Kepulauan Riau",
+    "Kalimantan Utara",
+    "Bengkulu",
+    "Jambi",
+    "Kalimantan Selatan",
+    "Bali",
+    "Papua Barat",
+    "Sumatera Utara",
+    "Kalimantan Tengah",
+    "Kalimantan Timur",
+    "Maluku",
+    "Jawa Barat",
+    "Papua Pegunungan",
+    "Banten",
+    "Lampung",
+    "Sumatera Selatan",
+    "Sulawesi Tenggara",
+    "Nusa Tenggara Barat",
+    "Maluku Utara",
+    "DKI Jakarta"
+  ],
+  "status": "Belum mengukur urgensi, hambatan individual, atau signifikansi survei."
+}

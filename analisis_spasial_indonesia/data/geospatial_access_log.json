@@ -1,0 +1,14 @@
+[
+  {
+    "id": "KEMENDAGRI_WFS_ZIP",
+    "url": "https://map.kemendagri.go.id/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aseamless_bad123_rev130723_1&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://map.kemendagri.go.id/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aseamless_bad123_rev130723_1&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8",
+    "content_type": "application/zip",
+    "berkas": "data/raw/KEMENDAGRI_WFS_ZIP.zip",
+    "bytes": 20467191,
+    "sha256": "cb2a6575bf78467fab2badccf79b9b641174c7c2e32113bcb2a612c3a9a3aaf2",
+    "status": "ZIP tersimpan"
+  }
+]

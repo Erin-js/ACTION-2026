@@ -1,0 +1,86 @@
+[
+  {
+    "id": "SUSENAS2025_PUB_PDF",
+    "url": "https://webapi.bps.go.id/download.php?f=AQADYRqYTVE9sy4G-F7GMoeXHASwn9dOTXY5ifGav_4DB-eVVxO6hFEIJLXD4pmRDmESnMArXQh00kdQXHJNrYQYDP7e-jQ8jTI9j2Po-Vw9uO7YZ8OCrJ2XJynN_L6AnuVAg-hbLmaCYxREUeFR_5X-wwTHs5ix9kf6hsyWM3TxXdV-FjwZydos5kvYvshDCtnTBVS0bezTv-p1PH-bPgJdpC-NdRQB5eTyV_h6jRQuFbojhOBl7FM-hYMtwnNR_pVylcdyVKOd2H4A7h5PDIz-vldg8d45EIahsN_VE5i4",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://webapi.bps.go.id/download.php?f=AQADYRqYTVE9sy4G-F7GMoeXHASwn9dOTXY5ifGav_4DB-eVVxO6hFEIJLXD4pmRDmESnMArXQh00kdQXHJNrYQYDP7e-jQ8jTI9j2Po-Vw9uO7YZ8OCrJ2XJynN_L6AnuVAg-hbLmaCYxREUeFR_5X-wwTHs5ix9kf6hsyWM3TxXdV-FjwZydos5kvYvshDCtnTBVS0bezTv-p1PH-bPgJdpC-NdRQB5eTyV_h6jRQuFbojhOBl7FM-hYMtwnNR_pVylcdyVKOd2H4A7h5PDIz-vldg8d45EIahsN_VE5i4",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/SUSENAS2025_PUB_PDF.pdf",
+    "bytes": 16161329,
+    "sha256": "94bf153eeccf70e2c6a32ac43e001cc765e53e68a66b9bc49c0458d85751a192",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "POVERTY2025_PDF",
+    "url": "https://webapi.bps.go.id/download.php?f=AQAD0xmYUjzTeccayxMpeiW0egoPXyqniSEtKPPM50_FAAmRPK7Fi8nWZ-qKS4XkBKd4uxHiiOoBUMK6-EJQpK0_utehxAN9SX-uc1qFDZE2LEgsPDCDScdUHAa3fK4zLup-uzomsQ0FtznTU69r-0dE3XzwhBe-1_D0vtGLZfC2G4_WgqTuDkI2DvXWo7EczXhQsxcx3sm6iwhFFFsAltt-fq6CdQj3HLmKk_6orTwQpHK8pAC7vZ-G4WeWr9EOGuAzZnEa_3vTpV2eAZm7AyPeqiVf3ylDhHTx-q9w_vG_",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://webapi.bps.go.id/download.php?f=AQAD0xmYUjzTeccayxMpeiW0egoPXyqniSEtKPPM50_FAAmRPK7Fi8nWZ-qKS4XkBKd4uxHiiOoBUMK6-EJQpK0_utehxAN9SX-uc1qFDZE2LEgsPDCDScdUHAa3fK4zLup-uzomsQ0FtznTU69r-0dE3XzwhBe-1_D0vtGLZfC2G4_WgqTuDkI2DvXWo7EczXhQsxcx3sm6iwhFFFsAltt-fq6CdQj3HLmKk_6orTwQpHK8pAC7vZ-G4WeWr9EOGuAzZnEa_3vTpV2eAZm7AyPeqiVf3ylDhHTx-q9w_vG_",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/POVERTY2025_PDF.pdf",
+    "bytes": 27459461,
+    "sha256": "a468dbaabdc9056d0f78054e04d6718bccf472f7a93e5de6a2850a2578c85511",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "DIGITAL2024_PDF",
+    "url": "https://webapi.bps.go.id/download.php?f=AQAD3YTnkEBTdo3VGtwF3gnmesBf0s_rbc4Cwsyv1vyQ9GcdAEo1UUI_ZCjVezWhR9P0qySLPAjwl7ZVFIsPInCXfpQU0exyHzFT84A4MIDGaqvPGPLn2EzfoiK_0Liz5826brV-Dv1Qmd6h5fL1SimBow95BpvP7lUFlQ9BxPhFxPCsDObeBRR00_kRB9LalCDApf2tYgiMH9oPZxBxGBq1y5M-oGs6eb-sV7AmDpnBLSbEm-fH6tFRDOkySw8mDUx65yw-Sj-UT7LTvf9Xy1bU0flHzu0SCs-vgYdDR3iv",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://webapi.bps.go.id/download.php?f=AQAD3YTnkEBTdo3VGtwF3gnmesBf0s_rbc4Cwsyv1vyQ9GcdAEo1UUI_ZCjVezWhR9P0qySLPAjwl7ZVFIsPInCXfpQU0exyHzFT84A4MIDGaqvPGPLn2EzfoiK_0Liz5826brV-Dv1Qmd6h5fL1SimBow95BpvP7lUFlQ9BxPhFxPCsDObeBRR00_kRB9LalCDApf2tYgiMH9oPZxBxGBq1y5M-oGs6eb-sV7AmDpnBLSbEm-fH6tFRDOkySw8mDUx65yw-Sj-UT7LTvf9Xy1bU0flHzu0SCs-vgYdDR3iv",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/DIGITAL2024_PDF.pdf",
+    "bytes": 20701564,
+    "sha256": "f2cbe34de768977e461bec927dc1da3faaea5137e16eb78f3d35b462d550dd3c",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "PODES2024_PUB_PDF",
+    "url": "https://webapi.bps.go.id/download.php?f=AQADgiJ17aG5P0woJM03V0dmNTYXYgLfAsx2bUxbcJ6Ker67qsV9bYdcpf-Eif3mXpfYsUKzTLI01KCzKrCh-Xkusw28scJkbIxVky2JWjAc99aVyyvYCRrBZWes1EyXFk8_1SFu4oJTK7cYs1GYnMM--LxV7T134I6kHz61nC3CfS8I2DEMIOy3bF2EOtHKmqP7soK5sDeRhy__w-4_aEUa4Km-Bgw9kL3XfXftIeEyLpkhQAN_X1TM1Jw-NvHvRHx3kTJSRzeUSmHIKCq-onhKDaNDSAHjLDr9n1xaJs2w",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://webapi.bps.go.id/download.php?f=AQADgiJ17aG5P0woJM03V0dmNTYXYgLfAsx2bUxbcJ6Ker67qsV9bYdcpf-Eif3mXpfYsUKzTLI01KCzKrCh-Xkusw28scJkbIxVky2JWjAc99aVyyvYCRrBZWes1EyXFk8_1SFu4oJTK7cYs1GYnMM--LxV7T134I6kHz61nC3CfS8I2DEMIOy3bF2EOtHKmqP7soK5sDeRhy__w-4_aEUa4Km-Bgw9kL3XfXftIeEyLpkhQAN_X1TM1Jw-NvHvRHx3kTJSRzeUSmHIKCq-onhKDaNDSAHjLDr9n1xaJs2w",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/PODES2024_PUB_PDF.pdf",
+    "bytes": 15324975,
+    "sha256": "ce740d316029a2cbc362736e76b1d7703852c844288c6cfa1644aeef519787cd",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "PENDIDIKAN2025_PDF",
+    "url": "https://webapi.bps.go.id/download.php?f=AQAD_-ENuPDSPWjivHwSaQyyzlp3s7HnDgrMRMK3_3G4IVy2qjRWPevZnreF9fvIVYCW-nCUlATAEvVYboVDoSjrHLEyoVJln-BYkBNNvIP544MBAlvGizBN0yTEf7GG-L59rNS2QJrXUENRQ9zZ4rmZFlqmgtQpPNdltAkpgSsqQYE7GLV1G7QIcMtBaNUtpIDQXKKHUfSEfITEHGPQa1dHbnnaOxlp5-TI7DE6-htQgPNa6CADBbUdILsMJc5XkkQ8ubIRapNLfzYuuo5ByySngKzoG2AY7P8cO2HJ3a0c",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://webapi.bps.go.id/download.php?f=AQAD_-ENuPDSPWjivHwSaQyyzlp3s7HnDgrMRMK3_3G4IVy2qjRWPevZnreF9fvIVYCW-nCUlATAEvVYboVDoSjrHLEyoVJln-BYkBNNvIP544MBAlvGizBN0yTEf7GG-L59rNS2QJrXUENRQ9zZ4rmZFlqmgtQpPNdltAkpgSsqQYE7GLV1G7QIcMtBaNUtpIDQXKKHUfSEfITEHGPQa1dHbnnaOxlp5-TI7DE6-htQgPNa6CADBbUdILsMJc5XkkQ8ubIRapNLfzYuuo5ByySngKzoG2AY7P8cO2HJ3a0c",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/PENDIDIKAN2025_PDF.pdf",
+    "bytes": 19048517,
+    "sha256": "0ce1f8905974ab31f3419a6b73750d7543d882bd4c7b193d8134fac2a0f9f468",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "PEMUDA2025_PDF",
+    "url": "https://webapi.bps.go.id/download.php?f=AQADESlgXmJsr4qoJmBQyBHrvE0WHglEs3J0hnc1PVZzY-ouIcSg7XMlTWvvc4U2-S5AKmEV9FPH21wuLBnWEc-t6hPWTa3VD2hNlOK2lH02h97hX2XsXi4rZ9-u8aaRQMniKg4fguLk9UEYsv6l1wh7dDzbmApuoVXy9XarmkbZJDxZhNBgvlITRtEtOZAbl-7bKb-L_BC0gjvBC6fPJcnoYjqVMnv0cGoJGnItuFw5ZhwsnQ0ck6pb_3HDUN8Ld0GYOQ0_22nSPq8AVlloa0Wj8of6vhjq3TdGu65xzkyy",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://webapi.bps.go.id/download.php?f=AQADESlgXmJsr4qoJmBQyBHrvE0WHglEs3J0hnc1PVZzY-ouIcSg7XMlTWvvc4U2-S5AKmEV9FPH21wuLBnWEc-t6hPWTa3VD2hNlOK2lH02h97hX2XsXi4rZ9-u8aaRQMniKg4fguLk9UEYsv6l1wh7dDzbmApuoVXy9XarmkbZJDxZhNBgvlITRtEtOZAbl-7bKb-L_BC0gjvBC6fPJcnoYjqVMnv0cGoJGnItuFw5ZhwsnQ0ck6pb_3HDUN8Ld0GYOQ0_22nSPq8AVlloa0Wj8of6vhjq3TdGu65xzkyy",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/PEMUDA2025_PDF.pdf",
+    "bytes": 34461803,
+    "sha256": "39c5e637e5b2f86b86cf5540ddb5c9395ad9eca472772f1b70febfd3317304c2",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "SAK2025_PUB_PDF",
+    "url": "https://webapi.bps.go.id/download.php?f=AQADuNOQGk_3bCXud0me0TCHKbKswG3I1P0_epgUuYslI1pdBJP7l-WAVubfl-tVVB3-lei5vcXaJ8AKLg9AY_vAL_YgUtro3ml_RpYuE_ztNrOeOWht7T6Ww43qw5w85NhDqTVh49eL-C95mIwqJ7EdH6GBdO3EH6dHCCGLp4NTQ8edLgCoN2G5FmB_KNILPCD9WPYn4k8DEt01gWiZEyR0v4GyO8kOmICGk1Gv304lh2gQDjhOb59s8J6KAM6wdPGTjvBfV5JxuqIh7P5wJR58pPidyD-sdNrhsJ-lgdMP",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://webapi.bps.go.id/download.php?f=AQADuNOQGk_3bCXud0me0TCHKbKswG3I1P0_epgUuYslI1pdBJP7l-WAVubfl-tVVB3-lei5vcXaJ8AKLg9AY_vAL_YgUtro3ml_RpYuE_ztNrOeOWht7T6Ww43qw5w85NhDqTVh49eL-C95mIwqJ7EdH6GBdO3EH6dHCCGLp4NTQ8edLgCoN2G5FmB_KNILPCD9WPYn4k8DEt01gWiZEyR0v4GyO8kOmICGk1Gv304lh2gQDjhOb59s8J6KAM6wdPGTjvBfV5JxuqIh7P5wJR58pPidyD-sdNrhsJ-lgdMP",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/SAK2025_PUB_PDF.pdf",
+    "bytes": 10436065,
+    "sha256": "96bbdb8acb55c8f6a7e1bbae3ed2366e30cfaf46eb98b35842d68b1df4f09d7f",
+    "status": "PDF tersimpan"
+  }
+]

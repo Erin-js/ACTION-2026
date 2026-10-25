@@ -1,0 +1,94 @@
+[
+  {
+    "id": "SUSENAS2026_PUB",
+    "url": "https://www.bps.go.id/id/publication/2026/10/05/7e415878a8af3678e51f3e0a/statistik-kesejahteraan-rakyat-2026.html",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://www.bps.go.id/id/publication/2026/10/05/7e415878a8af3678e51f3e0a/statistik-kesejahteraan-rakyat-2026.html",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/SUSENAS2026_PUB.html",
+    "bytes": 86226,
+    "sha256": "67dbd8c05132cc2f4f561dd1ca0cce76f3348e7449188782eafd30647207e69c",
+    "candidate_download_links": [
+      "https://webapi.bps.go.id/download.php?f=AQADYpkPOsu6btMJvo4LHvvGhXK-5gqqYoC-2c-KO5HGofNBOJpiViru1Xfc73xpa2SUoUhagdxqlnkhGqZWGsAq3hKtYChMt5M8nkYHrpyetBsuqjGSerXmYV00ZwX7Vx_S-aHMS6OoBjnN1jxnfURhu00ROZUdPG-kb4-zhtYZtzXOdosuJMNCkmOYTgb7WOTw4Uyxndqcs35D71jjjbr7xDHzbzcNVBxlyw1LmL5Ib2duAjfbszlaoaiEQX3v8Br6-DFb5poviMycHGhF_R1KHwVqgRwBwNUlfWdM_qry"
+    ],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "KONSUMSI2025",
+    "url": "https://www.bps.go.id/id/publication/2025/10/10/755ea866289ba29e5104e58d/pengeluaran-untuk-konsumsi-penduduk-indonesia-maret-2025.html",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://www.bps.go.id/id/publication/2025/10/10/755ea866289ba29e5104e58d/pengeluaran-untuk-konsumsi-penduduk-indonesia-maret-2025.html",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/KONSUMSI2025.html",
+    "bytes": 86477,
+    "sha256": "4ca0fd8e3eb5ed18b1ed7864aecd0f06120b010ef00bb96c7f0e0dd05786a3d9",
+    "candidate_download_links": [
+      "https://webapi.bps.go.id/download.php?f=AQAD8SF2JOKBnNbYeRoxm1C_BbvwpWUSVrKEzqHOiLMeanV4k5rOnoC2jDH-FzPv8-6T-mcCtnbuc6SrdpO1nlrOaHEGEOgx-eatJJ7KpwyIqBQldrD4h_fGeNOQXDAcWIW3g1u_df9RLfr_saq9cDNGK8-X982TOxpSBs7r9FNhNkN3WB-H4jmkEjaZ-C3PkPUjEDdj-BsZA1h1QlfnlPteJGA5Vo3QmEz1tuJF0VKhA60WibsHWuQIYdG-1Ls5u2jVg2p3mdIwWOaDS1vCeM5_1iEOUjDyEhtBPDHe_m0r"
+    ],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "BRIDGING_BPS",
+    "url": "https://sig.bps.go.id/bridging-kode/index",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://sig.bps.go.id/bridging-kode/index",
+    "content_type": "text/html; charset=UTF-8",
+    "berkas": "data/raw/BRIDGING_BPS.html",
+    "bytes": 99333,
+    "sha256": "8bb1a2c97abad81e601b4e6ac9dfcbe8e0f54522107868babc5dd14508ff0c6b",
+    "candidate_download_links": [],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "SDI_GEOMETRI",
+    "url": "https://data.go.id/dataset/dataset/peta-batas-administrasi-provinsi-dan-kabupaten-kota",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://data.go.id/dataset/dataset/peta-batas-administrasi-provinsi-dan-kabupaten-kota",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/SDI_GEOMETRI.html",
+    "bytes": 103614,
+    "sha256": "d78410ea277559305dd85e3230f03858ff11f6c65392219155385164e2c57e9c",
+    "candidate_download_links": [],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "BPS_KODE53",
+    "url": "https://sirusa.bps.go.id/webadmin/doc/MFD_2010_Buku_3.pdf",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://sirusa.bps.go.id/webadmin/doc/MFD_2010_Buku_3.pdf",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/BPS_KODE53.pdf",
+    "bytes": 2155474,
+    "sha256": "9924ebf9e4cdc5d749f20060ffb049d6e6ccefee8282f792d9e4d77f60830018",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "SUSENAS2026_PUB_PDF",
+    "url": "https://webapi.bps.go.id/download.php?f=AQADYpkPOsu6btMJvo4LHvvGhXK-5gqqYoC-2c-KO5HGofNBOJpiViru1Xfc73xpa2SUoUhagdxqlnkhGqZWGsAq3hKtYChMt5M8nkYHrpyetBsuqjGSerXmYV00ZwX7Vx_S-aHMS6OoBjnN1jxnfURhu00ROZUdPG-kb4-zhtYZtzXOdosuJMNCkmOYTgb7WOTw4Uyxndqcs35D71jjjbr7xDHzbzcNVBxlyw1LmL5Ib2duAjfbszlaoaiEQX3v8Br6-DFb5poviMycHGhF_R1KHwVqgRwBwNUlfWdM_qry",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://webapi.bps.go.id/download.php?f=AQADYpkPOsu6btMJvo4LHvvGhXK-5gqqYoC-2c-KO5HGofNBOJpiViru1Xfc73xpa2SUoUhagdxqlnkhGqZWGsAq3hKtYChMt5M8nkYHrpyetBsuqjGSerXmYV00ZwX7Vx_S-aHMS6OoBjnN1jxnfURhu00ROZUdPG-kb4-zhtYZtzXOdosuJMNCkmOYTgb7WOTw4Uyxndqcs35D71jjjbr7xDHzbzcNVBxlyw1LmL5Ib2duAjfbszlaoaiEQX3v8Br6-DFb5poviMycHGhF_R1KHwVqgRwBwNUlfWdM_qry",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/SUSENAS2026_PUB_PDF.pdf",
+    "bytes": 17422030,
+    "sha256": "1338749eec4926885a3052ea2933cfeaca1b1328386bca26f80d5a1279a44305",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "KONSUMSI2025_PDF",
+    "url": "https://webapi.bps.go.id/download.php?f=AQAD8SF2JOKBnNbYeRoxm1C_BbvwpWUSVrKEzqHOiLMeanV4k5rOnoC2jDH-FzPv8-6T-mcCtnbuc6SrdpO1nlrOaHEGEOgx-eatJJ7KpwyIqBQldrD4h_fGeNOQXDAcWIW3g1u_df9RLfr_saq9cDNGK8-X982TOxpSBs7r9FNhNkN3WB-H4jmkEjaZ-C3PkPUjEDdj-BsZA1h1QlfnlPteJGA5Vo3QmEz1tuJF0VKhA60WibsHWuQIYdG-1Ls5u2jVg2p3mdIwWOaDS1vCeM5_1iEOUjDyEhtBPDHe_m0r",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://webapi.bps.go.id/download.php?f=AQAD8SF2JOKBnNbYeRoxm1C_BbvwpWUSVrKEzqHOiLMeanV4k5rOnoC2jDH-FzPv8-6T-mcCtnbuc6SrdpO1nlrOaHEGEOgx-eatJJ7KpwyIqBQldrD4h_fGeNOQXDAcWIW3g1u_df9RLfr_saq9cDNGK8-X982TOxpSBs7r9FNhNkN3WB-H4jmkEjaZ-C3PkPUjEDdj-BsZA1h1QlfnlPteJGA5Vo3QmEz1tuJF0VKhA60WibsHWuQIYdG-1Ls5u2jVg2p3mdIwWOaDS1vCeM5_1iEOUjDyEhtBPDHe_m0r",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/KONSUMSI2025_PDF.pdf",
+    "bytes": 27069482,
+    "sha256": "adf6e3062f95c7b8326b81e30747321160b2dc8ccb95e4a474f87e4f4fedb885",
+    "status": "PDF tersimpan"
+  }
+]

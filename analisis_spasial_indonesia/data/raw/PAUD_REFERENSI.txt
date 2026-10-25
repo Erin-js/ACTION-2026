@@ -1,0 +1,699 @@
+ 
+ 
+
+ 
+
+ 
+ 
+ Data Pendidikan Kemendikdasmen 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Beranda 
+ 
+ Data Pendidikan 
+ 
+ 
+ Satuan Pendidikan 
+ 
+ Pendidikan Anak Usia Dini (PAUD) 
+ Pendidikan Dasar (Dikdas) 
+ Pendidikan Menengah (Dikmen) 
+ Pendidikan Tinggi (Dikti) 
+ Pendidikan Masyarakat (Dikmas) 
+ Residu Update Data 
+ Residu Tidak Aktif 
+ RESIDU SATUAN PENDIDIKAN -->
+ Residu Satuan Pendidikan -->
+
+ 
+ 
+ 
+ Yayasan Pendidikan 
+ 
+ 
+ Program / Layanan 
+ 
+ Paud 
+ Kesetaraan 
+ Keterampilan Kerja 
+ Sekolah Luar Biasa 
+ KETRAMPILAN KERJA -->
+ 
+ 
+ 
+ 
+ 
+ Data Kebudayaan dan Kebahasaan 
+ 
+ 
+ Data Kebahasaan 
+ 
+ Bahasa Daerah 
+ Komunitas Bahasa/Sastra 
+ 
+ 
+ WARISAN BUDAYA TAK BENDA -->
+ 
+ 
+ Pustaka 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Cari Sekolah/NPSN     
+ 
+ 
+ 
+ 
+ Cari 
+ 
+ × 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ JUMLAH DATA SATUAN PENDIDIKAN (PAUD) PER PROVINSI 
+ 
+ 
+ 
+ 
+ -Semua Jalur- 
+ Jalur Formal 
+ Jalur Nonformal 
+ 
+ 
+ 
+ -Semua Bentuk- 
+ TK 
+ KB 
+ TPA 
+ SPS 
+ RA 
+ Taman Seminari 
+ SPK KB 
+ PAUDQ 
+ SPK PG 
+ SPK TK 
+ Pratama W P 
+ Nava Dhammasekha 
+ Pratama Widyalaya 
+ 
+ 
+ 
+ 
+ -Semua Status- 
+ Negeri 
+ Swasta 
+ 
+ 
+ 
+ Terapkan
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ No 
+ Nama Provinsi 
+ TK (Sederajat) 
+ KB (Sederajat) 
+ TPA 
+ SPS 
+ Total 
+ 
+ 
+ 
+ 
+ 1 
+ D.K.I. Jakarta 
+ 2947 
+ 602 
+ 59 
+ 1754 
+
+ 5362 
+ 
+
+ 
+ 2 
+ Jawa Barat 
+ 17816 
+ 16165 
+ 169 
+ 6492 
+
+ 40642 
+ 
+
+ 
+ 3 
+ Jawa Tengah 
+ 19477 
+ 10087 
+ 575 
+ 2742 
+
+ 32881 
+ 
+
+ 
+ 4 
+ D.I. Yogyakarta 
+ 2396 
+ 1539 
+ 239 
+ 906 
+
+ 5080 
+ 
+
+ 
+ 5 
+ Jawa Timur 
+ 26601 
+ 14932 
+ 449 
+ 4099 
+
+ 46081 
+ 
+
+ 
+ 6 
+ Aceh 
+ 3286 
+ 2080 
+ 125 
+ 135 
+
+ 5626 
+ 
+
+ 
+ 7 
+ Sumatera Utara 
+ 5914 
+ 4601 
+ 49 
+ 344 
+
+ 10908 
+ 
+
+ 
+ 8 
+ Sumatera Barat 
+ 3313 
+ 1508 
+ 100 
+ 306 
+
+ 5227 
+ 
+
+ 
+ 9 
+ Riau 
+ 3329 
+ 1859 
+ 115 
+ 97 
+
+ 5400 
+ 
+
+ 
+ 10 
+ Jambi 
+ 1930 
+ 1808 
+ 65 
+ 184 
+
+ 3987 
+ 
+
+ 
+ 11 
+ Sumatera Selatan 
+ 3294 
+ 2916 
+ 17 
+ 122 
+
+ 6349 
+ 
+
+ 
+ 12 
+ Lampung 
+ 4214 
+ 2232 
+ 33 
+ 185 
+
+ 6664 
+ 
+
+ 
+ 13 
+ Kalimantan Barat 
+ 1443 
+ 2128 
+ 25 
+ 60 
+
+ 3656 
+ 
+
+ 
+ 14 
+ Kalimantan Tengah 
+ 2318 
+ 727 
+ 44 
+ 133 
+
+ 3222 
+ 
+
+ 
+ 15 
+ Kalimantan Selatan 
+ 2979 
+ 1429 
+ 157 
+ 47 
+
+ 4612 
+ 
+
+ 
+ 16 
+ Kalimantan Timur 
+ 1742 
+ 1078 
+ 83 
+ 123 
+
+ 3026 
+ 
+
+ 
+ 17 
+ Sulawesi Utara 
+ 1961 
+ 831 
+ 10 
+ 62 
+
+ 2864 
+ 
+
+ 
+ 18 
+ Sulawesi Tengah 
+ 2286 
+ 1202 
+ 8 
+ 42 
+
+ 3538 
+ 
+
+ 
+ 19 
+ Sulawesi Selatan 
+ 5647 
+ 1677 
+ 46 
+ 195 
+
+ 7565 
+ 
+
+ 
+ 20 
+ Sulawesi Tenggara 
+ 2406 
+ 476 
+ 5 
+ 8 
+
+ 2895 
+ 
+
+ 
+ 21 
+ Maluku 
+ 1197 
+ 918 
+ 1 
+ 70 
+
+ 2186 
+ 
+
+ 
+ 22 
+ Bali 
+ 1775 
+ 443 
+ 57 
+ 16 
+
+ 2291 
+ 
+
+ 
+ 23 
+ Nusa Tenggara Barat 
+ 3191 
+ 2728 
+ 27 
+ 197 
+
+ 6143 
+ 
+
+ 
+ 24 
+ Nusa Tenggara Timur 
+ 1946 
+ 3896 
+ 28 
+ 345 
+
+ 6215 
+ 
+
+ 
+ 25 
+ Papua 
+ 333 
+ 324 
+ 3 
+ 106 
+
+ 766 
+ 
+
+ 
+ 26 
+ Bengkulu 
+ 1403 
+ 639 
+ 74 
+ 61 
+
+ 2177 
+ 
+
+ 
+ 27 
+ Maluku Utara 
+ 824 
+ 795 
+ 0 
+ 46 
+
+ 1665 
+ 
+
+ 
+ 28 
+ Banten 
+ 4476 
+ 3801 
+ 30 
+ 512 
+
+ 8819 
+ 
+
+ 
+ 29 
+ Kepulauan Bangka Belitung 
+ 466 
+ 368 
+ 45 
+ 54 
+
+ 933 
+ 
+
+ 
+ 30 
+ Gorontalo 
+ 887 
+ 586 
+ 8 
+ 47 
+
+ 1528 
+ 
+
+ 
+ 31 
+ Kepulauan Riau 
+ 864 
+ 427 
+ 18 
+ 122 
+
+ 1431 
+ 
+
+ 
+ 32 
+ Papua Barat 
+ 340 
+ 273 
+ 6 
+ 2 
+
+ 621 
+ 
+
+ 
+ 33 
+ Sulawesi Barat 
+ 965 
+ 758 
+ 13 
+ 10 
+
+ 1746 
+ 
+
+ 
+ 34 
+ Kalimantan Utara 
+ 246 
+ 430 
+ 16 
+ 8 
+
+ 700 
+ 
+
+ 
+ 35 
+ Luar Negeri 
+ 9 
+ 0 
+ 0 
+ 0 
+
+ 9 
+ 
+
+ 
+ 36 
+ Papua Tengah 
+ 369 
+ 51 
+ 1 
+ 17 
+
+ 438 
+ 
+
+ 
+ 37 
+ Papua Selatan 
+ 214 
+ 115 
+ 0 
+ 14 
+
+ 343 
+ 
+
+ 
+ 38 
+ Papua Pegunungan 
+ 217 
+ 136 
+ 2 
+ 40 
+
+ 395 
+ 
+
+ 
+ 39 
+ Papua Barat Daya 
+ 287 
+ 98 
+ 0 
+ 12 
+
+ 397 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Pusdatin © Kemendikdasmen 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+

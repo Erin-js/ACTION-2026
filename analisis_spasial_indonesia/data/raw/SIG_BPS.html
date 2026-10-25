@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sistem Informasi Geografis BPS</title>
+        <meta charset="UTF-8">
+        <meta property="og:url"           content="https://sig-dev.bps.go.id/" />
+        <meta property="og:type"          content="website" />
+        <meta property="og:title"         content="Sistem Informasi Geospasial BPS" />
+        <meta property="og:description"   content="Sistem Informasi Geospasial BPS" />
+        <meta property="og:image"         content="https://sig-dev.bps.go.id/assets/images/logo-bps.png" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="/assets/81f6e14c/css/all.min.css" rel="stylesheet">
+<link href="/assets/8740cf70/css/bootstrap.css" rel="stylesheet">
+<link href="/css/main.css" rel="stylesheet">    </head>
+    <body onload="init()" >
+        <nav class="navbar navbar-webgis navbar-light bg-light">
+            <img height="50" class="" src="/assets/images/Header-Frontend-Kecil-ind.png">
+            <div class="navbar-nav">
+                <div class="" style="font-size: 12px">
+                    <a href="/home/id" style="font-size: 12px" class="btn  disabled">Indonesia</a>
+                    <label style="color:white;">|</label>
+                    <a href="/home/en" style="font-size: 12px" class="btn text-white">English</a>
+                </div>
+            </div>
+        </nav>
+        <nav class="navbar navbar-expand-lg navbar-light navbar-webgis text-light py-0">
+            <div class="navbar-brand"></div>
+            <ul  class="navbar-nav mr-auto pull-right">
+                <li class="nav-item">
+                    <a class="nav-link" href="http://sig.bps.go.id"> <i class="fa fa-home" aria-hidden="true"></i> Beranda</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://geoportal.bps.go.id" target="_blank">Geoportal BPS</a>                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://sig.bps.go.id/geoportal-api-management/" target="_blank">Geoportal API</a>                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/bridging-kode/index">Kode Relasi</a>                </li>
+                <!--                <li class="nav-item">
+                                    <a class="nav-link" href="#">Tentang</a>
+                                </li>-->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#"><i class="fas fa-layer-group"></i> Peta Interaktif </a>
+                    <div class="dropdown-menu dropdown-menu-right">
+                        <a class="dropdown-item" href="/webgis/tematik-interaktif" >Peta Tematik</a>                   
+                        <a class="dropdown-item" href="https://geoportal.bps.go.id/maps/apps/webappviewer/index.html?id=b47355787be7484f9ba023a407a5a15a" >Peta Wilkerstat</a>
+                        <a class="dropdown-item" href="/webgis/mapinflasi" >Peta Inflasi</a>
+                        <!--<a href="/webgis/interaktifpodes" >Potensi Desa</a>-->
+                        <a class="dropdown-item" href="https://geoportal.bps.go.id/maps/apps/webappviewer/index.html?id=d4daa1878311466a931175a07c9eb3fb" >Peta Ketenagakerjaan Indonesia</a>  
+                    </div>
+                </li>
+            </ul>
+        </nav>
+        <div class="container-fluid px-0 bg-white">
+
+                        <div id="carousel" class="carousel slide mb-5" data-ride="carousel" style="background: white; box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5)">
+    <ol class="carousel-indicators ">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <a href="https://webgis-st2023.web.bps.go.id">
+                <img style="height: 550px" class="d-block img-fluid w-100" src="/assets/images/st2023_banner.png" alt="" >
+            </a>
+        </div>
+    	<div class="carousel-item">
+            <a href="https://sig.bps.go.id/webmap/podes/" target="_blank"a>
+                <img style="height: 550px" class="d-block img-fluid w-100" src="/assets/images/podes_banner.png" alt="" >
+            </a>
+        </div>
+        <div class="carousel-item">
+            <a href="https://sig.bps.go.id/webmap/infrastruktur2019/" target="blank"a>
+                <img style="height: 550px" class="d-block img-fluid w-100" src="/assets/images/infrastruktur_banner.png" alt="" >
+            </a>
+        </div>
+        <div class="carousel-item">
+            <a href="https://geoportal.bps.go.id/maps/apps/webappviewer/index.html?id=b47355787be7484f9ba023a407a5a15a" target="blank"a>
+                <img style="height: 550px" class="d-block img-fluid w-100" src="/assets/images/batas_wilker_banner.png" alt="" >
+            </a>            
+        </div>
+        <div class="carousel-item">
+            <a href="https://geoportal.bps.go.id/maps/apps/webappviewer/index.html?id=f42d9c43c74d414f96926866c0512b62" target="blank"a>
+                <img style="height: 550px" class="d-block img-fluid w-100" src="/assets/images/kepadatan_penduduk_banner.png" alt="" >
+            </a>            
+        </div>
+        <div class="carousel-item">
+            <img style="height: 550px" class="d-block img-fluid w-100" src="/assets/images/si2018_cover.jpg" alt="" >
+            <div class="container">
+                <a href="https://sig.bps.go.id/si2018/" target="blank"a>
+                    <div class="carousel-caption d-none d-md-block raise-sm">
+                        <h5>Peta Statistik Indonesia 2018</h5>
+                        <p>Peta Statistik Indonesia 2018 (SI2018) adalah peta tematik dengan sumber data Statistik Indonesia tahun 2018. Peta Statistik Indonesia dibagi menjadi 3 tema yakni Penduduk, Ekonomi, dan Pertanian</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <!--        <div class="carousel-item">
+                    <img class="d-block img-fluid w-100" src="/assets/images/geoportal_cover.jpg" alt="" >
+                    <div class="container ">
+                        <a href="https://geoportal.bps.go.id" target="blank"a>
+                            <div class="carousel-caption d-none d-md-block card bg-ligh text-dark raise-sm">
+                                <h3 class="">Geoportal Badan Pusat Statistik</h3>
+                                <p class="">Portal gis berbasis arcgis server enterprise</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>-->
+    </div>
+    <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+        <i class="fas fa-chevron-circle-left" style="font-size: 48px; color: black"></i>
+        <!--<span class="carousel-control-prev-icon" aria-hidden="true"></span>-->
+        <!--<span class="sr-only">Previous</span>-->
+    </a>
+    <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+        <i class="fas fa-chevron-circle-right" style="font-size: 48px; color: black"></i>
+<!--        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>-->
+    </a>
+</div>
+
+
+<div class="container mb-5 mt-5 raise-sm">
+    <div class="row">
+        <div class="col">
+            <p>
+                                <div>
+                    <h2>Sistem Informasi Geografis</h2>                        
+                    <p>
+                        Selamat datang di Sistem Informasi Geospasial-BPS. Situs ini bertujuan untuk menyajikan kepada publik berbagai informasi yang terkait dengan kerangka wilayah kerja statistik, peta, dan data.
+                    </p>
+                    <p>
+                        Wilayah kerja statistik (wilkerstat) menyajikan tiga hal utama yaitu; <b>Hirarki</b> menggambarkan tingkatan wilkerstat; <b>Sistem Pengkodean</b> menjelaskan tata cara pemberian kode wilayah; dan 
+                        <b>Kode relasi</b> yang menghubungkan  sistem pengkodean wilayah antara Badan Pusat Statistik (BPS), Kementrian Dalam Negeri (Kemendagri), dan Kode Pos.
+                    </p>
+                    <p>
+                        Peta yang disajikan pada situs ini dikelompokkan menjadi dua jenis utama yaitu Peta Interaktif dan Peta Analog. <b>Peta Interaktif </b>terdiri dari: (1). Peta Tematik atau peta statistik yang menyajikan informasi dengan tema sosial dan kependudukan, pertanian dan ekonomi; (2). Peta indeks menyajikan kerangka wilayah kerja statistik dalam bentuk spasial. <b>Peta Analog </b> merupakan kumpulan peta tematik yang disimpan kedalam format siap cetak.
+                    </p>
+                </div>
+
+
+                        </p>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mb-5">
+    <div class="card-deck text-center">
+        <div class="card bg-transparent text-black shadow-sm raise">
+            <a class="info " href="/bridging-kode/index" onclick="">
+                <img class="card-img" src="/assets/images/tum_bridging_kode.png" height="195" alt="">
+                <div class="card-img-overlay">
+                </div>
+                <div class="card-footer bg-transparent">
+                    <h5>Kode Relasi</h5>
+                </div>
+            </a>
+        </div>
+
+
+        <div class="card bg-transparent text-black shadow-sm raise">
+            <a class="info " href="/webgis/tematik-interaktif" onclick="">
+                <img class="card-img" src="/assets/images/tum_tem_interaktif.png" alt="">
+                <div class="card-img-overlay">
+                </div>
+                <div class="card-footer bg-transparent">
+                    <h5>Tematik Interaktif</h5>
+                </div>
+            </a>
+        </div>
+
+
+        <div class="card bg-transparent text-black shadow-sm raise">
+            <a class="info " href="https://geoportal.bps.go.id/maps/apps/webappviewer/index.html?id=b47355787be7484f9ba023a407a5a15a" onclick="">
+                <img class="card-img" src="/assets/images/tum_indeks_inter.png" alt="">
+                <div class="card-img-overlay">
+                </div>
+                <div class="card-footer bg-transparent">
+                    <h5>Batas Wilkerstat</h5>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="container my-5">
+    <div class="row">
+        <div class="col-md-4 raise-sm">
+            <h2 class="">Hirarki Wilkerstat </h2>
+            <small class="text-muted">(Wilayah Kerja Statistik)</small>
+            <p class="lead">Hirarki menggambarkan bagaimana tingkatan Wilayah Kerja Statistik yang dijadikan dasar Master Area Frame di setiap kegiatan sensus survei di Badan Pusat Statistik</p>
+        </div>
+        <div class="col-md-8 raise-sm">
+            <img class="img-fluid mx-auto" src="/assets/images/bagan_hirarki.png" alt="">
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="container my-5">
+    <div class="row">
+        <div class="col-md-7 raise-sm">
+            <img class="img-fluid mx-auto" src="/assets/images/bagan_pengkodean.png" alt="">
+        </div>
+        <div class="col-md-5 raise-sm">
+            <h2 class="">Sistem Pengkodean</h2>
+            <small class="text-muted">Wilayah Kerja Statistik</small>
+            <p class="lead">Kode dan nama Wilayah Kerja Statistik adalah identitas wilayah kerja statistik yang meliputi provinsi, kabupaten/kota, kecamatan, desa/kelurahan. Kode dan nama wilayah kerja statistik ditetapkan melalui Peraturan Kepala Badan Pusat Statistik tentang Wilayah Kerja Statistik yang terbit setiap tahun.
+                <br>
+                <a class="" href="/home/sistempengkodean">Baca Selengkapnya</a>            </p>
+        </div>
+    </div>
+</div>            <script src="/assets/5cc5addb/jquery.js"></script>
+<script src="/assets/b67c549d/yii.js"></script>
+<script src="/assets/8740cf70/js/bootstrap.bundle.js"></script>
+<script src="/js/main.js"></script>
+
+        </div>
+        <div class="footer-separator"></div>
+
+        <footer class="bg-4" style="background: #55a8e1!important">            
+            <div class="container">
+                <div class="row mb-5"></div>
+                <div class="row mb-2">
+                    <div class="col-lg-3 col-xl-3">
+                        <h5>Navigasi</h5>
+                        <ul class="nav flex-column">
+                            <li class="nav-item">
+                                <a href="https://bps.go.id" class="nav-link">Situs BPS</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://geoportal.bps.go.id" class="nav-link">Geoportal</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://geoportal.bps.go.id" class="nav-link">Syarat dan ketentuan</a>
+                            </li>   
+                        </ul>
+                    </div>
+                    <div class="col-lg-5 col-xl-6">
+                        <h5>Kontak</h5>
+                        <ul class="text-left">
+                            <li class="mb-3 d-flex">
+                                <i class="fas fa-map-marker-alt"></i>
+                                <div class="ml-3">
+                                    <span>
+                                        Direktorat Pengembangan Metodologi Sensus dan Survei<br/>
+                                        Badan Pusat Statistik
+                                        (BPS - Statistics Indonesia)<br/>
+                                        Jl. Dr. Sutomo 6-8 Jakarta 10710 Indonesia</span>
+                                </div>
+                            </li>
+                            <li class="mb-3 d-flex">
+                                <i class="fas fa-phone-alt"></i>
+                                <div class="ml-3">
+                                    <span>(62-21) 3841195, 3842508, 3810291</span>
+                                    <span class="d-block text-muted text-small">Senin - Selasa 07.30 - 16.00</span>
+                                </div>
+                            </li>
+                            <li class="mb-3 d-flex">
+                                <i class="fas fa-envelope"></i>
+                                <div class="ml-3">
+                                    <span>bpshq@bps.go.id</span>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4 col-xl-3 mt-3 mt-lg-0">
+                        <h5>Kritik dan saran</h5>
+                        <p>Apabila terdapat kritik dan saran silahkan tuliskan pada kolom dibawah ini</p>
+                        <form action="" data-form-email="" novalidate="">
+                            <div class="form-row">
+                                <div class="col-12">
+                                    <input type="email" class="form-control mb-2" placeholder="Email Address" name="email" required="">
+                                </div>
+                                <div class="col-12">
+                                    <textarea type="text" class="form-control mb-2" placeholder="Kritik dan saran" name="pesan" required=""></textarea>
+                                </div>
+                                <div class="col-12">
+                                    <button type="submit" class="btn btn-primary btn-loading btn-block" data-loading-text="Sending">
+                                        Kirim
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                        <small class="text-muted form-text">Kami tidak akan membagikan kontak anda pada siapaun<a href="#"></a>
+                        </small>
+                    </div>
+                </div>
+                <div class="row justify-content-center mb-2">
+                    <div class="col-auto">
+                        <nav class="nav" style="font-size: 24px">
+                            <a href="https://www.instagram.com/bps_statistics/" class="nav-link text-dark">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                            <a href="https://www.twitter.com/bps_statistics" class="nav-link text-dark">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                            <a href="https://www.facebook.com/pages/Badan-Pusat-Statistik/1394866840805957" class="nav-link text-dark">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                            <a href="https://www.youtube.com/channel/UCn4IaaxHaaP-mAjZzrAtixA" class="nav-link text-dark">
+                                <i class="fab fa-youtube"></i>
+                            </a>
+                        </nav>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col col-md-auto text-center">
+                        <small class="">
+                            Hak Cipta © 2020 Badan Pusat Statistik<br/>
+                            Semua Hak Dilindungi
+                            <br/>
+                            <br/>
+                        </small>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
+

@@ -1,0 +1,1661 @@
+
+
+===== PDF PAGE 1 =====
+DISCUSSION PAPER SERIES
+IZA DP No. 16136
+Lisa Cameron
+Diana Contreras Suarez
+Yi-Ping Tseng
+Women’s Transitions in the Labour 
+Market as a Result of Childbearing:  
+The Challenges of Formal Sector 
+Employment in Indonesia
+MAY 2023
+
+===== PDF PAGE 2 =====
+Any opinions expressed in this paper are those of the author(s) and not those of IZA. Research published in this series may 
+include views on policy, but IZA takes no institutional policy positions. The IZA research network is committed to the IZA 
+Guiding Principles of Research Integrity.
+The IZA Institute of Labor Economics is an independent economic research institute that conducts research in labor economics 
+and offers evidence-based policy advice on labor market issues. Supported by the Deutsche Post Foundation, IZA runs the 
+world’s largest network of economists, whose research aims to provide answers to the global labor market challenges of our 
+time. Our key objective is to build bridges between academic research, policymakers and society.
+IZA Discussion Papers often represent preliminary work and are circulated to encourage discussion. Citation of such a paper 
+should account for its provisional character. A revised version may be available directly from the author.
+Schaumburg-Lippe-Straße 5–9
+53113 Bonn, Germany
+Phone: +49-228-3894-0
+Email: publications@iza.org www.iza.org
+IZA – Institute of Labor Economics
+DISCUSSION PAPER SERIES
+ISSN: 2365-9793
+IZA DP No. 16136
+Women’s Transitions in the Labour 
+Market as a Result of Childbearing:  
+The Challenges of Formal Sector 
+Employment in Indonesia
+MAY 2023
+Lisa Cameron
+Melbourne Institute of Applied Economic and Social Research, University of Melbourne and IZA
+Diana Contreras Suarez
+Melbourne Institute of Applied Economic and Social Research, University of Melbourne
+Yi-Ping Tseng
+Melbourne Institute of Applied Economic and Social Research, University of Melbourne
+
+===== PDF PAGE 3 =====
+ABSTRACT
+IZA DP No. 16136 MAY 2023
+Women’s Transitions in the Labour 
+Market as a Result of Childbearing:  
+The Challenges of Formal Sector 
+Employment in Indonesia*
+Although it is well established that women’s labour force participation drops markedly 
+with marriage and childbearing, surprisingly little is known about women’s labour market 
+transitions, especially in developing countries. This paper uses the Indonesian Family Life 
+Survey to track the employment histories of over 9,000 women across a period of more 
+than 20 years, observing them as they get married and have children. The data show that 
+large numbers of Indonesian women drop out of the labour market as a result of marriage 
+and childbearing. The difficulty of maintaining formal sector employment emerges as a 
+key problem. Having worked in the formal sector prior to the birth of a first child reduces 
+the probability of working in the year following the birth by 20 percentage points and 
+reduces the probability of returning to the labour market thereafter by 3.6 percentage 
+points. Further, to the extent that women do return to work, formal sector employment is 
+associated with greater delays in returning - women are more likely to return to work in the 
+formal sector only once their child starts primary school, while in the informal sector they 
+return earlier. We find little evidence of women switching from the formal to the informal 
+sector. Formal sector labour market policies such as flexible work hours; compressed work 
+weeks; part-time work (with the same career opportunities and benefits as full-time work); 
+the ability to work from home; and work-based childcare are likely to boost women’s labour 
+force participation, with consequent boosts to economic productivity and prosperity.
+JEL Classification: J20, J16, O15
+Keywords: female labour force participation, labour market transitions, 
+economic development, childbearing
+Corresponding author:
+Lisa Cameron
+Melbourne Institute: Applied Economic and Social Research
+University of Melbourne
+11 Barry St, Carlton
+3010, Vic.
+Australia
+E-mail: lisa.cameron@unimelb.edu.au
+* An initial version of the paper was funded by the Department of Foreign Affairs and Trade, Government of 
+Australia, through the Australia Indonesia Partnership for Economic Governance (AIPEG). The views expressed in this 
+paper are the authors’ alone and are not necessarily the views of the Australian government, AIPEG or other partner 
+organisations.
+
+===== PDF PAGE 4 =====
+2 
+ 
+1. Introduction 
+It is well established in the developed world that childbearing reduces women’s labour force 
+participation, with most studies in developing countries finding the same (Cruces and Galiani 
+2007; Bloom et al. 2009; Francavilla and Giannelli 2011; Cáceres-Delpiano 2012; Heath 
+2016). 1  Surprisingly little, however, is known about women’s transitions in and out of 
+employment and how the nature of women’s work changes with the arrival of children. For 
+example, what determines the likelihood of a woman continuing to work after she has had a 
+child?; what factors affect the probability of a woman returning to work having left the 
+workforce after child birth?; and how does the nature of the work women undertake change 
+when accompanied by child-rearing?  
+The small literature that exists for developed countries examines the duration of career breaks 
+(Even, 1987; Gianelli 1996; Klerman and Leibowitz 1999; Kuka and Shenhav 2020); 
+characteristics of women that affect continuity of employment (Eckstein and Wolpin, 1989; 
+Dex et al. 1998; Stanfors, 2006) and switching between private and public sector employment 
+following the birth of a child (Pertold-Gebicka et al., 2016).2 For developing countries there 
+are however very few studies. An exception is Glick and Sahn (2004) which examines 
+intertemporal female labour force behaviour in urban Guinea in West Africa. Using a two-
+year panel of data, they find that young children are associated with increases in women’s 
+labour market participation (which they attribute to the very low income setting and the need 
+for income outweighing the demands of childcare). The increase in employment is 
+concentrated in self-employment and children are associated with a higher likelihood of 
+leaving a formal sector job. Heath (2017), using panel data covering a nine-year period, 
+ 
+1 An exception to this finding is Aguero and Marks (2011) which uses 26 DHS surveys from developing 
+countries and finds that the presence of children does not affect the likelihood of women working on average but 
+finds negative impacts for young women and women in very low-income countries.  Heath (2017) finds that in 
+urban Ghana women’s labour force participation decreases with young children but hours of work of those who 
+remain in the labour force increase.  
+Nakamura and Nakamura (1992) provide a survey of literature for developed countries with subsequent 
+studies including Shapiro and Mott (1994), van der Klaauw, (1996), Troske (2010), Kahn, Garcia-Mangialo and 
+Bianchi (2014), Fitzenberger et al. (2013) and Goldin and Mitchell (2017). 
+2 Even (1987) examines determinants of the length of career breaks for women in the US and finds a rapid 
+decline in the probability of re-entering the workforce over time since birth. Eckstein and Wolpin (1989) found 
+that work experience prior to the birth of the first child increased the probability of a woman working after the 
+birth in the U.S. (largely due to wage effects). Stanfors (2006) shows the same importance of previous work 
+experience in Sweden. Gianelli (1996) examines transitions between non-employment, part-time and full-time 
+employment in Germany. Pertold-Gebicka et al. (2016) finds that first childbirth is associated with women 
+moving from the competitive private sector to the more family-friendly public sector. They further show that this 
+switching is largely explained by the greater family-friendliness of the public sector.  
+A related literature examines the impact of childcare costs on women’s return to work and differences across 
+countries associated with different policy regimes (Klerman and Leibowitx, 1990; Gustafsson et al. 1996; 
+Gutierrez-Domenech 2005). 
+
+===== PDF PAGE 5 =====
+3 
+ 
+similarly finds that with each additional child women in urban Ghana who remain in the 
+labour force are two percentage points more likely to be self-employed (than in formal 
+employment). The study presents suggestive evidence that this is due to the greater job 
+flexibility afforded by self-employment.3 Aguero and Marks (2011), using the DHS from 26 
+developing countries, find that having children reduces the probability of women engaging in 
+paid, as opposed to unpaid, work. 
+This relatively sparse literature, highlights a particularly pressing research gap as the 
+gains to understanding women’s labour market trajectories are arguably greatest in lower-
+income countries, given the frequently low female labour force participation rates.  
+Our focus i n this paper is on  women’s labour force participation behaviour in Indonesia. 
+Female labour force participation in Indonesia has remained constant at around 50% over the 
+past 20 years despite sweeping changes to the structure of the economy and the government’s 
+aim to increase gender-inclusive growth, Cameron et al. (2019). The considerable gender gap 
+in labour force participation (LFP) widens during child -rearing years. While around 90% of 
+men stay in work from age 25 to 55, only 50% of 25 year old women work and female labour 
+force participation reaches its peak at 69% after the com pletion of child -rearing (around age 
+45).  Married women and women with young children are less likely to  work than otherwise 
+similar single women, Cameron et al. (2019).  
+Using the Indonesian Family Life Survey (IFLS), we are able to track the employment 
+histories of over 9,000 women across a period of more than 20 years, observing them as they 
+enter the labour market, get married and have children. Specifically, we examine how 
+individual women’s labour market participation is affected by having children; which women 
+return to the labour market after the birth of a child; what determines the length of a spell out 
+of the labour market and how the characteristics of women’s work change as they acquire 
+additional household responsibilities. We present age profile analyses, transition matrices of 
+women’s labour market transitions and estimate discrete choice models to analyse the 
+decision to exit the labour market following the birth of a child; the duration from childbirth 
+to re-entry to the labour market; and the choice between non-employment, employment in the 
+formal sector and employment in the informal sector.  
+ 
+3 Consistent with this, Miller (2010) finds that access to family planning at young ages is associated with a 
+greater probability of working in the formal sector in Colombia. Francavilla and Giannelli (2011) find that 
+family planning increases the likelihood a woman engages in paid work in India.  
+
+===== PDF PAGE 6 =====
+4 
+ 
+The IFLS data show that more than 46% of Indonesian women are not working one 
+year after the birth of their first child. We estimate that approximately 8.5 million Indonesian 
+women aged between 20 and 24 drop out of the labour market after having their first child.4 
+This is reflected in the widening in the gender gap in labour market participation from age 
+twenty (Figure 1). We find that tertiary educated women are the most likely to continue 
+working after the birth of a child, followed by women with less than a primary school 
+education. Women whose highest education attainment is secondary school are the least likely 
+to continue working. A woman who worked in the year prior to the birth is about 60 
+percentage points more likely to be working in the year after the birth than other women. 
+Women who leave the workforce after having a child do slowly return, so that 45% of women 
+who left the workforce are back working five years after the birth. If a woman hasn’t returned 
+to the workforce by the time her child is five years old, the probability of her doing so in the 
+future drops so that by the time her child is ten, the probability of returning to work is 
+negligible. 
+Figure 1 shows that the share of women in the formal sector also declines 
+precipitously from about the age of twenty. Previous work using cross-sectional data has 
+suggested that many women move from the formal sector to the informal sector when they 
+have children, so they can better juggle household and work responsibilities. Running a small 
+retail business from home, for example, can allow women to generate income while also 
+looking after their child, and so avoids the need to pay for childcare, Boden (1999) and 
+Lombard (2001). Using the IFLS as a cross-section generates results consistent with this 
+hypothesis, however, exploiting the panel nature of the data to track individual women across 
+time, shows that there is very little movement across formal/informal sectors. Rather, large 
+numbers of women leave their formal sector jobs and do not engage in any form of work. 
+Having worked in the formal sector prior to the birth of a first child reduces the probability of 
+working in the year following the birth by 20 percentage points and reduces the probability of 
+returning to the labour market thereafter by 3.6 percentage points.  
+These findings, along with existing evidence on how human capital depreciates with 
+time outside the labour force (for example, see Gorlich and de Grip, 2008), point to the need 
+for institutional change to increase the retention of women in the formal sector. Allowing 
+ 
+4 The figure of 8.5 million is calculated by applying our estimate of the average probability of leaving the labour 
+market in the age range 20 to 24 years (the estimations underlying Figure 2) to the number of women in this age 
+range (calculated using the proportion of the population who are women in this age category in the 2010 Census 
+and applying this to the UN population projection for 2016). 
+
+===== PDF PAGE 7 =====
+5 
+ 
+women to work flexibly – flexible hours, part-time work, working from home – and the 
+provision of work-based childcare are likely to increase women’s ability to remain in the 
+formal sector (and hence the labour market). However, evidence on the effectiveness of these 
+policies is scarce in low-income settings. Further research to establish their impacts is needed. 
+2. Data  
+The Indonesian Family Life Survey  (IFLS) is a panel survey that commenced in 1993 and 
+surveys the same household members in 1997, 2000, 2007 and 2014 .5 It provides information 
+on individuals, households and communities  and tracks respondents as they leave household s 
+and set-up new households, f or example, as a result of marriage. Of most importance for this 
+study are the survey modules on marital and fertility histories and the labour market module - 
+which asks respondents aged over 15 about their employment at the time of the survey and 
+their employment history (year by year for the previous five years), including information on 
+formality of employment, industry and occupation. T ogether th ese data allow  us to track 
+women across a 20-year period and observe their wor king decisions alongside their marital 
+and fertility behaviour.  
+We construct a yearly panel of women aged over 15 years who are observed in the sample 
+between 1988 and 2014.6 Restricting the sample to women for whom we have information on 
+work experience before marriage (including single women) , so as to be able to examine the 
+effect of marriage and childbearing on transitions in and out the labour market , generates a 
+sample of 9,035 women aged between 1 0 and 49. Of this sample, 76% get married in the 
+years covered by the data and 66% have at least one child.  
+In the analyses of  employment patterns, we further restrict  the sample to women who first 
+gave birth after 1991 (6161 women) so that at least three years of labour market histories are 
+observed prior to the first childbirth. A further 599 persons were excluded due to missing 
+information on variables used in the estimation. This results in  5562 women in the formal 
+model which we use to analyse the decision whether to continue to work in the year after 
+ 
+5 The sample is representative of approximately 83% of the Indonesian population living in urban and rural areas 
+across Java, Sumatra, Bali, West Nusa Tenggara, Sulawesi and Kalimantan.  Attrition rates are low.  92% of 
+original IFLS households were recontacted in the 5 th survey wave with 87.8% of original households being 
+interviewed in all 5 waves. See 
+ https://www.rand.org/well-being/social-and-behavioral-policy/data/FLS/IFLS/study.html  
+6 We construct an unbalanced panel as women are not necessarily observed in every wave between 1988 and 
+2014. Entry and exit to the survey occu r for several reasons including girls growing up and be coming eligible to 
+enter the employment module of the survey , respondents dying and entire households migrating. In the event an 
+entire household moves, the IFLS attempts to track the household but this is not always possible . The labour 
+market data go back to 1988 as the first wave of the IFLS was conducted in 1993 and ask ed individuals about 
+their work over the past 5 years. 
+
+===== PDF PAGE 8 =====
+6 
+ 
+childbirth.  When we study the decision of returning to work after a break from employment , 
+we focus on the 2494 women who did not work the year after first childbirth.  
+ 
+3. Overview of Female Labour Force Participation and Employment 
+The mean characteristics of our sample of women are shown in Table 1 – one year 
+prior to, and year of, the first birth . Twenty -four percent of the sample are not educated 
+beyond primary school. A further 2 5% have attended lower secondary school, 3 5% upper 
+secondary and 15% have attained some tertiary education. 54% of women were working the 
+year prior of the birth of their first child , of whom 71% were wage workers, 11% were self -
+employed, and the remaining 18% were unpaid workers. 7 After the birth, only 44% were 
+working and formal sector employment (wage workers) had fallen to 60%, with gains to self -
+employment (17%) and unpaid work (24%).8 
+The most common industries of employment for women are manufacturing (26% prior to first 
+birth), wholesale, re tail and hotels (21%) and community and personal services (19%). 
+Production (24%), sales (19%) and agriculture (17%) are the most common occupations. This 
+remains largely unchanged after the birth of the first child. 
+Age profile analysis and Transition Matrices 
+ Figure 2 compares the labour force participation age profile of single women to 
+married women without a child, married women with one child and married women with one 
+or more children.9 Single women are more likely to be working than all the other groups up 
+ 
+7 The national rate of female labour force participation reported by ILO in 2014 is 51% for women aged 15 or 
+more. The higher levels of participation in our sample likely reflect the fact that we are excluding older women 
+and possibly that the IFLS sample is representative of only 83% of the Indonesian population (it excludes much 
+of Eastern Indonesia).8 Changes from year of first birth to year of first birth are complicated by the fact that we 
+are unable to ascertain whether the figures for year of first birth are before or after the birth. Changes are hence 
+likely underestimates. 
+8 Changes from year of first birth to year of first birth are complicated by the fact that we are unable to ascertain 
+whether the figures for year of first birth are before or after the birth. Changes are hence likely underestimates. 
+9 To generate Figure 2 we pool the IFLS data across the survey waves and estimate a linear probability model of 
+the following form: 
+𝑌𝑖𝑎𝑡 =  𝛽0 +  𝛽1𝐴𝑔𝑒 +  𝛽2𝐴𝑔𝑒 × 𝑀𝑎𝑟𝑟𝑖𝑒𝑑 𝑊𝑖𝑡ℎ 𝑁𝑜 𝐶ℎ𝑖𝑙𝑑𝑟𝑒𝑛𝑖 + 𝛽3𝐴𝑔𝑒 × 𝑂𝑛𝑒 𝐶ℎ𝑖𝑙𝑑 
++ 𝛽4𝐴𝑔𝑒 × 𝑇𝑤𝑜 𝐶ℎ𝑖𝑙𝑑𝑟𝑒𝑛 + 𝛽5𝐴𝑔𝑒 × 𝑇ℎ𝑟𝑒𝑒 𝑜𝑟 𝑀𝑜𝑟𝑒 𝐶ℎ𝑖𝑙𝑑𝑟𝑒𝑛 + 𝛽6𝑌𝑒𝑎𝑟𝑡 + 𝑒𝑖  
+(1) 
+where 𝑌𝑖𝑎𝑡 takes the value of 1 if individual 𝑖 at a ge 𝑎 in year t is participating in the labour market (or has a 
+formal job when we are looking to explain formality/informality of employment) and 0 otherwise; 𝐴𝑔𝑒 is a 
+vector of indicator variables for each of the ages between 15 and 45;  𝑀𝑎𝑟𝑟𝑖𝑒𝑑 𝑊𝑖𝑡ℎ 𝑁𝑜 𝐶ℎ𝑖𝑙𝑑𝑟𝑒𝑛𝑖 is an 
+indicator that takes the value of 1 if woman 𝑖 is married and has no children at that age and 0 otherwise. The 
+
+===== PDF PAGE 9 =====
+7 
+ 
+until about age 40, where the lines converge. At age 23 (average age of first child), women 
+with one child have a 12 ppt lower probability of working compared to married women 
+without children. Married women without children are more likely to work than women with 
+children up until about age 35  
+Figure A1 in the appendix  shows that the difference between single women and 
+women who have a child is particularly large for senior high school educated women. Smalle r 
+differences are observed for women with lower levels of education (who are less likely to be 
+able to afford to not work) and for tertiary educated women (who can more easily afford 
+childcare and participate in the labour market at the same rate as single women). 
+Figure 3 examines the age profile of formality of employment (for the sample of 
+working women). 10  The figure shows that t he share of women in formal employment 
+decreases as women get married and have children . 88% of unmarried working women are in 
+formal employment at age 24, while only 50% of women with one child are.  
+The finding that the share of women in formal employment is lower for married 
+women and women with children than for single women is consistent with women switching 
+from formal sector employment to informal sector employment, and/or women who were 
+working in the formal sector dropping out of the labour force. Figure 4 enables us to establish 
+which of these is driving this occurrence  by exploiting the panel nature of the data. 11 It shows 
+women’s transitions across the formal and informal sectors , from one year before th e first 
+child to one year after. The bars along the diagonal of the matrix represent the proportion of 
+women who stay in the same sector after childbirth . The bars off the diagonal show the 
+proportion of transitions  between sectors . The last column of bars shows the proportion of 
+women who are not working. The figure clearly shows a large exodus from the formal sector 
+ 
+𝐶ℎ𝑖𝑙𝑑 indicators are built similarly where we account for whether the woman has one to three children at each 
+age she is observed. The estimation also includes year fixed effects (Yeart).  
+In the figures the line for single women is a plot of β 1 (which is a vector of  coefficients with each coefficient 
+corresponding to a particular age),  for married women we plot (β 1+ β2), for married with one child (β1+ β2 +β3) 
+and for married with two children (β1+ β2+β3+ β4). We have excluded the third child from the graphs to simplify 
+the presentation. A third child has no additional effect beyond that of having a second child. 
+10 A woman is defined to be working if she engages in formal sector or informal sector work, where formal 
+sector work is defined as wage work and the informal sector is defined to include self-employment and unpaid 
+work. 
+11 For Figure 4 we restrict the sample to women who got married and had at least one child within the sample 
+period, i.e.  we exclude women who remain single and married women who d id not have a child. This generates 
+a sample of 3,781 women for whom we have information one year before the first child, one year after the first 
+child and three years after the first child.   
+ 
+
+===== PDF PAGE 10 =====
+8 
+ 
+(wage work). One year after the birth of their first child a pproximately 20% of working 
+women have exited the labour  force.12 This is 38% of all women who were working in the 
+formal sector prior to the birth of their first child. Consistent with the informal sector allowing 
+women to better juggle work and family commitments , having a child do es not appear to be  
+such a h andicap to being self -employed or engaging in unpaid work.  Only 13% of women 
+who were previously self -employed, and 14% of those who were unpaid workers, exit the 
+labour force after having their first child. Figure A2 in the appendix breaks down the 
+transition analysis by educational attainment. Tertiary educated women are more likely to 
+remain in the formal sector than less well -educated women. Only 1 7% of tertiary educated 
+women who were working in the formal sector prior to having a child, are no longer in the 
+labour market one year later, compared to 4 6% of sec ondary educated women and 4 8% of 
+women with less than secondary school education.13 
+These diagrams also clearly show that there are few movements across sectors. There 
+is very little movement between wage work and self -employment. Only 4% of women who 
+were working in the formal sector prior to having their first child are self -employed one year 
+later. Most women either drop out of the labour market or, if they continue working, continue 
+in the same sector as they worked prior to child-bearing.14 
+3. Estimation Method 
+ 
+3.1 Whether to Work or Not in the Year After First Birth 
+To formally model the decision whether to work or not in the year after the birth of the first 
+child we estimate logistic models of the probability of  being employed in the year after 
+childbirth. The estimation equation is as follows:  
+Pr(𝑊 = 1|𝑋) = 𝑒𝑥𝑝(𝛼 + 𝛽𝑋𝑖)
+1 + 𝑒𝑥𝑝( 𝛼 + 𝛽𝑋𝑖)                                              (1) 
+where W=1 if the woman works and 0 otherwise. T he independent variables (X) include age, 
+ethnicity, whether the woman lives in an urban area, education and family circumstances 
+(married, living with parents ).  We also include information on the women’s work histories 
+ 
+12 45% of women in our sample are not working after the first child. (20% were working prior to the first child and 25% were 
+not working before the first child.) Many Indonesian women exit the labour force when they marry, prior to the first birth, in 
+anticipation of having a child (see Figure 2). 
+13 Table A3 in the appendix includes the numbers underlying the figures. 
+14 There is also very little movement across industries and occupations. Results available upon request. 
+
+===== PDF PAGE 11 =====
+9 
+ 
+(whether the woman worked in the year prior to the first childbirth, whether she worked in the 
+formal sector in the year prior to the birth, whether she worked all three years prior to the 
+birth). These variables are potentially important as l abour market participation has been 
+shown to be heavily determined by early job experiences (Hibbard and Pope, 1993).  We also 
+control for whether the household had a family business prior to the birth of the first child. 
+As age, birth cohort and year have a linear relationship with one another , we cannot 
+include dummy variables for all three variables  in the models. Our main results are estimated 
+from models including  age and year dummies. Results from alternative specifications  
+generate similar results and are presented in Tables A1 and A2 in the appendix.15  
+ 
+3.2 Returning to Employment 
+For those women who were not working in the year following the birth of their first 
+child, we study their decision to return to work. We estimate a discrete choice duration model 
+using a logistic estimator with random effects to all ow for individual heterogeneity . (As our 
+data is annual, a discrete choice duration model is preferred over a continuous hazard model.) 
+A simple data transformation makes it possible to estimate the discrete choice hazard model 
+using logistic regression, Jenkins (1995). To estimate this model, the sample is constructed to 
+include observations for each individual up to the first period of employment. When the 
+second childbirth is observed, observations in the year of the second childbirth onwards are 
+treated as being censored (i.e. the information after the second birth does not contribute to the 
+likelihood function of the exit rate estimation ).16 The dependent variable is a binary variable 
+(0=not working, 1=working).  The estimation equation is 
+ℎ(𝑡)𝑖 = 𝑒𝑥𝑝( 𝛾𝑓(𝑡) + 𝛽𝑋𝑖𝑡 + 𝑢𝑖)
+1 + 𝑒𝑥𝑝( 𝛾𝑓(𝑡) + 𝛽𝑋𝑖𝑡 + 𝑢𝑖)                                           (2) 
+where h(t) is the latent variable  which represent  the piecewise constant hazard, i.e. the 
+probability of return ing to work at time t given the person has not return ed to work prior  to 
+ 
+15 We estimated three groups of models. In the first we include year dummies (for each year from 1991 to 2013). 
+These are our preferred models and results are presented in Table 2. In the second group of estimations we 
+include cohort dummies (born prior to 1970, 1970-79, 1980-1989 and born after 1990) and the provincial 
+unemployment rate to capture business cycle effects (Table A1). In the third group of estimations we include the 
+provincial unemployment rate and a time trend (Table A2). All models include age dummies (aged under 20 
+years, 20-24 years, 25-29 years, 30-34 years, 35-39 years and over 40 years).  
+16 We treat these observations as censored as we don’t know whether they would have returned to work or not 
+had there been no second birth. In our sample, 60% of women have a second child. However, the numbers of 
+years they are observed after the second birth is not sufficient to study returns to work after the second birth.  
+
+===== PDF PAGE 12 =====
+10 
+ 
+time t. Xit are the same set of explanatory variables discussed above. For 𝑓(𝑡), a function of 
+time that shapes the baseline hazard , we use  a set of dumm y variables  for year since first 
+childbirth in the estimation to allow a flexible piecewise constant baseline hazard. Finally, 𝑢𝑖 
+is a time-invariant individual-specific random effect capturing the unobserved characteristics 
+of individual i. γ and β are parameters to be estimated. The random effects are assumed to be 
+independent of the explanatory variables and normally distributed.17  
+3.3 Return to Formal or Informal Employment 
+We also estimate a discrete competing risk model  using a multinomial logit estimator 
+to examine what drives whether women return to the formal versus the informal sector.  The 
+estimating equation is: 
+ℎ(𝑡)𝑖
+𝑘 = 𝑒𝑥𝑝( 𝛾𝑘𝑓(𝑡) + 𝛽𝑘𝑋𝑖𝑡)
+1 + 𝑒𝑥𝑝( 𝛾1𝑓(𝑡) + 𝛽1𝑋𝑖𝑡) + + 𝑒𝑥𝑝( 𝛾2𝑓(𝑡) + 𝛽2𝑋𝑖𝑡) ; 𝑘 = 1, 2       (3) 
+The notation largely follow s equation (2) with the superscript k representing sector sp ecific 
+parameters and values. For example,  ℎ(𝑡)𝑖
+1 denotes the hazard of return ing to the formal 
+sector and  ℎ(𝑡)𝑖
+2  denotes the hazard of returning to the informal sector.18  
+For all three models, we report mean marginal effect s, i.e.,  evaluated at the value of each 
+individuals’ characteristics and then averaged.  
+ 
+4. Results  
+ 
+Table 2 reports the estimation results.  
+ 
+17 Assuming that the unobserved heterogeneity distribution is normal when it is not is unlikely to result in biased 
+estimates of either the covariates or duration dependence (Nicoletti and Rondinelli, 2010). The independence 
+assumption is standard and, as always, cannot be tested. An appropriate fixed effects discrete-time duration 
+model that might relax this assumption does not exist. 
+18 Multinomial logit estimation relies on the assumption of the independence of irrelevant alternatives (IIA). We 
+use seemingly unrelated estimation to test this assumption and find no evidence that it is likely to be violated. 
+When allowing for individual heterogeneity the model fails to converge so we estimate a model without this term. 
+Unobserved heterogeneity is found not to play a significant role in determining whether women return to work - 
+the proportion of the total variance contributed by the panel-level variance component (individual heterogeneity) 
+in the return to work equation is not significantly different from zero (p=0.489) -  so may also not play an 
+important role in the choice of sector to return to. To the extent that individual heterogeneity is important in the 
+choice of which sector to return to, this analysis can be considered descriptive in nature 
+ 
+
+===== PDF PAGE 13 =====
+11 
+ 
+4.1 Whether to Work or Not in the Year After First Birth 
+Column 1 of Table 2 reports marginal effects  from the logistic regression where the 
+dependent variable equals 1 if the woman was observed to be working in the year after the 
+birth of her first child, and 0 otherwise.  The res ults confirm the findings from the descriptive 
+analysis that tertiary educated women are the most likely to continue working after the birth 
+of a child. The next most likely group to be working are those with no education  (who likely 
+do not have the luxury  of being able to choose not to work) .  The probability of a woman 
+working after the birth increases with age from 30 years, with women aged over 40 being 23 
+percentage points more likely to be working  than those younger than 20 . Those who live in 
+urban areas are 5. 5 percentage points less likely to be working in the year after the birth of 
+their child than women in rural areas  (consistent with women continuing to work in 
+agriculture, most commonly on family farms).  
+Those who worked in the year prior to the birth are about 60 percentage points more likely to 
+be working after the birth than women who did not. Previous work experience (within 3 years 
+of the birth, but not in the year before the birth ) also increases the probability of a woman 
+working after the birth (by 2.8 ppts). A woman who worked in the formal sector prior to 
+having her first child is ab out 20 ppts less likely to be working after having had a child than 
+an otherwise similar woman who had been working in the informal sector. The existence of a 
+family business increases the probability that the woman works after having had a child, by 
+6.6 ppts.  
+The decision to return to the workforce 
+Column 2, Table 2 presents results from the duration model of the exit to employment for 
+those women who did not return to the workforce in the first year after childbirth.  
+Figures 5 A and B present the survival function (of continuing to not work) and the empirical 
+hazard (of exiting non -employment) without adjust ing for individual characteristics . They 
+show that the probability of returning to the workforce drops each year since the birth. 
+Approximately 15% of women who didn’t work in the year after the birth return to work in 
+the second, third and fourth years si nce the first birth  so that five years after the birth 
+approximately 45% are back working. For those who haven’t returned by the time the child is 
+at school (normally 6-7 years of age), the probability of exiting non -employment has dropped 
+to 10%. It continues to drop so that 10 years after the birth, when just over 30% of women are 
+still out of the workforce, the probability of them returning to work is negligible (below 5%).   
+
+===== PDF PAGE 14 =====
+12 
+ 
+The empirical hazard seems to suggest a strong negative duration dependence after four years 
+since childbirth. A possible reason for negative duration dependence is diminishing human 
+capital over time  while out of the workforce . However, the results after controlling for 
+individual characteristics shown in Column 2 of Table 2 show that the probability of returning 
+to work significantly increase s each year  with the  strongest increase at around child 
+commencement of primary school  (7 years). After that the estimate s are less precise due to 
+sample sizes but the exit rates are all higher than in the second year after the first  childbirth. 
+This suggest s child caring responsibilit ies prior to a child entering primary school are a 
+significant barrier to women return ing to work.  As the child ages and child -caring 
+responsibilities decrease, exit rates increase (more than offsetting any impact of diminishing 
+human capital).  
+The estimates in Column 2  show that probability of exiting to the workforce (given the 
+woman did not work in the year after birth) decreases  with the age of the woman . Women 
+aged over 40 are 11 ppts less likely to return to work than women aged under 20 . 19 
+Interestingly, although we saw above that tertiary education plays an important role in 
+determining whether a woman continues to work in the year after the birth, education does not 
+play a significant role in the decision to return to work if the woman  does not maintain 
+employment in the first yea r after the birth. Living in an urban area , although associated with 
+a higher probability of not working in the year after the birth,  is associated with an increased 
+probability of returning to work, although this effect is small (1.9 ppts). Having worked in the 
+year prior to the birth and there being a family business both increase the probability of 
+returning (by 7.4 and 7.6 ppts respectively) . Having worked in the formal sector prior to the 
+birth decreases the probability of returning by 3.6 ppts. In the models where we include the 
+unemployment rate  (Appendix Tables A1 and  A2), higher unemployment  decreases the 
+probability of a woman returning to work but only very slightly (0.5 ppts  per 1 percentage 
+point increase in unemployment).   Unobserved characteristics (random effects) seem not play 
+a role in explaining the probability of returning to work after con trolling for human capital, 
+work history, family circumstances and local labour market . The proportion of the total 
+variance contributed by the panel-level variance component is not significantly different from 
+zero (p-value=0.489). 
+ 
+ 
+19 This could be capturing an increased propensity for women to return to work in later cohorts, although the 
+results from the model which include a time trend (see Appendix Table A2) suggest that this effect is small (0.3 
+ppts per year). 
+
+===== PDF PAGE 15 =====
+13 
+ 
+4.3 Which sector to return to 
+Columns 3 and 4, Table 2 present the results of the discrete competing risk model in which 
+we model the decision whether to remain out of the labour market, to re -enter to the formal 
+sector or re-enter to the informal sector. Younger women are more likely to exit to the formal 
+sector (from not working) than older women. Exit to the informal sector is unaffected by age. 
+Education only plays a role in that tertiary educated women are more likely (6.9 ppts) to exit 
+to the formal sector. The probability of exiting to a formal sector job is significantly higher in 
+urban areas (3.3 ppts). Previous work experience increases the probability of exiting to either 
+sector. Working in the formal sector prior to the birth of a first child increases the probability 
+of exiting to that sector ( by 4.7 ppts)  and decreases the probability of joining the informal 
+sector by 5.3 ppts (consistent with the finding above that there is little shifting across sectors) . 
+Living in a  household that has a family busin ess reduces th e probability of exiting to the 
+formal sector (by 2.6 ppts) and increases the probability of exiting to the informal sector by 
+just over 10 ppts.  
+The duration (years since b irth) dummies show that women were most likely to return to the 
+formal sector at 6 and 7 years after childbirth (the time when most Indonesian children have 
+started primary school). The pattern of exit over time to the informal sector shows that the 
+highest probability of exit is four and five years after the birth (2 percentage points higher 
+than two years after the birth).  This further confirms that women returning to the formal 
+sector are likely to be constrained by childcar e responsibilities  and is consistent with the 
+informal sector providing the greater flexibility that is needed when one has pre -school 
+children. 
+Conclusions and Policy Implications 
+Extrapolating our results to the entire Indonesian population suggests  that 8.5 million women 
+currently of peak first child-bearing age  (20-24 years) have dropped out of the Indonesian 
+labour market  as a result of child -bearing. This is a major loss of Indonesia’s productive 
+capital. The labour market participation of tertiary educated women is the least affected by 
+childbearing relative to women with lower levels of education. Women who were employed 
+in the f ormal sector prior to the birth of the ir first child leave the labour market  in large 
+numbers and are less likely to return to the labour market once they have left. V ery few 
+women who leave formal sector jobs switch to self-employment. Instead, they stop working.  
+
+===== PDF PAGE 16 =====
+14 
+ 
+How can women be supported to remain in the labour market once they get married and have 
+children? With the current data it is not possible to differentiate between women choosing not 
+to go back to work and women who would like to work but  are unable to return to work (for 
+example, due to lack of workplace flexibility  and a lack of opportunities for women with 
+children). However, the fact that tertiary educated women (who are in general higher paid and 
+so can afford childcare) largely remain in the labour force , that women are more likely to 
+return to the formal sector  once their childcare responsibilities diminish (when their child 
+starts primary school) and that self -employed women largely keep working suggests that 
+when women are able to continue to work , they often choose to do so .  Primary data 
+collection and quali tative research with women from different backgrounds would allow a 
+closer examination of  this issue. International experience also suggests that a larger 
+proportion of women will choose to work if the conditions are right.  
+Policies that have been  shown in other countries to increase female labour force 
+participation by facilitating continued participation across the life cycle include flexible work 
+conditions and work -based childcare (Del Boca, Pasqua  and Pronzato, 2008; Del Boca and 
+Locatelli, 20 06; Thevenon, 2016; Subramani am et al ., 2015 ). Given women ’s culturally  
+determined household responsibilities, flexibility in the workplace is essential to allow the 
+juggling of  these responsibilities with those of the workplace . Flexible workplace policies 
+include allow ing employees to work flexible hours; to work compressed work weeks  (a 
+shorter number of longer days ); part -time work (with the same career opportunities and 
+benefits as full -time work); and the ability to work from home . Work-based 
+childcare provision, particularly for women without a tertiary education and for women in 
+formal sector employment in industries such as manufacturing and wholesale/retail trade and 
+hotels, may stem the flow of women out of work when they get married and have children.  
+In Indonesia the main issue appears to be that the formal sector is not equipped for, or 
+interested in , retaining women once they have a family. Production positions in 
+manufacturing and sales positions  in wholesale/retail trade and hotels account for the largest 
+share of female full-time jobs, followed by service and professional or managerial roles in the  
+community and personal services sector. These industries/occupations are thus the most 
+important source of employment for women and the ones in which many women would be 
+positively impacted if effective work policies surrounding marriage and having children are 
+developed. 
+
+===== PDF PAGE 17 =====
+15 
+ 
+Policies and practices that p romote cultural change and encourage  companies to 
+develop policies to retain women  are also likely to be important . The evidence on the 
+effectiveness of the policies discussed above in developing countries is very limited. Further 
+research on how to boost women’s labour force participation in low-income settings is needed. 
+  
+
+===== PDF PAGE 18 =====
+16 
+ 
+References 
+Aguero, J. M. and M. Marks (2011) Motherhood and Female Labor Supply in the Developing 
+World: Evidence from Infertility Shocks. Journal of Human Resources , Volume 46, Number 
+4, Winter 2011, pp. 800-826 
+Bloom, D. E., Canning, D., Fink, G., Finlay, J. E., 2009. Fertility, female labor force 
+participation, and the demographic dividend. Journal of Economic Growth 14 (2), 79–101. 
+ 
+Boden, R. J. (1999) Flexible working hours, family responsibilities, and female self-
+employment. American Journal of Economics and Sociology 58 (1), 71–83. 
+ 
+Cáceres-Delpiano, J. (2012). Can we still learn something from the relationship between 
+fertility and mother’s employment? evidence from developing countries. Demography 
+49 (1), 151–174. 
+ 
+Cameron, L., Contreras Suarez, D. and W. Rowell. (2019) Female Labour Force Participation 
+in Indonesia: Why Has It Stalled? Bulletin of Indonesian Economic Studies, 55:2, 157-192. 
+Cruces, G. and S. Galiani, (2007). Fertility and female labor supply in Latin America: New 
+causal evidence. Labour Economics 14 (3), 565–573. 
+ 
+Del Boca, D., Pasqua, S. and C. Pronzato (2008). Motherhood and market work decisions in 
+institutional context: a European perspective. Oxford Economic Papers, 61, i147-i171. 
+Del Boca, D. and M. Locatelli  (2006). The Determinants of Motherhood and Work Sta tus: A 
+Survey. IZA Discussion Paper, No. 2414, October. Dex S, Joshi, H., Macran, S. and 
+A.McCulloch (1998). Women’s Employment transitions Around Childbearing. Oxford 
+Bulletin of Economics and Statistics, 60(1), 79-98. 
+Dex. S., Joshi, H., Macran, S. and A. McCulloch (1998). Women’s Employment around Child 
+Bearing. Oxford Bulletin of Economics and Statistics, 60, 1, pp79-98. 
+Eckstein, Z. and Wolpin, K. I. (1989). Dynamic labour force participation of married women 
+and endogenous work experience. The Review of Economic Studies, 56(3), 375-390. 
+Even, W. (1987) Career Interruptions Following Childbirth. Journal of Labor Economics, 
+5(2):255-277. 
+Fitzenberger, B., Sommerfeld, K. and S. Steffes (2013). Causal effects on employment after 
+first birth – A dynamic treatment approach. Labour Economics, 25:49-62. 
+Francavilla, F., Giannelli, G. C. (2011). Does family planning help the employment of 
+women? the case of India. Journal of Asian Economics 22 (5), 412–426. 
+Gianelli, G, (1996) Women’s transitions in the labour market: A competing risk analysis on 
+German panel data. Journal of Population Economics, 9:287-300. 
+Glick, P. and D. Sahn (2004) Intertemporal female labor force behavior in a developing 
+country: what can we learn from a limited panel? Labour Economics, 12:23-45. 
+Goldin, C. and J. Mitchell (2017) The New Life Cycle of Women’s Employment: 
+Disappearing Humps, Sagging Middles, Expanding Tops. Journal of Economic Perspectives, 
+31(1):161-182. 
+
+===== PDF PAGE 19 =====
+17 
+ 
+D. Gorlich and A. de Grip (2009). Human capital depreciation during hometime. Oxford 
+Economic Papers, Volume 61, Issue suppl_1, April, pp:i98–i121.  
+Gustafsson, S., Wetzels, C., Vlasbom, J. and S. Dex (1996) Women’s labor force transitions 
+in connection with childbirth: A panel data comparison between Germany, Sweden and Great 
+Britain. Journal of Population Economics, 9:223-246. 
+Gutierrez-Domenech, M. (2005) Employment after Motherhood: A European Comparison. 
+Labour Economics, 12:99-123. 
+Heath, R. (2017) Fertility at Work: Children and Women’s Labor Market Outcomes in Urban 
+Ghana. Journal of Development Economics, May, 126:190-214. 
+Hibbard, J.H. and Pope, C.R. (1993). Health effects of discontinuities in female employment 
+and marital status. Social Science & Medicine, 36(8), pp.1099-1104. 
+Jenkins,S. (1995). Easy estimation methods for discrete-time duration models. Oxford 
+Bulletin of Economics and Statistics, 57(1),129–138. 
+Kahn, J., Garcia-Mangialo, J. and S. Bianchi (2014) The Motherhood Penalty at Midlife: 
+Long -Term effects of Children on Women’s Careers. Journal of Marriage and Family, 76(1) 
+Feb:56-72. 
+Klerman, J. and A. Leibowitz (1999) Child Care and Women’s Return to Work After 
+Childbirth. American Economic Review, 80(2):284-288. 
+Klerman, J. and A. Leibowitz (1990) Job Continuity and New Mothers. Demography, 
+36(2):145-155. 
+Kuka, E. and N. Shenhav (2020) Long-Run Effects of Incentivizing Work After Childbirth. 
+NBER Working Paper 27444, June, 1-99. 
+Lombard, K. V. (2001). Female self-employment and demand for flexible, nonstandard 
+work schedules. Economic Inquiry 39 (2), 214. 
+Miller, G.  (2010) Contraception as Development? New Evidence from Family Planning in 
+Colombia. Economic Journal, 120 (June):709-736. 
+Nicoletti, C. and  C. Rondinelli (2010) . The (mis)specification of discrete duration models 
+with unobserved heterogeneity: a Monte Carlo stud y. Journal of Econometrics, 159(1), Nov, 
+pp1-13. 
+Nakamura, A.  and M. Nakamura (1992)  The econometrics of female labor supply and 
+children. Econometric Reviews, 11(1):1-71. 
+Pertold-Gebicka, B., Pertold, F. and N. Datta Gupta  (2016) Employment Adjustments around 
+Childbirth. IZA Discussion Paper No. 9685, 1-20. 
+Shapiro, D. and F. Mott (1994) Long-Term Employment and Earnings of Women in Relation 
+to Employment Behavior Surrounding the First Birth. Journal of Human Resources , Spring, 
+29(2):248-275. 
+Stanfors, M. (2006) Labor Force Transitions after Childbirth mong Five Birth Cohorts in 
+Sweden. Journal of Family and Economic Issues, 27(2): 287-309. 
+
+===== PDF PAGE 20 =====
+18 
+ 
+Subramaniam, G., Tan, P-L, Baah, R. and Atory, N.A.A. (2015). Do Flexible Working 
+Arrangements Impact Women’s Participation in the Labour Market? A Multiple Regression 
+Analysis. Malaysian Journal of Consumer and Family Economics, 18:130-140.  
+Thevenon, O. (2016) Do `institutional complementarities’ foster female labour force 
+participation? Journal of Institutional Economics, 12(2):471-497. 
+Troske, K. and A. Voicu (2010) Joint Estimation of sequential labor force participation and 
+fertility decisions using Markov chain Monte Caro techniques. Labour Economics, 17:150-
+169. 
+Van der Klaauw, W. (1996). Female labour supply and marital status decisions: A life-cycle 
+model. The Review of Economic Studies, 63(2), 199-235. 
+ 
+ 
+ 
+  
+
+===== PDF PAGE 21 =====
+19 
+ 
+Table 1: Descriptive statistics of IFLS sample of Women 
+ Mean N 
+Married 1.00 5562 
+Age of marriage 21.53 5548 
+Total No children 3.39 5562 
+Level of Education       
+No schooling 0.01 5562 
+Elementary 0.23 5562 
+Junior HS 0.25 5562 
+Senior HS 0.35 5562 
+Tertiary 0.15 5562 
+Attending School 0.07 5562 
+ Year prior 1st birth Year of 1st birth 
+ Mean N Mean N 
+Labour Force Participation     
+Working 0.54 5562 0.44 5543 
+Job status       
+Self-employed 0.11 3009 0.17 2459 
+Wage worker 0.71 3009 0.60 2459 
+Unpaid Worker 0.18 3009 0.24 2459 
+Occupation Main Job       
+Professional 0.11 3008 0.13 2458 
+Administrative/managerial 0.00 3008 0.00 2458 
+Clerical 0.12 3008 0.11 2458 
+Sales 0.19 3008 0.19 2458 
+Service 0.16 3008 0.14 2458 
+Agriculture 0.17 3008 0.20 2458 
+Production 0.24 3008 0.22 2458 
+Military 0.00 3008 0.00 2458 
+Student 0.00 3008 0.00 2458 
+No Classified 0.01 3008 0.01 2458 
+Industry Main Job       
+Agriculture 0.18 3009 0.22 2459 
+Mining, quarrying 0.01 3009 0.00 2459 
+Manufacturing 0.26 3009 0.25 2459 
+Electricity, gas, water 0.01 3009 0.01 2459 
+Construction 0.01 3009 0.00 2459 
+Wholesale, retail, hotel 0.21 3009 0.20 2459 
+Transport, communication 0.02 3009 0.02 2459 
+Finance/insurance, real estate 0.09 3009 0.10 2459 
+Community, personal services 0.19 3009 0.17 2459 
+Insufficient information 0.02 3009 0.02 2459 
+  
+ 
+  
+
+===== PDF PAGE 22 =====
+20 
+ 
+Table 2. Labour Market Re-entry Estimation Results (Marginal Effects) 
+Dependent Variable: Working in year 
+after birth (0/1) 
+Duration to exit 
+to labour market  
+Exit destination (base = no exit) 
+   Exit to the 
+Formal Sector 
+Exit to the 
+informal 
+sector 
+ (1) (2) (3) (4) 
+Estimation method Logistic regression Duration model 
+w. random effects 
+Multinomial Logit 
+   
+Sample All women All women not working in the year after the birth 
+Age (base=under 20 years)     
+20-24 years 0.005 
+(0.017) 
+-0.014 
+(0.030) 
+-0.023 
+(0.028) 
+0.007 
+(0.019) 
+25-29 years 0.016 
+(0.019) 
+-0.064** 
+(0.031) 
+-0.073** 
+(0.029) 
+0.005 
+(0.019) 
+30-34 years 0.069** 
+(0.028) 
+-0.059* 
+(0.033) 
+-0.070** 
+(0.030) 
+0.006 
+(0.021) 
+35-39 years 0.117** 
+(0.055) 
+-0.061 
+(0.041) 
+-0.106*** 
+(0.032) 
+0.042 
+(0.030) 
+40 years and above 0.232*** 
+(0.090) 
+-0.110** 
+(0.047) 
+-0.077* 
+(0.043) 
+-0.033 
+(0.027) 
+Education (base=no education)     
+Primary education -0.112** 
+(0.056) 
+-0.025 
+(0.049) 
+0.014 
+(0.036) 
+-0.026 
+(0.035) 
+Junior High Education -0.086 
+(0.057) 
+-0.015 
+(0.049) 
+0.012 
+(0.036) 
+-0.014 
+(0.035) 
+Senior High Education -0.049 
+(0.057) 
+-0.012 
+(0.050) 
+0.021 
+(0.036) 
+-0.021 
+(0.035) 
+Tertiary education 0.131** 
+(0.058) 
+0.019 
+(0.053) 
+0.069* 
+(0.040) 
+-0.036 
+(0.037) 
+     
+Urban residence -0.055*** 
+(0.012) 
+0.019* 
+(0.010) 
+0.033*** 
+(0.007) 
+-0.014* 
+(0.007) 
+Currently married -0.002 
+(0.065) 
+-0.226*** 
+(0.047) 
+-0.219*** 
+(0.044) 
+0.102*** 
+(0.007) 
+Living with parents -0.002 
+(0.012) 
+-0.005 
+(0.010) 
+0.022** 
+(0.008) 
+-0.026*** 
+(0.007) 
+ 
+Work experience (base=no work in the 3 years prior to the birth) 
+Worked in the year prior to the birth 0.594*** 
+(0.014) 
+0.074*** 
+(0.022) 
+-0.007 
+(0.019) 
+0.064*** 
+(0.016) 
+Worked in the 3 years prior to the 
+birth but not the year before  
+0.028* 
+(0.014) 
+0.061*** 
+(0.013) 
+0.043*** 
+(0.012) 
+0.023*** 
+(0.009) 
+     
+Family Business the year prior first 
+birth  
+0.066*** 
+(0.012) 
+0.076*** 
+(0.010) 
+-0.026*** 
+(0.007) 
+0.102*** 
+(0.007) 
+Formal sector employment before 
+birth 
+-0.193*** 
+(0.012) 
+-0.036* 
+(0.020) 
+0.047* 
+(0.026) 
+-0.053*** 
+(0.011) 
+     
+Years since childbirth (base=2)     
+3  0.016 
+(0.012) 
+0.015* 
+(0.009) 
+0.003 
+(0.008) 
+4  0.033** 
+(0.014) 
+0.010 
+(0.011) 
+0.024** 
+(0.010) 
+5  0.031* 
+(0.017) 
+0.010 
+(0.013) 
+0.022* 
+(0.013) 
+6  0.045** 
+(0.022) 
+0.030* 
+(0.018) 
+0.016 
+(0.015) 
+7  0.077** 0.058** 0.022 
+
+===== PDF PAGE 23 =====
+21 
+ 
+(0.030) (0.026) (0.020) 
+8  0.041 
+(0.040) 
+0.035 
+(0.035) 
+0.006 
+(0.025) 
+9  0.074 
+(0.054) 
+0.007 
+(0.042) 
+0.055 
+(0.039) 
+10  0.040 
+(0.069) 
+0.078 
+(0.07) 
+-0.017 
+(0.037) 
+11  0.109 
+(0.095) 
+0.089 
+(0.086) 
+0.035 
+(0.067) 
+12  0.049 
+(0.101) 
+0.055 
+(0.088) 
+0.008 
+(0.071) 
+13  0.089 
+(0.092) 
+0.002 
+(0.060) 
+0.082 
+(0.080) 
+sigma_u  0.006  
+(0.029) 
+ 
+rho  0.00001  
+(0.00011) 
+ 
+Year dummies included: Yes Yes Yes 
+Number of observations 5562 6638 6638 
+Number of individuals 5562 2494 2494 
+Notes: Controls for ethnicity (Javanese, Sundanese, other) were also included. P-value for LR test of rho=0 is 0.489 
+ 
+ 
+  
+
+===== PDF PAGE 24 =====
+22 
+ 
+ 
+Figure 1. Age profile of the labour force participation and formality of employment by 
+gender, percentage  
+  
+  
+Source: Pooled data from IFLS 1,2,3,4 and 5 for all individuals aged 15 to 64 for whom employment history data 
+is available. Authors’ calculations.  
+ 
+ 
+ 
+Figure 2. Age profile of female labour force participation, probability 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+===== PDF PAGE 25 =====
+23 
+ 
+ 
+ 
+Figure 3. Age profile of formality, probability 
+ 
+ 
+ 
+
+
+===== PDF PAGE 26 =====
+24 
+ 
+ 
+Figure 4. Transitions across job status – 1 year before to 1 year after birth of first child  
+                            
+  
+ 
+ 
+
+
+===== PDF PAGE 27 =====
+25 
+ 
+Figure 5A. Proportion of women remaining out of work by years since first birth 
+ 
+Note: The sample includes women who had a break of employment in the year after their first 
+childbirth. Hence, by definition, the survival rate is 100% for first year after birth.   
+ 
+Figure 5B. Probability of returning to work given not having returned to work prior  
+ 
+
+
+===== PDF PAGE 28 =====
+26 
+ 
+Table A1. Labour Market Re-entry Estimation Results (Marginal Effects)  
+Models with Cohort Fixed Effects and Unemployment Rate 
+Dependent Variable: Working in year 
+after first birth 
+(0/1) 
+Duration to exit 
+to labour market  
+Exit destination (base = no exit) 
+   Exit to the 
+Formal Sector 
+Exit to the 
+informal 
+sector 
+ (1) (2) (3) (4) 
+Estimation method Logistic regression Duration model 
+w. random effects 
+Multinomial Logit 
+   
+Sample All women All women not working in the year after the birth 
+Age (base=under 20 years)     
+20-24 years 0.005 
+(0.017) 
+0.007 
+(0.028) 
+0.000 
+(0.023) 
+0.006 
+(0.019) 
+25-29 years 0.005 
+(0.021) 
+-0.021 
+(0.029) 
+-0.031 
+(0.024) 
+0.008 
+(0.020) 
+30-34 years 0.048 
+(0.030) 
+-0.009 
+(0.032) 
+-0.019 
+(0.026) 
+0.009 
+(0.022) 
+35-39 years 0.090 
+(0.057) 
+-0.001 
+(0.044) 
+-0.056* 
+(0.031) 
+0.051 
+(0.034) 
+40 years and above 0.196** 
+(0.095) 
+-0.047 
+(0.054) 
+-0.012 
+(0.052) 
+0.024 
+(0.032) 
+Education (base=no education)     
+Primary education -0.112** 
+(0.055) 
+-0.027 
+(0.050) 
+0.007 
+(0.039) 
+-0.020 
+(0.034) 
+Junior High Education -0.084 
+(0.055) 
+-0.023 
+(0.050) 
+0.001 
+(0.039) 
+0.011 
+(0.034) 
+Senior High Education -0.047 
+(0.055) 
+-0.018 
+(0.050) 
+0.012 
+(0.039) 
+0.019 
+(0.034) 
+Tertiary education 0.133** 
+(0.057) 
+0.012 
+(0.053) 
+0.059 
+(0.043) 
+0.032 
+(0.036) 
+     
+Urban residence -0.056*** 
+(0.012) 
+0.020** 
+(0.010) 
+0.034*** 
+(0.007) 
+-0.013* 
+(0.007) 
+Currently married 0.008 
+(0.065) 
+-0.239*** 
+(0.049) 
+-0.228*** 
+(0.046) 
+0.004 
+(0.028) 
+Living with parents 0.000 
+(0.012) 
+-0.008 
+(0.010) 
+0.019*** 
+(0.008) 
+-0.026*** 
+(0.007) 
+ 
+Work experience (base=no work in the 3 years prior to the birth) 
+Worked in the year prior to the birth 0.591*** 
+(0.014) 
+0.059*** 
+(0.022) 
+-0.012 
+(0.019) 
+0.054*** 
+(0.015) 
+Worked in the 3 years prior to the 
+birth but not the year before  
+0.024* 
+(0.014) 
+0.065*** 
+(0.014) 
+0.048*** 
+(0.013) 
+0.022** 
+(0.009) 
+     
+Family Business the year prior first 
+birth  
+0.063*** 
+(0.012) 
+0.071*** 
+(0.010) 
+-0.028*** 
+(0.007) 
+0.099*** 
+(0.007) 
+Formal sector employment before 
+birth 
+-0.193*** 
+(0.012) 
+-0.023 
+(0.021) 
+0.057** 
+(0.027) 
+-0.048*** 
+(0.011) 
+     
+Unemployment Rate 0.002 
+(0.002) 
+-0.005*** 
+(0.002) 
+-0.002* 
+(0.001) 
+-0.002** 
+(0.001) 
+Cohorts (base=born 1970-1979)     
+Pre-1970 -0.002 
+(0.032) 
+0.026 
+(0.028) 
+0.014 
+(0.023) 
+0.007 
+(.019) 
+1980-1989 -0.047*** 
+(0.014) 
+0.025** 
+(0.011) 
+0.024*** 
+(0.008) 
+0.002 
+(0.008) 
+Post-1989 -0.034 0.083*** 0.079*** 0.004 
+
+===== PDF PAGE 29 =====
+27 
+ 
+(0.021) (0.022) (0.018) (0.015) 
+Years since childbirth (base=2)     
+3  0.020* 
+(0.011) 
+0.017* 
+(0.009) 
+0.004 
+(0.008) 
+4  0.036** 
+(0.014) 
+0.010 
+(0.011) 
+0.027** 
+(0.011) 
+5  0.040** 
+(0.018) 
+0.014 
+(0.014) 
+0.026** 
+(0.013) 
+6  0.065*** 
+(0.024) 
+0.040** 
+(0.019) 
+0.025 
+(0.017) 
+7  0.098*** 
+(0.032) 
+0.071** 
+(0.028) 
+0.028 
+(0.021) 
+8  0.051 
+(0.042) 
+0.043 
+(0.037) 
+0.009 
+(0.026) 
+9  0.081 
+(0.056) 
+0.011 
+(0.043) 
+0.057 
+(0.040) 
+10  0.045 
+(0.070) 
+0.088 
+(0.073) 
+0.020 
+(0.035) 
+11  0.092 
+(0.093) 
+0.092 
+(0.087) 
+0.016 
+(0.057) 
+12  0.052 
+(0.103) 
+0.069 
+(0.095) 
+0.003 
+(0.063) 
+13  0.106 
+(0.097) 
+0.020 
+(0.069) 
+0.076 
+(0.079) 
+sigma_u  0.006  
+(0.029) 
+ 
+rho  0.000  
+(0.000) 
+ 
+Year dummies included? No No No 
+Number of observations 5562 6638 6638 
+Number of individuals 5562 2494 2494 
+Notes: Controls for ethnicity (Javanese, Sundanese, other) were also included. P-value for LR test of rho=0 is 0.489 
+ 
+ 
+ 
+  
+
+===== PDF PAGE 30 =====
+28 
+ 
+Table A2. Labour Market Re-entry Estimation Results (Marginal Effects)  
+Models with Time Trend and Unemployment Rate 
+Dependent Variable: Working in year 
+after birth (0/1) 
+Duration to exit 
+to labour market  
+Exit destination (base = no exit) 
+   Exit to the 
+Formal Sector 
+Exit to the 
+informal 
+sector 
+ (1) (2) (3) (4) 
+Estimation method Logistic regression Duration model 
+w. random effects 
+Multinomial Logit 
+   
+Sample All women All women not working in the year after the birth 
+Age (base=under 20 years)     
+20-24 years 0.008 
+(0.017) 
+-0.010 
+(0.030) 
+-0.019 
+(0.027) 
+0.006 
+(0.018) 
+25-29 years 0.019 
+(0.019) 
+-0.055* 
+(0.031) 
+-0.068** 
+(0.028) 
+0.008 
+(0.019) 
+30-34 years 0.075*** 
+(0.028) 
+-0.048 
+(0.033) 
+-0.063** 
+(0.029) 
+0.009 
+(0.021) 
+35-39 years 0.130** 
+(0.055) 
+-0.046 
+(0.041) 
+-0.100*** 
+(0.031) 
+0.050 
+(0.031) 
+40 years and above 0.234*** 
+(0.091) 
+-0.084 
+(0.051) 
+-0.063 
+(0.045) 
+-0.022 
+(0.031) 
+Education (base=no education)     
+Primary education -0.112** 
+(0.055) 
+-0.034 
+(0.051) 
+0.003 
+(0.041) 
+-0.021 
+(0.034) 
+Junior High Education -0.088 
+(0.055) 
+-0.029 
+(0.052) 
+0.002 
+(0.041) 
+0.011 
+(0.034) 
+Senior High Education -0.050 
+(0.055) 
+-0.027 
+(0.052) 
+0.006 
+(0.041) 
+0.019 
+(0.034) 
+Tertiary education 0.129** 
+(0.057) 
+0.002 
+(0.055) 
+0.051 
+(0.044) 
+0.032 
+(0.035) 
+     
+Urban residence -0.054*** 
+(0.012) 
+0.020** 
+(0.010) 
+0.034*** 
+(0.007) 
+-0.013* 
+(0.007) 
+Currently married 0.009 
+(0.065) 
+-0.244*** 
+(0.049) 
+-0.233*** 
+(0.046) 
+0.004 
+(0.028) 
+Living with parents 0.001 
+(0.012) 
+-0.009 
+(0.010) 
+0.019** 
+(0.008) 
+-0.027*** 
+(0.007) 
+ 
+Work experience (base=no work in the 3 years prior to the birth) 
+Worked in the year prior to the birth 0.591*** 
+(0.014) 
+0.055** 
+(0.022) 
+-0.014 
+(0.019) 
+0.053*** 
+(0.015) 
+Worked in the 3 years prior to the 
+birth but not the year before  
+0.024* 
+(0.014) 
+0.062*** 
+(0.014) 
+0.045*** 
+(0.013) 
+0.023** 
+(0.009) 
+     
+Family Business the year prior first 
+birth  
+0.064*** 
+(0.012) 
+0.072*** 
+(0.010) 
+-0.027*** 
+(0.007) 
+0.099*** 
+(0.007) 
+Formal sector employment before 
+birth 
+-0.192*** 
+(0.012) 
+-0.021 
+(0.021) 
+0.057** 
+(0.027) 
+-0.047*** 
+(0.011) 
+     
+Unemployment Rate 0.001 
+(0.002) 
+-0.005*** 
+(0.002) 
+-0.003** 
+(0.001) 
+-0.002** 
+(0.001) 
+Time trend 
+ 
+-0.001 
+(0.001) 
+0.003*** 
+(0.001) 
+0.003*** 
+(0.001) 
+0.000 
+(0.001) 
+Years since child birth (base=2)     
+3  0.019 
+(0.012) 
+0.016* 
+(0.009) 
+0.004 
+(0.008) 
+4  0.033** 
+(0.014) 
+0.008 
+(0.011) 
+0.027** 
+(0.011) 
+
+===== PDF PAGE 31 =====
+29 
+ 
+5  0.036** 
+(0.018) 
+0.011 
+(0.013) 
+0.027** 
+(0.013) 
+6  0.059** 
+(0.024) 
+0.035* 
+(0.019) 
+0.026 
+(0.017) 
+7  0.091*** 
+(0.032) 
+0.064** 
+(0.027) 
+0.028 
+(0.022) 
+8  0.044 
+(0.041) 
+0.035 
+(0.035) 
+0.010 
+(0.026) 
+9  0.072 
+(0.054) 
+0.004 
+(0.041) 
+0.057 
+(0.040) 
+10  0.032 
+(0.068) 
+0.073 
+(0.069) 
+-0.020 
+(0.035) 
+11  0.074 
+(0.089) 
+0.072 
+(0.080) 
+0.016 
+(0.057) 
+12  0.033 
+(0.097) 
+0.048 
+(0.085) 
+-0.003 
+(0.063) 
+13  0.079 
+(0.091) 
+0.02 
+(0.059) 
+0.075 
+(0.078) 
+sigma_u  0.010  
+(0.034) 
+ 
+rho  0.000  
+(0.000) 
+ 
+Yead dummies included No No No 
+Number of observations 5562 6638 6638 
+Number of individuals 5562 2494 2494 
+Notes: Controls for ethnicity (Javanese, Sundanese, other) were also included. P-value for LR test of rho=0 is 0.489 
+ 
+ 
+  
+
+===== PDF PAGE 32 =====
+30 
+ 
+Table A3: Transitions across job status – before 1st child to 1 year after birth of first 
+child - by level of education 
+Full Sample 
+ 
+After First Child 
+Self Employed Wage worker Unpaid Not working 
+Before First 
+Child Self Employed 74% 6% 6% 13% 
+Wage worker 4% 54% 4% 38% 
+Unpaid 7% 2% 77% 14% 
+Not working 9% 12% 7% 72% 
+Less than Secondary Education 
+  After First Child 
+  Self Employed Wage worker Unpaid Not working 
+Before 
+First Child Self Employed 80% 5% 4% 11% 
+Wage worker 3% 41% 9% 48% 
+Unpaid 5% 2% 77% 16% 
+Not working 10% 9% 8% 73% 
+Secondary School Education 
+  After First Child 
+  Self Employed Wage worker Unpaid Not working 
+Before First 
+Child Self Employed 73% 4% 8% 15% 
+Wage worker 6% 45% 4% 46% 
+Unpaid 8% 2% 79% 11% 
+Not working 8% 10% 9% 73% 
+Tertiary Education 
+  After First Child 
+  Self Employed Wage worker Unpaid Not working 
+Before First 
+Child Self Employed 66% 17% 7% 10% 
+Wage worker 2% 80% 1% 17% 
+Unpaid 24% 0% 53% 24% 
+Not working 8% 29% 1% 62% 
+ 
+  
+
+===== PDF PAGE 33 =====
+31 
+ 
+ 
+Figure A1. Age profile of female labour force participation by level of education 
+ 
+ 
+ 
+
+
+===== PDF PAGE 34 =====
+32 
+ 
+Figure A2 - Transitions across job status – before 1st child to 1 year after birth of first child - by level of education 
+ 
+ 
+ 
+ 

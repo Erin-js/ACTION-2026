@@ -1,0 +1,6035 @@
+
+
+===== PDF PAGE 1 =====
+BADAN PUSAT STATISTIK
+DATA DAN INFORMASI
+KEMISKINAN
+KABUPATEN/KOTA
+2025
+Volume 17, 2025
+Katalog: 3205014
+ISSN 2087-2216
+https://www.bps.go.id
+
+
+===== PDF PAGE 2 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 3 =====
+BADAN PUSAT STATISTIK
+DATA DAN INFORMASI
+KEMISKINAN
+KABUPATEN/KOTA
+2025
+Katalog: 3205014
+ISSN 2087-2216
+Volume 17, 2025
+https://www.bps.go.id
+
+
+===== PDF PAGE 4 =====
+DATA DAN INFORMASI
+KEMISKINAN
+KABUPATEN/KOTA
+2025
+Volume 17, 2025
+Katalog          : 3205014
+ISSN           : 2087-2216
+Nomor Publikasi   : 04300.25011
+Ukuran Buku         
+Jumlah Halaman 
+ :  17,6 cm x 25 cm 
+ :  xii+139 halaman
+Penyusun Naskah  : Direktorat Statistik Ketahanan Sosial
+Penyunting          : Direktorat Statistik Ketahanan Sosial
+Pembuatn Kover    : Direktorat Statistik Ketahanan Sosial
+Sumber Ilustrasi     : canva.com, unsplash.com
+Penerbit           : ©Badan Pusat Statistik
+Dilarang mereproduksi dan/atau
+menggandakan sebagian atau seluruh isi
+buku ini untuk tujuan komersial tanpa izin
+tertulis dari Badan Pusat Statistik
+TIM PENYUSUN
+Pengarah
+Ateng Hartono
+Penanggung Jawab
+Nurma Midayanti
+Penyunting
+Nur Sahrizal
+Penulis Naskah
+Nuri Taufiq
+Mardiana Fitria
+Ayesha Tantriana
+Lili Retnosari
+Tsuraya Mumtaz
+I Made Giri Suyasa
+Pengolah Data
+Ayesha Tantriana
+I Made Giri Suyasa
+Penata Letak
+Mardiana Fitria
+DATA DAN INFORMASI
+KEMISKINAN
+KABUPATEN/KOTA
+2025
+ISSN 2087-2216
+https://www.bps.go.id
+
+
+===== PDF PAGE 5 =====
+“
+Dilarang mengumumkan, 
+mendistribusikan, 
+mengomunikasikan, dan/
+atau menggandakan sebagian 
+atau seluruh isi buku ini untuk 
+tujuan komersial tanpa izin 
+tertulis dari Badan Pusat 
+Statistik
+DATA DAN INFORMASI
+KEMISKINAN
+KABUPATEN/KOTA
+2025
+Volume 17, 2025
+Katalog                          : 3205014
+ISSN                                 : 2087-2216
+Nomor Publikasi           : 04300.25011
+Ukuran Buku                  :  17,6 cm x 25 cm
+Jumlah Halaman         : x+141 halaman
+Penyusun Naskah        : Direktorat Statistik Ketahanan Sosial
+Penyunting                    : Direktorat Statistik Ketahanan Sosial
+Pembuatn Kover          : Direktorat Statistik Ketahanan Sosial
+Sumber Ilustrasi           : canva.com, unsplash.com
+Penerbit                          : ©Badan Pusat Statistik
+Dilarang mereproduksi dan/atau
+menggandakan sebagian atau seluruh isi
+buku ini untuk tujuan komersial tanpa izin
+tertulis dari Badan Pusat Statistik
+TIM PENYUSUN
+Pengarah
+Ateng Hartono
+Penanggung Jawab
+Nurma Midayanti
+Penyunting
+Nur Sahrizal
+Penulis Naskah
+Nuri Taufiq
+Mardiana Fitria
+Ayesha Tantriana
+Lili Retnosari
+Tsuraya Mumtaz
+I Made Giri Suyasa
+Pengolah Data
+Ayesha Tantriana
+I Made Giri Suyasa
+Penata Letak
+Mardiana Fitria
+DATA DAN INFORMASI
+KEMISKINAN
+KABUPATEN/KOTA
+2025
+ISSN 2087-2216
+https://www.bps.go.id
+
+
+===== PDF PAGE 6 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 7 =====
+v
+Jakarta, November 2025
+Kepala Badan Pusat Statistik
+Amalia Adininggar Widyasanti
+KATA PENGANTAR
+Perhatian dan upaya khusus pemerintah untuk
+menanggulangi kemiskinan perlu didukung dengan
+ketersediaan data kemiskinan yang akurat dan hingga level
+kabupaten/kota. Setiap tahun BPS menyajikan data terkait
+kemiskinan, salah satunya melalui publikasi “Data dan
+Informasi Kemiskinan Kabupaten/Kota Tahun 2025” yang
+dihitung dari hasil Survei Sosial Ekonomi Nasional (Susenas)
+periode Maret 2025.
+Publikasi “Data dan Informasi Kemiskinan Kabupaten/Kota
+Tahun 2025” ditujukan sebagai aspek penting dalam
+mendukung strategi penanggulangan kemiskinan dan untuk  
+memberikan informasi yang memadai bagi berbagai pihak
+yang terlibat dalam upaya penanggulangan kemiskinan.
+Ucapan terima kasih dan penghargaan disampaikan kepada
+semua pihak yang telah berkontribusi dalam penyusunan
+publikasi ini. Kritik dan saran yang membangun sangat
+diharapkan guna meningkatkan kualitas publikasi yang akan
+datang.
+https://www.bps.go.id
+
+
+===== PDF PAGE 8 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 9 =====
+vii
+DAFTAR ISI
+Halaman
+KATA PENGANTAR................................................................................................. v
+DAFTAR ISI................................................................................................................ vii
+BAB I. PENDAHULUAN........................................................................................ 3
+1.1        Latar Belakang.................................................................................................3
+1.2 Metode Penghitungan Kemiskinan Tingkat Kabupaten/Kota........... 3
+1.3    Konsep  dan  Definisi........................................................................................5
+BAB II. KEMISKINAN.............................................................................................. 9
+BAB III. PENDIDIKAN............................................................................................ 29
+BAB IV. KETENAGAKERJAAN............................................................................. 65
+BAB V. PENGELUARAN PERKAPITA............................................................... 101
+ISSN 2087-2216
+Volume 17, 2025
+Data dan Informasi Kemiskinan Kabupaten/Kota Tahun 2025
+DAFTAR TABEL........................................................................................................ ix
+BAB VI. FASILITAS    PERUMAHAN..................................................................... 121
+DAFTAR   PUSTAKA.............................................................................................. 141
+https://www.bps.go.id
+
+
+===== PDF PAGE 10 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 11 =====
+ix
+DAFTAR TABEL
+Halaman
+Tabel 2.1  Jumlah dan Persentase Penduduk Miskin, P1, P2, dan Garis 
+             Kemiskinan Menurut Kabupaten/Kota, 2025............................... 11
+Tabel 3.1 Persentase Penduduk Miskin Usia 15 Tahun ke Atas     
+               Menurut Kabupaten/Kota dan Pendidikan yang  
+               Ditamatkan, 2025.............................................................................. 31
+Tabel 3.2 Angka Partisipasi Sekolah Penduduk Miskin Menurut 
+                Kabupaten/Kota dan Golongan Umur, 2025............................. 47
+Tabel 4.1 Persentase Penduduk Miskin Usia 15 Tahun ke Atas  
+               Menurut Kabupaten/Kota dan Status Bekerja, 2025................ 67
+Tabel 4.2 Persentase Penduduk Miskin Usia 15 Tahun ke Atas 
+                Menurut Kabupaten/Kota dan Sektor Bekerja, 2025.............. 84
+Tabel 5.1 Persentase Pengeluaran per kapita untuk Makanan  
+             Menurut Kabupaten/Kota dan Status Miskin, 2025.................. 103
+https://www.bps.go.id
+
+
+===== PDF PAGE 12 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 13 =====
+xi
+245 dari 514 Kabupaten/Kota memiliki
+persentase penduduk miskin kurang
+dari angka nasional
+269 dari 514 Kabupaten/Kota memiliki
+persentase penduduk miskin lebih dari
+angka nasional
+GAMBAR 1 SEBARAN PERSENTASE PENDUDUK MISKIN MENURUT KABUPATEN/KOTA, 2025
+SUMATERA
+Nias Barat
+Sawah
+Lunto
+JAWA
+Sampang
+Kota Depok
+KALIMANTAN
+Melawi
+Kota
+Balikpapan
+SULAWESI
+Boalemo
+Kota
+Kendari
+BALI DAN NUSA TENGGARA
+Sumba
+Tengah
+Badung
+MALUKU DAN PAPUA
+Supiori
+Kota
+Ternate
+INDONESIA
+8,47%
+22,47%
+2,72%
+20,61%
+2,31%
+29,23%
+1,90%
+10,51%
+1,97%
+16,37%
+4,18%
+42,56
+3,34%
+https://www.bps.go.id
+
+
+===== PDF PAGE 14 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 15 =====
+2
+0
+2
+5
+Pendahuluan
+Pendahuluan
+https://www.bps.go.id
+
+
+===== PDF PAGE 16 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 17 =====
+3
+ Pendahuluan
+1.1 LATAR BELAKANG
+Kemiskinan merupakan salah satu permasalahan mendasar yang dihadapi 
+oleh berbagai daerah di Indonesia. Berbagai upaya penanggulangan kemiskinan 
+telah dilakukan oleh pemerintah pusat maupun daerah, tetapi tantangan dalam 
+menurunkan angka kemiskinan secara berkelanjutan masih terus dihadapi. Untuk itu, 
+diperlukan data yang akurat, mutakhir, dan terperinci sebagai dasar dalam perumusan 
+kebijakan, perencanaan program, serta evaluasi dampak intervensi terhadap kondisi 
+penduduk miskin. Di era otonomi daerah, kabupaten/kota memiliki peran yang sangat 
+strategis dalam perencanaan pembangunan dan pengentasan kemiskinan di wilayah 
+masing-masing. Namun, seringkali keterbatasan data yang komprehensif mengenai 
+kondisi rumah tangga miskin di tingkat daerah menjadi hambatan dalam merancang 
+program yang efektif. Untuk menjawab tantangan tersebut, diperlukan ketersediaan 
+data yang tidak hanya menggambarkan angka kemiskinan, tetapi juga menyajikan 
+karakteristik rumah tangga miskin.
+Badan Pusat Statistik (BPS) pertama kali melakukan penghitungan jumlah 
+dan persentase penduduk miskin pada tahun 1984. Pada saat itu penghitungan 
+jumlah dan persentase penduduk miskin mencakup periode 1976-1981 dengan 
+menggunakan data modul konsumsi Survei Sosial Ekonomi Nasional (Susenas). Sejak 
+tahun 1984, setiap tiga tahun sekali BPS secara rutin mengeluarkan data jumlah 
+dan persentase penduduk miskin. Sampai dengan tahun 1987, informasi mengenai 
+jumlah dan persentase penduduk miskin hanya disajikan untuk tingkat nasional yang 
+dipisahkan menurut daerah perkotaan dan perdesaan. Pada tahun 1990, informasi 
+mengenai penduduk miskin sudah dapat disajikan sampai tingkat provinsi meskipun 
+beberapa provinsi masih digabung. Provinsi-provinsi gabungan tersebut antara 
+lain: Provinsi Jambi, Bengkulu, Timor Timur, Kalimantan Tengah, Kalimantan Timur, 
+Sulawesi Tengah, Sulawesi Tenggara, Maluku dan Papua. Selanjutnya sejak tahun 
+1993, informasi mengenai jumlah dan persentase penduduk miskin sudah dapat 
+disajikan untuk seluruh provinsi. Selanjutnya, sejak tahun 2002 BPS telah menyajikan 
+data dan informasi kemiskinan untuk tingkat kabupaten/kota.
+1.2 METODE PENGHITUNGAN KEMISKINAN TINGKAT KABUPATEN/KOTA
+KONSEP
+BPS menggunakan konsep kemampuan secara finansial untuk memenuhi 
+kebutuhan dasar ( cost of basic needs ) dalam mengukur kemiskinan. Dengan 
+pendekatan ini, kemiskinan dipandang sebagai ketidakmampuan dari sisi ekonomi 
+untuk memenuhi kebutuhan dasar makanan dan bukan makanan yang diukur dari 
+sisi pengeluaran. Penduduk yang memiliki pengeluaran per kapita per bulan di bawah 
+garis kemiskinan dianggap miskin. 
+PENDAHULUAN
+https://www.bps.go.id
+
+
+===== PDF PAGE 18 =====
+4
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+SUMBER DATA
+Sumber data yang digunakan untuk menghitung kemiskinan di tingkat 
+kabupaten/kota tahun 2025 adalah data Susenas Modul Konsumsi dan Pengeluaran 
+Maret 2025 (VSEN25.KP). 
+Penimbang yang digunakan dalam penghitungan kemiskinan kabupaten/ kota 
+tahun 2025 ini menggunakan hasil proyeksi penduduk dari data Survei Penduduk 
+Antar Sensus 2015 (SUPAS 2015).
+CAKUPAN WILAYAH
+Publikasi tahun 2025 ini menyajikan indikator kemiskinan yang mencakup 
+seluruh 514 kabupaten/kota di Indonesia. Sejak 2024 cakupan tersebut tersebar 
+pada 38 provinsi, sejalan dengan pembaruan struktur wilayah administrasi nasional 
+yang terdiri dari 4 provinsi baru yaitu Provinsi Papua Barat Daya, Provinsi Selatan, 
+Papua Tengah, dan Papua Pegunungan. Melalui penyajian data yang lebih lengkap 
+dan terperinci, publikasi ini diharapkan dapat memberikan gambaran menyeluruh 
+mengenai kondisi kemiskinan di tingkat daerah, serta menjadi rujukan penting bagi 
+perumusan kebijakan dan perencanaan pembangunan yang lebih tepat sasaran.
+TEKNIK PENGHITUNGAN INDIKATOR KEMISKINAN
+a.  Penghitungan Indikator Kemiskinan Provinsi
+Tahap pertama adalah menentukan penduduk referensi yaitu 20 persen 
+penduduk yang berada di atas Garis Kemiskinan Sementara (GKS). GKS adalah GK 
+periode lalu yang di- inflate dengan inflasi umum (IHK). Dari penduduk referensi ini 
+kemudian dihitung Garis Kemiskinan Makanan (GKM) dan Garis Kemiskinan Non-
+Makanan (GKNM).
+ GKM adalah jumlah nilai pengeluaran dari 52 komoditi dasar makanan yang  
+riil dikonsumsi penduduk referensi yang kemudian disetarakan dengan 2100 kilokalori 
+per kapita perhari. Penyetaraan nilai pengeluaran kebutuhan minimum makanan 
+dilakukan dengan cara menghitung terlebih dahulu harga rata-rata kalori dari ke-
+52 komoditi tersebut. Selanjutnya harga implisit rata-rata kalori tersebut dikalikan 
+dengan 2100.
+ GKNM merupakan penjumlahan nilai kebutuhan minimum dari komoditi-
+komoditi non-makanan terpilih yang meliputi perumahan, sandang, pendidikan, dan 
+kesehatan. Nilai kebutuhan minimum per komoditi/sub-kelompok non-makanan 
+dihitung dengan menggunakan suatu rasio pengeluaran komoditi/sub-kelompok 
+tersebut terhadap total pengeluaran komoditi/sub-kelompok yang tercatat dalam 
+data Susenas konsumsi pengeluaran. Rasio tersebut dihitung dari hasil Survei 
+Paket Komoditi Kebutuhan Dasar 2004 (SPKKD 2004). SPKKD 2004 dilakukan untuk 
+mengumpulkan data pengeluaran konsumsi rumah tangga per komoditi non-
+makanan yang lebih rinci dibandingkan data Susenas konsumsi pengeluaran.
+https://www.bps.go.id
+
+
+===== PDF PAGE 19 =====
+ Pendahuluan
+5
+ GK merupakan penjumlahan dari GKM dan GKNM.  Penduduk yang memiliki 
+rata-rata pengeluaran perkapita perbulan di bawah GK dikategorikan sebagai 
+penduduk miskin. Selanjutnya dihitung indikator kemiskinan tingkat provinsi.
+b.  Penghitungan Indikator Kemiskinan Kabupaten/Kota
+Dalam menghitung GK pada level kabupaten/kota tidak dapat dilakukan 
+seperti pada penghitungan kemiskinan di provinsi. Hal ini disebabkan oleh:
+• Keterbatasan jumlah sampel untuk populasi referensi di level kabupaten/kota.
+• Estimasi di tingkat kabupaten/kota tidak dapat dibedakan berdasarkan 
+perkotaan dan perdesaan.
+Pendekatan dalam menghitung kemiskinan kabupaten/kota adalah sebagai 
+berikut:
+1.  Menentukan Garis Kemiskinan Sementara (GKS) untuk tingkat Kabupaten/Kota 
+dengan cara:
+Dimana:
+= Garis Kemiskinan Sementara kabupaten/kota ke-i di provinsi 
+ke-j di tahun t
+= Garis kemiskinan kabupaten/kota ke-i di provinsi ke-j di 
+tahun t-1
+= Elastisitas provinsi ke-j (rasio antara pertumbuhan garis 
+kemiskinan provinsi ke-j terhadap inflasi provinsi ke-j)
+= Inflasi kabupaten/kota ke-i di provinsi ke-j
+Catatan:
+• Untuk mencari GKS pada tingkat kabupaten ke-i digunakan elastisitas provinsi 
+ke-j di level perdesaan.
+• Untuk mencari GKS pada tingkat kota ke-i digunakan elastisitas provinsi ke-j 
+di level perkotaan.
+• Untuk kabupaten/kota yang bukan kota inflasi, laju inflasinya diperoleh dari 
+kabupaten/kota yang berdekatan (pendekatan sister city).
+2.  Menentukan P0 sementara kabupaten/kota ke-i di provinsi ke-j  yaitu dengan cara 
+mengalikan pertumbuhan P0 provinsi ke-j periode t ke t-1 dengan P0 kabupaten 
+ke-i pada tahun t-1.
+3. Menetapkan Garis Kemiskinan dengan cara menarik titik potong antara GKS dan 
+P0 sementara.
+4. Menghitung indikator kemiskinan dengan menggunakan formulasi FGT.
+https://www.bps.go.id
+
+
+===== PDF PAGE 20 =====
+6
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+1.3 KONSEP DAN DEFINISI
+PENDIDIKAN
+Pendidikan yang ditamatkan adalah ijazah/STTB tertinggi yang dimiliki 
+oleh penduduk miskin berumur 15 tahun ke atas. Publikasi ini mengelompokkan 
+pendidikan yang ditamatkan menjadi tiga, yaitu SD ke bawah (tidak mempunyai 
+ijazah), mempunyai ijazah SD atau SMP, dan mempunyai ijazah SMA atau ijazah 
+perguruan tinggi. 
+Angka partisipasi sekolah adalah proporsi dari penduduk miskin yang masih 
+bersekolah. Publikasi ini menyajikan angka partisipasi sekolah penduduk miskin 
+pada kelompok umur 7-12 tahun dan 13-15 tahun sehingga dapat digunakan untuk 
+memantau pelaksanaan program wajib belajar 9 tahun diantara penduduk miskin 
+berusia sekolah.
+KETENAGAKERJAAN
+Bekerja adalah kegiatan penduduk miskin usia 15 tahun ke atas dengan maksud 
+memperoleh atau membantu memperoleh penghasilan atau keuntungan yang 
+dilakukan paling sedikit selama satu jam berturut-turut dalam seminggu terakhir. 
+Bekerja di sektor informal adalah penduduk miskin yang mempunyai status/
+kedudukan dalam pekerjaan utamanya adalah berusaha sendiri, berusaha dibantu 
+buruh tidak tetap/buruh tidak dibayar, pekerja bebas, atau pekerja keluarga/tidak 
+dibayar.
+Bekerja di sektor formal adalah penduduk miskin yang mempunyai status/
+kedudukan dalam pekerjaan utamanya adalah bekerja dibantu buruh tetap/buruh 
+dibayar atau buruh/karyawan/pegawai.
+Bekerja di sektor pertanian adalah penduduk miskin yang bekerja di sektor 
+pertanian tanaman padi dan palawija, hortikultura, perkebunan, perikanan, peternakan, 
+kehutanan dan pertanian lainnya.
+Bekerja di sektor bukan pertanian adalah penduduk miskin yang bekerja selain 
+di sektor pertanian, seperti pertambangan dan penggalian, industri pengolahan, listrik 
+dan gas, konstruksi/bangunan, perdagangan, hotel dan rumah makan, transportasi, 
+keuangan, jasa atau lainnya.
+Tidak bekerja adalah penduduk miskin yang menjadi pencari pekerjaan/
+menganggur dan bukan angkatan kerja (penduduk miskin yang tidak bekerja maupun 
+tidak mencari pekerjaan).
+PENGELUARAN PER KAPITA UNTUK MAKANAN
+Pengeluaran per kapita adalah pengeluaran rumah tangga dibagi dengan 
+banyaknya anggota rumah tangga.
+Persentase pengeluaran per kapita untuk makanan adalah pengeluaran per 
+kapita untuk makanan dibagi dengan total pengeluaran per kapita (makanan dan 
+non makanan).
+https://www.bps.go.id
+
+
+===== PDF PAGE 21 =====
+ Pendahuluan
+7
+FASILITAS PERUMAHAN  
+Akses air minum layak adalah jika sumber utama air yang digunakan untuk 
+minum berasal dari air leding, sumur bor atau sumur pompa, sumur terlindung, mata 
+air terlindung, dan air hujan. Termasuk juga ketika sumber air utama yang digunakan 
+oleh rumah tangga berasal dari air kemasan bermerk atau air isi ulang, namun sumber 
+air utama untuk mandi/cuci/dll. yang digunakan adalah leding, sumur bor atau sumur 
+pompa, sumur terlindungi, mata air terlindung, dan air hujan.
+Rumah tangga pengguna jamban sendiri/bersama adalah rumah tangga yang 
+menggunakan fasilitas tempat pembuangan air besar yang digunakan oleh rumah 
+tangga sendiri atau bersama dengan rumah tangga tertentu.
+https://www.bps.go.id
+
+
+===== PDF PAGE 22 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 23 =====
+2
+0
+2
+5
+Kemiskinan
+Kemiskinan
+https://www.bps.go.id
+
+
+===== PDF PAGE 24 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 25 =====
+11
+Kemiskinan
+Tabel 2.1 Jumlah dan Persentase Penduduk Miskin, P1, P2, dan Garis Kemiskinan  
+            Menurut Kabupaten/Kota, 2025
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+1 Simeulue 15,58 15,52 2,227 0,458 586.505
+2 Aceh Singkil 22,51 17,07 3,237 0,913 619.322
+3 Aceh Selatan 25,39 9,89 1,552 0,461 538.174
+4 Aceh Tenggara 22,52 9,78 1,036 0,162 502.074
+5 Aceh Timur 52,23 11,24 1,021 0,151 564.943
+6 Aceh Tengah 27,76 12,29 2,371 0,726 636.315
+7 Aceh Barat 34,55 15,50 2,450 0,533 652.009
+8 Aceh Besar 49,90 11,05 1,896 0,529 598.160
+9 Pidie 77,70 16,46 1,993 0,383 618.445
+10 Bireuen 51,60 10,30 1,168 0,192 503.866
+11 Aceh Utara 93,43 14,27 2,058 0,467 483.719
+12 Aceh Barat Daya 21,47 13,30 1,965 0,413 525.947
+13 Gayo Lues 16,59 16,77 1,808 0,296 567.201
+14 Aceh Tamiang 33,96 10,84 1,528 0,334 590.294
+15 Nagan Raya 27,24 15,42 2,337 0,633 642.820
+16 Aceh Jaya 10,50 10,37 1,621 0,365 542.092
+17 Bener Meriah 25,59 16,20 3,079 0,877 602.421
+18 Pidie Jaya 27,62 16,12 2,432 0,556 610.755
+19 Kota Banda Aceh 15,87 5,45 0,710 0,136 872.944
+20 Kota Sabang 4,55 12,75 2,012 0,504 736.956
+21 Kota Langsa 16,28 8,59 1,440 0,377 554.363
+22 Kota Lhokseumawe 19,90 9,01 1,368 0,334 529.671
+23 Kota Subulussalam 11,95 13,88 2,794 0,723 514.372
+Aceh 704,69 12,33 1,836 0,420 676.247
+1 Nias 21,23 14,51 1,952 0,415 541.016
+2 Mandailing Natal 37,16 7,91 0,751 0,124 537.240
+3 Tapanuli Selatan 17,77 6,16 0,608 0,104 527.232
+4 Tapanuli Tengah 46,79 11,03 1,885 0,485 546.223
+5 Tapanuli Utara 23,29 7,47 0,897 0,166 549.677
+6 Toba 13,46 7,21 0,877 0,179 549.563
+KEMISKINAN
+https://www.bps.go.id
+
+
+===== PDF PAGE 26 =====
+12
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+7 Labuhan Batu 40,49 7,37 0,659 0,105 575.408
+8 Asahan 54,57 7,18 1,103 0,290 469.559
+9 Simalungun 61,12 6,91 1,013 0,190 513.793
+10 Dairi 20,05 6,98 0,560 0,091 521.738
+11 Karo 30,67 6,66 0,615 0,114 678.885
+12 Deli Serdang 77,70 3,11 0,553 0,164 525.433
+13 Langkat 90,28 8,42 1,141 0,222 528.073
+14 Nias Selatan 54,29 16,16 2,228 0,509 428.859
+15 Humbang Hasundutan 15,62 7,80 1,011 0,177 503.769
+16 Pakpak Bharat 3,53 6,40 0,709 0,148 426.571
+17 Samosir 13,80 10,79 0,840 0,086 473.942
+18 Serdang Bedagai 38,14 6,18 0,618 0,123 535.422
+19 Batu Bara 44,28 10,10 1,128 0,197 613.493
+20 Padang Lawas Utara 24,80 8,04 0,938 0,171 519.411
+21 Padang Lawas 23,69 7,32 0,749 0,143 499.761
+22 Labuhanbatu Selatan 26,12 6,80 1,059 0,338 550.141
+23 Labuhanbatu Utara 32,09 8,42 1,493 0,382 629.870
+24 Nias Utara 29,65 20,79 4,000 1,147 551.434
+25 Nias Barat 18,64 22,47 2,234 0,341 564.416
+26 Kota Sibolga 9,02 10,28 1,294 0,239 637.141
+27 Kota Tanjungbalai 20,02 10,67 1,614 0,375 619.558
+28 Kota Pematangsiantar 16,53 6,24 0,431 0,054 722.851
+29 Kota Tebing Tinggi 15,36 8,74 1,062 0,249 691.270
+30 Kota Medan 171,60 7,25 1,309 0,345 721.547
+31 Kota Binjai 13,87 4,71 0,676 0,140 600.451
+32 Kota Padangsidimpuan 13,57 5,61 0,534 0,063 578.095
+33 Kota Gunungsitoli 21,05 13,85 2,010 0,426 521.961
+Sumatera Utara 1.140,25 7,36 1,126 0,263 666.546
+1 Kepulauan Mentawai 13,74 13,22 1,879 0,459 474.879
+2 Pesisir Selatan 31,53 6,52 0,973 0,220 600.161
+3 Solok 25,23 6,52 0,629 0,103 579.500
+4 Sijunjung 13,55 5,15 0,656 0,140 574.991
+5 Tanah Datar 12,57 3,59 0,214 0,024 564.372
+6 Padang Pariaman 25,08 5,86 0,795 0,177 590.495
+https://www.bps.go.id
+
+
+===== PDF PAGE 27 =====
+Kemiskinan
+13
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+7 Agam 30,57 5,97 0,669 0,103 570.317
+8 Lima Puluh Kota 24,61 6,10 0,633 0,103 593.402
+9 Pasaman 18,00 6,02 0,655 0,116 524.533
+10 Solok Selatan 11,44 6,00 0,927 0,215 558.817
+11 Dharmasraya 13,52 4,61 0,552 0,117 633.451
+12 Pasaman Barat 31,68 6,30 0,846 0,143 669.360
+13 Kota Padang 37,38 3,63 0,599 0,163 767.616
+14 Kota Solok 2,31 2,91 0,350 0,069 593.520
+15 Kota Sawahlunto 1,79 2,72 0,331 0,122 545.725
+16 Kota Padang Panjang 2,90 4,97 0,429 0,052 660.705
+17 Kota Bukittinggi 5,46 3,78 0,440 0,112 685.824
+18 Kota Payakumbuh 7,37 4,95 0,535 0,089 674.813
+19 Kota Pariaman 3,63 3,83 0,440 0,070 634.304
+Sumatera Barat 312,35 5,35 0,736 0,164 729.806
+1 Kuantan Singingi 22,68 6,99 0,736 0,155 751.174
+2 Indragiri Hulu 26,88 5,83 0,440 0,085 673.975
+3 Indragiri Hilir 35,97 4,95 0,348 0,063 642.777
+4 Pelalawan 43,49 7,24 0,859 0,182 741.594
+5 Siak 23,50 4,40 0,399 0,057 607.601
+6 Kampar 58,71 6,29 0,940 0,194 600.385
+7 Rokan Hulu 70,65 8,71 0,835 0,177 712.867
+8 Bengkalis 35,11 6,08 0,635 0,113 764.542
+9 Rokan Hilir 55,49 7,16 1,162 0,357 559.703
+10 Kepulauan Meranti 39,41 20,51 3,045 0,695 673.296
+11 Kota Pekanbaru 39,16 3,19 0,337 0,081 767.408
+12 Kota Dumai 9,92 3,08 0,202 0,018 654.144
+Riau 460,96 6,16 0,873 0,196 713.117
+1 Kerinci 18,28 7,48 0,794 0,138 617.362
+2 Merangin 32,38 8,07 1,600 0,446 629.000
+3 Sarolangun 28,08 8,74 1,180 0,247 625.401
+4 Batang Hari 22,83 8,27 1,324 0,275 622.440
+5 Muaro Jambi 21,05 4,32 0,394 0,092 633.575
+6 Tanjung Jabung Timur 21,54 9,96 1,402 0,305 601.104
+https://www.bps.go.id
+
+
+===== PDF PAGE 28 =====
+14
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+7 Tanjung Jabung Barat 33,88 9,67 1,012 0,141 586.789
+8 Tebo 22,10 5,97 0,399 0,067 602.105
+9 Bungo 20,73 5,17 0,698 0,162 619.464
+10 Kota Jambi 47,21 7,69 1,128 0,226 773.124
+11 Kota Sungai Penuh 2,87 3,23 0,160 0,014 622.995
+Jambi 270,94 7,19 0,976 0,199 664.127
+1 Ogan Komering Ulu 39,58 10,08 1,478 0,331 588.225
+2 Ogan Komering Ilir 105,26 11,84 1,355 0,262 493.783
+3 Muara Enim 64,82 9,45 1,282 0,280 512.439
+4 Lahat 58,66 13,69 2,546 0,716 606.881
+5 Musi Rawas 54,70 12,67 1,329 0,227 616.298
+6 Musi Banyuasin 69,61 9,97 1,492 0,380 627.094
+7 Banyuasin 77,63 8,48 1,077 0,220 560.840
+8
+Ogan Komering Ulu 
+Selatan 35,49 9,17 1,273 0,265 456.280
+9 Ogan Komering Ulu Timur 62,89 8,86 0,967 0,179 453.488
+10 Ogan Ilir 53,21 11,69 1,451 0,368 614.656
+11 Empat Lawang 27,88 10,48 1,444 0,324 440.405
+12 Penukal Abab Lematang 
+Ilir 18,87 9,27 1,013 0,193 530.583
+13 Musi Rawas Utara 31,25 15,25 2,220 0,472 666.294
+14 Kota Palembang 162,31 9,04 1,403 0,322 699.920
+15 Kota Prabumulih 19,89 9,75 1,187 0,245 687.666
+16 Kota Pagar Alam 11,20 7,70 0,816 0,116 444.962
+17 Kota Lubuk Linggau 26,35 10,49 1,098 0,159 632.783
+Sumatera Selatan 919,60 10,15 1,642 0,371 581.702
+1 Bengkulu Selatan 29,82 15,72 2,566 0,569 500.588
+2 Rejang Lebong 33,19 11,71 1,818 0,411 604.697
+3 Bengkulu Utara 31,99 10,07 1,089 0,197 493.892
+4 Kaur 20,26 15,82 2,613 0,600 443.789
+5 Seluma 32,81 15,98 3,501 1,044 513.037
+6 Mukomuko 19,67 10,05 1,535 0,348 575.283
+7 Lebong 12,20 10,10 1,556 0,316 540.904
+https://www.bps.go.id
+
+
+===== PDF PAGE 29 =====
+Kemiskinan
+15
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+8 Kepahiang 15,20 10,38 0,929 0,171 496.275
+9 Bengkulu Tengah 11,61 9,74 1,550 0,327 595.054
+10 Kota Bengkulu 46,23 11,91 1,828 0,419 840.710
+Bengkulu 252,97 12,08 1,830 0,375 683.820
+1 Lampung Barat 31,23 9,93 1,515 0,392 590.143
+2 Tanggamus 63,56 10,10 1,071 0,189 521.482
+3 Lampung Selatan 127,74 12,05 2,041 0,602 554.969
+4 Lampung Timur 132,17 12,15 1,591 0,324 522.287
+5 Lampung Tengah 127,83 9,59 1,581 0,423 553.397
+6 Lampung Utara 98,99 15,78 2,584 0,684 573.039
+7 Way Kanan 44,17 9,36 1,246 0,252 501.220
+8 Tulang Bawang 36,14 7,54 0,792 0,164 588.734
+9 Pesawaran 51,09 10,93 1,327 0,223 551.469
+10 Pringsewu 31,66 7,60 0,582 0,100 613.173
+11 Mesuji 12,14 5,92 0,476 0,066 584.306
+12 Tulang Bawang Barat 19,04 6,72 0,642 0,087 577.725
+13 Pesisir Barat 19,51 12,13 1,698 0,351 596.941
+14 Kota Bandar Lampung 80,19 6,95 1,142 0,270 810.345
+15 Kota Metro 11,58 6,44 0,547 0,066 596.139
+Lampung 887,02 10,00 1,539 0,344 612.451
+1 Bangka 16,58 4,71 0,507 0,085 734.575
+2 Belitung 12,76 6,44 0,625 0,113 937.759
+3 Bangka Barat 6,51 2,92 0,224 0,043 731.204
+4 Bangka Tengah 13,71 6,70 0,953 0,241 865.464
+5 Bangka Selatan 9,13 4,17 0,496 0,085 707.843
+6 Belitung Timur 9,04 6,69 1,347 0,352 925.729
+7 Kota Pangkal Pinang 9,99 4,50 0,636 0,134 956.990
+Bangka Belitung 77,71 5,00 0,649 0,136 956.833
+1 Karimun 12,56 5,16 0,487 0,085 524.326
+2 Bintan 8,11 4,77 0,518 0,099 528.549
+3 Natuna 4,01 4,81 0,708 0,140 555.293
+4 Lingga 8,24 9,12 0,931 0,149 596.564
+https://www.bps.go.id
+
+
+===== PDF PAGE 30 =====
+16
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+5 Kepulauan Anambas 2,86 6,35 1,017 0,262 540.795
+6 Kota Batam 68,04 3,81 0,755 0,243 954.437
+7 Kota Tanjungpinang 13,47 5,96 0,472 0,057 842.147
+Kepulauan Riau 117,28 4,44 0,688 0,179 832.410
+1 Kepulauan Seribu 3,35 12,37 1,950 0,425 801.734
+2 Kota Jakarta Selatan 75,66 3,23 0,505 0,103 959.133
+3 Kota Jakarta Timur 117,40 3,94 0,374 0,053 720.813
+4 Kota Jakarta Pusat 43,06 4,70 0,604 0,109 846.307
+5 Kota Jakarta Barat 106,39 3,91 0,683 0,158 707.669
+6 Kota Jakarta Utara 119,02 6,33 0,989 0,227 736.415
+DKI Jakarta 464,87 4,28 0,574 0,111 852.768
+1 Bogor 401,86 6,26 1,040 0,234 531.412
+2 Sukabumi 164,63 6,41 1,038 0,282 431.785
+3 Cianjur 232,61 9,82 1,391 0,384 482.562
+4 Bandung 236,06 6,04 0,824 0,180 468.974
+5 Garut 252,56 9,39 1,384 0,341 407.191
+6 Tasikmalaya 185,99 10,15 1,535 0,380 413.178
+7 Ciamis 88,72 7,19 0,709 0,105 483.644
+8 Kuningan 119,67 10,74 1,378 0,262 435.184
+9 Cirebon 229,64 10,23 1,790 0,467 491.604
+10 Majalengka 128,67 10,31 1,157 0,239 566.574
+11 Sumedang 105,82 8,81 1,488 0,345 436.490
+12 Indramayu 196,78 11,02 1,897 0,515 578.169
+13 Subang 148,99 9,23 1,417 0,361 449.186
+14 Purwakarta 76,51 7,87 0,974 0,183 483.968
+15 Karawang 169,80 7,08 1,123 0,293 617.901
+16 Bekasi 191,00 4,36 0,443 0,091 698.154
+17 Bandung Barat 169,66 9,87 1,309 0,302 471.101
+18 Pangandaran 33,09 8,03 0,873 0,131 486.285
+19 Kota Bogor 67,16 5,89 0,701 0,134 730.079
+20 Kota Sukabumi 23,17 6,90 0,837 0,168 706.415
+21 Kota Bandung 99,12 3,78 0,587 0,139 644.417
+22 Kota Cirebon 28,12 8,66 0,936 0,163 571.809
+https://www.bps.go.id
+
+
+===== PDF PAGE 31 =====
+Kemiskinan
+17
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+23 Kota Bekasi 129,54 3,96 0,513 0,080 864.601
+24 Kota Depok 63,45 2,31 0,307 0,067 884.633
+25 Kota Cimahi 25,97 4,20 0,344 0,042 642.016
+26 Kota Tasikmalaya 75,22 10,84 1,887 0,450 591.600
+27 Kota Banjar 10,97 5,73 0,811 0,158 451.277
+Jawa Barat 3.654,74 7,02 1,168 0,286 547.752
+1 Cilacap 164,22 9,41 1,391 0,313 469.174
+2 Banyumas 194,87 11,15 1,796 0,427 529.310
+3 Purbalingga 121,80 12,55 1,565 0,299 491.091
+4 Banjarnegara 124,66 13,28 1,800 0,365 424.316
+5 Kebumen 162,54 13,58 1,954 0,402 502.841
+6 Purworejo 72,18 10,06 1,537 0,335 496.812
+7 Wonosobo 106,29 13,34 2,250 0,542 486.105
+8 Magelang 132,21 9,90 1,036 0,170 454.591
+9 Boyolali 86,97 8,71 1,251 0,309 464.627
+10 Klaten 129,68 11,00 1,625 0,381 533.141
+11 Sukoharjo 62,66 6,83 0,619 0,098 536.779
+12 Wonogiri 91,90 9,59 1,390 0,283 479.566
+13 Karanganyar 77,66 8,48 0,908 0,170 523.407
+14 Sragen 100,08 11,22 2,176 0,596 482.828
+15 Grobogan 148,10 10,63 1,866 0,465 526.238
+16 Blora 92,01 10,58 1,265 0,270 492.105
+17 Rembang 85,32 13,01 3,345 1,073 550.265
+18 Pati 105,27 8,24 1,143 0,240 598.600
+19 Kudus 60,37 6,59 0,765 0,149 576.195
+20 Jepara 77,67 5,79 0,533 0,096 535.150
+21 Demak 131,47 10,87 1,654 0,406 569.035
+22 Semarang 70,29 6,30 0,908 0,207 558.501
+23 Temanggung 62,05 7,78 0,665 0,103 443.089
+24 Kendal 83,73 8,40 1,465 0,349 521.061
+25 Batang 61,75 7,79 1,123 0,266 436.936
+26 Pekalongan 73,80 8,05 0,961 0,173 538.371
+27 Pemalang 173,38 13,32 2,389 0,620 530.254
+28 Tegal 88,70 6,16 0,726 0,123 516.933
+https://www.bps.go.id
+
+
+===== PDF PAGE 32 =====
+18
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+29 Brebes 257,29 14,15 2,203 0,502 563.762
+30 Kota Magelang 6,93 5,68 0,533 0,091 662.129
+31 Kota Surakarta 40,08 7,69 1,314 0,389 678.315
+32 Kota Salatiga 8,66 4,20 0,606 0,120 630.119
+33 Kota Semarang 74,36 3,80 0,405 0,054 709.785
+34 Kota Pekalongan 19,49 6,14 0,968 0,265 639.402
+35 Kota Tegal 18,27 7,28 1,417 0,349 702.113
+Jawa Tengah 3.366,69 9,48 1,557 0,354 537.812
+1 Kulon Progo 67,25 14,53 1,810 0,336 452.717
+2 Bantul 127,25 11,54 1,282 0,257 531.456
+3 Gunungkidul 113,48 14,15 1,994 0,424 413.617
+4 Sleman 89,28 6,71 0,756 0,141 534.300
+5 Kota Yogyakarta 28,58 6,14 0,610 0,083 729.196
+DI Yogyakarta 425,82 10,23 1,592 0,345 626.363
+1 Pacitan 72,47 12,97 1,768 0,358 386.174
+2 Ponorogo 77,93 8,86 1,223 0,264 428.183
+3 Trenggalek 72,35 10,29 1,089 0,200 450.334
+4 Tulungagung 63,17 5,96 0,420 0,042 463.364
+5 Blitar 89,04 7,57 1,206 0,272 417.158
+6 Kediri 157,47 9,81 0,995 0,188 419.486
+7 Malang 235,63 8,78 0,895 0,154 436.153
+8 Lumajang 90,64 8,60 0,681 0,079 420.165
+9 Jember 216,76 8,67 0,533 0,051 474.903
+10 Banyuwangi 100,13 6,13 0,406 0,063 485.012
+11 Bondowoso 96,71 12,20 1,663 0,374 526.325
+12 Situbondo 78,02 11,17 0,709 0,067 428.100
+13 Probolinggo 196,26 16,31 1,839 0,389 545.221
+14 Pasuruan 138,43 8,21 0,801 0,148 464.861
+15 Sidoarjo 107,57 4,40 0,628 0,189 617.911
+16 Mojokerto 102,67 8,79 1,481 0,354 526.397
+17 Jombang 107,82 8,36 0,898 0,151 532.053
+18 Nganjuk 107,30 10,06 1,454 0,320 561.807
+19 Madiun 71,59 10,40 1,707 0,322 476.506
+https://www.bps.go.id
+
+
+===== PDF PAGE 33 =====
+Kemiskinan
+19
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+20 Magetan 58,38 9,14 0,739 0,115 470.409
+21 Ngawi 114,90 13,62 1,646 0,263 459.551
+22 Bojonegoro 144,90 11,49 1,455 0,271 490.299
+23 Tuban 168,86 14,13 1,887 0,423 504.823
+24 Lamongan 145,45 12,03 1,159 0,191 543.475
+25 Gresik 138,55 9,95 1,923 0,571 635.154
+26 Bangkalan 187,90 18,25 3,135 0,749 566.280
+27 Sampang 213,98 20,61 2,059 0,325 504.557
+28 Pamekasan 118,52 12,77 1,449 0,244 482.278
+29 Sumenep 188,48 17,02 2,183 0,472 521.366
+30 Kota Kediri 17,93 6,04 0,623 0,207 648.506
+31 Kota Blitar 9,69 6,60 0,842 0,154 625.337
+32 Kota Malang 34,41 3,85 0,392 0,046 737.954
+33 Kota Probolinggo 14,11 5,69 0,357 0,052 683.244
+34 Kota Pasuruan 12,83 6,18 1,028 0,220 588.312
+35 Kota Mojokerto 6,77 5,05 0,759 0,147 630.959
+36 Kota Madiun 6,96 3,89 0,379 0,054 666.073
+37 Kota Surabaya 105,09 3,56 0,413 0,112 775.597
+38 Kota Batu 6,22 2,86 0,365 0,064 671.273
+Jawa Timur 3.875,88 9,50 1,414 0,294 558.029
+1 Pandeglang 105,35 8,51 0,985 0,182 501.772
+2 Lebak 106,52 8,03 1,011 0,271 455.831
+3 Tangerang 265,90 6,42 0,887 0,209 655.324
+4 Serang 68,51 4,48 0,617 0,123 461.388
+5 Kota Tangerang 124,76 5,19 0,693 0,144 838.535
+6 Kota Cilegon 16,05 3,44 0,441 0,118 696.397
+7 Kota Serang 41,07 5,51 0,736 0,177 556.702
+8 Kota Tangerang Selatan 44,61 2,39 0,260 0,038 864.323
+Banten 772,78 5,63 0,847 0,210 684.232
+1 Jembrana 12,45 4,33 0,459 0,077 554.136
+2 Tabanan 19,45 4,23 0,660 0,125 628.223
+3 Badung 14,66 1,90 0,260 0,074 769.560
+4 Gianyar 20,00 3,71 0,568 0,161 522.497
+https://www.bps.go.id
+
+
+===== PDF PAGE 34 =====
+20
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+5 Klungkung 9,48 5,18 0,841 0,170 427.844
+6 Bangli 11,28 4,83 0,616 0,114 486.007
+7 Karangasem 27,32 6,40 0,523 0,078 453.685
+8 Buleleng 35,39 5,20 0,466 0,071 592.706
+9 Kota Denpasar 23,20 2,16 0,162 0,029 862.522
+Bali 173,24 3,72 0,560 0,117 607.847
+1 Lombok Barat 92,12 11,90 1,142 0,187 594.141
+2 Lombok Tengah 109,25 10,68 1,505 0,311 568.910
+3 Lombok Timur 173,79 13,53 2,456 0,614 602.564
+4 Sumbawa 58,23 11,79 1,610 0,351 492.991
+5 Dompu 31,27 11,15 1,308 0,220 484.327
+6 Bima 66,81 12,59 1,371 0,251 465.479
+7 Sumbawa Barat 19,46 10,98 2,170 0,647 629.139
+8 Lombok Utara 49,28 20,74 2,703 0,599 611.125
+9 Kota Mataram 39,82 7,15 1,335 0,349 689.992
+10 Kota Bima 14,54 7,33 0,532 0,065 520.143
+Nusa Tenggara Barat 654,57 11,78 1,756 0,360 556.846
+1 Sumba Barat 37,08 26,47 4,412 1,069 460.702
+2 Sumba Timur 70,35 25,64 6,125 2,134 481.754
+3 Kupang 87,50 20,32 3,114 0,730 504.863
+4 Timor Tengah Selatan 116,74 24,50 5,030 1,410 454.423
+5 Timor Tengah Utara 53,44 20,17 4,662 1,280 516.059
+6 Belu 30,40 12,79 2,053 0,427 490.904
+7 Alor 38,68 18,29 1,780 0,336 464.871
+8 Lembata 36,78 23,27 5,084 1,390 538.773
+9 Flores Timur 28,92 10,88 1,424 0,319 429.094
+10 Sikka 36,74 11,25 1,359 0,344 447.472
+11 Ende 58,92 21,31 3,549 0,865 549.363
+12 Ngada 19,53 11,22 1,666 0,354 510.269
+13 Manggarai 65,81 18,10 3,574 1,003 472.888
+14 Rote Ndao 51,64 24,37 3,395 0,727 443.901
+15 Manggarai Barat 49,55 16,09 2,955 0,812 477.226
+16 Sumba Tengah 22,81 29,23 5,715 1,891 397.817
+https://www.bps.go.id
+
+
+===== PDF PAGE 35 =====
+Kemiskinan
+21
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+17 Sumba Barat Daya 97,68 25,66 6,662 2,139 513.816
+18 Nagekeo 18,63 12,18 2,212 0,505 516.140
+19 Manggarai Timur 70,99 23,51 4,675 1,162 485.247
+20 Sabu Raijua 30,65 27,18 5,586 1,817 571.961
+21 Malaka 28,05 13,52 1,559 0,247 494.018
+22 Kota Kupang 37,91 7,57 1,007 0,214 794.609
+Nusa Tenggara Timur 1.088,78 18,60 3,352 0,843 549.607
+1 Sambas 35,07 6,37 0,724 0,123 542.366
+2 Bengkayang 16,09 5,83 0,586 0,101 454.765
+3 Landak 35,34 8,90 0,845 0,148 497.262
+4 Mempawah 12,38 4,49 0,474 0,093 494.531
+5 Sanggau 22,93 4,61 0,348 0,045 460.246
+6 Ketapang 46,82 8,44 1,590 0,439 591.623
+7 Sintang 35,02 7,93 1,342 0,433 684.401
+8 Kapuas Hulu 19,47 6,86 1,033 0,225 579.450
+9 Sekadau 11,64 5,61 0,560 0,097 437.854
+10 Melawi 23,36 10,51 1,010 0,178 682.632
+11 Kayong Utara 10,58 8,75 1,032 0,183 404.384
+12 Kubu Raya 24,40 3,99 0,255 0,024 539.656
+13 Kota Pontianak 27,50 4,00 0,373 0,053 729.168
+14 Kota Singkawang 10,36 4,28 0,474 0,063 638.961
+Kalimantan Barat 330,95 6,16 0,864 0,177 622.882
+1 Kotawaringin Barat 14,18 4,27 0,556 0,118 558.961
+2 Kotawaringin Timur 27,70 5,83 1,004 0,266 596.118
+3 Kapuas 20,43 5,48 0,572 0,099 529.062
+4 Barito Selatan 7,09 4,94 0,369 0,077 564.336
+5 Barito Utara 7,44 5,52 0,685 0,142 654.095
+6 Sukamara 2,87 4,02 0,723 0,167 704.449
+7 Lamandau 2,89 3,33 0,424 0,082 701.587
+8 Seruyan 15,64 6,72 0,572 0,067 668.687
+9 Katingan 9,75 5,30 0,609 0,108 640.905
+10 Pulang Pisau 6,23 4,79 0,852 0,258 564.867
+11 Gunung Mas 6,67 5,48 0,871 0,205 585.476
+https://www.bps.go.id
+
+
+===== PDF PAGE 36 =====
+22
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+12 Barito Timur 8,12 6,10 1,162 0,323 690.677
+13 Murung Raya 7,64 6,19 1,156 0,338 673.423
+14 Kota Palangka Raya 11,16 3,62 0,377 0,060 587.075
+Kalimantan Tengah 147,80 5,19 0,829 0,189 654.066
+1 Tanah Laut 10,83 3,00 0,269 0,049 679.188
+2 Kotabaru 15,89 4,39 0,503 0,113 603.599
+3 Banjar 16,92 2,74 0,232 0,028 634.526
+4 Barito Kuala 13,97 4,31 0,569 0,124 459.547
+5 Tapin 5,77 2,91 0,347 0,099 562.504
+6 Hulu Sungai Selatan 7,55 3,12 0,483 0,123 598.545
+7 Hulu Sungai Tengah 13,94 5,03 0,342 0,037 530.279
+8 Hulu Sungai Utara 11,71 4,81 0,436 0,069 613.161
+9 Tabalong 12,50 4,67 0,221 0,018 646.864
+10 Tanah Bumbu 13,81 3,13 0,433 0,119 660.029
+11 Balangan 6,42 4,64 0,511 0,094 544.169
+12 Kota Banjarmasin 33,16 4,52 0,507 0,099 752.092
+13 Kota Banjar Baru 10,27 3,44 0,384 0,075 814.292
+Kalimantan Selatan 172,72 3,84 0,472 0,095 650.675
+1 Paser 24,05 8,13 1,470 0,406 663.239
+2 Kutai Barat 13,24 8,72 0,843 0,135 738.206
+3 Kutai Kartanegara 54,99 6,72 0,785 0,152 705.397
+4 Kutai Timur 34,91 8,07 1,199 0,258 773.239
+5 Berau 10,96 4,44 0,552 0,107 753.416
+6 Penajam Paser Utara 9,34 5,78 0,940 0,231 633.181
+7 Mahakam Ulu 2,73 10,09 1,197 0,232 812.492
+8 Kota Balikpapan 12,88 1,97 0,343 0,095 836.374
+9 Kota Samarinda 30,45 3,45 0,666 0,188 909.746
+10 Kota Bontang 6,18 3,21 0,345 0,061 831.247
+Kalimantan Timur 199,71 5,17 0,878 0,222 866.193
+1 Malinau 5,24 5,56 0,248 0,014 821.188
+2 Bulungan 9,92 7,26 0,840 0,173 594.190
+3 Tana Tidung 1,59 4,56 0,533 0,147 537.590
+https://www.bps.go.id
+
+
+===== PDF PAGE 37 =====
+Kemiskinan
+23
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+4 Nunukan 11,81 5,27 1,261 0,553 621.290
+5 Kota Tarakan 14,01 5,03 0,038 0,000 889.483
+Kalimantan Utara 42,57 5,54 0,748 0,289 884.970
+1 Bolaang Mongondow 18,40 6,98 0,735 0,118 454.500
+2 Minahasa 20,63 5,88 1,037 0,244 385.934
+3 Kepulauan Sangihe 14,49 10,91 1,054 0,142 360.933
+4 Kepulauan Talaud 7,95 8,34 1,365 0,312 396.995
+5 Minahasa Selatan 17,67 8,26 1,414 0,330 461.640
+6 Minahasa Utara 12,50 6,05 0,884 0,247 453.321
+7 Bolaang Mongondow 
+Utara 6,03 7,15 0,863 0,187 364.581
+8 Kepulauan Sitaro 5,64 8,32 0,700 0,113 415.648
+9 Minahasa Tenggara 11,09 10,31 1,817 0,492 426.987
+10 Bolaang Mongondow 
+Selatan 7,39 10,52 1,507 0,425 445.063
+11 Bolaang Mongondow 
+Timur 4,04 5,32 0,595 0,105 459.824
+12 Kota Manado 21,73 4,99 0,877 0,242 592.668
+13 Kota Bitung 13,57 5,81 0,676 0,123 557.556
+14 Kota Tomohon 5,55 4,86 0,687 0,117 573.165
+15 Kota Kotamobagu 7,18 5,14 0,471 0,132 495.416
+Sulawesi Utara 173,84 6,71 1,114 0,257 530.304
+1 Banggai Kepulauan 13,92 11,49 2,142 0,554 471.281
+2 Banggai 25,17 6,23 0,743 0,136 535.425
+3 Morowali 13,65 10,38 1,065 0,212 603.022
+4 Poso 36,49 12,90 2,220 0,645 632.147
+5 Donggala 45,92 14,66 2,710 0,728 450.811
+6 Tolitoli 29,98 12,20 2,198 0,602 461.159
+7 Buol 22,35 12,48 1,615 0,344 496.424
+8 Parigi Moutong 71,88 13,51 2,927 0,935 575.644
+9 Tojo Una-Una 23,59 14,67 1,693 0,284 636.439
+10 Sigi 26,03 10,47 1,770 0,444 474.669
+11 Banggai Laut 10,44 12,71 1,435 0,221 453.715
+12 Morowali Utara 14,78 10,38 1,539 0,366 609.792
+https://www.bps.go.id
+
+
+===== PDF PAGE 38 =====
+24
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+13 Kota Palu 21,99 5,26 0,665 0,144 685.888
+Sulawesi Tengah 356,19 10,92 2,211 0,610 624.854
+1 Kepulauan Selayar 14,77 10,61 1,495 0,318 477.794
+2 Bulukumba 25,88 6,06 0,702 0,124 444.994
+3 Bantaeng 14,74 7,68 0,829 0,150 453.167
+4 Jeneponto 42,56 11,42 1,176 0,182 435.704
+5 Takalar 22,17 7,27 0,821 0,168 475.861
+6 Gowa 54,04 6,64 1,094 0,295 496.555
+7 Sinjai 18,44 7,41 0,948 0,212 426.191
+8 Maros 32,67 8,90 1,542 0,376 560.172
+9 Pangkajene Dan Kepu-
+lauan 40,37 11,60 1,077 0,180 471.043
+10 Barru 14,13 8,00 0,939 0,170 426.792
+11 Bone 69,73 9,13 1,084 0,212 452.560
+12 Soppeng 15,34 6,65 0,940 0,169 441.117
+13 Wajo 24,15 5,86 0,819 0,149 450.789
+14 Sidenreng Rappang 15,20 4,91 0,742 0,147 472.303
+15 Pinrang 32,52 8,38 1,242 0,247 426.624
+16 Enrekang 23,09 10,73 1,401 0,292 451.580
+17 Luwu 41,76 10,97 1,490 0,284 447.602
+18 Tana Toraja 25,82 10,54 1,128 0,173 435.955
+19 Luwu Utara 35,03 10,74 2,287 0,707 441.412
+20 Luwu Timur 18,55 5,79 1,200 0,322 469.563
+21 Toraja Utara 24,48 10,05 1,582 0,365 435.309
+22 Kota Makassar 71,63 4,43 0,523 0,104 610.536
+23 Kota Parepare 6,73 4,44 0,385 0,078 483.487
+24 Kota Palopo 14,31 7,18 1,247 0,338 481.362
+Sulawesi Selatan 698,13 7,60 1,395 0,347 477.966
+1 Buton 13,89 13,46 1,686 0,326 372.899
+2 Muna 28,81 12,40 1,744 0,394 451.345
+3 Konawe 33,04 12,78 2,752 0,817 462.463
+4 Kolaka 29,45 10,19 1,648 0,399 493.073
+5 Konawe Selatan 37,40 11,18 1,667 0,351 370.133
+https://www.bps.go.id
+
+
+===== PDF PAGE 39 =====
+Kemiskinan
+25
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+6 Bombana 20,15 10,14 1,816 0,429 441.758
+7 Wakatobi 13,98 13,40 2,463 0,689 371.128
+8 Kolaka Utara 21,47 12,94 2,326 0,645 552.220
+9 Buton Utara 8,69 13,22 1,456 0,293 442.786
+10 Konawe Utara 8,19 11,89 2,099 0,488 425.351
+11 Kolaka Timur 18,99 12,57 2,599 0,835 548.146
+12 Konawe Kepulauan 5,01 14,42 1,659 0,288 432.435
+13 Muna Barat 10,97 12,83 1,915 0,396 451.711
+14 Buton Tengah 12,61 13,40 1,855 0,329 358.029
+15 Buton Selatan 11,00 13,64 1,490 0,222 356.075
+16 Kota Kendari 18,38 4,18 0,554 0,113 554.111
+17 Kota Baubau 12,41 6,83 0,677 0,096 462.878
+Sulawesi Tenggara 304,43 10,54 1,890 0,453 488.171
+1 Boalemo 29,40 16,37 3,481 0,929 560.482
+2 Gorontalo 56,13 14,89 1,655 0,296 635.880
+3 Pohuwato 26,10 15,24 1,926 0,332 427.572
+4 Bone Bolango 21,11 13,16 1,915 0,445 555.489
+5 Gorontalo Utara 17,90 15,89 2,605 0,649 424.573
+6 Kota Gorontalo 12,12 5,31 0,437 0,056 731.952
+Gorontalo 162,74 13,24 1,962 0,441 495.576
+1 Majene 23,40 12,98 1,550 0,272 511.028
+2 Polewali Mandar 63,29 14,02 2,015 0,461 525.705
+3 Mamasa 22,87 13,66 1,790 0,350 367.511
+4 Mamuju 22,48 6,99 0,725 0,131 378.196
+5 Pasangkayu 9,65 4,96 0,615 0,101 477.892
+6 Mamuju Tengah 10,62 7,22 1,401 0,366 344.125
+Sulawesi Barat 152,31 10,41 1,713 0,407 475.488
+1 Kepulauan Tanimbar 26,46 23,38 4,067 1,010 682.859
+2 Maluku Tenggara 21,42 21,16 2,706 0,486 728.291
+3 Maluku Tengah 63,05 16,71 2,536 0,593 643.104
+4 Buru 23,95 15,11 2,420 0,501 638.726
+5 Kepulauan Aru 22,25 23,10 3,357 0,744 673.363
+https://www.bps.go.id
+
+
+===== PDF PAGE 40 =====
+26
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+6 Seram Bagian Barat 38,01 21,85 4,230 1,315 554.140
+7 Seram Bagian Timur 24,33 20,90 3,535 0,912 524.878
+8 Maluku Barat Daya 20,43 27,65 3,883 0,949 719.253
+9 Buru Selatan 9,63 14,84 1,926 0,405 789.414
+10 Kota Ambon 22,30 4,34 0,442 0,078 783.697
+11 Kota Tual 15,94 19,39 3,720 1,057 777.956
+Maluku 287,76 15,38 2,945 0,804 757.600
+1 Halmahera Barat 9,69 7,90 1,044 0,225 525.327
+2 Halmahera Tengah 5,61 9,16 1,173 0,247 647.982
+3 Kepulauan Sula 8,05 7,65 0,651 0,097 529.754
+4 Halmahera Selatan 11,78 4,81 0,246 0,023 512.217
+5 Halmahera Utara 8,84 4,35 0,379 0,094 490.223
+6 Halmahera Timur 11,05 10,54 2,194 0,678 705.734
+7 Pulau Morotai 3,29 4,49 0,592 0,137 494.261
+8 Pulau Taliabu 3,72 6,63 0,669 0,122 574.242
+9 Kota Ternate 8,51 3,34 0,225 0,023 753.052
+10 Kota Tidore Kepulauan 6,73 6,54 0,762 0,142 643.293
+Maluku Utara 77,27 5,81 0,950 0,221 662.397
+1 Fakfak 17,04 19,86 3,774 1,007 754.624
+2 Kaimana 9,90 13,83 2,762 0,795 710.589
+3 Teluk Wondama 10,16 27,57 6,128 1,775 766.187
+4 Teluk Bintuni 18,48 25,34 5,754 1,747 810.638
+5 Manokwari 31,72 17,38 4,689 1,558 849.546
+6 Manokwari Selatan 7,75 26,52 4,116 0,933 771.161
+7 Pegunungan Arfak 11,86 30,88 5,841 1,395 785.149
+Papua Barat 106,90 20,66 4,170 1,181 831.001
+1 Raja Ampat 8,60 16,57 2,271 0,440 658.931
+2 Sorong 25,61 25,10 5,676 1,686 661.253
+3 Sorong Selatan 9,49 17,66 4,093 1,222 606.474
+4 Maybrat 13,53 29,00 6,992 2,275 591.993
+5 Tambrauw 4,96 28,94 5,007 1,149 606.660
+6 Kota Sorong 41,39 13,55 2,559 0,744 985.416
+https://www.bps.go.id
+
+
+===== PDF PAGE 41 =====
+Kemiskinan
+27
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+Papua Barat Daya 103,57 17,95 4,527 1,723 812.630
+1 Jayapura 17,18 13,03 3,305 1,252 766.257
+2 Kepulauan Yapen 28,70 28,00 8,020 3,069 821.782
+3 Biak Numfor 39,74 25,73 5,643 1,638 712.459
+4 Sarmi 6,41 15,17 1,733 0,300 686.762
+5 Keerom 10,79 17,76 4,256 1,280 875.121
+6 Waropen 11,45 32,60 7,702 2,274 878.213
+7 Supiori 9,47 42,56 12,241 4,955 618.030
+8 Mamberamo Raya 9,32 35,09 5,589 1,269 905.387
+9 Kota Jayapura 38,33 12,03 2,523 0,788 1.253.343
+         Papua 171,38 19,16 4,582 1,493 714.365
+1 Merauke 27,72 11,31 2,905 1,073 517.764
+2 Boven Digoel 16,26 21,96 3,199 0,720 665.009
+3 Mappi 30,50 28,46 4,689 1,144 513.706
+4 Asmat 31,06 28,47 3,852 0,777 520.641
+         Papua Selatan 105,53 19,71 4,228 1,143 566.052
+1 Mimika 31,31 13,70 3,651 1,447 1.166.466
+2 Dogiyai 29,96 29,34 4,341 0,850 752.603
+3 Deiyai 29,84 37,29 3,543 0,620 817.167
+4 Nabire 34,18 22,65 6,725 2,854 884.601
+5 Paniai 63,26 36,31 4,569 1,113 754.356
+6 Intan Jaya 21,37 39,21 6,636 1,812 980.000
+7 Puncak 43,55 36,94 4,980 0,903 943.351
+8 Puncak Jaya 48,85 35,46 8,369 2,955 933.545
+Papua Tengah 302,31 28,90 5,582 1,523 817.834
+1 Nduga 40,29 32,89 4,879 1,377 837.239
+2 Jayawijaya 61,64 29,08 7,733 2,720 913.719
+3 Lanny Jaya 68,04 31,59 7,187 2,383 1.019.014
+4 Tolikara 45,62 28,75 2,695 0,385 861.729
+5 Mamberamo Tengah 18,81 32,20 7,042 2,094 901.904
+6 Yalimo 19,90 27,35 6,364 1,811 775.882
+https://www.bps.go.id
+
+
+===== PDF PAGE 42 =====
+28
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 2.1
+No Kabupaten/Kota
+Jumlah 
+Penduduk 
+Miskin 
+(000)
+Persentase 
+Penduduk 
+Miskin
+P1 P2
+Garis 
+Kemiskinan 
+(Rp/kap/
+bulan)
+(1) (2) (3) (4) (5) (6) (7)
+7 Yahukimo 62,42 30,61 3,737 0,703 908.562
+8 Pegunungan Bintang 20,61 25,87 2,178 0,289 1.132.178
+Papua Pegunungan 337,32 30,03 5,624 1,437 1.132.178
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025
+https://www.bps.go.id
+
+
+===== PDF PAGE 43 =====
+2
+0
+2
+5
+Pendidikan
+Pendidikan
+https://www.bps.go.id
+
+
+===== PDF PAGE 44 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 45 =====
+31
+Pendidikan
+Tabel 3.1 Persentase Penduduk Miskin Usia 15 Tahun ke Atas Menurut Kabupaten/ 
+               Kota dan Pendidikan yang Ditamatkan, 2025
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+1 Simeulue 2,55 67,44 30,01
+2 Aceh Singkil 10,64 57,02 32,34
+3 Aceh Selatan 6,77 54,92 38,30
+4 Aceh Tenggara NA 47,42 49,69
+5 Aceh Timur NA 64,76 31,53
+6 Aceh Tengah 6,78 47,20 46,02
+7 Aceh Barat NA 59,09 35,36
+8 Aceh Besar 3,19 53,86 42,95
+9 Pidie 5,83 54,97 39,19
+10 Bireuen NA 62,39 34,39
+11 Aceh Utara NA 57,40 40,63
+12 Aceh Barat Daya 6,46 50,97 42,57
+13 Gayo Lues 15,63 61,19 23,18
+14 Aceh Tamiang 9,44 63,60 26,96
+15 Nagan Raya 10,34 41,27 48,40
+16 Aceh Jaya 8,80 66,21 25,00
+17 Bener Meriah 6,55 49,12 44,33
+18 Pidie Jaya 11,12 45,65 43,24
+19 Kota Banda Aceh NA 36,17 63,66
+20 Kota Sabang NA 38,45 55,54
+21 Kota Langsa NA 52,37 45,06
+22 Kota Lhokseumawe NA 49,68 45,78
+23 Kota Subulussalam 11,11 44,40 44,48
+Aceh 5,51 55,07 39,42
+1 Nias 34,02 51,94 14,04
+2 Mandailing Natal 6,60 68,18 25,22
+3 Tapanuli Selatan NA 59,60 39,37
+4 Tapanuli Tengah 31,45 42,78 25,77
+5 Tapanuli Utara NA 36,77 59,24
+6 Toba NA 51,38 44,49
+PENDIDIKAN
+https://www.bps.go.id
+
+
+===== PDF PAGE 46 =====
+32
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+7 Labuhan Batu 7,38 66,26 26,36
+8 Asahan 32,34 48,89 18,77
+9 Simalungun NA 46,02 40,99
+10 Dairi 15,83 46,32 37,84
+11 Karo 8,86 39,85 51,29
+12 Deli Serdang NA 53,82 36,13
+13 Langkat 21,94 43,07 34,99
+14 Nias Selatan 27,74 43,25 29,01
+15 Humbang Hasundutan NA 49,50 47,22
+16 Pakpak Bharat 16,69 48,73 34,57
+17 Samosir 8,51 33,05 58,43
+18 Serdang Bedagai 23,57 38,49 37,94
+19 Batu Bara 19,44 52,03 28,52
+20 Padang Lawas Utara 8,27 41,37 50,36
+21 Padang Lawas NA 59,45 40,09
+22 Labuhanbatu Selatan 22,33 55,28 22,38
+23 Labuhanbatu Utara 18,30 52,05 29,65
+24 Nias Utara 39,04 47,06 13,90
+25 Nias Barat 24,78 47,80 27,42
+26 Kota Sibolga 16,69 45,77 37,54
+27 Kota Tanjungbalai NA 74,38 21,09
+28 Kota Pematangsiantar 23,38 39,97 36,64
+29 Kota Tebing Tinggi NA 49,32 47,79
+30 Kota Medan 4,11 49,49 46,40
+31 Kota Binjai NA 44,50 35,76
+32 Kota Padangsidimpuan – 43,71 56,29
+33 Kota Gunungsitoli 33,61 39,36 27,03
+Sumatera Utara 15,72 48,99 35,29
+1 Kepulauan Mentawai 36,27 54,30 9,42
+2 Pesisir Selatan 17,35 53,62 29,03
+3 Solok 26,86 55,28 17,86
+4 Sijunjung 28,63 46,24 25,13
+5 Tanah Datar 14,13 45,38 40,48
+6 Padang Pariaman 17,61 59,95 22,44
+7 Agam 19,36 50,94 29,69
+8 Lima Puluh Kota 20,22 42,26 37,52
+9 Pasaman 24,88 59,69 15,44
+https://www.bps.go.id
+
+
+===== PDF PAGE 47 =====
+Pendidikan
+33
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+10 Solok Selatan 26,02 51,47 22,51
+11 Dharmasraya 22,50 43,36 34,14
+12 Pasaman Barat 14,54 62,70 22,76
+13 Kota Padang 16,16 50,41 33,43
+14 Kota Solok NA 66,19 26,74
+15 Kota Sawahlunto 46,79 34,53 NA
+16 Kota Padang Panjang NA 28,35 67,45
+17 Kota Bukittinggi NA 50,04 38,39
+18 Kota Payakumbuh NA 51,61 36,10
+19 Kota Pariaman 15,81 60,41 23,78
+Sumatera Barat 19,71 52,41 27,87
+1 Kuantan Singingi 19,48 60,33 20,19
+2 Indragiri Hulu 30,19 45,17 24,64
+3 Indragiri Hilir 37,47 53,11 9,42
+4 Pelalawan 25,88 63,34 10,79
+5 Siak NA 47,19 39,58
+6 Kampar 7,68 57,34 34,99
+7 Rokan Hulu NA 56,47 39,47
+8 Bengkalis NA 40,94 47,87
+9 Rokan Hilir 10,07 66,05 23,88
+10 Kepulauan Meranti 20,86 55,17 23,98
+11 Kota Pekanbaru NA 31,88 35,26
+12 Kota Dumai NA 82,66 NA
+Riau 17,36 54,77 27,87
+1 Kerinci 30,27 40,23 29,50
+2 Merangin 25,99 57,15 16,86
+3 Sarolangun 22,25 60,86 16,89
+4 Batang Hari 13,88 60,27 25,85
+5 Muaro Jambi 25,11 49,66 25,23
+6 Tanjung Jabung Timur 24,22 52,39 23,39
+7 Tanjung Jabung Barat 34,34 48,62 17,04
+8 Tebo 34,31 50,87 14,82
+9 Bungo 13,26 73,02 13,72
+10 Kota Jambi NA 43,91 53,58
+11 Kota Sungai Penuh – 47,10 52,90
+Jambi 21,29 52,72 25,99
+https://www.bps.go.id
+
+
+===== PDF PAGE 48 =====
+34
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+1 Ogan Komering Ulu 30,14 42,12 27,73
+2 Ogan Komering Ilir 19,97 60,43 19,60
+3 Muara Enim 22,27 61,70 16,03
+4 Lahat 15,41 45,70 38,90
+5 Musi Rawas 19,82 61,39 18,80
+6 Musi Banyuasin 22,41 58,14 19,45
+7 Banyuasin 15,14 67,76 17,10
+8 Ogan Komering Ulu Selatan 5,62 59,83 34,55
+9 Ogan Komering Ulu Timur 23,07 54,98 21,95
+10 Ogan Ilir 16,72 62,80 20,49
+11 Empat Lawang 15,36 44,98 39,67
+12 Penukal Abab Lematang Ilir 41,84 43,67 14,50
+13 Musi Rawas Utara 28,83 49,46 21,70
+14 Kota Palembang 9,94 44,19 45,87
+15 Kota Prabumulih 6,18 44,70 49,12
+16 Kota Pagar Alam 14,65 55,90 29,45
+17 Kota Lubuk Linggau 5,99 58,96 35,05
+Sumatera Selatan 17,71 54,51 27,78
+1 Bengkulu Selatan 27,94 45,69 26,37
+2 Rejang Lebong 17,23 59,50 23,27
+3 Bengkulu Utara 22,67 57,93 19,40
+4 Kaur 20,62 50,43 28,95
+5 Seluma 20,19 59,56 20,25
+6 Mukomuko 16,86 56,54 26,60
+7 Lebong 20,86 49,24 29,90
+8 Kepahiang 22,09 47,01 30,90
+9 Bengkulu Tengah 31,44 43,85 24,72
+10 Kota Bengkulu 6,41 51,57 42,02
+Bengkulu 19,01 53,17 27,82
+1 Lampung Barat 20,65 55,39 23,96
+2 Tanggamus 19,92 62,75 17,33
+3 Lampung Selatan 24,42 59,40 16,19
+4 Lampung Timur 10,06 60,93 29,01
+5 Lampung Tengah 26,21 60,39 13,40
+6 Lampung Utara 16,51 58,21 25,28
+7 Way Kanan 31,67 51,73 16,60
+https://www.bps.go.id
+
+
+===== PDF PAGE 49 =====
+Pendidikan
+35
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+8 Tulang Bawang 20,98 52,55 26,47
+9 Pesawaran 25,01 58,73 16,26
+10 Pringsewu 19,20 55,76 25,04
+11 Mesuji 7,56 77,50 14,94
+12 Tulang Bawang Barat 17,93 69,06 13,01
+13 Pesisir Barat 4,59 69,54 25,87
+14 Kota Bandar Lampung 17,60 36,35 46,05
+15 Kota Metro NA 34,08 64,82
+Lampung 19,47 57,52 23,01
+1 Bangka 15,32 58,17 26,51
+2 Belitung 21,84 33,31 44,85
+3 Bangka Barat NA 59,17 26,93
+4 Bangka Tengah 17,97 56,21 25,83
+5 Bangka Selatan 40,98 52,10 6,93
+6 Belitung Timur 26,85 52,06 21,09
+7 Kota Pangkal Pinang 21,19 46,18 32,63
+Bangka Belitung 22,30 50,67 27,03
+1 Karimun 26,56 50,28 23,16
+2 Bintan NA 71,02 25,10
+3 Natuna 40,47 28,17 31,35
+4 Lingga 40,93 42,76 16,31
+5 Kepulauan Anambas 42,77 51,27 NA
+6 Kota Batam NA 33,19 61,84
+7 Kota Tanjungpinang 10,63 58,59 30,79
+Kepulauan Riau 13,69 43,26 43,05
+1 Kepulauan Seribu NA 50,12 37,78
+2 Kota Jakarta Selatan – 59,29 40,71
+3 Kota Jakarta Timur NA 50,17 45,81
+4 Kota Jakarta Pusat NA 44,45 51,52
+5 Kota Jakarta Barat NA 48,75 46,83
+6 Kota Jakarta Utara 14,49 44,54 40,97
+DKI Jakarta 6,14 49,32 44,54
+1 Bogor 20,31 65,21 14,49
+2 Sukabumi NA 71,41 16,90
+https://www.bps.go.id
+
+
+===== PDF PAGE 50 =====
+36
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+3 Cianjur 9,50 79,54 10,96
+4 Bandung 11,81 70,96 17,23
+5 Garut 14,44 70,75 14,81
+6 Tasikmalaya 8,33 82,49 9,18
+7 Ciamis 5,99 85,81 8,20
+8 Kuningan 25,92 62,24 11,85
+9 Cirebon 24,80 56,77 18,43
+10 Majalengka 14,56 76,90 8,54
+11 Sumedang 9,69 75,43 14,88
+12 Indramayu 19,26 60,97 19,77
+13 Subang 12,36 67,64 20,00
+14 Purwakarta 20,57 65,91 13,53
+15 Karawang 21,29 61,09 17,63
+16 Bekasi 12,74 41,65 45,61
+17 Bandung Barat 11,58 73,50 14,92
+18 Pangandaran 19,98 68,14 11,88
+19 Kota Bogor 17,09 49,53 33,38
+20 Kota Sukabumi 20,18 53,55 26,27
+21 Kota Bandung NA 56,97 40,80
+22 Kota Cirebon 18,31 47,49 34,20
+23 Kota Bekasi NA 48,80 47,31
+24 Kota Depok NA 41,93 35,43
+25 Kota Cimahi NA 75,07 23,09
+26 Kota Tasikmalaya 6,58 71,97 21,45
+27 Kota Banjar NA 76,35 18,70
+Jawa Barat 14,64 66,03 19,33
+1 Cilacap 24,11 54,23 21,66
+2 Banyumas 27,40 55,59 17,01
+3 Purbalingga 32,13 56,22 11,65
+4 Banjarnegara 33,49 53,00 13,51
+5 Kebumen 17,36 58,07 24,57
+6 Purworejo 18,29 60,88 20,82
+7 Wonosobo 30,37 59,05 10,58
+8 Magelang 24,92 63,57 11,51
+9 Boyolali 33,29 53,64 13,07
+10 Klaten 17,51 49,45 33,04
+11 Sukoharjo 30,84 49,56 19,60
+https://www.bps.go.id
+
+
+===== PDF PAGE 51 =====
+Pendidikan
+37
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+12 Wonogiri 30,14 53,54 16,32
+13 Karanganyar 20,34 57,74 21,92
+14 Sragen 26,28 50,61 23,11
+15 Grobogan 23,45 65,75 10,80
+16 Blora 30,59 49,77 19,64
+17 Rembang 24,20 56,69 19,11
+18 Pati 19,95 55,14 24,91
+19 Kudus NA 55,63 40,37
+20 Jepara 28,15 57,64 14,21
+21 Demak 18,33 70,48 11,18
+22 Semarang 31,98 51,99 16,03
+23 Temanggung 20,97 66,16 12,87
+24 Kendal 26,55 51,21 22,24
+25 Batang 24,61 60,31 15,08
+26 Pekalongan 14,41 70,73 14,86
+27 Pemalang 29,83 58,55 11,61
+28 Tegal 31,18 62,26 NA
+29 Brebes 24,48 59,23 16,29
+30 Kota Magelang NA 48,79 37,89
+31 Kota Surakarta 6,64 53,50 39,87
+32 Kota Salatiga 20,00 52,85 27,15
+33 Kota Semarang NA 49,45 43,33
+34 Kota Pekalongan NA 72,71 21,98
+35 Kota Tegal 15,70 53,82 30,48
+Jawa Tengah 24,32 57,36 18,33
+1 Kulon Progo 22,62 40,22 37,16
+2 Bantul 14,56 34,98 50,46
+3 Gunungkidul 27,98 50,71 21,30
+4 Sleman 13,48 44,90 41,62
+5 Kota Yogyakarta 3,71 54,83 41,46
+DI Yogyakarta 18,61 43,57 37,83
+1 Pacitan 14,45 70,95 14,60
+2 Ponorogo 30,81 53,42 15,77
+3 Trenggalek 20,39 56,43 23,17
+4 Tulungagung 17,45 63,79 18,76
+5 Blitar 22,63 64,99 12,38
+https://www.bps.go.id
+
+
+===== PDF PAGE 52 =====
+38
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+6 Kediri 8,51 66,84 24,65
+7 Malang 24,22 63,15 12,63
+8 Lumajang 35,43 53,05 11,52
+9 Jember 31,01 58,62 10,37
+10 Banyuwangi 44,66 43,28 12,07
+11 Bondowoso 48,48 39,98 11,53
+12 Situbondo 40,79 43,11 16,10
+13 Probolinggo 38,22 46,81 14,97
+14 Pasuruan 30,46 59,46 10,08
+15 Sidoarjo 14,33 43,86 41,82
+16 Mojokerto 15,29 55,99 28,72
+17 Jombang 15,79 49,63 34,58
+18 Nganjuk 21,53 57,10 21,37
+19 Madiun 19,43 56,12 24,45
+20 Magetan 25,23 54,79 19,98
+21 Ngawi 21,69 56,27 22,05
+22 Bojonegoro 21,94 61,85 16,22
+23 Tuban 25,04 53,97 20,99
+24 Lamongan 21,15 47,51 31,34
+25 Gresik 8,88 52,72 38,40
+26 Bangkalan 32,84 54,88 12,27
+27 Sampang 35,00 47,42 17,57
+28 Pamekasan 33,46 44,03 22,51
+29 Sumenep 39,61 37,52 22,88
+30 Kota Kediri 9,48 53,07 37,44
+31 Kota Blitar NA 46,93 44,72
+32 Kota Malang NA 42,23 54,06
+33 Kota Probolinggo 20,38 42,11 37,51
+34 Kota Pasuruan 11,10 55,54 33,36
+35 Kota Mojokerto NA 35,09 56,63
+36 Kota Madiun – 55,59 44,41
+37 Kota Surabaya 4,86 71,07 24,07
+38 Kota Batu NA 50,89 38,34
+Jawa Timur 25,97 53,76 20,27
+1 Pandeglang NA 78,44 18,57
+2 Lebak 14,28 72,16 13,56
+3 Tangerang 14,33 64,40 21,27
+https://www.bps.go.id
+
+
+===== PDF PAGE 53 =====
+Pendidikan
+39
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+4 Serang 10,26 61,65 28,08
+5 Kota Tangerang NA 51,57 33,15
+6 Kota Cilegon NA 52,21 26,20
+7 Kota Serang NA 59,48 28,11
+8 Kota Tangerang Selatan NA 40,32 54,80
+Banten 12,18 63,05 24,77
+1 Jembrana NA 65,09 29,86
+2 Tabanan 20,01 47,11 32,88
+3 Badung NA 38,01 58,82
+4 Gianyar 30,76 41,45 27,79
+5 Klungkung 28,28 51,56 20,15
+6 Bangli 28,84 39,16 32,00
+7 Karangasem 35,15 53,86 10,99
+8 Buleleng 27,40 42,84 29,75
+9 Kota Denpasar – 56,04 43,96
+Bali 21,56 47,45 31,00
+1 Lombok Barat 28,82 51,20 19,97
+2 Lombok Tengah 33,63 48,11 18,26
+3 Lombok Timur 20,31 55,32 24,36
+4 Sumbawa 18,46 64,21 17,33
+5 Dompu 26,03 42,93 31,04
+6 Bima 24,32 45,72 29,96
+7 Sumbawa Barat 19,37 55,10 25,52
+8 Lombok Utara 30,81 49,66 19,53
+9 Kota Mataram 17,12 48,56 34,32
+10 Kota Bima 14,50 36,89 48,61
+Nusa Tenggara Barat 24,77 51,42 23,81
+1 Sumba Barat 40,26 40,71 19,04
+2 Sumba Timur 37,53 45,51 16,96
+3 Kupang 15,01 64,63 20,36
+4 Timor Tengah Selatan 22,51 60,77 16,73
+5 Timor Tengah Utara 15,58 67,75 16,66
+6 Belu 19,10 66,97 13,93
+7 Alor 15,95 64,65 19,39
+8 Lembata 22,09 61,82 16,08
+https://www.bps.go.id
+
+
+===== PDF PAGE 54 =====
+40
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+9 Flores Timur 22,49 56,76 20,75
+10 Sikka 50,55 41,57 7,88
+11 Ende 23,07 51,78 25,15
+12 Ngada 7,59 80,20 12,20
+13 Manggarai 19,19 65,60 15,20
+14 Rote Ndao 28,72 56,89 14,39
+15 Manggarai Barat 23,82 66,37 9,82
+16 Sumba Tengah 38,74 44,37 16,89
+17 Sumba Barat Daya 42,68 42,23 15,10
+18 Nagekeo 8,63 62,64 28,74
+19 Manggarai Timur 8,84 75,51 15,65
+20 Sabu Raijua 24,14 56,63 19,23
+21 Malaka 35,34 42,18 22,49
+22 Kota Kupang 5,16 53,67 41,17
+Nusa Tenggara Timur 24,35 57,80 17,85
+1 Sambas 40,70 50,83 8,47
+2 Bengkayang 20,69 72,38 6,93
+3 Landak 22,09 56,58 21,33
+4 Mempawah 30,89 49,41 19,69
+5 Sanggau 30,98 53,39 15,63
+6 Ketapang 22,48 65,18 12,34
+7 Sintang 34,62 56,35 NA
+8 Kapuas Hulu 31,89 53,84 NA
+9 Sekadau 10,62 75,21 14,18
+10 Melawi 31,04 50,36 18,61
+11 Kayong Utara 48,61 40,43 10,96
+12 Kubu Raya 58,00 40,03 NA
+13 Kota Pontianak 22,08 48,15 29,77
+14 Kota Singkawang 39,38 45,44 15,18
+Kalimantan Barat 31,17 54,66 14,17
+1 Kotawaringin Barat NA 44,25 46,08
+2 Kotawaringin Timur NA 65,24 22,43
+3 Kapuas 27,57 63,28 NA
+4 Barito Selatan 19,32 46,23 34,44
+5 Barito Utara 18,08 53,48 28,43
+6 Sukamara 47,45 45,00 NA
+https://www.bps.go.id
+
+
+===== PDF PAGE 55 =====
+Pendidikan
+41
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+7 Lamandau 17,49 47,08 35,43
+8 Seruyan 20,85 52,17 26,98
+9 Katingan NA 66,77 32,98
+10 Pulang Pisau 25,33 49,25 25,42
+11 Gunung Mas 26,57 48,06 25,37
+12 Barito Timur 15,02 66,57 18,41
+13 Murung Raya 25,61 51,79 22,60
+14 Kota Palangka Raya NA 62,18 35,04
+Kalimantan Tengah 17,49 57,14 25,37
+1 Tanah Laut 19,23 74,75 NA
+2 Kotabaru 20,92 68,52 10,56
+3 Banjar 33,94 61,50 NA
+4 Barito Kuala 34,96 62,24 NA
+5 Tapin NA 60,33 NA
+6 Hulu Sungai Selatan 32,23 61,61 NA
+7 Hulu Sungai Tengah 19,47 72,33 8,20
+8 Hulu Sungai Utara 37,17 53,02 NA
+9 Tabalong NA 66,36 30,09
+10 Tanah Bumbu 40,97 48,22 10,80
+11 Balangan 29,71 52,72 17,57
+12 Kota Banjarmasin 17,06 39,83 43,11
+13 Kota Banjar Baru 18,50 47,67 33,84
+Kalimantan Selatan 24,50 57,38 18,13
+1 Paser 16,25 48,20 35,56
+2 Kutai Barat 14,60 56,53 28,86
+3 Kutai Kartanegara NA 70,18 25,32
+4 Kutai Timur NA 62,92 32,71
+5 Berau 13,34 51,41 35,25
+6 Penajam Paser Utara 15,32 63,90 20,78
+7 Mahakam Ulu NA 57,72 40,97
+8 Kota Balikpapan 20,25 43,89 35,87
+9 Kota Samarinda 8,20 46,57 45,23
+10 Kota Bontang NA 59,12 28,45
+Kalimantan Timur 9,35 58,17 32,48
+1 Malinau NA 59,23 28,27
+https://www.bps.go.id
+
+
+===== PDF PAGE 56 =====
+42
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+2 Bulungan 21,12 57,09 21,80
+3 Tana Tidung 29,31 45,66 25,03
+4 Nunukan 25,68 57,35 16,97
+5 Kota Tarakan 12,55 56,48 30,96
+Kalimantan Utara 18,88 56,89 24,23
+1 Bolaang Mongondow NA 65,13 23,15
+2 Minahasa 20,86 24,54 54,60
+3 Kepulauan Sangihe 31,29 53,82 14,89
+4 Kepulauan Talaud 7,18 60,86 31,96
+5 Minahasa Selatan 13,73 44,54 41,73
+6 Minahasa Utara 13,43 42,31 44,26
+7 Bolaang Mongondow Utara 31,30 44,91 23,79
+8 Kepulauan Sitaro NA 60,18 37,54
+9 Minahasa Tenggara 12,86 66,25 20,89
+10 Bolaang Mongondow Selatan 33,62 50,86 15,52
+11 Bolaang Mongondow Timur 21,11 65,59 13,30
+12 Kota Manado NA 27,30 62,83
+13 Kota Bitung 32,00 42,08 25,91
+14 Kota Tomohon NA 64,30 32,88
+15 Kota Kotamobagu 38,39 35,69 25,92
+Sulawesi Utara 18,06 46,34 35,60
+1 Banggai Kepulauan NA 78,98 16,52
+2 Banggai NA 67,74 25,99
+3 Morowali NA 62,06 34,06
+4 Poso 10,86 60,36 28,78
+5 Donggala 16,76 72,51 10,72
+6 Tolitoli 13,98 62,83 23,19
+7 Buol 15,63 61,16 23,21
+8 Parigi Moutong 34,30 54,38 11,32
+9 Tojo Una-Una 4,45 79,37 16,18
+10 Sigi NA 88,53 10,96
+11 Banggai Laut 21,86 69,14 9,00
+12 Morowali Utara 15,56 60,40 24,04
+13 Kota Palu 14,83 62,32 22,85
+Sulawesi Tengah 15,76 65,88 18,36
+https://www.bps.go.id
+
+
+===== PDF PAGE 57 =====
+Pendidikan
+43
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+1 Kepulauan Selayar 23,68 61,18 15,14
+2 Bulukumba 40,02 38,80 21,18
+3 Bantaeng 41,42 35,77 22,81
+4 Jeneponto 27,64 47,13 25,23
+5 Takalar 40,11 40,32 19,57
+6 Gowa 35,82 52,28 11,90
+7 Sinjai 37,82 50,98 11,20
+8 Maros 35,54 43,49 20,97
+9 Pangkajene Dan Kepulauan 20,92 59,42 19,66
+10 Barru 15,01 66,85 18,14
+11 Bone 18,82 68,96 12,21
+12 Soppeng 25,87 48,92 25,21
+13 Wajo 37,66 56,90 5,44
+14 Sidenreng Rappang 38,38 49,92 11,70
+15 Pinrang 19,01 66,27 14,72
+16 Enrekang 23,77 46,23 30,00
+17 Luwu 21,10 41,72 37,17
+18 Tana Toraja 26,61 46,32 27,08
+19 Luwu Utara 18,82 55,96 25,22
+20 Luwu Timur 17,75 47,63 34,62
+21 Toraja Utara 29,66 50,35 19,99
+22 Kota Makassar 7,63 61,76 30,62
+23 Kota Parepare 12,60 65,49 21,92
+24 Kota Palopo 16,66 40,37 42,97
+Sulawesi Selatan 24,97 53,70 21,33
+1 Buton 22,08 47,15 30,77
+2 Muna 26,45 51,64 21,91
+3 Konawe 4,92 52,51 42,57
+4 Kolaka 12,44 57,95 29,61
+5 Konawe Selatan 6,31 60,39 33,30
+6 Bombana 31,55 59,52 8,93
+7 Wakatobi 10,12 65,73 24,15
+8 Kolaka Utara 17,50 52,96 29,54
+9 Buton Utara 26,29 50,29 23,43
+10 Konawe Utara NA 64,55 29,67
+11 Kolaka Timur 17,21 54,54 28,26
+12 Konawe Kepulauan 9,37 51,39 39,24
+https://www.bps.go.id
+
+
+===== PDF PAGE 58 =====
+44
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+13 Muna Barat 25,07 52,80 22,13
+14 Buton Tengah 37,46 41,16 21,39
+15 Buton Selatan 30,15 48,14 21,71
+16 Kota Kendari NA 44,39 45,45
+17 Kota Baubau 5,66 66,48 27,86
+Sulawesi Tenggara 16,06 54,87 29,06
+1 Boalemo 36,81 42,17 21,03
+2 Gorontalo 37,28 47,80 14,92
+3 Pohuwato 38,33 46,11 15,56
+4 Bone Bolango 28,26 55,02 16,73
+5 Gorontalo Utara 32,60 48,53 18,87
+6 Kota Gorontalo NA 39,15 42,57
+Gorontalo 34,26 46,90 18,84
+1 Majene 21,59 52,16 26,25
+2 Polewali Mandar 27,75 50,74 21,51
+3 Mamasa 23,80 48,92 27,28
+4 Mamuju 24,21 63,21 12,58
+5 Pasangkayu NA 70,75 22,69
+6 Mamuju Tengah 20,21 59,32 20,47
+Sulawesi Barat 23,90 54,27 21,82
+1 Kepulauan Tanimbar 6,64 61,11 32,26
+2 Maluku Tenggara 12,15 58,53 29,32
+3 Maluku Tengah 7,06 51,90 41,04
+4 Buru 20,44 42,89 36,67
+5 Kepulauan Aru 5,99 73,56 20,46
+6 Seram Bagian Barat 11,59 63,09 25,33
+7 Seram Bagian Timur 12,03 49,85 38,12
+8 Maluku Barat Daya 7,08 66,38 26,55
+9 Buru Selatan 17,64 50,57 31,78
+10 Kota Ambon NA 52,54 45,53
+11 Kota Tual 7,63 54,27 38,10
+Maluku 9,31 56,51 34,18
+1 Halmahera Barat 36,41 38,73 24,86
+2 Halmahera Tengah 21,07 46,09 32,85
+https://www.bps.go.id
+
+
+===== PDF PAGE 59 =====
+Pendidikan
+45
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+3 Kepulauan Sula 11,24 60,31 28,45
+4 Halmahera Selatan 19,12 42,22 38,67
+5 Halmahera Utara 16,82 54,75 28,43
+6 Halmahera Timur 8,56 58,06 33,37
+7 Pulau Morotai 22,29 39,59 38,12
+8 Pulau Taliabu NA 75,52 12,18
+9 Kota Ternate NA 49,63 41,55
+10 Kota Tidore Kepulauan 18,86 53,70 27,43
+Maluku Utara 17,46 50,90 31,64
+1 Fakfak 5,47 63,03 31,50
+2 Kaimana 30,08 47,55 22,37
+3 Teluk Wondama 17,47 57,06 25,47
+4 Teluk Bintuni 28,60 44,14 27,26
+5 Manokwari 18,17 44,97 36,86
+6 Manokwari Selatan 21,71 39,83 38,45
+7 Pegunungan Arfak 36,12 32,63 31,26
+Papua Barat 21,21 47,08 31,71
+1 Raja Ampat 20,04 58,15 21,81
+2 Sorong 13,55 54,81 31,64
+3 Sorong Selatan 18,84 67,46 13,70
+4 Maybrat 17,45 32,94 49,61
+5 Tambrauw 20,77 44,39 34,85
+6 Kota Sorong 10,74 48,28 40,98
+Papua Barat Daya 14,17 50,11 35,72
+1 Jayapura 10,19 37,74 52,07
+2 Kepulauan Yapen 18,05 50,88 31,07
+3 Biak Numfor 9,26 51,47 39,27
+4 Sarmi 10,69 57,04 32,27
+5 Keerom 34,58 40,34 25,08
+6 Waropen 17,36 54,10 28,55
+7 Supiori 7,85 46,66 45,49
+8 Mamberamo Raya 23,71 48,20 28,10
+9 Kota Jayapura NA 36,64 60,25
+             Papua 12,48 45,95 41,58
+https://www.bps.go.id
+
+
+===== PDF PAGE 60 =====
+46
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.1
+No Kabupaten/Kota < SD Tamat SD/SMP >=SMA
+(1) (2) (3) (4) (5)
+1 Merauke 27,03 48,87 24,10
+2 Boven Digoel 24,76 45,95 29,30
+3 Mappi 36,29 49,42 14,29
+4 Asmat 50,93 40,37 8,70
+             Papua  Selatan 35,66 46,28 18,06
+1 Mimika 23,94 38,46 37,60
+2 Dogiyai 35,62 49,13 15,24
+3 Deiyai 70,02 19,47 10,51
+4 Nabire 17,36 50,21 32,43
+5 Paniai 38,53 50,14 11,33
+6 Intan Jaya 50,14 33,62 16,24
+7 Puncak 83,24 16,59 NA
+8 Puncak Jaya 28,86 48,14 23,00
+             Papua Tengah 43,09 39,97 16,94
+1 Nduga 67,09 32,55 NA
+2 Jayawijaya 47,12 36,65 16,23
+3 Lanny Jaya 54,87 29,67 15,46
+4 Tolikara 77,58 13,01 9,41
+5 Mamberamo Tengah 34,74 44,25 21,01
+6 Yalimo NA 49,77 48,31
+7 Yahukimo 57,70 38,19 4,11
+8 Pegunungan Bintang 76,88 16,72 6,40
+Papua Pegunungan 55,07 32,10 12,83
+Catatan:  Not Applicable (NA) menunjukan bahwa data tidak dapat ditampilkan karena nilai                                 relative standar error (RSE) lebih dari 50 persen
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025
+https://www.bps.go.id
+
+
+===== PDF PAGE 61 =====
+Pendidikan
+47
+Tabel 3.2 Angka Partisipasi Sekolah Penduduk Miskin Menurut Kabupaten/Kota dan  
+               Golongan Umur, 2025
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+1 Simeulue 97,52 100,00
+2 Aceh Singkil 100,00 85,36
+3 Aceh Selatan 100,00 100,00
+4 Aceh Tenggara 94,75 100,00
+5 Aceh Timur 96,80 86,17
+6 Aceh Tengah 100,00 100,00
+7 Aceh Barat 100,00 96,87
+8 Aceh Besar 100,00 100,00
+9 Pidie 100,00 96,55
+10 Bireuen 91,75 100,00
+11 Aceh Utara 100,00 100,00
+12 Aceh Barat Daya 100,00 100,00
+13 Gayo Lues 100,00 100,00
+14 Aceh Tamiang 100,00 97,69
+15 Nagan Raya 100,00 100,00
+16 Aceh Jaya 100,00 91,96
+17 Bener Meriah 100,00 100,00
+18 Pidie Jaya 100,00 100,00
+19 Kota Banda Aceh 100,00 100,00
+20 Kota Sabang 97,94 95,75
+21 Kota Langsa 100,00 81,81
+22 Kota Lhokseumawe 100,00 88,81
+23 Kota Subulussalam 100,00 99,22
+Aceh 98,84 97,00
+1 Nias 99,34 96,21
+2 Mandailing Natal 100,00 94,05
+3 Tapanuli Selatan 100,00 100,00
+4 Tapanuli Tengah 93,32 93,43
+5 Tapanuli Utara 100,00 100,00
+6 Toba 100,00 100,00
+7 Labuhan Batu 100,00 95,23
+8 Asahan 100,00 69,04
+9 Simalungun 100,00 100,00
+https://www.bps.go.id
+
+
+===== PDF PAGE 62 =====
+48
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+10 Dairi 91,37 84,96
+11 Karo 100,00 99,31
+12 Deli Serdang 100,00 83,97
+13 Langkat 100,00 99,69
+14 Nias Selatan 100,00 93,25
+15 Humbang Hasundutan 100,00 100,00
+16 Pakpak Bharat 98,79 86,92
+17 Samosir 100,00 100,00
+18 Serdang Bedagai 100,00 100,00
+19 Batu Bara 98,76 77,33
+20 Padang Lawas Utara 100,00 100,00
+21 Padang Lawas 100,00 86,80
+22 Labuhanbatu Selatan 96,19 100,00
+23 Labuhanbatu Utara 100,00 88,69
+24 Nias Utara 97,44 95,03
+25 Nias Barat 100,00 95,02
+26 Kota Sibolga 100,00 100,00
+27 Kota Tanjungbalai 100,00 94,01
+28 Kota Pematangsiantar 100,00 80,64
+29 Kota Tebing Tinggi 100,00 100,00
+30 Kota Medan 98,48 98,70
+31 Kota Binjai 100,00 100,00
+32 Kota Padangsidimpuan 100,00 100,00
+33 Kota Gunungsitoli 100,00 90,46
+Sumatera Utara 99,14 94,26
+1 Kepulauan Mentawai 100,00 96,48
+2 Pesisir Selatan 100,00 97,73
+3 Solok 99,03 83,60
+4 Sijunjung 100,00 92,77
+5 Tanah Datar 100,00 100,00
+6 Padang Pariaman 100,00 94,73
+7 Agam 100,00 86,13
+8 Lima Puluh Kota 90,07 100,00
+9 Pasaman 100,00 100,00
+10 Solok Selatan 100,00 100,00
+https://www.bps.go.id
+
+
+===== PDF PAGE 63 =====
+Pendidikan
+49
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+11 Dharmasraya 100,00 71,40
+12 Pasaman Barat 100,00 65,39
+13 Kota Padang 100,00 100,00
+14 Kota Solok 100,00 100,00
+15 Kota Sawahlunto 100,00 NA
+16 Kota Padang Panjang 100,00 100,00
+17 Kota Bukittinggi 100,00 100,00
+18 Kota Payakumbuh 95,60 100,00
+19 Kota Pariaman 100,00 96,79
+Sumatera Barat 98,93 90,84
+1 Kuantan Singingi 94,59 78,95
+2 Indragiri Hulu 100,00 90,13
+3 Indragiri Hilir 100,00 94,64
+4 Pelalawan 100,00 77,54
+5 Siak 100,00 75,49
+6 Kampar 99,91 100,00
+7 Rokan Hulu 98,85 96,82
+8 Bengkalis 100,00 97,33
+9 Rokan Hilir 100,00 100,00
+10 Kepulauan Meranti 99,68 80,23
+11 Kota Pekanbaru 100,00 57,98
+12 Kota Dumai 96,25 100,00
+Riau 99,51 89,56
+1 Kerinci 100,00 100,00
+2 Merangin 94,17 100,00
+3 Sarolangun 100,00 81,26
+4 Batang Hari 100,00 100,00
+5 Muaro Jambi 100,00 100,00
+6 Tanjung Jabung Timur 100,00 78,94
+7 Tanjung Jabung Barat 100,00 100,00
+8 Tebo 100,00 99,50
+9 Bungo 100,00 NA
+10 Kota Jambi 95,61 100,00
+11 Kota Sungai Penuh 100,00 100,00
+https://www.bps.go.id
+
+
+===== PDF PAGE 64 =====
+50
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+Jambi 98,41 88,73
+1 Ogan Komering Ulu 100,00 80,22
+2 Ogan Komering Ilir 100,00 81,85
+3 Muara Enim 96,69 92,10
+4 Lahat 100,00 93,52
+5 Musi Rawas 100,00 91,11
+6 Musi Banyuasin 100,00 76,41
+7 Banyuasin 97,15 75,67
+8 Ogan Komering Ulu Selatan 100,00 95,38
+9 Ogan Komering Ulu Timur 100,00 92,49
+10 Ogan Ilir 100,00 100,00
+11 Empat Lawang 100,00 91,85
+12 Penukal Abab Lematang Ilir 100,00 98,52
+13 Musi Rawas Utara 100,00 98,86
+14 Kota Palembang 100,00 100,00
+15 Kota Prabumulih 99,73 99,21
+16 Kota Pagar Alam 100,00 100,00
+17 Kota Lubuk Linggau 100,00 95,78
+Sumatera Selatan 99,42 90,56
+1 Bengkulu Selatan 100,00 100,00
+2 Rejang Lebong 94,29 99,54
+3 Bengkulu Utara 96,73 80,30
+4 Kaur 100,00 100,00
+5 Seluma 100,00 88,89
+6 Mukomuko 94,93 100,00
+7 Lebong 99,72 77,28
+8 Kepahiang 97,67 83,28
+9 Bengkulu Tengah 100,00 79,35
+10 Kota Bengkulu 99,91 92,63
+Bengkulu 98,30 91,39
+1 Lampung Barat 100,00 100,00
+2 Tanggamus 100,00 100,00
+3 Lampung Selatan 98,81 76,65
+https://www.bps.go.id
+
+
+===== PDF PAGE 65 =====
+Pendidikan
+51
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+4 Lampung Timur 100,00 92,61
+5 Lampung Tengah 100,00 95,21
+6 Lampung Utara 100,00 89,45
+7 Way Kanan 100,00 91,41
+8 Tulang Bawang 100,00 90,40
+9 Pesawaran 100,00 92,90
+10 Pringsewu 100,00 100,00
+11 Mesuji 99,66 100,00
+12 Tulang Bawang Barat 87,93 86,43
+13 Pesisir Barat 100,00 86,16
+14 Kota Bandar Lampung 99,43 81,64
+15 Kota Metro 99,67 95,55
+Lampung 99,51 89,56
+1 Bangka 100,00 100,00
+2 Belitung 100,00 86,10
+3 Bangka Barat 100,00 55,48
+4 Bangka Tengah 100,00 91,55
+5 Bangka Selatan 100,00 24,98
+6 Belitung Timur 100,00 90,43
+7 Kota Pangkal Pinang 100,00 100,00
+Bangka Belitung 100,00 86,55
+1 Karimun 99,45 100,00
+2 Bintan 100,00 100,00
+3 Natuna 100,00 100,00
+4 Lingga 99,34 98,37
+5 Kepulauan Anambas 100,00 92,35
+6 Kota Batam 99,66 100,00
+7 Kota Tanjungpinang 100,00 99,25
+Kepulauan Riau 99,69 99,56
+1 Kepulauan Seribu 100,00 100,00
+2 Kota Jakarta Selatan 100,00 91,50
+3 Kota Jakarta Timur 100,00 100,00
+4 Kota Jakarta Pusat 100,00 100,00
+https://www.bps.go.id
+
+
+===== PDF PAGE 66 =====
+52
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+5 Kota Jakarta Barat 99,41 95,09
+6 Kota Jakarta Utara 98,22 95,28
+DKI Jakarta 99,26 96,34
+1 Bogor 100,00 94,67
+2 Sukabumi 100,00 90,29
+3 Cianjur 100,00 91,14
+4 Bandung 100,00 100,00
+5 Garut 99,27 87,60
+6 Tasikmalaya 99,17 100,00
+7 Ciamis 100,00 100,00
+8 Kuningan 99,93 74,90
+9 Cirebon 100,00 85,37
+10 Majalengka 100,00 94,52
+11 Sumedang 98,69 83,19
+12 Indramayu 100,00 96,01
+13 Subang 100,00 100,00
+14 Purwakarta 100,00 87,45
+15 Karawang 100,00 82,76
+16 Bekasi 100,00 100,00
+17 Bandung Barat 94,19 83,69
+18 Pangandaran 100,00 71,97
+19 Kota Bogor 100,00 77,48
+20 Kota Sukabumi 100,00 92,81
+21 Kota Bandung 100,00 100,00
+22 Kota Cirebon 100,00 85,23
+23 Kota Bekasi 93,05 100,00
+24 Kota Depok 90,56 86,73
+25 Kota Cimahi 100,00 100,00
+26 Kota Tasikmalaya 100,00 95,78
+27 Kota Banjar 100,00 100,00
+Jawa Barat 99,19 92,04
+1 Cilacap 100,00 94,83
+2 Banyumas 100,00 95,14
+3 Purbalingga 100,00 91,52
+https://www.bps.go.id
+
+
+===== PDF PAGE 67 =====
+Pendidikan
+53
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+4 Banjarnegara 97,40 100,00
+5 Kebumen 100,00 100,00
+6 Purworejo 93,72 100,00
+7 Wonosobo 100,00 76,32
+8 Magelang 100,00 100,00
+9 Boyolali 93,67 100,00
+10 Klaten 98,31 96,32
+11 Sukoharjo 100,00 100,00
+12 Wonogiri 100,00 95,03
+13 Karanganyar 100,00 80,79
+14 Sragen 100,00 99,89
+15 Grobogan 100,00 78,95
+16 Blora 100,00 100,00
+17 Rembang 99,91 100,00
+18 Pati 100,00 100,00
+19 Kudus 100,00 100,00
+20 Jepara 100,00 100,00
+21 Demak 100,00 81,75
+22 Semarang 100,00 100,00
+23 Temanggung 100,00 84,07
+24 Kendal 100,00 100,00
+25 Batang 97,00 77,78
+26 Pekalongan 100,00 78,82
+27 Pemalang 100,00 92,01
+28 Tegal 100,00 84,96
+29 Brebes 100,00 100,00
+30 Kota Magelang 100,00 100,00
+31 Kota Surakarta 100,00 100,00
+32 Kota Salatiga 100,00 100,00
+33 Kota Semarang 100,00 100,00
+34 Kota Pekalongan 95,47 64,74
+35 Kota Tegal 100,00 99,48
+Jawa Tengah 99,43 94,36
+1 Kulon Progo 100,00 100,00
+2 Bantul 100,00 100,00
+https://www.bps.go.id
+
+
+===== PDF PAGE 68 =====
+54
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+3 Gunungkidul 98,97 96,21
+4 Sleman 93,21 100,00
+5 Kota Yogyakarta 100,00 100,00
+DI Yogyakarta 98,40 99,06
+1 Pacitan 94,55 100,00
+2 Ponorogo 99,14 97,66
+3 Trenggalek 100,00 89,48
+4 Tulungagung 100,00 100,00
+5 Blitar 97,62 100,00
+6 Kediri 100,00 90,23
+7 Malang 100,00 100,00
+8 Lumajang 100,00 63,09
+9 Jember 100,00 90,95
+10 Banyuwangi 100,00 100,00
+11 Bondowoso 100,00 100,00
+12 Situbondo 98,18 100,00
+13 Probolinggo 95,05 92,44
+14 Pasuruan 100,00 100,00
+15 Sidoarjo 100,00 100,00
+16 Mojokerto 100,00 91,27
+17 Jombang 100,00 58,05
+18 Nganjuk 90,34 78,01
+19 Madiun 100,00 100,00
+20 Magetan 100,00 100,00
+21 Ngawi 100,00 100,00
+22 Bojonegoro 100,00 99,77
+23 Tuban 98,54 96,08
+24 Lamongan 100,00 100,00
+25 Gresik 98,32 100,00
+26 Bangkalan 96,14 95,32
+27 Sampang 100,00 87,54
+28 Pamekasan 100,00 100,00
+29 Sumenep 100,00 83,51
+30 Kota Kediri 100,00 100,00
+31 Kota Blitar 100,00 100,00
+https://www.bps.go.id
+
+
+===== PDF PAGE 69 =====
+Pendidikan
+55
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+32 Kota Malang 100,00 100,00
+33 Kota Probolinggo 100,00 100,00
+34 Kota Pasuruan 100,00 NA
+35 Kota Mojokerto 100,00 NA
+36 Kota Madiun 100,00 100,00
+37 Kota Surabaya 92,45 78,62
+38 Kota Batu 100,00 100,00
+Jawa Timur 98,73 92,24
+1 Pandeglang 100,00 100,00
+2 Lebak 100,00 95,28
+3 Tangerang 100,00 100,00
+4 Serang 100,00 100,00
+5 Kota Tangerang 100,00 94,63
+6 Kota Cilegon 100,00 100,00
+7 Kota Serang 97,75 100,00
+8 Kota Tangerang Selatan 100,00 100,00
+Banten 99,85 98,24
+1 Jembrana 100,00 100,00
+2 Tabanan 100,00 100,00
+3 Badung 100,00 NA
+4 Gianyar 100,00 100,00
+5 Klungkung 100,00 100,00
+6 Bangli 100,00 100,00
+7 Karangasem 100,00 75,61
+8 Buleleng 100,00 91,81
+9 Kota Denpasar 100,00 100,00
+Bali 100,00 94,42
+1 Lombok Barat 100,00 100,00
+2 Lombok Tengah 100,00 88,39
+3 Lombok Timur 100,00 95,64
+4 Sumbawa 100,00 90,49
+5 Dompu 100,00 90,64
+6 Bima 100,00 100,00
+https://www.bps.go.id
+
+
+===== PDF PAGE 70 =====
+56
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+7 Sumbawa Barat 96,01 96,17
+8 Lombok Utara 100,00 96,15
+9 Kota Mataram 100,00 97,11
+10 Kota Bima 100,00 100,00
+Nusa Tenggara Barat 99,91 95,57
+1 Sumba Barat 97,09 92,54
+2 Sumba Timur 99,01 100,00
+3 Kupang 98,73 98,25
+4 Timor Tengah Selatan 95,59 92,33
+5 Timor Tengah Utara 100,00 83,34
+6 Belu 100,00 100,00
+7 Alor 95,47 92,20
+8 Lembata 97,31 100,00
+9 Flores Timur 100,00 100,00
+10 Sikka 91,08 67,64
+11 Ende 98,53 99,85
+12 Ngada 100,00 100,00
+13 Manggarai 97,61 98,16
+14 Rote Ndao 99,60 97,00
+15 Manggarai Barat 100,00 90,92
+16 Sumba Tengah 100,00 95,39
+17 Sumba Barat Daya 98,89 97,27
+18 Nagekeo 100,00 100,00
+19 Manggarai Timur 100,00 96,50
+20 Sabu Raijua 100,00 97,24
+21 Malaka 98,24 60,55
+22 Kota Kupang 97,16 99,75
+Nusa Tenggara Timur 98,32 94,32
+1 Sambas 100,00 88,61
+2 Bengkayang 100,00 100,00
+3 Landak 99,64 98,53
+4 Mempawah 100,00 100,00
+5 Sanggau 86,32 68,16
+6 Ketapang 100,00 98,01
+https://www.bps.go.id
+
+
+===== PDF PAGE 71 =====
+Pendidikan
+57
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+7 Sintang 100,00 94,41
+8 Kapuas Hulu 100,00 100,00
+9 Sekadau 100,00 100,00
+10 Melawi 94,72 100,00
+11 Kayong Utara 100,00 92,77
+12 Kubu Raya 100,00 75,40
+13 Kota Pontianak 78,93 92,60
+14 Kota Singkawang 99,66 95,10
+Kalimantan Barat 97,46 91,70
+1 Kotawaringin Barat 100,00 100,00
+2 Kotawaringin Timur 100,00 89,35
+3 Kapuas 100,00 75,80
+4 Barito Selatan 91,90 100,00
+5 Barito Utara 100,00 94,24
+6 Sukamara 100,00 –
+7 Lamandau 100,00 100,00
+8 Seruyan 99,81 100,00
+9 Katingan 100,00 100,00
+10 Pulang Pisau 100,00 –
+11 Gunung Mas 100,00 100,00
+12 Barito Timur 100,00 100,00
+13 Murung Raya 97,89 100,00
+14 Kota Palangka Raya 100,00 100,00
+Kalimantan Tengah 99,39 90,97
+1 Tanah Laut 100,00 100,00
+2 Kotabaru 97,57 100,00
+3 Banjar 100,00 60,61
+4 Barito Kuala 100,00 73,43
+5 Tapin 83,99 63,14
+6 Hulu Sungai Selatan 100,00 65,41
+7 Hulu Sungai Tengah 100,00 91,52
+8 Hulu Sungai Utara 100,00 –
+9 Tabalong 100,00 81,25
+10 Tanah Bumbu 100,00 100,00
+https://www.bps.go.id
+
+
+===== PDF PAGE 72 =====
+58
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+11 Balangan 100,00 100,00
+12 Kota Banjarmasin 100,00 94,31
+13 Kota Banjar Baru 100,00 100,00
+Kalimantan Selatan 99,34 85,49
+1 Paser 100,00 72,95
+2 Kutai Barat 95,33 93,38
+3 Kutai Kartanegara 96,56 79,07
+4 Kutai Timur 98,37 100,00
+5 Berau 100,00 100,00
+6 Penajam Paser Utara 99,60 98,88
+7 Mahakam Ulu 100,00 100,00
+8 Kota Balikpapan 100,00 100,00
+9 Kota Samarinda 100,00 NA
+10 Kota Bontang 100,00 84,19
+Kalimantan Timur 98,39 85,55
+1 Malinau 82,06 87,34
+2 Bulungan 99,18 98,28
+3 Tana Tidung 100,00 91,25
+4 Nunukan 100,00 100,00
+5 Kota Tarakan 100,00 94,74
+Kalimantan Utara 97,85 96,18
+1 Bolaang Mongondow 100,00 100,00
+2 Minahasa 100,00 100,00
+3 Kepulauan Sangihe 100,00 100,00
+4 Kepulauan Talaud 100,00 100,00
+5 Minahasa Selatan 100,00 100,00
+6 Minahasa Utara 100,00 92,23
+7 Bolaang Mongondow Utara 100,00 91,87
+8 Kepulauan Sitaro 100,00 100,00
+9 Minahasa Tenggara 95,37 100,00
+10 Bolaang Mongondow Selatan 100,00 94,87
+11 Bolaang Mongondow Timur 94,79 91,27
+12 Kota Manado 64,42 86,46
+https://www.bps.go.id
+
+
+===== PDF PAGE 73 =====
+Pendidikan
+59
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+13 Kota Bitung 100,00 72,36
+14 Kota Tomohon 100,00 84,11
+15 Kota Kotamobagu 100,00 100,00
+Sulawesi Utara 95,32 94,43
+1 Banggai Kepulauan 97,18 100,00
+2 Banggai 99,56 100,00
+3 Morowali 100,00 88,35
+4 Poso 100,00 93,74
+5 Donggala 96,06 100,00
+6 Tolitoli 91,34 47,26
+7 Buol 93,92 85,69
+8 Parigi Moutong 93,51 69,36
+9 Tojo Una-Una 100,00 80,33
+10 Sigi 90,29 66,11
+11 Banggai Laut 100,00 98,37
+12 Morowali Utara 87,75 98,99
+13 Kota Palu 94,40 100,00
+Sulawesi Tengah 95,32 83,64
+1 Kepulauan Selayar 100,00 98,62
+2 Bulukumba 91,30 61,99
+3 Bantaeng 100,00 51,89
+4 Jeneponto 95,77 96,44
+5 Takalar 100,00 87,88
+6 Gowa 95,98 87,56
+7 Sinjai 92,51 90,44
+8 Maros 100,00 100,00
+9 Pangkajene Dan Kepulauan 97,32 92,81
+10 Barru 91,47 80,03
+11 Bone 99,56 79,62
+12 Soppeng 100,00 100,00
+13 Wajo 100,00 72,71
+14 Sidenreng Rappang 100,00 96,40
+15 Pinrang 100,00 74,43
+16 Enrekang 94,92 100,00
+https://www.bps.go.id
+
+
+===== PDF PAGE 74 =====
+60
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+17 Luwu 99,77 83,91
+18 Tana Toraja 99,62 100,00
+19 Luwu Utara 100,00 100,00
+20 Luwu Timur 92,09 99,36
+21 Toraja Utara 97,46 91,71
+22 Kota Makassar 100,00 100,00
+23 Kota Parepare 100,00 100,00
+24 Kota Palopo 100,00 100,00
+Sulawesi Selatan 98,02 89,71
+1 Buton 97,62 100,00
+2 Muna 95,88 100,00
+3 Konawe 100,00 100,00
+4 Kolaka 98,46 99,71
+5 Konawe Selatan 100,00 96,93
+6 Bombana 93,25 85,08
+7 Wakatobi 100,00 97,87
+8 Kolaka Utara 100,00 100,00
+9 Buton Utara 99,61 92,81
+10 Konawe Utara 100,00 91,59
+11 Kolaka Timur 100,00 86,69
+12 Konawe Kepulauan 100,00 100,00
+13 Muna Barat 100,00 100,00
+14 Buton Tengah 100,00 94,59
+15 Buton Selatan 100,00 100,00
+16 Kota Kendari 100,00 94,04
+17 Kota Baubau 96,16 98,07
+Sulawesi Tenggara 98,76 96,77
+1 Boalemo 100,00 71,13
+2 Gorontalo 97,82 69,42
+3 Pohuwato 97,37 82,62
+4 Bone Bolango 95,50 81,81
+5 Gorontalo Utara 98,39 90,44
+6 Kota Gorontalo 100,00 100,00
+Gorontalo 98,08 77,24
+https://www.bps.go.id
+
+
+===== PDF PAGE 75 =====
+Pendidikan
+61
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+1 Majene 100,00 92,14
+2 Polewali Mandar 95,00 87,84
+3 Mamasa 94,41 84,29
+4 Mamuju 96,68 94,61
+5 Pasangkayu 100,00 89,01
+6 Mamuju Tengah 96,61 58,58
+Sulawesi Barat 96,49 86,96
+1 Kepulauan Tanimbar 100,00 92,74
+2 Maluku Tenggara 97,56 92,50
+3 Maluku Tengah 100,00 97,78
+4 Buru 100,00 92,60
+5 Kepulauan Aru 99,57 88,57
+6 Seram Bagian Barat 99,69 96,00
+7 Seram Bagian Timur 97,81 91,58
+8 Maluku Barat Daya 100,00 93,71
+9 Buru Selatan 100,00 92,38
+10 Kota Ambon 100,00 100,00
+11 Kota Tual 99,78 99,04
+Maluku 99,54 95,04
+1 Halmahera Barat 100,00 100,00
+2 Halmahera Tengah 100,00 89,51
+3 Kepulauan Sula 89,35 100,00
+4 Halmahera Selatan 100,00 100,00
+5 Halmahera Utara 100,00 70,47
+6 Halmahera Timur 100,00 100,00
+7 Pulau Morotai 100,00 84,96
+8 Pulau Taliabu 90,72 100,00
+9 Kota Ternate 100,00 100,00
+10 Kota Tidore Kepulauan 100,00 100,00
+Maluku Utara 98,08 93,51
+1 Fakfak 100,00 89,74
+2 Kaimana 97,75 73,57
+3 Teluk Wondama 97,70 97,83
+https://www.bps.go.id
+
+
+===== PDF PAGE 76 =====
+62
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+4 Teluk Bintuni 98,45 94,58
+5 Manokwari 95,42 98,97
+6 Manokwari Selatan 98,23 100,00
+7 Pegunungan Arfak 87,46 88,53
+Papua Barat 96,42 93,90
+1 Raja Ampat 99,51 79,92
+2 Sorong 99,48 90,19
+3 Sorong Selatan 92,44 98,64
+4 Maybrat 97,06 100,00
+5 Tambrauw 100,00 92,40
+6 Kota Sorong 94,52 88,55
+Papua Barat Daya 96,54 90,99
+1 Jayapura 99,70 100,00
+2 Kepulauan Yapen 95,98 99,62
+3 Biak Numfor 99,57 98,68
+4 Sarmi 98,97 85,22
+5 Keerom 92,30 81,26
+6 Waropen 95,09 98,14
+7 Supiori 97,53 95,07
+8 Mamberamo Raya 91,30 95,33
+9 Kota Jayapura 97,80 81,56
+Papua 97,29 93,07
+1 Merauke 92,22 94,62
+2 Boven Digoel 98,21 96,00
+3 Mappi 88,25 92,88
+4 Asmat 78,62 89,07
+Papua Selatan 87,28 92,53
+1 Mimika 93,19 86,64
+2 Dogiyai 91,52 71,28
+3 Deiyai 52,82 60,45
+4 Nabire 90,40 100,00
+5 Paniai 88,68 56,70
+https://www.bps.go.id
+
+
+===== PDF PAGE 77 =====
+Pendidikan
+63
+Lanjutan Tabel 3.2
+No Kabupaten/Kota
+Angka Partisipasi Sekolah
+7–12 tahun 13–15 tahun
+(1) (2) (3) (4)
+6 Intan Jaya 75,81 64,39
+7 Puncak 55,38 15,05
+8 Puncak Jaya 71,88 42,66
+Papua Tengah 77,02 56,94
+1 Nduga 72,47 65,63
+2 Jayawijaya 75,96 67,47
+3 Lanny Jaya 94,05 98,23
+4 Tolikara 53,87 55,06
+5 Mamberamo Tengah 87,13 50,01
+6 Yalimo 85,32 96,60
+7 Yahukimo 65,30 53,80
+8 Pegunungan Bintang 59,06 49,74
+Papua Pegunungan 75,46 69,14
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025
+Catatan : Not Applicable (NA) menunjukan bahwa data tidak dapat ditampilkan karena nilai                                relative standar error (RSE) lebih dari 50 persen
+https://www.bps.go.id
+
+
+===== PDF PAGE 78 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 79 =====
+2
+0
+2
+5
+Ketenaga
+kerjaan
+Ketenagakerjaan
+https://www.bps.go.id
+
+
+===== PDF PAGE 80 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 81 =====
+67
+Ketenagakerjaan
+Tabel 4.1 Persentase Penduduk Miskin Usia 15 Tahun ke Atas Menurut Kabupaten/ 
+               Kota dan Status Bekerja, 2025
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+1 Simeulue 43,03 49,18 7,79
+2 Aceh Singkil 50,78 40,79 8,43
+3 Aceh Selatan 56,57 35,77 7,66
+4 Aceh Tenggara 38,20 49,16 12,64
+5 Aceh Timur 55,81 25,48 18,71
+6 Aceh Tengah 30,98 55,48 13,54
+7 Aceh Barat 41,84 26,84 31,32
+8 Aceh Besar 45,21 35,92 18,86
+9 Pidie 50,84 29,35 19,81
+10 Bireuen 40,64 34,90 24,46
+11 Aceh Utara 53,01 30,41 16,58
+12 Aceh Barat Daya 41,16 33,98 24,86
+13 Gayo Lues 31,96 62,73 NA
+14 Aceh Tamiang 50,21 31,30 18,49
+15 Nagan Raya 54,23 27,75 18,03
+16 Aceh Jaya 31,50 50,03 18,47
+17 Bener Meriah 33,16 56,71 10,13
+18 Pidie Jaya 46,00 31,39 22,61
+19 Kota Banda Aceh 57,05 16,86 26,09
+20 Kota Sabang 47,43 26,08 26,48
+21 Kota Langsa 55,97 21,62 22,41
+22 Kota Lhokseumawe 43,78 17,26 38,96
+23 Kota Subulussalam 53,13 30,54 16,33
+Aceh 47,09 34,00 18,91
+1 Nias 16,39 83,25 NA
+2 Mandailing Natal 39,22 57,26 NA
+3 Tapanuli Selatan 22,16 59,64 18,19
+4 Tapanuli Tengah 30,68 55,65 13,67
+5 Tapanuli Utara 15,82 73,75 10,43
+KETENAGAKERJAAN
+https://www.bps.go.id
+
+
+===== PDF PAGE 82 =====
+68
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+6 Toba 29,88 64,55 5,57
+7 Labuhan Batu 46,21 24,11 29,68
+8 Asahan 40,95 29,27 29,78
+9 Simalungun 43,40 39,20 17,40
+10 Dairi 19,98 76,91 3,11
+11 Karo 14,34 61,79 23,87
+12 Deli Serdang 50,56 17,76 31,67
+13 Langkat 44,99 32,32 22,69
+14 Nias Selatan 32,35 63,39 4,26
+15 Humbang Hasundutan NA 80,64 NA
+16 Pakpak Bharat 24,30 71,79 NA
+17 Samosir 12,56 83,97 3,47
+18 Serdang Bedagai 41,29 31,49 27,22
+19 Batu Bara 42,28 34,17 23,55
+20 Padang Lawas Utara 28,80 59,53 11,67
+21 Padang Lawas 29,62 49,98 20,41
+22 Labuhanbatu Selatan 48,62 27,82 23,55
+23 Labuhanbatu Utara 46,46 34,90 18,64
+24 Nias Utara 25,23 67,04 7,73
+25 Nias Barat 15,58 78,88 5,54
+26 Kota Sibolga 57,76 22,86 19,38
+27 Kota Tanjungbalai 46,27 11,66 42,06
+28 Kota Pematangsiantar 31,07 51,64 17,29
+29 Kota Tebing Tinggi 45,02 23,34 31,64
+30 Kota Medan 44,73 26,00 29,27
+31 Kota Binjai 48,85 19,58 31,57
+32 Kota Padangsidimpuan 28,28 49,36 22,36
+33 Kota Gunungsitoli 31,50 56,28 12,21
+Sumatera Utara 38,32 40,99 20,68
+1 Kepulauan Mentawai 27,17 67,72 5,11
+2 Pesisir Selatan 47,60 33,04 19,36
+3 Solok 40,82 53,22 5,96
+4 Sijunjung 40,43 47,59 11,98
+5 Tanah Datar 38,94 48,06 NA
+6 Padang Pariaman 47,30 35,61 17,09
+7 Agam 39,51 47,16 13,33
+https://www.bps.go.id
+
+
+===== PDF PAGE 83 =====
+69
+Ketenagakerjaan
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+8 Lima Puluh Kota 31,54 51,23 17,22
+9 Pasaman 32,04 65,24 NA
+10 Solok Selatan 42,21 51,16 NA
+11 Dharmasraya 33,22 43,03 23,75
+12 Pasaman Barat 45,23 35,13 19,64
+13 Kota Padang 36,31 40,36 23,33
+14 Kota Solok 56,53 29,14 14,32
+15 Kota Sawahlunto 56,85 NA 22,52
+16 Kota Padang Panjang 53,32 24,44 22,24
+17 Kota Bukittinggi 47,77 33,84 NA
+18 Kota Payakumbuh 40,76 39,96 19,28
+19 Kota Pariaman 50,43 22,67 26,90
+Sumatera Barat 40,19 43,97 15,84
+1 Kuantan Singingi 50,36 38,89 10,76
+2 Indragiri Hulu 36,28 46,97 16,75
+3 Indragiri Hilir 45,17 47,06 7,77
+4 Pelalawan 46,56 34,63 18,81
+5 Siak 54,69 26,53 18,78
+6 Kampar 40,05 32,78 27,17
+7 Rokan Hulu 52,05 18,74 29,21
+8 Bengkalis 37,93 30,15 31,92
+9 Rokan Hilir 51,50 28,35 20,15
+10 Kepulauan Meranti 43,21 31,05 25,75
+11 Kota Pekanbaru 40,31 16,74 42,95
+12 Kota Dumai 49,94 16,51 33,55
+Riau 45,77 30,48 23,75
+1 Kerinci 41,60 52,63 NA
+2 Merangin 36,41 40,84 22,75
+3 Sarolangun 40,30 37,13 22,57
+4 Batang Hari 38,46 35,11 26,43
+5 Muaro Jambi 46,28 30,55 23,17
+6 Tanjung Jabung Timur 43,79 46,60 9,62
+7 Tanjung Jabung Barat 49,63 35,21 15,16
+8 Tebo 58,11 32,95 8,94
+9 Bungo 46,04 24,24 29,72
+https://www.bps.go.id
+
+
+===== PDF PAGE 84 =====
+70
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+10 Kota Jambi 48,23 16,49 35,28
+11 Kota Sungai Penuh 73,55 26,45 –
+Jambi 45,28 33,61 21,11
+1 Ogan Komering Ulu 28,65 60,64 10,71
+2 Ogan Komering Ilir 49,73 41,85 8,42
+3 Muara Enim 36,70 49,55 13,74
+4 Lahat 34,74 49,11 16,15
+5 Musi Rawas 36,28 45,03 18,69
+6 Musi Banyuasin 48,54 31,46 20,00
+7 Banyuasin 39,92 39,70 20,37
+8 Ogan Komering Ulu Selatan 44,93 45,37 9,70
+9 Ogan Komering Ulu Timur 43,46 22,95 33,59
+10 Ogan Ilir 39,40 45,10 15,49
+11 Empat Lawang 44,09 41,18 14,73
+12 Penukal Abab Lematang Ilir 44,04 46,12 NA
+13 Musi Rawas Utara 39,24 39,60 21,16
+14 Kota Palembang 50,24 20,42 29,33
+15 Kota Prabumulih 52,02 25,49 22,49
+16 Kota Pagar Alam 36,14 47,03 16,83
+17 Kota Lubuk Linggau 41,46 19,66 38,89
+Sumatera Selatan 42,99 37,42 19,59
+1 Bengkulu Selatan 35,42 54,79 9,79
+2 Rejang Lebong 30,90 58,89 10,21
+3 Bengkulu Utara 46,50 37,17 16,34
+4 Kaur 33,44 53,17 13,40
+5 Seluma 30,47 56,99 12,54
+6 Mukomuko 51,24 36,82 11,94
+7 Lebong 29,15 62,32 8,54
+8 Kepahiang 35,46 56,14 8,40
+9 Bengkulu Tengah 41,11 44,21 14,68
+10 Kota Bengkulu 42,45 18,27 39,28
+Bengkulu 37,80 45,22 16,98
+1 Lampung Barat 35,95 46,40 17,65
+https://www.bps.go.id
+
+
+===== PDF PAGE 85 =====
+71
+Ketenagakerjaan
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+2 Tanggamus 54,77 36,17 9,06
+3 Lampung Selatan 34,77 47,02 18,21
+4 Lampung Timur 41,84 43,21 14,95
+5 Lampung Tengah 37,11 51,00 11,89
+6 Lampung Utara 46,10 40,41 13,50
+7 Way Kanan 42,47 45,89 11,64
+8 Tulang Bawang 43,31 32,69 24,00
+9 Pesawaran 41,67 43,06 15,26
+10 Pringsewu 37,41 41,82 20,76
+11 Mesuji 44,80 37,89 17,31
+12 Tulang Bawang Barat 35,34 49,37 15,29
+13 Pesisir Barat 42,79 45,31 11,90
+14 Kota Bandar Lampung 46,92 16,58 36,50
+15 Kota Metro 31,32 32,25 36,43
+Lampung 41,45 41,75 16,80
+1 Bangka 43,04 28,62 28,34
+2 Belitung 47,82 26,24 25,94
+3 Bangka Barat 23,66 56,01 20,33
+4 Bangka Tengah 47,48 22,63 29,89
+5 Bangka Selatan 47,12 23,62 29,25
+6 Belitung Timur 42,12 30,58 27,30
+7 Kota Pangkal Pinang 47,61 28,59 23,80
+Bangka Belitung 44,37 28,51 27,12
+1 Karimun 38,20 15,35 46,44
+2 Bintan 55,77 14,85 29,38
+3 Natuna 33,70 35,69 30,61
+4 Lingga 52,05 30,22 17,73
+5 Kepulauan Anambas 57,34 26,73 15,92
+6 Kota Batam 44,43 29,50 26,07
+7 Kota Tanjungpinang 57,11 18,43 24,45
+Kepulauan Riau 46,91 25,05 28,05
+1 Kepulauan Seribu 47,34 20,55 32,12
+2 Kota Jakarta Selatan 53,53 18,98 27,48
+3 Kota Jakarta Timur 50,71 31,36 17,93
+https://www.bps.go.id
+
+
+===== PDF PAGE 86 =====
+72
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+4 Kota Jakarta Pusat 49,79 12,92 37,29
+5 Kota Jakarta Barat 42,29 19,26 38,45
+6 Kota Jakarta Utara 40,51 29,32 30,17
+DKI Jakarta 46,61 24,19 29,20
+1 Bogor 52,61 23,21 24,18
+2 Sukabumi 54,03 34,35 11,62
+3 Cianjur 51,84 37,28 10,89
+4 Bandung 54,73 15,21 30,06
+5 Garut 43,39 44,22 12,39
+6 Tasikmalaya 48,28 35,83 15,89
+7 Ciamis 41,03 41,01 17,96
+8 Kuningan 56,22 28,78 15,00
+9 Cirebon 48,86 29,07 22,07
+10 Majalengka 40,42 33,88 25,69
+11 Sumedang 46,40 39,97 13,63
+12 Indramayu 54,48 30,85 14,67
+13 Subang 55,62 23,54 20,84
+14 Purwakarta 40,70 36,23 23,08
+15 Karawang 48,70 20,69 30,61
+16 Bekasi 52,10 20,26 27,65
+17 Bandung Barat 45,98 25,69 28,33
+18 Pangandaran 30,54 53,14 16,33
+19 Kota Bogor 44,43 14,38 41,18
+20 Kota Sukabumi 45,97 33,34 20,69
+21 Kota Bandung 49,53 21,20 29,27
+22 Kota Cirebon 53,30 24,77 21,94
+23 Kota Bekasi 34,40 18,25 47,35
+24 Kota Depok 54,29 17,47 28,24
+25 Kota Cimahi 49,35 17,64 33,01
+26 Kota Tasikmalaya 41,88 29,20 28,92
+27 Kota Banjar 46,27 30,18 23,55
+Jawa Barat 48,98 28,58 22,44
+1 Cilacap 49,07 39,32 11,60
+2 Banyumas 49,95 30,95 19,10
+3 Purbalingga 38,10 37,46 24,43
+https://www.bps.go.id
+
+
+===== PDF PAGE 87 =====
+73
+Ketenagakerjaan
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+4 Banjarnegara 39,09 41,64 19,27
+5 Kebumen 39,34 51,51 9,15
+6 Purworejo 41,69 43,85 14,47
+7 Wonosobo 31,66 50,72 17,61
+8 Magelang 23,80 61,33 14,88
+9 Boyolali 39,56 43,47 16,96
+10 Klaten 44,93 29,67 25,40
+11 Sukoharjo 41,21 21,05 37,75
+12 Wonogiri 24,80 63,25 11,95
+13 Karanganyar 44,44 36,49 19,07
+14 Sragen 42,05 42,70 15,26
+15 Grobogan 35,82 55,45 8,73
+16 Blora 32,16 56,85 11,00
+17 Rembang 39,50 38,08 22,42
+18 Pati 33,39 44,52 22,08
+19 Kudus 39,24 26,10 34,66
+20 Jepara 46,50 29,35 24,15
+21 Demak 53,82 31,00 15,18
+22 Semarang 31,92 49,04 19,04
+23 Temanggung 31,28 55,76 12,97
+24 Kendal 45,55 34,80 19,65
+25 Batang 38,44 32,12 29,44
+26 Pekalongan 29,15 39,85 31,00
+27 Pemalang 40,63 41,92 17,45
+28 Tegal 40,83 50,03 9,14
+29 Brebes 45,15 39,24 15,61
+30 Kota Magelang 45,56 23,32 31,12
+31 Kota Surakarta 37,40 23,34 39,26
+32 Kota Salatiga 54,57 22,78 22,65
+33 Kota Semarang 46,01 18,65 35,34
+34 Kota Pekalongan 42,30 16,68 41,02
+35 Kota Tegal 47,54 32,29 20,17
+Jawa Tengah 40,14 41,21 18,65
+1 Kulon Progo 24,71 56,25 19,03
+2 Bantul 33,54 39,12 27,34
+3 Gunungkidul 28,15 58,39 13,46
+https://www.bps.go.id
+
+
+===== PDF PAGE 88 =====
+74
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+4 Sleman 39,87 30,58 29,55
+5 Kota Yogyakarta 38,73 35,09 26,18
+DI Yogyakarta 32,31 45,13 22,56
+1 Pacitan 42,92 39,09 17,99
+2 Ponorogo 27,61 61,89 10,50
+3 Trenggalek 35,92 48,46 15,62
+4 Tulungagung 40,94 26,88 32,18
+5 Blitar 32,40 49,19 18,41
+6 Kediri 44,91 33,79 21,30
+7 Malang 39,08 39,82 21,10
+8 Lumajang 31,41 48,43 20,17
+9 Jember 42,58 28,08 29,34
+10 Banyuwangi 41,72 40,91 17,37
+11 Bondowoso 31,09 55,20 13,71
+12 Situbondo 28,59 57,67 13,74
+13 Probolinggo 36,40 41,72 21,88
+14 Pasuruan 38,16 40,15 21,69
+15 Sidoarjo 28,98 31,01 40,01
+16 Mojokerto 35,39 37,19 27,42
+17 Jombang 47,84 31,51 20,65
+18 Nganjuk 32,10 42,58 25,32
+19 Madiun 44,61 39,40 15,99
+20 Magetan 28,43 60,36 11,21
+21 Ngawi 30,66 53,78 15,56
+22 Bojonegoro 36,17 44,69 19,14
+23 Tuban 38,03 39,10 22,87
+24 Lamongan 43,88 33,78 22,34
+25 Gresik 39,81 31,67 28,52
+26 Bangkalan 33,91 59,24 6,85
+27 Sampang 40,32 53,66 6,01
+28 Pamekasan 35,50 53,59 10,91
+29 Sumenep 32,10 51,95 15,95
+30 Kota Kediri 38,59 33,98 27,43
+31 Kota Blitar 38,03 24,68 37,29
+32 Kota Malang 47,28 32,66 20,06
+33 Kota Probolinggo 47,99 22,73 29,27
+https://www.bps.go.id
+
+
+===== PDF PAGE 89 =====
+75
+Ketenagakerjaan
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+34 Kota Pasuruan 32,75 30,78 36,46
+35 Kota Mojokerto 54,97 25,35 19,68
+36 Kota Madiun 35,54 23,24 41,22
+37 Kota Surabaya 43,49 29,30 27,21
+38 Kota Batu 47,12 35,98 16,89
+Jawa Timur 37,41 42,83 19,76
+1 Pandeglang 48,19 22,35 29,45
+2 Lebak 62,12 29,06 8,81
+3 Tangerang 48,43 22,98 28,59
+4 Serang 62,94 18,14 18,92
+5 Kota Tangerang 39,38 24,32 36,30
+6 Kota Cilegon 48,80 23,69 27,51
+7 Kota Serang 52,24 21,62 26,14
+8 Kota Tangerang Selatan 47,75 NA 47,06
+Banten 50,30 22,52 27,18
+1 Jembrana 39,76 NA 30,35
+2 Tabanan 32,33 50,06 17,61
+3 Badung 43,29 17,95 38,76
+4 Gianyar 29,33 44,94 25,74
+5 Klungkung 25,81 43,48 30,71
+6 Bangli 15,05 62,87 22,07
+7 Karangasem 30,42 38,09 31,49
+8 Buleleng 39,52 32,88 27,61
+9 Kota Denpasar 28,17 36,01 35,82
+Bali 32,91 38,35 28,74
+1 Lombok Barat 31,28 51,53 17,19
+2 Lombok Tengah 37,02 49,14 13,84
+3 Lombok Timur 38,80 41,22 19,99
+4 Sumbawa 39,92 50,64 9,45
+5 Dompu 43,51 47,30 9,20
+6 Bima 37,28 56,42 6,30
+7 Sumbawa Barat 35,80 40,02 24,18
+8 Lombok Utara 36,97 52,24 10,79
+9 Kota Mataram 36,30 31,03 32,68
+https://www.bps.go.id
+
+
+===== PDF PAGE 90 =====
+76
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+10 Kota Bima 35,29 44,79 19,92
+Nusa Tenggara Barat 37,17 47,02 15,81
+1 Sumba Barat 35,46 58,17 6,37
+2 Sumba Timur 24,64 65,96 9,40
+3 Kupang 38,97 58,59 2,44
+4 Timor Tengah Selatan 20,87 72,77 6,37
+5 Timor Tengah Utara 34,53 55,18 10,29
+6 Belu 48,82 44,43 6,75
+7 Alor 26,84 68,13 5,03
+8 Lembata 34,76 58,38 6,85
+9 Flores Timur 30,64 53,91 15,45
+10 Sikka 28,38 68,01 3,61
+11 Ende 18,80 71,26 9,93
+12 Ngada 22,89 72,06 5,05
+13 Manggarai 33,29 56,71 10,00
+14 Rote Ndao 27,24 66,49 6,27
+15 Manggarai Barat 20,94 76,38 2,69
+16 Sumba Tengah 40,15 53,25 6,60
+17 Sumba Barat Daya 19,85 77,88 2,26
+18 Nagekeo 21,16 73,44 5,40
+19 Manggarai Timur 16,97 78,96 4,07
+20 Sabu Raijua 30,02 61,02 8,96
+21 Malaka 35,11 56,06 8,83
+22 Kota Kupang 47,44 35,98 16,58
+Nusa Tenggara Timur 28,49 64,69 6,81
+1 Sambas 53,23 34,46 12,31
+2 Bengkayang 32,21 52,27 15,52
+3 Landak 38,58 43,51 17,91
+4 Mempawah 46,82 31,50 21,68
+5 Sanggau 51,52 43,91 NA
+6 Ketapang 44,76 36,24 19,00
+7 Sintang 28,84 56,50 14,66
+8 Kapuas Hulu 35,70 43,23 21,07
+9 Sekadau 33,96 56,50 9,54
+10 Melawi 30,47 41,23 28,31
+https://www.bps.go.id
+
+
+===== PDF PAGE 91 =====
+77
+Ketenagakerjaan
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+11 Kayong Utara 54,21 28,55 17,24
+12 Kubu Raya 66,19 17,59 16,23
+13 Kota Pontianak 49,05 18,25 32,69
+14 Kota Singkawang 49,96 16,74 33,30
+Kalimantan Barat 43,71 37,96 18,33
+1 Kotawaringin Barat 44,65 13,91 41,44
+2 Kotawaringin Timur 39,10 29,31 31,58
+3 Kapuas 28,40 58,00 13,60
+4 Barito Selatan 34,27 48,35 17,38
+5 Barito Utara 42,50 31,76 25,74
+6 Sukamara 62,11 30,36 NA
+7 Lamandau 65,72 28,52 NA
+8 Seruyan 41,20 26,05 32,74
+9 Katingan 41,58 24,77 33,65
+10 Pulang Pisau 52,86 22,77 24,37
+11 Gunung Mas 46,64 27,18 26,18
+12 Barito Timur 32,91 57,68 9,41
+13 Murung Raya 54,41 19,13 26,46
+14 Kota Palangka Raya 49,45 29,53 NA
+Kalimantan Tengah 41,43 33,44 25,13
+1 Tanah Laut 44,31 24,18 31,51
+2 Kotabaru 58,72 26,92 14,36
+3 Banjar 34,25 30,24 35,51
+4 Barito Kuala 37,59 56,52 NA
+5 Tapin 48,00 43,08 8,92
+6 Hulu Sungai Selatan 33,62 53,16 13,22
+7 Hulu Sungai Tengah 30,41 57,51 12,08
+8 Hulu Sungai Utara 41,70 40,91 17,39
+9 Tabalong 28,92 57,89 NA
+10 Tanah Bumbu 49,80 33,73 NA
+11 Balangan 28,28 59,59 NA
+12 Kota Banjarmasin 50,09 21,51 28,40
+13 Kota Banjar Baru 40,49 30,38 29,14
+Kalimantan Selatan 42,19 37,75 20,07
+https://www.bps.go.id
+
+
+===== PDF PAGE 92 =====
+78
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+1 Paser 50,33 23,04 26,62
+2 Kutai Barat 50,84 36,44 12,72
+3 Kutai Kartanegara 42,24 38,91 18,85
+4 Kutai Timur 48,53 27,33 24,15
+5 Berau 45,75 28,00 26,25
+6 Penajam Paser Utara 50,97 34,75 14,29
+7 Mahakam Ulu 36,00 44,00 19,99
+8 Kota Balikpapan 43,89 36,75 19,36
+9 Kota Samarinda 43,53 44,97 NA
+10 Kota Bontang 47,94 22,74 29,33
+Kalimantan Timur 46,00 34,25 19,75
+1 Malinau 37,85 51,83 10,32
+2 Bulungan 37,19 37,19 25,61
+3 Tana Tidung 51,99 27,97 NA
+4 Nunukan 40,96 24,18 34,86
+5 Kota Tarakan 47,55 17,74 34,71
+Kalimantan Utara 42,13 28,95 28,92
+1 Bolaang Mongondow 43,62 36,77 NA
+2 Minahasa 50,58 19,01 30,40
+3 Kepulauan Sangihe 40,95 46,44 12,61
+4 Kepulauan Talaud 43,80 52,33 NA
+5 Minahasa Selatan 47,38 41,69 10,93
+6 Minahasa Utara 46,20 24,29 29,51
+7 Bolaang Mongondow Utara 45,58 34,81 19,61
+8 Kepulauan Sitaro 51,77 37,29 10,95
+9 Minahasa Tenggara 48,54 35,02 16,45
+10 Bolaang Mongondow Selatan 55,85 34,06 10,09
+11 Bolaang Mongondow Timur 50,06 35,04 14,90
+12 Kota Manado 67,82 12,79 19,38
+13 Kota Bitung 58,72 23,80 17,47
+14 Kota Tomohon 68,88 12,07 19,06
+15 Kota Kotamobagu 43,17 36,90 19,93
+Sulawesi Utara 50,97 30,85 18,18
+1 Banggai Kepulauan 39,74 54,32 5,94
+https://www.bps.go.id
+
+
+===== PDF PAGE 93 =====
+79
+Ketenagakerjaan
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+2 Banggai 38,73 41,25 20,02
+3 Morowali 49,93 28,71 21,36
+4 Poso 43,23 42,40 14,37
+5 Donggala 37,41 46,87 15,72
+6 Tolitoli 51,73 38,49 9,78
+7 Buol 34,59 58,03 7,38
+8 Parigi Moutong 31,55 60,87 7,57
+9 Tojo Una-Una 29,69 65,16 5,15
+10 Sigi 34,29 59,30 6,41
+11 Banggai Laut 59,11 32,88 8,01
+12 Morowali Utara 49,36 41,42 9,23
+13 Kota Palu 44,65 19,47 35,88
+Sulawesi Tengah 39,45 48,15 12,41
+1 Kepulauan Selayar 45,77 40,20 14,03
+2 Bulukumba 37,31 46,46 16,22
+3 Bantaeng 42,30 43,90 13,81
+4 Jeneponto 38,54 47,65 13,81
+5 Takalar 53,22 23,66 23,13
+6 Gowa 51,18 34,36 14,46
+7 Sinjai 49,83 44,09 NA
+8 Maros 51,15 25,79 23,05
+9 Pangkajene Dan Kepulauan 48,59 34,78 16,63
+10 Barru 58,45 23,57 17,98
+11 Bone 52,86 38,23 8,91
+12 Soppeng 52,01 26,98 21,01
+13 Wajo 54,04 34,18 11,79
+14 Sidenreng Rappang 57,12 28,50 14,38
+15 Pinrang 47,71 34,05 18,24
+16 Enrekang 31,57 65,47 2,97
+17 Luwu 45,34 35,11 19,55
+18 Tana Toraja 23,89 64,65 11,46
+19 Luwu Utara 33,88 56,47 9,65
+20 Luwu Timur 48,33 33,91 17,75
+21 Toraja Utara 21,89 64,00 14,12
+22 Kota Makassar 56,64 18,51 24,85
+23 Kota Parepare 40,31 29,99 29,70
+https://www.bps.go.id
+
+
+===== PDF PAGE 94 =====
+80
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+24 Kota Palopo 49,39 29,17 21,44
+Sulawesi Selatan 46,78 37,45 15,77
+1 Buton 33,97 53,37 12,66
+2 Muna 34,79 44,36 20,84
+3 Konawe 40,58 44,26 15,16
+4 Kolaka 51,44 31,99 16,57
+5 Konawe Selatan 39,69 54,74 5,57
+6 Bombana 44,76 42,40 12,84
+7 Wakatobi 44,20 39,84 15,96
+8 Kolaka Utara 31,79 55,60 12,60
+9 Buton Utara 31,64 58,00 10,36
+10 Konawe Utara 59,80 18,00 22,21
+11 Kolaka Timur 37,64 50,52 11,84
+12 Konawe Kepulauan 41,60 43,73 14,67
+13 Muna Barat 41,49 46,88 11,62
+14 Buton Tengah 41,88 43,25 14,87
+15 Buton Selatan 60,42 27,08 12,50
+16 Kota Kendari 58,78 24,03 17,19
+17 Kota Baubau 50,28 27,23 22,49
+Sulawesi Tenggara 42,73 43,08 14,19
+1 Boalemo 39,08 45,71 15,21
+2 Gorontalo 41,80 42,75 15,45
+3 Pohuwato 45,65 31,77 22,58
+4 Bone Bolango 46,47 37,04 16,49
+5 Gorontalo Utara 39,06 48,98 11,95
+6 Kota Gorontalo 64,46 18,48 17,06
+Gorontalo 43,88 39,75 16,37
+1 Majene 50,31 29,85 19,84
+2 Polewali Mandar 40,08 47,88 12,04
+3 Mamasa 32,37 53,18 14,45
+4 Mamuju 30,09 64,50 5,41
+5 Pasangkayu 31,21 51,67 17,12
+6 Mamuju Tengah 43,33 45,71 10,96
+Sulawesi Barat 38,62 48,48 12,90
+https://www.bps.go.id
+
+
+===== PDF PAGE 95 =====
+81
+Ketenagakerjaan
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+1 Kepulauan Tanimbar 27,02 69,57 NA
+2 Maluku Tenggara 48,27 45,30 6,43
+3 Maluku Tengah 43,83 46,03 10,14
+4 Buru 50,84 33,82 15,33
+5 Kepulauan Aru 46,64 47,38 5,98
+6 Seram Bagian Barat 48,18 38,89 12,93
+7 Seram Bagian Timur 51,48 38,82 9,70
+8 Maluku Barat Daya 46,76 43,42 9,83
+9 Buru Selatan 26,47 66,18 7,35
+10 Kota Ambon 51,60 23,84 24,56
+11 Kota Tual 54,07 31,65 14,28
+Maluku 45,60 43,28 11,13
+1 Halmahera Barat 52,14 38,22 NA
+2 Halmahera Tengah 60,58 31,46 7,96
+3 Kepulauan Sula 47,12 45,91 NA
+4 Halmahera Selatan 41,98 40,79 17,22
+5 Halmahera Utara 45,80 46,04 NA
+6 Halmahera Timur 43,20 38,05 18,75
+7 Pulau Morotai 42,59 40,87 16,54
+8 Pulau Taliabu 47,30 38,08 14,61
+9 Kota Ternate 57,46 30,94 11,60
+10 Kota Tidore Kepulauan 39,62 38,89 21,49
+Maluku Utara 47,52 39,16 13,32
+1 Fakfak 56,93 28,01 15,06
+2 Kaimana 30,92 64,24 NA
+3 Teluk Wondama 45,81 37,93 16,27
+4 Teluk Bintuni 47,22 34,97 17,81
+5 Manokwari 57,47 31,43 11,10
+6 Manokwari Selatan 33,94 50,76 15,30
+7 Pegunungan Arfak 9,79 86,83 3,38
+Papua Barat 45,37 42,46 12,17
+1 Raja Ampat 51,75 38,33 9,92
+2 Sorong 45,18 33,42 21,39
+3 Sorong Selatan 21,45 78,15 NA
+https://www.bps.go.id
+
+
+===== PDF PAGE 96 =====
+82
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+4 Maybrat 38,47 52,33 9,21
+5 Tambrauw 35,50 52,37 12,14
+6 Kota Sorong 64,30 18,67 17,04
+Papua Barat Daya 50,15 34,96 14,89
+1 Jayapura 51,87 32,75 15,38
+2 Kepulauan Yapen 45,95 50,09 3,96
+3 Biak Numfor 40,76 50,28 8,96
+4 Sarmi 57,28 38,70 NA
+5 Keerom 43,79 46,26 9,95
+6 Waropen 49,75 31,99 18,26
+7 Supiori 67,89 20,53 11,57
+8 Mamberamo Raya 53,28 45,01 1,71
+9 Kota Jayapura 62,14 23,91 13,95
+Papua 51,09 38,93 9,99
+1 Merauke 44,33 48,85 6,82
+2 Boven Digoel 36,55 53,37 10,08
+3 Mappi 52,43 40,84 6,73
+4 Asmat 16,51 80,71 2,78
+Papua Selatan 37,94 55,81 6,25
+1 Mimika 45,92 42,13 11,95
+2 Dogiyai 13,78 86,22 –
+3 Deiyai 11,59 87,50 NA
+4 Nabire 39,21 44,62 16,17
+5 Paniai 43,96 55,62 NA
+6 Intan Jaya 25,30 74,70 –
+7 Puncak 9,33 89,44 NA
+8 Puncak Jaya 23,59 76,41 –
+Papua Tengah 27,52 69,49 2,98
+1 Nduga 11,79 60,46 27,75
+2 Jayawijaya 13,60 82,60 3,80
+3 Lanny Jaya 11,97 86,74 NA
+4 Tolikara 15,81 81,33 NA
+5 Mamberamo Tengah 17,22 78,20 4,58
+https://www.bps.go.id
+
+
+===== PDF PAGE 97 =====
+83
+Ketenagakerjaan
+Lanjutan Tabel 4.1
+No Kabupaten/Kota Tidak Bekerja1 Bekerja di 
+Sektor Informal
+Bekerja di   
+Sektor Formal
+(1) (2) (3) (4) (5)
+6 Yalimo 24,65 62,36 12,99
+7 Yahukimo 10,99 88,13 NA
+8 Pegunungan Bintang 15,89 83,99 NA
+Papua Pegunungan 13,87 80,57 5,56
+Catatan:  1 termasuk pengangguran dan bukan angkatan kerja
+                Not Applicable (NA) menunjukan bahwa data tidak dapat ditampilkan karena nilai                                 relative standar error (RSE) lebih dari 50 persen
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025
+https://www.bps.go.id
+
+
+===== PDF PAGE 98 =====
+84
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Tabel 4.2 Persentase Penduduk Miskin Usia 15 Tahun ke Atas Menurut Kabupaten/ 
+               Kota dan Sektor Bekerja, 2025
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+1 Simeulue 43,03 46,18 10,78
+2 Aceh Singkil 50,78 34,12 15,10
+3 Aceh Selatan 56,57 19,85 23,58
+4 Aceh Tenggara 38,20 37,30 24,50
+5 Aceh Timur 55,81 25,60 18,60
+6 Aceh Tengah 30,98 50,32 18,70
+7 Aceh Barat 41,84 28,97 29,19
+8 Aceh Besar 45,21 34,03 20,75
+9 Pidie 50,84 22,82 26,33
+10 Bireuen 40,64 24,12 35,25
+11 Aceh Utara 53,01 27,37 19,62
+12 Aceh Barat Daya 41,16 22,45 36,39
+13 Gayo Lues 31,96 53,83 14,21
+14 Aceh Tamiang 50,21 29,75 20,04
+15 Nagan Raya 54,23 26,61 19,16
+16 Aceh Jaya 31,50 48,33 20,17
+17 Bener Meriah 33,16 55,77 11,07
+18 Pidie Jaya 46,00 28,74 25,26
+19 Kota Banda Aceh 57,05 NA 39,26
+20 Kota Sabang 47,43 16,32 36,25
+21 Kota Langsa 55,97 10,40 33,63
+22 Kota Lhokseumawe 43,78 11,75 44,46
+23 Kota Subulussalam 53,13 16,83 30,05
+Aceh 47,09 28,74 24,18
+1 Nias 16,39 78,28 5,33
+2 Mandailing Natal 39,22 30,79 29,99
+3 Tapanuli Selatan 22,16 47,21 30,62
+4 Tapanuli Tengah 30,68 49,58 19,73
+5 Tapanuli Utara 15,82 62,12 22,07
+6 Toba 29,88 56,44 13,68
+7 Labuhan Batu 46,21 22,64 31,15
+8 Asahan 40,95 15,64 43,40
+9 Simalungun 43,40 41,02 15,58
+https://www.bps.go.id
+
+
+===== PDF PAGE 99 =====
+85
+Ketenagakerjaan
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+10 Dairi 19,98 72,20 7,82
+11 Karo 14,34 63,15 22,51
+12 Deli Serdang 50,56 12,28 37,16
+13 Langkat 44,99 10,79 44,22
+14 Nias Selatan 32,35 62,40 5,25
+15 Humbang Hasundutan NA 77,87 NA
+16 Pakpak Bharat 24,30 69,86 NA
+17 Samosir 12,56 71,55 NA
+18 Serdang Bedagai 41,29 38,80 19,91
+19 Batu Bara 42,28 25,32 32,40
+20 Padang Lawas Utara 28,80 56,37 14,83
+21 Padang Lawas 29,62 43,04 27,35
+22 Labuhanbatu Selatan 48,62 31,08 20,30
+23 Labuhanbatu Utara 46,46 33,30 20,24
+24 Nias Utara 25,23 66,59 8,19
+25 Nias Barat 15,58 74,26 10,16
+26 Kota Sibolga 57,76 5,77 36,47
+27 Kota Tanjungbalai 46,27 19,47 34,25
+28 Kota Pematangsiantar 31,07 – 68,93
+29 Kota Tebing Tinggi 45,02 NA 45,17
+30 Kota Medan 44,73 6,50 48,77
+31 Kota Binjai 48,85 NA 41,63
+32 Kota Padangsidimpuan 28,28 14,34 57,38
+33 Kota Gunungsitoli 31,50 38,12 30,38
+Sumatera Utara 38,32 30,97 30,71
+1 Kepulauan Mentawai 27,17 67,67 5,16
+2 Pesisir Selatan 47,60 34,58 17,81
+3 Solok 40,82 43,69 15,49
+4 Sijunjung 40,43 34,59 24,98
+5 Tanah Datar 38,94 25,19 35,87
+6 Padang Pariaman 47,30 27,29 25,40
+7 Agam 39,51 39,36 21,13
+8 Lima Puluh Kota 31,54 37,21 31,25
+9 Pasaman 32,04 58,81 NA
+10 Solok Selatan 42,21 42,00 15,79
+https://www.bps.go.id
+
+
+===== PDF PAGE 100 =====
+86
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+11 Dharmasraya 33,22 34,11 32,67
+12 Pasaman Barat 45,23 31,40 23,37
+13 Kota Padang 36,31 NA 61,13
+14 Kota Solok 56,53 NA 35,98
+15 Kota Sawahlunto 56,85 7,55 35,60
+16 Kota Padang Panjang 53,32 NA 40,66
+17 Kota Bukittinggi 47,77 – 52,23
+18 Kota Payakumbuh 40,76 8,38 50,86
+19 Kota Pariaman 50,43 16,62 32,95
+Sumatera Barat 40,19 30,85 28,96
+1 Kuantan Singingi 50,36 34,48 15,16
+2 Indragiri Hulu 36,28 39,35 24,37
+3 Indragiri Hilir 45,17 46,62 8,21
+4 Pelalawan 46,56 36,04 17,40
+5 Siak 54,69 25,25 20,06
+6 Kampar 40,05 21,51 38,44
+7 Rokan Hulu 52,05 35,24 12,71
+8 Bengkalis 37,93 NA 58,77
+9 Rokan Hilir 51,50 23,61 24,89
+10 Kepulauan Meranti 43,21 31,75 25,04
+11 Kota Pekanbaru 40,31 NA 59,65
+12 Kota Dumai 49,94 NA 45,22
+Riau 45,77 27,57 26,67
+1 Kerinci 41,60 40,99 17,42
+2 Merangin 36,41 47,35 16,24
+3 Sarolangun 40,30 33,68 26,03
+4 Batang Hari 38,46 27,80 33,74
+5 Muaro Jambi 46,28 27,04 26,68
+6 Tanjung Jabung Timur 43,79 41,57 14,64
+7 Tanjung Jabung Barat 49,63 31,20 19,16
+8 Tebo 58,11 37,40 NA
+9 Bungo 46,04 37,44 16,52
+10 Kota Jambi 48,23 4,68 47,09
+11 Kota Sungai Penuh 73,55 – 26,45
+https://www.bps.go.id
+
+
+===== PDF PAGE 101 =====
+87
+Ketenagakerjaan
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+Jambi 45,28 30,31 24,40
+1 Ogan Komering Ulu 28,65 52,79 18,56
+2 Ogan Komering Ilir 49,73 37,18 13,09
+3 Muara Enim 36,70 47,68 15,61
+4 Lahat 34,74 40,03 25,22
+5 Musi Rawas 36,28 44,77 18,95
+6 Musi Banyuasin 48,54 36,65 14,81
+7 Banyuasin 39,92 42,90 17,18
+8 Ogan Komering Ulu Selatan 44,93 48,68 6,39
+9 Ogan Komering Ulu Timur 43,46 35,38 21,17
+10 Ogan Ilir 39,40 39,21 21,38
+11 Empat Lawang 44,09 28,26 27,65
+12 Penukal Abab Lematang Ilir 44,04 35,88 20,08
+13 Musi Rawas Utara 39,24 40,56 20,20
+14 Kota Palembang 50,24 5,49 44,27
+15 Kota Prabumulih 52,02 18,44 29,54
+16 Kota Pagar Alam 36,14 33,33 30,54
+17 Kota Lubuk Linggau 41,46 5,77 52,78
+Sumatera Selatan 42,99 33,23 23,78
+1 Bengkulu Selatan 35,42 42,38 22,20
+2 Rejang Lebong 30,90 49,38 19,72
+3 Bengkulu Utara 46,50 39,63 13,88
+4 Kaur 33,44 50,42 16,14
+5 Seluma 30,47 48,68 20,85
+6 Mukomuko 51,24 31,93 16,84
+7 Lebong 29,15 56,58 14,28
+8 Kepahiang 35,46 42,91 21,63
+9 Bengkulu Tengah 41,11 20,50 38,39
+10 Kota Bengkulu 42,45 5,75 51,80
+Bengkulu 37,80 36,72 25,47
+1 Lampung Barat 35,95 41,52 22,53
+2 Tanggamus 54,77 29,92 15,31
+3 Lampung Selatan 34,77 37,43 27,80
+https://www.bps.go.id
+
+
+===== PDF PAGE 102 =====
+88
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+4 Lampung Timur 41,84 32,33 25,83
+5 Lampung Tengah 37,11 37,11 25,78
+6 Lampung Utara 46,10 39,84 14,06
+7 Way Kanan 42,47 42,76 14,77
+8 Tulang Bawang 43,31 32,41 24,28
+9 Pesawaran 41,67 39,23 19,09
+10 Pringsewu 37,41 29,18 33,40
+11 Mesuji 44,80 35,94 19,26
+12 Tulang Bawang Barat 35,34 44,19 20,47
+13 Pesisir Barat 42,79 44,04 13,17
+14 Kota Bandar Lampung 46,92 NA 50,75
+15 Kota Metro 31,32 NA 64,96
+Lampung 41,45 33,33 25,22
+1 Bangka 43,04 23,99 32,97
+2 Belitung 47,82 13,03 39,15
+3 Bangka Barat 23,66 22,35 53,99
+4 Bangka Tengah 47,48 20,08 32,44
+5 Bangka Selatan 47,12 17,18 35,69
+6 Belitung Timur 42,12 15,68 42,21
+7 Kota Pangkal Pinang 47,61 – 52,39
+Bangka Belitung 44,37 16,41 39,22
+1 Karimun 38,20 14,92 46,88
+2 Bintan 55,77 9,50 34,73
+3 Natuna 33,70 16,71 49,60
+4 Lingga 52,05 29,31 18,64
+5 Kepulauan Anambas 57,34 21,42 21,23
+6 Kota Batam 44,43 11,36 44,20
+7 Kota Tanjungpinang 57,11 – 42,89
+Kepulauan Riau 46,91 11,92 41,17
+1 Kepulauan Seribu 47,34 18,19 34,48
+2 Kota Jakarta Selatan 53,53 – 46,47
+3 Kota Jakarta Timur 50,71 – 49,29
+4 Kota Jakarta Pusat 49,79 – 50,21
+https://www.bps.go.id
+
+
+===== PDF PAGE 103 =====
+89
+Ketenagakerjaan
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+5 Kota Jakarta Barat 42,29 – 57,71
+6 Kota Jakarta Utara 40,51 NA 52,40
+DKI Jakarta 46,61 NA 51,48
+1 Bogor 52,61 16,61 30,78
+2 Sukabumi 54,03 19,82 26,15
+3 Cianjur 51,84 17,43 30,73
+4 Bandung 54,73 7,84 37,43
+5 Garut 43,39 20,49 36,12
+6 Tasikmalaya 48,28 16,07 35,65
+7 Ciamis 41,03 28,55 30,42
+8 Kuningan 56,22 13,69 30,09
+9 Cirebon 48,86 5,73 45,42
+10 Majalengka 40,42 30,62 28,96
+11 Sumedang 46,40 21,63 31,97
+12 Indramayu 54,48 13,28 32,24
+13 Subang 55,62 12,09 32,29
+14 Purwakarta 40,70 13,26 46,04
+15 Karawang 48,70 12,88 38,42
+16 Bekasi 52,10 11,23 36,68
+17 Bandung Barat 45,98 19,41 34,61
+18 Pangandaran 30,54 34,76 34,71
+19 Kota Bogor 44,43 – 55,57
+20 Kota Sukabumi 45,97 – 54,03
+21 Kota Bandung 49,53 – 50,47
+22 Kota Cirebon 53,30 – 46,70
+23 Kota Bekasi 34,40 NA 57,83
+24 Kota Depok 54,29 – 45,71
+25 Kota Cimahi 49,35 – 50,65
+26 Kota Tasikmalaya 41,88 6,30 51,82
+27 Kota Banjar 46,27 18,02 35,71
+Jawa Barat 48,98 14,34 36,67
+1 Cilacap 49,07 23,83 27,10
+2 Banyumas 49,95 10,46 39,59
+3 Purbalingga 38,10 24,29 37,61
+https://www.bps.go.id
+
+
+===== PDF PAGE 104 =====
+90
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+4 Banjarnegara 39,09 33,08 27,83
+5 Kebumen 39,34 21,66 39,00
+6 Purworejo 41,69 26,15 32,16
+7 Wonosobo 31,66 44,44 23,90
+8 Magelang 23,80 47,53 28,67
+9 Boyolali 39,56 30,43 30,01
+10 Klaten 44,93 11,28 43,79
+11 Sukoharjo 41,21 13,27 45,52
+12 Wonogiri 24,80 51,03 24,16
+13 Karanganyar 44,44 23,51 32,05
+14 Sragen 42,05 24,01 33,94
+15 Grobogan 35,82 37,85 26,33
+16 Blora 32,16 50,21 17,63
+17 Rembang 39,50 25,40 35,10
+18 Pati 33,39 27,46 39,15
+19 Kudus 39,24 NA 57,96
+20 Jepara 46,50 9,52 43,98
+21 Demak 53,82 18,75 27,43
+22 Semarang 31,92 31,36 36,72
+23 Temanggung 31,28 42,23 26,50
+24 Kendal 45,55 19,64 34,81
+25 Batang 38,44 15,48 46,08
+26 Pekalongan 29,15 10,61 60,24
+27 Pemalang 40,63 19,23 40,14
+28 Tegal 40,83 17,69 41,48
+29 Brebes 45,15 27,46 27,39
+30 Kota Magelang 45,56 – 54,44
+31 Kota Surakarta 37,40 – 62,60
+32 Kota Salatiga 54,57 NA 39,37
+33 Kota Semarang 46,01 – 53,99
+34 Kota Pekalongan 42,30 NA 54,54
+35 Kota Tegal 47,54 NA 51,38
+Jawa Tengah 40,14 24,60 35,26
+1 Kulon Progo 24,71 41,41 33,88
+2 Bantul 33,54 16,25 50,21
+https://www.bps.go.id
+
+
+===== PDF PAGE 105 =====
+91
+Ketenagakerjaan
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+3 Gunungkidul 28,15 48,98 22,87
+4 Sleman 39,87 8,08 52,05
+5 Kota Yogyakarta 38,73 – 61,27
+DI Yogyakarta 32,31 26,53 41,16
+1 Pacitan 42,92 41,59 15,48
+2 Ponorogo 27,61 47,23 25,16
+3 Trenggalek 35,92 37,32 26,76
+4 Tulungagung 40,94 15,25 43,81
+5 Blitar 32,40 43,45 24,15
+6 Kediri 44,91 28,12 26,97
+7 Malang 39,08 29,36 31,56
+8 Lumajang 31,41 38,20 30,39
+9 Jember 42,58 24,81 32,60
+10 Banyuwangi 41,72 29,65 28,63
+11 Bondowoso 31,09 41,57 27,34
+12 Situbondo 28,59 43,08 28,33
+13 Probolinggo 36,40 35,64 27,97
+14 Pasuruan 38,16 31,94 29,90
+15 Sidoarjo 28,98 NA 68,42
+16 Mojokerto 35,39 20,11 44,49
+17 Jombang 47,84 13,59 38,57
+18 Nganjuk 32,10 43,33 24,57
+19 Madiun 44,61 26,38 29,01
+20 Magetan 28,43 47,68 23,90
+21 Ngawi 30,66 42,27 27,07
+22 Bojonegoro 36,17 34,77 29,06
+23 Tuban 38,03 28,58 33,38
+24 Lamongan 43,88 25,12 31,00
+25 Gresik 39,81 19,22 40,97
+26 Bangkalan 33,91 42,38 23,71
+27 Sampang 40,32 37,91 21,77
+28 Pamekasan 35,50 45,53 18,98
+29 Sumenep 32,10 41,44 26,45
+30 Kota Kediri 38,59 NA 60,14
+31 Kota Blitar 38,03 NA 56,19
+https://www.bps.go.id
+
+
+===== PDF PAGE 106 =====
+92
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+32 Kota Malang 47,28 NA 51,08
+33 Kota Probolinggo 47,99 5,28 46,73
+34 Kota Pasuruan 32,75 NA 61,79
+35 Kota Mojokerto 54,97 – 45,03
+36 Kota Madiun 35,54 – 64,46
+37 Kota Surabaya 43,49 NA 55,45
+38 Kota Batu 47,12 20,42 32,46
+Jawa Timur 37,41 31,40 31,19
+1 Pandeglang 48,19 14,65 37,15
+2 Lebak 62,12 18,43 19,44
+3 Tangerang 48,43 NA 49,07
+4 Serang 62,94 NA 25,33
+5 Kota Tangerang 39,38 NA 56,91
+6 Kota Cilegon 48,80 – 51,20
+7 Kota Serang 52,24 NA 43,11
+8 Kota Tangerang Selatan 47,75 – 52,25
+Banten 50,30 7,34 42,36
+1 Jembrana 39,76 NA 48,73
+2 Tabanan 32,33 39,14 28,53
+3 Badung 43,29 13,91 42,79
+4 Gianyar 29,33 24,48 46,20
+5 Klungkung 25,81 27,81 46,38
+6 Bangli 15,05 51,94 33,01
+7 Karangasem 30,42 25,14 44,44
+8 Buleleng 39,52 16,11 44,38
+9 Kota Denpasar 28,17 – 71,83
+Bali 32,91 21,99 45,10
+1 Lombok Barat 31,28 38,41 30,31
+2 Lombok Tengah 37,02 27,93 35,05
+3 Lombok Timur 38,80 28,09 33,11
+4 Sumbawa 39,92 41,58 18,50
+5 Dompu 43,51 39,73 16,77
+6 Bima 37,28 43,51 19,22
+https://www.bps.go.id
+
+
+===== PDF PAGE 107 =====
+93
+Ketenagakerjaan
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+7 Sumbawa Barat 35,80 39,89 24,31
+8 Lombok Utara 36,97 41,43 21,60
+9 Kota Mataram 36,30 NA 60,55
+10 Kota Bima 35,29 17,61 47,10
+Nusa Tenggara Barat 37,17 32,50 30,33
+1 Sumba Barat 35,46 44,30 20,24
+2 Sumba Timur 24,64 57,08 18,28
+3 Kupang 38,97 53,71 7,31
+4 Timor Tengah Selatan 20,87 61,36 17,78
+5 Timor Tengah Utara 34,53 48,00 17,47
+6 Belu 48,82 35,85 15,34
+7 Alor 26,84 62,49 10,67
+8 Lembata 34,76 48,56 16,67
+9 Flores Timur 30,64 52,26 17,11
+10 Sikka 28,38 51,81 19,81
+11 Ende 18,80 59,22 21,98
+12 Ngada 22,89 68,77 8,34
+13 Manggarai 33,29 45,78 20,93
+14 Rote Ndao 27,24 65,12 7,65
+15 Manggarai Barat 20,94 73,60 5,46
+16 Sumba Tengah 40,15 51,74 8,11
+17 Sumba Barat Daya 19,85 67,20 12,95
+18 Nagekeo 21,16 63,01 15,83
+19 Manggarai Timur 16,97 72,36 10,67
+20 Sabu Raijua 30,02 49,20 20,78
+21 Malaka 35,11 43,03 21,86
+22 Kota Kupang 47,44 NA 35,94
+Nusa Tenggara Timur 28,49 55,82 15,68
+1 Sambas 53,23 34,65 12,12
+2 Bengkayang 32,21 48,07 19,72
+3 Landak 38,58 53,08 8,34
+4 Mempawah 46,82 18,74 34,45
+5 Sanggau 51,52 39,38 NA
+6 Ketapang 44,76 35,52 19,72
+https://www.bps.go.id
+
+
+===== PDF PAGE 108 =====
+94
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+7 Sintang 28,84 62,55 8,61
+8 Kapuas Hulu 35,70 37,00 27,30
+9 Sekadau 33,96 59,51 NA
+10 Melawi 30,47 46,62 22,91
+11 Kayong Utara 54,21 33,27 12,51
+12 Kubu Raya 66,19 NA 18,20
+13 Kota Pontianak 49,05 NA 46,95
+14 Kota Singkawang 49,96 NA 46,34
+Kalimantan Barat 43,71 37,26 19,02
+1 Kotawaringin Barat 44,65 NA 50,95
+2 Kotawaringin Timur 39,10 18,04 42,86
+3 Kapuas 28,40 52,68 18,92
+4 Barito Selatan 34,27 12,21 53,52
+5 Barito Utara 42,50 20,89 36,61
+6 Sukamara 62,11 23,46 NA
+7 Lamandau 65,72 34,28 –
+8 Seruyan 41,20 28,87 29,92
+9 Katingan 41,58 25,21 33,21
+10 Pulang Pisau 52,86 16,40 30,74
+11 Gunung Mas 46,64 30,40 22,96
+12 Barito Timur 32,91 51,84 15,26
+13 Murung Raya 54,41 14,76 30,83
+14 Kota Palangka Raya 49,45 NA 43,70
+Kalimantan Tengah 41,43 25,41 33,16
+1 Tanah Laut 44,31 NA 17,50
+2 Kotabaru 58,72 26,25 NA
+3 Banjar 34,25 29,46 36,29
+4 Barito Kuala 37,59 50,81 11,60
+5 Tapin 48,00 29,83 22,17
+6 Hulu Sungai Selatan 33,62 34,20 32,18
+7 Hulu Sungai Tengah 30,41 48,67 20,92
+8 Hulu Sungai Utara 41,70 11,11 47,19
+9 Tabalong 28,92 55,34 15,74
+10 Tanah Bumbu 49,80 25,85 24,36
+https://www.bps.go.id
+
+
+===== PDF PAGE 109 =====
+95
+Ketenagakerjaan
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+11 Balangan 28,28 57,61 NA
+12 Kota Banjarmasin 50,09 NA 49,20
+13 Kota Banjar Baru 40,49 NA 55,65
+Kalimantan Selatan 42,19 27,82 29,99
+1 Paser 50,33 29,61 20,05
+2 Kutai Barat 50,84 30,20 18,96
+3 Kutai Kartanegara 42,24 15,24 42,52
+4 Kutai Timur 48,53 20,86 30,61
+5 Berau 45,75 24,80 29,45
+6 Penajam Paser Utara 50,97 21,90 27,14
+7 Mahakam Ulu 36,00 34,93 29,07
+8 Kota Balikpapan 43,89 NA 47,76
+9 Kota Samarinda 43,53 NA 37,41
+10 Kota Bontang 47,94 NA 39,49
+Kalimantan Timur 46,00 20,27 33,73
+1 Malinau 37,85 49,91 12,24
+2 Bulungan 37,19 36,90 25,91
+3 Tana Tidung 51,99 9,76 38,26
+4 Nunukan 40,96 25,96 33,08
+5 Kota Tarakan 47,55 16,25 36,20
+Kalimantan Utara 42,13 28,08 29,79
+1 Bolaang Mongondow 43,62 36,74 19,63
+2 Minahasa 50,58 13,54 35,88
+3 Kepulauan Sangihe 40,95 22,26 36,79
+4 Kepulauan Talaud 43,80 40,52 15,68
+5 Minahasa Selatan 47,38 27,06 25,56
+6 Minahasa Utara 46,20 12,68 41,11
+7 Bolaang Mongondow Utara 45,58 35,50 18,92
+8 Kepulauan Sitaro 51,77 30,15 18,08
+9 Minahasa Tenggara 48,54 21,39 30,08
+10 Bolaang Mongondow Selatan 55,85 20,28 23,87
+11 Bolaang Mongondow Timur 50,06 34,85 15,09
+12 Kota Manado 67,82 NA 29,85
+https://www.bps.go.id
+
+
+===== PDF PAGE 110 =====
+96
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+13 Kota Bitung 58,72 7,58 33,70
+14 Kota Tomohon 68,88 NA 28,92
+15 Kota Kotamobagu 43,17 12,88 43,95
+Sulawesi Utara 50,97 19,79 29,24
+1 Banggai Kepulauan 39,74 40,99 19,27
+2 Banggai 38,73 26,82 34,45
+3 Morowali 49,93 30,69 19,38
+4 Poso 43,23 41,50 15,28
+5 Donggala 37,41 40,23 22,36
+6 Tolitoli 51,73 26,69 21,58
+7 Buol 34,59 32,56 32,85
+8 Parigi Moutong 31,55 56,25 12,19
+9 Tojo Una-Una 29,69 51,30 19,01
+10 Sigi 34,29 47,19 18,52
+11 Banggai Laut 59,11 30,89 10,00
+12 Morowali Utara 49,36 33,24 17,41
+13 Kota Palu 44,65 NA 48,04
+Sulawesi Tengah 39,45 39,27 21,28
+1 Kepulauan Selayar 45,77 25,47 28,76
+2 Bulukumba 37,31 32,59 30,10
+3 Bantaeng 42,30 41,84 15,87
+4 Jeneponto 38,54 34,13 27,33
+5 Takalar 53,22 11,59 35,19
+6 Gowa 51,18 22,44 26,38
+7 Sinjai 49,83 35,23 NA
+8 Maros 51,15 20,89 27,96
+9 Pangkajene Dan Kepulauan 48,59 25,88 25,53
+10 Barru 58,45 24,33 17,23
+11 Bone 52,86 32,66 14,47
+12 Soppeng 52,01 30,67 17,32
+13 Wajo 54,04 29,62 16,35
+14 Sidenreng Rappang 57,12 19,39 23,49
+15 Pinrang 47,71 26,28 26,00
+16 Enrekang 31,57 59,25 9,19
+https://www.bps.go.id
+
+
+===== PDF PAGE 111 =====
+97
+Ketenagakerjaan
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+17 Luwu 45,34 34,01 20,65
+18 Tana Toraja 23,89 55,73 20,38
+19 Luwu Utara 33,88 54,49 11,63
+20 Luwu Timur 48,33 24,88 26,78
+21 Toraja Utara 21,89 64,31 13,81
+22 Kota Makassar 56,64 NA 42,44
+23 Kota Parepare 40,31 – 59,69
+24 Kota Palopo 49,39 25,95 24,65
+Sulawesi Selatan 46,78 29,13 24,09
+1 Buton 33,97 41,95 24,08
+2 Muna 34,79 32,36 32,85
+3 Konawe 40,58 33,19 26,23
+4 Kolaka 51,44 21,69 26,87
+5 Konawe Selatan 39,69 39,63 20,67
+6 Bombana 44,76 35,45 19,79
+7 Wakatobi 44,20 29,68 26,11
+8 Kolaka Utara 31,79 43,12 25,08
+9 Buton Utara 31,64 27,80 40,56
+10 Konawe Utara 59,80 10,79 29,41
+11 Kolaka Timur 37,64 40,13 22,24
+12 Konawe Kepulauan 41,60 39,14 19,26
+13 Muna Barat 41,49 30,42 28,09
+14 Buton Tengah 41,88 26,08 32,03
+15 Buton Selatan 60,42 22,70 16,88
+16 Kota Kendari 58,78 7,43 33,79
+17 Kota Baubau 50,28 19,46 30,26
+Sulawesi Tenggara 42,73 31,11 26,17
+1 Boalemo 39,08 41,42 19,50
+2 Gorontalo 41,80 34,26 23,94
+3 Pohuwato 45,65 18,64 35,72
+4 Bone Bolango 46,47 24,44 29,09
+5 Gorontalo Utara 39,06 42,35 18,58
+6 Kota Gorontalo 64,46 NA 33,71
+Gorontalo 43,88 30,38 25,74
+https://www.bps.go.id
+
+
+===== PDF PAGE 112 =====
+98
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+1 Majene 50,31 29,14 20,55
+2 Polewali Mandar 40,08 32,39 27,53
+3 Mamasa 32,37 50,08 17,55
+4 Mamuju 30,09 55,14 14,76
+5 Pasangkayu 31,21 45,49 23,30
+6 Mamuju Tengah 43,33 33,12 23,55
+Sulawesi Barat 38,62 38,89 22,50
+1 Kepulauan Tanimbar 27,02 38,49 34,50
+2 Maluku Tenggara 48,27 36,98 14,75
+3 Maluku Tengah 43,83 29,46 26,71
+4 Buru 50,84 24,67 24,49
+5 Kepulauan Aru 46,64 37,74 15,61
+6 Seram Bagian Barat 48,18 31,93 19,89
+7 Seram Bagian Timur 51,48 28,68 19,85
+8 Maluku Barat Daya 46,76 25,20 28,05
+9 Buru Selatan 26,47 37,39 36,14
+10 Kota Ambon 51,60 NA 48,26
+11 Kota Tual 54,07 20,09 25,83
+Maluku 45,60 28,10 26,30
+1 Halmahera Barat 52,14 27,47 20,38
+2 Halmahera Tengah 60,58 24,66 14,76
+3 Kepulauan Sula 47,12 20,06 32,83
+4 Halmahera Selatan 41,98 23,74 34,27
+5 Halmahera Utara 45,80 14,78 39,41
+6 Halmahera Timur 43,20 21,10 35,70
+7 Pulau Morotai 42,59 NA 51,83
+8 Pulau Taliabu 47,30 46,62 NA
+9 Kota Ternate 57,46 NA 38,13
+10 Kota Tidore Kepulauan 39,62 17,86 42,52
+Maluku Utara 47,52 20,12 32,36
+1 Fakfak 56,93 18,33 24,74
+2 Kaimana 30,92 61,77 7,31
+3 Teluk Wondama 45,81 32,01 22,18
+https://www.bps.go.id
+
+
+===== PDF PAGE 113 =====
+99
+Ketenagakerjaan
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+4 Teluk Bintuni 47,22 32,35 20,44
+5 Manokwari 57,47 27,44 15,09
+6 Manokwari Selatan 33,94 43,69 22,37
+7 Pegunungan Arfak 9,79 86,83 3,38
+Papua Barat 45,37 38,03 16,60
+1 Raja Ampat 51,75 33,24 15,01
+2 Sorong 45,18 27,98 26,83
+3 Sorong Selatan 21,45 77,34 NA
+4 Maybrat 38,47 43,71 17,83
+5 Tambrauw 35,50 50,62 13,88
+6 Kota Sorong 64,30 9,17 26,54
+Papua Barat Daya 50,15 28,00 21,85
+1 Jayapura 51,87 24,67 23,46
+2 Kepulauan Yapen 45,95 43,33 10,73
+3 Biak Numfor 40,76 43,05 16,19
+4 Sarmi 57,28 38,51 NA
+5 Keerom 43,79 40,82 15,39
+6 Waropen 49,75 24,48 25,77
+7 Supiori 67,89 18,83 13,27
+8 Mamberamo Raya 53,28 43,92 2,80
+9 Kota Jayapura 62,14 11,90 25,96
+Papua 51,09 31,67 17,24
+1 Merauke 44,33 47,05 8,63
+2 Boven Digoel 36,55 51,82 11,63
+3 Mappi 52,43 38,55 9,02
+4 Asmat 16,51 78,64 4,86
+Papua Selatan 37,94 53,83 8,22
+1 Mimika 45,92 31,40 22,68
+2 Dogiyai 13,78 86,22 –
+3 Deiyai 11,59 88,41 –
+4 Nabire 39,21 33,08 27,71
+5 Paniai 43,96 55,20 NA
+https://www.bps.go.id
+
+
+===== PDF PAGE 114 =====
+100
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 4.2
+No Kabupaten/Kota Tidak Bekerja1
+Bekerja 
+di Sektor 
+Pertanian
+Bekerja Bukan 
+di Sektor 
+Pertanian
+(1) (2) (3) (4) (5)
+6 Intan Jaya 25,30 74,70 –
+7 Puncak 9,33 89,44 NA
+8 Puncak Jaya 23,59 76,41 –
+Papua Tengah 27,52 67,45 5,03
+1 Nduga 11,79 88,21 –
+2 Jayawijaya 13,60 82,54 3,87
+3 Lanny Jaya 11,97 86,74 NA
+4 Tolikara 15,81 81,33 NA
+5 Mamberamo Tengah 17,22 81,39 NA
+6 Yalimo 24,65 75,35 –
+7 Yahukimo 10,99 87,97 1,04
+8 Pegunungan Bintang 15,89 83,99 NA
+Papua Pegunungan 13,87 84,47 1,66
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas)  Maret 2025
+Catatan:  1 termasuk pengangguran dan bukan angkatan kerja
+                Not Applicable (NA) menunjukan bahwa data tidak dapat ditampilkan karena nilai                                  relative standar error (RSE) lebih dari 50 persen
+https://www.bps.go.id
+
+
+===== PDF PAGE 115 =====
+2
+0
+2
+5
+Pengeluaran
+per kapita
+Pengeluaran
+per kapita
+https://www.bps.go.id
+
+
+===== PDF PAGE 116 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 117 =====
+103
+Pengeluaran Perkapita
+PENGELUARAN PER KAPITA
+Tabel 5.1 Persentase Pengeluaran per kapita untuk Makanan   
+               Menurut Kabupaten/Kota dan Status Miskin, 2025
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+1 Simeulue 65,74 59,94 60,37
+2 Aceh Singkil 66,66 57,17 57,96
+3 Aceh Selatan 63,25 65,28 65,20
+4 Aceh Tenggara 62,33 62,09 62,10
+5 Aceh Timur 65,98 60,37 60,67
+6 Aceh Tengah 65,55 56,88 57,35
+7 Aceh Barat 64,04 53,84 54,62
+8 Aceh Besar 66,36 54,03 54,62
+9 Pidie 70,45 60,07 61,07
+10 Bireuen 65,79 57,73 58,11
+11 Aceh Utara 67,59 62,57 62,95
+12 Aceh Barat Daya 66,89 60,51 60,96
+13 Gayo Lues 69,75 61,36 62,21
+14 Aceh Tamiang 65,51 56,06 56,51
+15 Nagan Raya 63,38 61,63 61,80
+16 Aceh Jaya 65,40 59,26 59,55
+17 Bener Meriah 59,32 59,17 59,18
+18 Pidie Jaya 67,14 64,11 64,38
+19 Kota Banda Aceh 54,08 42,11 42,30
+20 Kota Sabang 60,19 52,33 52,77
+21 Kota Langsa 60,33 50,12 50,44
+22 Kota Lhokseumawe 60,89 47,97 48,42
+23 Kota Subulussalam 67,28 58,39 58,98
+Aceh 65,60 56,56 57,09
+1 Nias 65,10 60,04 60,46
+2 Mandailing Natal 67,69 62,90 63,08
+3 Tapanuli Selatan 67,02 64,02 64,13
+4 Tapanuli Tengah 64,25 60,51 60,70
+https://www.bps.go.id
+
+
+===== PDF PAGE 118 =====
+104
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 5.1
+I. 
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+5 Tapanuli Utara 67,94 63,62 63,78
+6 Toba 63,41 58,11 58,29
+7 Labuhan Batu 63,88 58,07 58,27
+8 Asahan 63,40 56,44 56,67
+9 Simalungun 64,76 59,55 59,71
+10 Dairi 67,82 56,09 56,47
+11 Karo 66,18 61,23 61,39
+12 Deli Serdang 64,43 53,60 53,72
+13 Langkat 62,45 57,37 57,58
+14 Nias Selatan 68,01 59,85 60,55
+15 Humbang Hasundutan 67,22 62,03 62,20
+16 Pakpak Bharat 60,74 57,40 57,50
+17 Samosir 71,52 58,76 59,49
+18 Serdang Bedagai 63,21 58,03 58,19
+19 Batu Bara 60,02 53,47 53,79
+20 Padang Lawas Utara 69,20 60,16 60,55
+21 Padang Lawas 66,50 63,40 63,53
+22 Labuhanbatu Selatan 65,51 58,32 58,57
+23 Labuhanbatu Utara 62,68 60,03 60,14
+24 Nias Utara 61,06 58,39 58,69
+25 Nias Barat 62,04 58,66 59,15
+26 Kota Sibolga 59,82 54,67 54,91
+27 Kota Tanjungbalai 70,78 60,22 60,77
+28 Kota Pematangsiantar 62,15 50,34 50,63
+29 Kota Tebing Tinggi 59,92 53,83 54,09
+30 Kota Medan 57,80 44,79 45,12
+31 Kota Binjai 58,54 50,14 50,28
+32 Kota Padangsidimpuan 64,33 53,09 53,36
+33 Kota Gunungsitoli 59,67 51,08 51,58
+Sumatera Utara 63,38 54,51 54,79
+1 Kepulauan Mentawai 64,88 61,22 61,42
+2 Pesisir Selatan 67,91 58,63 58,90
+3 Solok 68,61 60,48 60,74
+4 Sijunjung 60,61 56,34 56,44
+5 Tanah Datar 64,61 56,18 56,32
+https://www.bps.go.id
+
+
+===== PDF PAGE 119 =====
+Pengeluaran Perkapita
+105
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+6 Padang Pariaman 63,76 54,33 54,56
+7 Agam 63,63 54,99 55,23
+8 Lima Puluh Kota 62,70 58,87 58,99
+9 Pasaman 63,81 60,36 60,48
+10 Solok Selatan 67,69 55,67 55,97
+11 Dharmasraya 60,04 50,63 50,82
+12 Pasaman Barat 63,07 57,79 57,93
+13 Kota Padang 57,91 44,28 44,46
+14 Kota Solok 57,24 48,50 48,60
+15 Kota Sawahlunto 63,26 52,63 52,74
+16 Kota Padang Panjang 57,10 46,39 46,66
+17 Kota Bukittinggi 55,39 51,15 51,22
+18 Kota Payakumbuh 60,61 51,62 51,82
+19 Kota Pariaman 62,74 50,61 50,79
+Sumatera Barat 63,02 53,05 53,27
+1 Kuantan Singingi 60,33 54,00 54,21
+2 Indragiri Hulu 60,59 53,09 53,30
+3 Indragiri Hilir 65,40 60,03 60,14
+4 Pelalawan 62,05 53,81 54,06
+5 Siak 60,88 49,63 49,84
+6 Kampar 60,42 56,35 56,46
+7 Rokan Hulu 61,11 56,71 56,88
+8 Bengkalis 54,62 56,77 56,72
+9 Rokan Hilir 62,82 55,29 55,50
+10 Kepulauan Meranti 62,43 55,85 56,56
+11 Kota Pekanbaru 58,96 43,16 43,32
+12 Kota Dumai 62,65 48,90 49,06
+Riau 60,97 52,23 52,45
+1 Kerinci 59,17 53,87 54,04
+2 Merangin 63,86 54,62 54,95
+3 Sarolangun 62,46 53,62 53,96
+4 Batang Hari 58,32 52,58 52,77
+5 Muaro Jambi 65,89 55,10 55,27
+6 Tanjung Jabung Timur 59,97 58,17 58,26
+https://www.bps.go.id
+
+
+===== PDF PAGE 120 =====
+106
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+7 Tanjung Jabung Barat 61,78 55,46 55,72
+8 Tebo 66,35 56,91 57,17
+9 Bungo 65,80 52,06 52,37
+10 Kota Jambi 60,80 44,40 44,83
+11 Kota Sungai Penuh 58,27 49,88 49,98
+Jambi 62,25 52,18 52,47
+1 Ogan Komering Ulu 70,23 52,69 53,49
+2 Ogan Komering Ilir 69,24 60,36 60,81
+3 Muara Enim 66,59 55,14 55,57
+4 Lahat 66,51 57,33 57,91
+5 Musi Rawas 74,99 62,06 63,00
+6 Musi Banyuasin 68,78 58,69 59,17
+7 Banyuasin 66,89 59,35 59,64
+8 Ogan Komering Ulu Selatan 68,17 62,70 62,89
+9 Ogan Komering Ulu Timur 69,83 55,86 56,37
+10 Ogan Ilir 78,73 64,65 65,57
+11 Empat Lawang 68,35 61,07 61,34
+12 Penukal Abab Lematang Ilir 65,33 57,94 58,27
+13 Musi Rawas Utara 72,76 62,65 63,50
+14 Kota Palembang 59,86 41,77 42,26
+15 Kota Prabumulih 61,12 50,31 50,70
+16 Kota Pagar Alam 64,29 58,04 58,22
+17 Kota Lubuk Linggau 61,66 47,51 47,99
+Sumatera Selatan 67,51 53,27 53,86
+1 Bengkulu Selatan 62,72 49,15 50,12
+2 Rejang Lebong 60,66 53,00 53,40
+3 Bengkulu Utara 59,51 56,11 56,26
+4 Kaur 63,43 53,96 54,63
+5 Seluma 66,35 55,42 56,20
+6 Mukomuko 61,70 49,39 49,87
+7 Lebong 66,45 56,37 56,83
+8 Kepahiang 62,44 50,37 50,86
+9 Bengkulu Tengah 65,09 55,22 55,62
+10 Kota Bengkulu 56,57 38,33 38,99
+https://www.bps.go.id
+
+
+===== PDF PAGE 121 =====
+Pengeluaran Perkapita
+107
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+Bengkulu 61,45 48,82 49,43
+1 Lampung Barat 61,16 51,81 52,23
+2 Tanggamus 62,84 57,08 57,33
+3 Lampung Selatan 62,99 56,91 57,26
+4 Lampung Timur 60,33 54,59 54,91
+5 Lampung Tengah 64,60 56,12 56,50
+6 Lampung Utara 66,09 56,19 56,94
+7 Way Kanan 63,98 56,18 56,52
+8 Tulang Bawang 61,13 55,53 55,72
+9 Pesawaran 66,57 55,69 56,24
+10 Pringsewu 64,29 51,03 51,44
+11 Mesuji 62,21 52,99 53,22
+12 Tulang Bawang Barat 64,12 53,45 53,79
+13 Pesisir Barat 69,06 60,52 61,02
+14 Kota Bandar Lampung 57,23 45,33 45,61
+15 Kota Metro 52,68 44,58 44,80
+Lampung 62,69 53,13 53,54
+1 Bangka 59,65 50,13 50,36
+2 Belitung 56,21 51,63 51,79
+3 Bangka Barat 54,95 53,97 53,99
+4 Bangka Tengah 59,46 55,26 55,41
+5 Bangka Selatan 59,53 58,67 58,68
+6 Belitung Timur 53,54 48,47 48,62
+7 Kota Pangkal Pinang 55,12 45,92 46,09
+Bangka Belitung 57,30 51,73 51,86
+1 Karimun 58,78 49,94 50,13
+2 Bintan 55,16 50,26 50,34
+3 Natuna 55,38 48,73 48,86
+4 Lingga 65,62 53,82 54,33
+5 Kepulauan Anambas 57,37 48,41 48,64
+6 Kota Batam 57,06 40,72 40,89
+7 Kota Tanjungpinang 55,80 49,42 49,56
+Kepulauan Riau 57,51 42,91 43,10
+https://www.bps.go.id
+
+
+===== PDF PAGE 122 =====
+108
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+1 Kepulauan Seribu 68,29 57,77 58,40
+2 Kota Jakarta Selatan 55,80 36,18 36,32
+3 Kota Jakarta Timur 59,75 40,81 41,01
+4 Kota Jakarta Pusat 65,38 45,76 46,10
+5 Kota Jakarta Barat 62,41 38,03 38,27
+6 Kota Jakarta Utara 63,99 37,91 38,32
+DKI Jakarta 61,46 38,68 38,93
+1 Bogor 64,79 50,56 50,82
+2 Sukabumi 66,60 55,43 55,68
+3 Cianjur 66,57 58,12 58,43
+4 Bandung 67,70 50,73 51,00
+5 Garut 68,17 57,96 58,31
+6 Tasikmalaya 65,02 54,33 54,72
+7 Ciamis 69,58 54,40 54,81
+8 Kuningan 67,39 55,56 56,08
+9 Cirebon 62,80 54,77 55,06
+10 Majalengka 64,93 49,71 50,24
+11 Sumedang 67,31 52,80 53,22
+12 Indramayu 70,06 58,87 59,35
+13 Subang 63,85 55,13 55,44
+14 Purwakarta 67,26 51,20 51,63
+15 Karawang 60,78 51,50 51,69
+16 Bekasi 64,02 46,94 47,15
+17 Bandung Barat 64,70 52,32 52,74
+18 Pangandaran 70,84 54,78 55,38
+19 Kota Bogor 62,80 43,86 44,16
+20 Kota Sukabumi 65,91 50,68 51,02
+21 Kota Bandung 61,49 39,46 39,65
+22 Kota Cirebon 67,74 47,92 48,47
+23 Kota Bekasi 55,37 39,79 39,89
+24 Kota Depok 61,16 35,27 35,36
+25 Kota Cimahi 61,89 44,25 44,46
+26 Kota Tasikmalaya 67,32 51,90 52,54
+27 Kota Banjar 69,74 56,84 57,11
+Jawa Barat 65,28 47,94 48,28
+https://www.bps.go.id
+
+
+===== PDF PAGE 123 =====
+Pengeluaran Perkapita
+109
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+1 Cilacap 63,49 51,14 51,55
+2 Banyumas 64,19 49,68 50,27
+3 Purbalingga 67,80 51,75 52,60
+4 Banjarnegara 61,70 51,00 51,52
+5 Kebumen 62,08 50,34 50,99
+6 Purworejo 62,13 52,24 52,65
+7 Wonosobo 63,98 51,45 52,02
+8 Magelang 61,20 44,35 44,89
+9 Boyolali 62,70 47,27 47,70
+10 Klaten 62,18 48,29 48,88
+11 Sukoharjo 61,09 43,58 43,96
+12 Wonogiri 64,73 51,24 51,74
+13 Karanganyar 65,06 47,72 48,29
+14 Sragen 56,13 49,39 49,64
+15 Grobogan 66,98 57,03 57,44
+16 Blora 64,61 53,10 53,53
+17 Rembang 62,65 52,85 53,28
+18 Pati 64,32 50,71 51,14
+19 Kudus 60,22 49,69 49,93
+20 Jepara 65,02 53,81 54,06
+21 Demak 65,18 54,90 55,38
+22 Semarang 59,64 49,60 49,80
+23 Temanggung 60,79 46,84 47,23
+24 Kendal 66,23 51,82 52,23
+25 Batang 65,50 53,19 53,55
+26 Pekalongan 65,20 51,20 51,63
+27 Pemalang 64,04 54,08 54,59
+28 Tegal 63,71 52,81 53,05
+29 Brebes 64,41 54,16 54,75
+30 Kota Magelang 60,01 40,53 40,83
+31 Kota Surakarta 53,18 40,27 40,56
+32 Kota Salatiga 55,70 38,32 38,49
+33 Kota Semarang 52,00 40,06 40,15
+34 Kota Pekalongan 66,33 51,05 51,39
+35 Kota Tegal 53,92 51,58 51,64
+Jawa Tengah 63,14 49,47 49,93
+https://www.bps.go.id
+
+
+===== PDF PAGE 124 =====
+110
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+1 Kulon Progo 58,89 45,29 46,06
+2 Bantul 57,07 40,37 40,95
+3 Gunungkidul 65,09 51,42 52,22
+4 Sleman 67,18 38,87 39,44
+5 Kota Yogyakarta 54,74 35,80 36,07
+DI Yogyakarta 61,97 40,92 41,57
+1 Pacitan 67,88 52,07 52,83
+2 Ponorogo 68,43 49,25 49,91
+3 Trenggalek 62,98 53,68 54,04
+4 Tulungagung 69,16 54,25 54,66
+5 Blitar 67,27 47,21 47,69
+6 Kediri 64,91 53,66 54,07
+7 Malang 66,94 51,22 51,71
+8 Lumajang 72,02 61,10 61,48
+9 Jember 66,18 54,52 54,93
+10 Banyuwangi 62,37 50,45 50,75
+11 Bondowoso 69,20 55,42 56,29
+12 Situbondo 68,83 52,84 53,64
+13 Probolinggo 65,70 55,66 56,32
+14 Pasuruan 69,06 58,62 58,97
+15 Sidoarjo 61,74 45,25 45,48
+16 Mojokerto 65,08 52,84 53,23
+17 Jombang 66,65 54,52 54,95
+18 Nganjuk 71,58 52,50 53,36
+19 Madiun 65,51 54,04 54,52
+20 Magetan 64,32 49,79 50,26
+21 Ngawi 69,65 55,35 56,34
+22 Bojonegoro 70,58 54,82 55,67
+23 Tuban 68,94 52,93 54,02
+24 Lamongan 64,73 52,45 53,07
+25 Gresik 57,55 48,22 48,53
+26 Bangkalan 72,52 63,48 64,25
+27 Sampang 67,93 60,84 61,63
+28 Pamekasan 66,65 56,69 57,17
+29 Sumenep 58,63 55,59 55,88
+https://www.bps.go.id
+
+
+===== PDF PAGE 125 =====
+Pengeluaran Perkapita
+111
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+30 Kota Kediri 65,89 45,10 45,60
+31 Kota Blitar 60,82 46,60 46,93
+32 Kota Malang 59,09 40,22 40,41
+33 Kota Probolinggo 60,73 42,98 43,43
+34 Kota Pasuruan 67,23 48,88 49,27
+35 Kota Mojokerto 65,07 47,80 48,13
+36 Kota Madiun 59,62 42,54 42,72
+37 Kota Surabaya 61,39 39,21 39,45
+38 Kota Batu 58,57 42,41 42,55
+Jawa Timur 65,82 49,89 50,45
+1 Pandeglang 63,86 59,99 60,16
+2 Lebak 64,26 66,05 65,99
+3 Tangerang 62,16 54,06 54,28
+4 Serang 62,26 56,64 56,73
+5 Kota Tangerang 59,26 46,03 46,28
+6 Kota Cilegon 68,69 44,02 44,29
+7 Kota Serang 62,80 50,62 50,85
+8 Kota Tangerang Selatan 54,05 37,62 37,71
+Banten 61,67 49,49 49,74
+1 Jembrana 62,74 50,89 51,08
+2 Tabanan 56,94 42,05 42,29
+3 Badung 49,70 40,49 40,54
+4 Gianyar 55,92 38,75 38,97
+5 Klungkung 52,09 49,84 49,89
+6 Bangli 62,19 51,31 51,52
+7 Karangasem 58,37 48,72 48,98
+8 Buleleng 58,52 53,09 53,20
+9 Kota Denpasar 53,89 37,38 37,48
+Bali 56,27 41,94 42,11
+1 Lombok Barat 71,48 57,23 57,84
+2 Lombok Tengah 67,49 53,41 53,92
+3 Lombok Timur 70,93 55,60 56,46
+4 Sumbawa 69,21 53,24 53,82
+https://www.bps.go.id
+
+
+===== PDF PAGE 126 =====
+112
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+5 Dompu 70,98 56,89 57,48
+6 Bima 72,07 59,10 59,78
+7 Sumbawa Barat 71,72 52,28 52,91
+8 Lombok Utara 75,35 60,33 62,07
+9 Kota Mataram 67,44 45,49 45,90
+10 Kota Bima 68,19 49,55 49,94
+Nusa Tenggara Barat 70,59 53,70 54,41
+1 Sumba Barat 66,90 50,80 52,88
+2 Sumba Timur 65,23 54,23 55,53
+3 Kupang 70,31 55,54 56,77
+4 Timor Tengah Selatan 67,17 52,65 54,29
+5 Timor Tengah Utara 65,63 52,44 53,55
+6 Belu 62,26 52,07 52,56
+7 Alor 70,98 59,00 60,16
+8 Lembata 69,55 53,79 55,55
+9 Flores Timur 63,53 57,91 58,15
+10 Sikka 65,88 53,20 53,72
+11 Ende 66,01 51,90 53,49
+12 Ngada 66,03 55,84 56,25
+13 Manggarai 65,96 57,96 58,72
+14 Rote Ndao 59,69 47,74 49,09
+15 Manggarai Barat 65,49 53,76 54,47
+16 Sumba Tengah 69,81 59,23 60,91
+17 Sumba Barat Daya 71,19 62,07 63,18
+18 Nagekeo 66,66 57,14 57,70
+19 Manggarai Timur 73,10 62,22 63,58
+20 Sabu Raijua 66,03 59,31 60,17
+21 Malaka 62,63 51,49 52,05
+22 Kota Kupang 54,08 41,30 41,69
+Nusa Tenggara Timur 66,59 53,32 54,42
+1 Sambas 61,18 55,24 55,40
+2 Bengkayang 63,38 57,97 58,11
+3 Landak 63,93 56,51 56,83
+4 Mempawah 62,70 56,77 56,88
+https://www.bps.go.id
+
+
+===== PDF PAGE 127 =====
+Pengeluaran Perkapita
+113
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+5 Sanggau 63,59 53,71 53,89
+6 Ketapang 63,12 55,85 56,10
+7 Sintang 69,56 55,65 56,02
+8 Kapuas Hulu 62,79 58,39 58,50
+9 Sekadau 66,61 62,66 62,74
+10 Melawi 63,07 53,21 53,63
+11 Kayong Utara 59,80 55,73 55,87
+12 Kubu Raya 64,47 54,41 54,55
+13 Kota Pontianak 61,34 42,02 42,25
+14 Kota Singkawang 64,24 46,86 47,10
+Kalimantan Barat 63,64 52,79 53,04
+1 Kotawaringin Barat 59,96 52,55 52,66
+2 Kotawaringin Timur 65,04 54,40 54,63
+3 Kapuas 63,24 55,83 55,99
+4 Barito Selatan 61,64 56,40 56,51
+5 Barito Utara 58,41 47,64 47,84
+6 Sukamara 65,33 54,33 54,49
+7 Lamandau 59,30 49,71 49,81
+8 Seruyan 62,17 58,50 58,62
+9 Katingan 61,27 57,48 57,55
+10 Pulang Pisau 65,15 54,08 54,24
+11 Gunung Mas 67,99 56,25 56,54
+12 Barito Timur 62,09 50,50 50,75
+13 Murung Raya 59,05 56,60 56,66
+14 Kota Palangka Raya 62,11 44,40 44,58
+Kalimantan Tengah 62,56 53,03 53,21
+1 Tanah Laut 58,92 54,62 54,67
+2 Kotabaru 64,02 56,12 56,25
+3 Banjar 66,69 52,32 52,46
+4 Barito Kuala 64,18 55,19 55,34
+5 Tapin 61,69 52,75 52,86
+6 Hulu Sungai Selatan 59,41 52,96 53,03
+7 Hulu Sungai Tengah 72,94 61,73 62,03
+8 Hulu Sungai Utara 57,29 54,16 54,22
+https://www.bps.go.id
+
+
+===== PDF PAGE 128 =====
+114
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+9 Tabalong 58,08 49,44 49,59
+10 Tanah Bumbu 55,48 49,03 49,12
+11 Balangan 61,49 49,96 50,18
+12 Kota Banjarmasin 61,41 47,08 47,29
+13 Kota Banjar Baru 57,48 46,02 46,16
+Kalimantan Selatan 61,90 51,46 51,61
+1 Paser 60,25 50,83 51,14
+2 Kutai Barat 57,36 49,76 50,06
+3 Kutai Kartanegara 57,50 49,77 49,97
+4 Kutai Timur 51,17 47,79 47,90
+5 Berau 53,74 44,10 44,26
+6 Penajam Paser Utara 57,54 44,56 44,85
+7 Mahakam Ulu 55,31 54,44 54,48
+8 Kota Balikpapan 49,87 40,11 40,17
+9 Kota Samarinda 52,99 43,59 43,69
+10 Kota Bontang 53,35 39,04 39,19
+Kalimantan Timur 55,08 44,98 45,16
+1 Malinau 56,08 50,54 50,70
+2 Bulungan 56,79 48,79 49,05
+3 Tana Tidung 52,41 49,02 49,08
+4 Nunukan 51,68 49,55 49,59
+5 Kota Tarakan 54,90 46,70 46,92
+Kalimantan Utara 54,83 48,43 48,59
+1 Bolaang Mongondow 64,43 54,08 54,32
+2 Minahasa 61,84 52,40 52,56
+3 Kepulauan Sangihe 68,63 53,62 54,29
+4 Kepulauan Talaud 63,55 52,69 52,99
+5 Minahasa Selatan 64,89 57,54 57,77
+6 Minahasa Utara 63,45 49,16 49,41
+7 Bolaang Mongondow Utara 62,29 50,49 50,78
+8 Kepulauan Sitaro 58,57 50,75 51,03
+9 Minahasa Tenggara 65,06 52,92 53,38
+10 Bolaang Mongondow Selatan 63,65 54,82 55,20
+https://www.bps.go.id
+
+
+===== PDF PAGE 129 =====
+Pengeluaran Perkapita
+115
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+11 Bolaang Mongondow Timur 63,91 53,53 53,74
+12 Kota Manado 63,17 46,50 46,75
+13 Kota Bitung 58,49 48,74 48,91
+14 Kota Tomohon 62,01 44,80 45,04
+15 Kota Kotamobagu 65,31 48,95 49,26
+Sulawesi Utara 63,46 50,66 50,93
+1 Banggai Kepulauan 64,80 55,22 55,67
+2 Banggai 60,86 51,66 51,86
+3 Morowali 59,55 48,22 48,77
+4 Poso 57,46 51,06 51,45
+5 Donggala 64,41 53,24 53,90
+6 Tolitoli 56,03 50,48 50,76
+7 Buol 59,14 52,55 52,91
+8 Parigi Moutong 64,42 53,25 53,94
+9 Tojo Una-Una 65,63 53,56 54,48
+10 Sigi 64,96 54,73 55,20
+11 Banggai Laut 64,02 57,29 57,68
+12 Morowali Utara 59,90 56,87 57,02
+13 Kota Palu 58,08 43,31 43,60
+Sulawesi Tengah 61,59 51,17 51,65
+1 Kepulauan Selayar 71,48 55,55 56,18
+2 Bulukumba 58,77 53,73 53,83
+3 Bantaeng 67,23 54,94 55,30
+4 Jeneponto 68,39 58,05 58,58
+5 Takalar 61,63 51,34 51,61
+6 Gowa 66,48 49,14 49,50
+7 Sinjai 69,05 52,01 52,47
+8 Maros 61,56 47,46 47,85
+9 Pangkajene Dan Kepulauan 71,84 53,14 54,17
+10 Barru 66,71 46,88 47,43
+11 Bone 59,65 46,33 46,70
+12 Soppeng 67,13 51,77 52,09
+13 Wajo 68,00 48,97 49,29
+14 Sidenreng Rappang 64,20 48,23 48,47
+https://www.bps.go.id
+
+
+===== PDF PAGE 130 =====
+116
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+15 Pinrang 65,86 52,87 53,26
+16 Enrekang 68,28 54,41 54,89
+17 Luwu 65,50 52,07 52,63
+18 Tana Toraja 71,82 54,51 55,24
+19 Luwu Utara 64,56 50,98 51,49
+20 Luwu Timur 59,50 49,38 49,52
+21 Toraja Utara 70,63 55,53 56,12
+22 Kota Makassar 65,27 40,74 41,01
+23 Kota Parepare 69,06 44,95 45,29
+24 Kota Palopo 62,10 50,79 51,04
+Sulawesi Selatan 66,02 48,47 48,90
+1 Buton 69,36 56,57 57,26
+2 Muna 68,30 50,30 51,08
+3 Konawe 61,04 52,52 52,96
+4 Kolaka 70,64 50,71 51,58
+5 Konawe Selatan 69,00 50,73 51,49
+6 Bombana 70,23 52,69 53,29
+7 Wakatobi 63,73 49,96 50,72
+8 Kolaka Utara 65,01 48,58 49,38
+9 Buton Utara 65,93 53,83 54,47
+10 Konawe Utara 62,52 45,77 46,29
+11 Kolaka Timur 65,38 43,49 44,46
+12 Konawe Kepulauan 64,28 50,67 51,48
+13 Muna Barat 67,80 56,16 56,79
+14 Buton Tengah 68,07 56,24 56,95
+15 Buton Selatan 69,12 57,14 57,90
+16 Kota Kendari 60,88 42,98 43,14
+17 Kota Baubau 61,67 43,01 43,36
+Sulawesi Tenggara 66,30 48,47 49,12
+1 Boalemo 80,78 53,19 54,74
+2 Gorontalo 81,54 50,31 52,04
+3 Pohuwato 77,88 55,11 56,41
+4 Bone Bolango 78,41 46,09 47,42
+5 Gorontalo Utara 79,77 50,46 51,91
+https://www.bps.go.id
+
+
+===== PDF PAGE 131 =====
+Pengeluaran Perkapita
+117
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+6 Kota Gorontalo 60,92 40,91 41,22
+Gorontalo 78,31 48,13 49,43
+1 Majene 61,41 53,97 54,36
+2 Polewali Mandar 70,83 57,54 58,44
+3 Mamasa 66,73 57,62 58,20
+4 Mamuju 62,38 47,95 48,24
+5 Pasangkayu 64,91 51,52 51,76
+6 Mamuju Tengah 62,91 52,28 52,59
+Sulawesi Barat 67,00 53,24 53,81
+1 Kepulauan Tanimbar 60,90 52,67 53,74
+2 Maluku Tenggara 58,99 49,65 50,70
+3 Maluku Tengah 61,88 50,86 51,79
+4 Buru 59,73 47,29 48,24
+5 Kepulauan Aru 60,77 53,38 54,21
+6 Seram Bagian Barat 61,05 54,50 55,27
+7 Seram Bagian Timur 61,36 52,78 53,75
+8 Maluku Barat Daya 62,54 57,77 58,64
+9 Buru Selatan 57,22 52,56 52,93
+10 Kota Ambon 52,98 42,10 42,29
+11 Kota Tual 57,11 51,71 52,28
+Maluku 59,99 47,70 48,55
+1 Halmahera Barat 64,96 54,21 54,56
+2 Halmahera Tengah 58,66 48,64 49,02
+3 Kepulauan Sula 62,45 53,43 53,79
+4 Halmahera Selatan 55,34 57,47 57,42
+5 Halmahera Utara 61,33 49,05 49,30
+6 Halmahera Timur 56,02 52,86 52,98
+7 Pulau Morotai 60,07 53,88 54,00
+8 Pulau Taliabu 65,53 56,98 57,29
+9 Kota Ternate 57,16 43,68 43,80
+10 Kota Tidore Kepulauan 57,63 47,48 47,76
+Maluku Utara 59,16 50,01 50,23
+https://www.bps.go.id
+
+
+===== PDF PAGE 132 =====
+118
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+1 Fakfak 53,64 49,92 50,25
+2 Kaimana 58,80 50,29 50,66
+3 Teluk Wondama 62,69 53,15 54,13
+4 Teluk Bintuni 61,39 48,71 49,72
+5 Manokwari 56,62 52,17 52,46
+6 Manokwari Selatan 60,15 48,96 50,29
+7 Pegunungan Arfak 56,23 52,73 53,35
+Papua Barat 57,95 50,94 51,49
+1 Raja Ampat 59,34 47,27 47,81
+2 Sorong 60,25 43,28 44,91
+3 Sorong Selatan 53,82 45,75 46,07
+4 Maybrat 60,52 50,02 51,21
+5 Tambrauw 62,19 52,70 53,75
+6 Kota Sorong 55,27 46,18 46,71
+Papua Barat Daya 57,94 46,36 47,18
+1 Jayapura 59,98 46,59 47,02
+2 Kepulauan Yapen 60,47 50,16 51,28
+3 Biak Numfor 58,83 46,59 47,59
+4 Sarmi 70,65 53,94 54,63
+5 Keerom 67,08 44,70 45,40
+6 Waropen 60,14 45,44 47,03
+7 Supiori 64,97 45,62 48,09
+8 Mamberamo Raya 65,07 54,01 55,43
+9 Kota Jayapura 49,94 41,90 42,27
+Papua 57,54 45,17 45,88
+1 Merauke 62,34 49,46 49,87
+2 Boven Digoel 63,39 57,32 57,71
+3 Mappi 66,81 61,20 61,79
+4 Asmat 64,86 55,11 56,03
+Papua Selatan 64,23 52,44 53,08
+1 Mimika 61,71 54,68 55,08
+2 Dogiyai 62,58 64,70 64,36
+https://www.bps.go.id
+
+
+===== PDF PAGE 133 =====
+Pengeluaran Perkapita
+119
+Lanjutan Tabel 5.1
+No Kabupaten/Kota
+Pengeluaran per kapita untuk Makanan (persen)
+Miskin Tidak Miskin Miskin dan 
+Tidak Miskin
+(1) (2) (3) (4) (5)
+3 Deiyai 67,14 64,19 64,92
+4 Nabire 57,54 46,45 47,47
+5 Paniai 72,30 62,44 64,42
+6 Intan Jaya 76,89 74,92 75,41
+7 Puncak 73,80 73,91 73,88
+8 Puncak Jaya 66,86 65,88 66,07
+Papua Tengah 67,56 58,69 59,96
+1 Nduga 73,68 66,21 67,80
+2 Jayawijaya 69,25 58,25 59,42
+3 Lanny Jaya 72,40 63,48 64,87
+4 Tolikara 78,20 75,08 75,69
+5 Mamberamo Tengah 73,21 69,96 70,57
+6 Yalimo 75,10 63,90 65,42
+7 Yahukimo 73,99 64,83 66,46
+8 Pegunungan Bintang 72,73 54,41 57,05
+Papua Pegunungan 73,17 63,16 64,71
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025
+https://www.bps.go.id
+
+
+===== PDF PAGE 134 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 135 =====
+2
+0
+2
+5
+Fasilitas
+Perumahan
+Fasilitas
+Perumahan
+https://www.bps.go.id
+
+
+===== PDF PAGE 136 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 137 =====
+123
+Fasilitas Perumahan
+Tabel 6.1 Persentase Rumah Tangga Miskin yang Menggunakan Air Layak dan  
+               Jamban Sendiri/Bersama Menurut Kabupaten/Kota, 2025
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+1 Simeulue 86,55 63,78
+2 Aceh Singkil 77,64 81,93
+3 Aceh Selatan 92,72 92,45
+4 Aceh Tenggara 83,55 77,79
+5 Aceh Timur 82,67 89,89
+6 Aceh Tengah 96,79 86,45
+7 Aceh Barat 98,80 91,00
+8 Aceh Besar 97,37 82,26
+9 Pidie 89,33 39,02
+10 Bireuen 91,13 95,78
+11 Aceh Utara 96,27 82,96
+12 Aceh Barat Daya 97,45 73,20
+13 Gayo Lues 80,78 52,11
+14 Aceh Tamiang 64,76 93,38
+15 Nagan Raya 91,66 83,75
+16 Aceh Jaya 94,62 78,88
+17 Bener Meriah 93,70 89,36
+18 Pidie Jaya 76,97 77,89
+19 Kota Banda Aceh 100,00 100,00
+20 Kota Sabang 97,21 99,42
+21 Kota Langsa 99,35 96,52
+22 Kota Lhokseumawe 91,41 91,45
+23 Kota Subulussalam 56,88 96,49
+Aceh 89,43 80,01
+1 Nias 32,42 72,85
+2 Mandailing Natal 88,59 47,49
+3 Tapanuli Selatan 82,88 51,56
+4 Tapanuli Tengah 76,20 77,26
+5 Tapanuli Utara 83,03 78,96
+FASILITAS PERUMAHAN
+https://www.bps.go.id
+
+
+===== PDF PAGE 138 =====
+124
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+6 Toba 91,18 99,36
+7 Labuhan Batu 86,81 100,00
+8 Asahan 97,40 94,42
+9 Simalungun 100,00 100,00
+10 Dairi 99,22 95,62
+11 Karo 100,00 93,91
+12 Deli Serdang 95,33 100,00
+13 Langkat 93,99 99,53
+14 Nias Selatan 74,37 79,63
+15 Humbang Hasundutan 93,79 84,74
+16 Pakpak Bharat 38,36 100,00
+17 Samosir 65,81 98,90
+18 Serdang Bedagai 99,31 99,45
+19 Batu Bara 91,89 97,61
+20 Padang Lawas Utara 60,63 46,68
+21 Padang Lawas 89,80 47,46
+22 Labuhanbatu Selatan 83,65 84,40
+23 Labuhanbatu Utara 97,93 90,72
+24 Nias Utara 69,32 79,28
+25 Nias Barat 65,77 75,37
+26 Kota Sibolga 97,24 88,49
+27 Kota Tanjungbalai 84,11 100,00
+28 Kota Pematangsiantar 100,00 100,00
+29 Kota Tebing Tinggi 100,00 100,00
+30 Kota Medan 94,11 100,00
+31 Kota Binjai 100,00 100,00
+32 Kota Padangsidimpuan 55,21 92,43
+33 Kota Gunungsitoli 78,32 90,50
+Sumatera Utara 88,93 90,17
+1 Kepulauan Mentawai 70,84 84,23
+2 Pesisir Selatan 73,32 95,18
+3 Solok 71,28 71,00
+4 Sijunjung 76,14 59,27
+5 Tanah Datar 100,00 83,51
+6 Padang Pariaman 81,37 96,50
+7 Agam 94,21 91,68
+https://www.bps.go.id
+
+
+===== PDF PAGE 139 =====
+Fasilitas Perumahan
+125
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+8 Lima Puluh Kota 68,10 98,66
+9 Pasaman 81,36 57,15
+10 Solok Selatan 81,31 76,52
+11 Dharmasraya 74,01 94,88
+12 Pasaman Barat 78,56 62,27
+13 Kota Padang 88,06 56,48
+14 Kota Solok 80,74 100,00
+15 Kota Sawahlunto 96,50 91,63
+16 Kota Padang Panjang 97,06 89,75
+17 Kota Bukittinggi 100,00 100,00
+18 Kota Payakumbuh 94,40 100,00
+19 Kota Pariaman 99,12 93,55
+Sumatera Barat 80,99 80,17
+1 Kuantan Singingi 77,89 90,70
+2 Indragiri Hulu 72,43 83,84
+3 Indragiri Hilir 100,00 91,56
+4 Pelalawan 83,50 86,02
+5 Siak 84,21 92,27
+6 Kampar 100,00 99,87
+7 Rokan Hulu 97,71 91,49
+8 Bengkalis 91,25 100,00
+9 Rokan Hilir 85,59 100,00
+10 Kepulauan Meranti 90,69 98,81
+11 Kota Pekanbaru 98,37 100,00
+12 Kota Dumai 78,54 94,94
+Riau 90,62 94,63
+1 Kerinci 85,01 80,34
+2 Merangin 64,48 71,89
+3 Sarolangun 74,68 83,75
+4 Batang Hari 83,51 90,74
+5 Muaro Jambi 66,94 64,61
+6 Tanjung Jabung Timur 84,87 91,55
+7 Tanjung Jabung Barat 97,39 71,59
+8 Tebo 83,04 96,06
+9 Bungo 42,01 43,40
+https://www.bps.go.id
+
+
+===== PDF PAGE 140 =====
+126
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+10 Kota Jambi 95,73 100,00
+11 Kota Sungai Penuh 100,00 77,71
+Jambi 79,42 80,17
+1 Ogan Komering Ulu 46,99 64,34
+2 Ogan Komering Ilir 78,44 77,88
+3 Muara Enim 85,84 84,46
+4 Lahat 73,20 81,84
+5 Musi Rawas 83,38 93,90
+6 Musi Banyuasin 78,32 86,94
+7 Banyuasin 84,12 87,86
+8 Ogan Komering Ulu Selatan 69,13 71,40
+9 Ogan Komering Ulu Timur 83,66 96,11
+10 Ogan Ilir 61,91 61,46
+11 Empat Lawang 49,64 76,56
+12 Penukal Abab Lematang Ilir 96,81 95,55
+13 Musi Rawas Utara 71,65 67,01
+14 Kota Palembang 76,16 97,07
+15 Kota Prabumulih 97,31 99,20
+16 Kota Pagar Alam 71,11 85,63
+17 Kota Lubuk Linggau 97,15 86,18
+Sumatera Selatan 76,78 84,53
+1 Bengkulu Selatan 66,68 93,23
+2 Rejang Lebong 61,46 88,80
+3 Bengkulu Utara 84,70 94,69
+4 Kaur 65,26 87,82
+5 Seluma 41,02 81,89
+6 Mukomuko 68,80 96,12
+7 Lebong 28,02 64,05
+8 Kepahiang 42,22 91,39
+9 Bengkulu Tengah 18,07 99,28
+10 Kota Bengkulu 87,40 100,00
+Bengkulu 62,34 90,55
+1 Lampung Barat 51,57 100,00
+2 Tanggamus 73,24 88,83
+https://www.bps.go.id
+
+
+===== PDF PAGE 141 =====
+Fasilitas Perumahan
+127
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+3 Lampung Selatan 96,22 100,00
+4 Lampung Timur 81,07 100,00
+5 Lampung Tengah 85,70 91,32
+6 Lampung Utara 79,69 100,00
+7 Way Kanan 70,84 98,14
+8 Tulang Bawang 89,14 100,00
+9 Pesawaran 98,98 79,70
+10 Pringsewu 89,39 97,76
+11 Mesuji 58,02 91,65
+12 Tulang Bawang Barat 67,40 99,87
+13 Pesisir Barat 61,90 97,08
+14 Kota Bandar Lampung 88,06 87,83
+15 Kota Metro 81,69 100,00
+Lampung 82,80 95,41
+1 Bangka 78,91 100,00
+2 Belitung 74,69 92,33
+3 Bangka Barat 70,51 92,56
+4 Bangka Tengah 87,21 100,00
+5 Bangka Selatan 87,82 91,24
+6 Belitung Timur 59,68 79,66
+7 Kota Pangkal Pinang 100,00 100,00
+Bangka Belitung 80,04 94,38
+1 Karimun 87,30 100,00
+2 Bintan 94,58 100,00
+3 Natuna 94,94 100,00
+4 Lingga 97,56 91,62
+5 Kepulauan Anambas NA 100,00
+6 Kota Batam 99,69 92,30
+7 Kota Tanjungpinang 84,86 98,55
+Kepulauan Riau 94,25 94,75
+1 Kepulauan Seribu 96,90 100,00
+2 Kota Jakarta Selatan 100,00 100,00
+3 Kota Jakarta Timur 100,00 100,00
+4 Kota Jakarta Pusat 100,00 78,31
+https://www.bps.go.id
+
+
+===== PDF PAGE 142 =====
+128
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+5 Kota Jakarta Barat 100,00 83,24
+6 Kota Jakarta Utara 100,00 83,07
+DKI Jakarta 99,98 89,77
+1 Bogor 90,58 87,57
+2 Sukabumi 90,35 72,14
+3 Cianjur 80,47 85,53
+4 Bandung 97,93 97,02
+5 Garut 82,94 85,02
+6 Tasikmalaya 77,99 81,40
+7 Ciamis 91,77 100,00
+8 Kuningan 99,47 98,27
+9 Cirebon 92,04 93,70
+10 Majalengka 97,23 96,41
+11 Sumedang 90,11 88,44
+12 Indramayu 95,52 92,44
+13 Subang 100,00 100,00
+14 Purwakarta 92,24 89,83
+15 Karawang 86,85 84,66
+16 Bekasi 100,00 98,34
+17 Bandung Barat 93,99 90,51
+18 Pangandaran 69,68 95,68
+19 Kota Bogor 100,00 92,18
+20 Kota Sukabumi 100,00 92,51
+21 Kota Bandung 100,00 95,26
+22 Kota Cirebon 98,90 97,70
+23 Kota Bekasi 100,00 100,00
+24 Kota Depok 100,00 100,00
+25 Kota Cimahi 85,73 100,00
+26 Kota Tasikmalaya 92,31 84,01
+27 Kota Banjar 100,00 99,13
+Jawa Barat 91,74 90,61
+1 Cilacap 100,00 96,02
+2 Banyumas 87,96 96,83
+3 Purbalingga 93,11 94,95
+4 Banjarnegara 93,96 91,15
+https://www.bps.go.id
+
+
+===== PDF PAGE 143 =====
+Fasilitas Perumahan
+129
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+5 Kebumen 92,42 93,04
+6 Purworejo 96,27 96,17
+7 Wonosobo 89,70 94,89
+8 Magelang 82,40 92,69
+9 Boyolali 90,54 86,18
+10 Klaten 100,00 100,00
+11 Sukoharjo 94,58 99,66
+12 Wonogiri 98,64 100,00
+13 Karanganyar 100,00 100,00
+14 Sragen 100,00 99,98
+15 Grobogan 75,16 93,08
+16 Blora 90,96 96,67
+17 Rembang 98,49 96,13
+18 Pati 99,25 86,44
+19 Kudus 100,00 100,00
+20 Jepara 91,83 93,45
+21 Demak 100,00 96,62
+22 Semarang 97,92 100,00
+23 Temanggung 94,86 98,12
+24 Kendal 100,00 96,97
+25 Batang 100,00 100,00
+26 Pekalongan 100,00 85,21
+27 Pemalang 93,41 89,20
+28 Tegal 87,48 100,00
+29 Brebes 98,26 97,44
+30 Kota Magelang 100,00 99,17
+31 Kota Surakarta 100,00 85,59
+32 Kota Salatiga 100,00 100,00
+33 Kota Semarang 100,00 100,00
+34 Kota Pekalongan 100,00 76,08
+35 Kota Tegal 100,00 96,33
+Jawa Tengah 94,22 95,18
+1 Kulon Progo 89,97 100,00
+2 Bantul 96,62 100,00
+3 Gunungkidul 94,84 100,00
+4 Sleman 98,59 96,20
+https://www.bps.go.id
+
+
+===== PDF PAGE 144 =====
+130
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+5 Kota Yogyakarta 96,28 86,51
+DI Yogyakarta 95,49 98,29
+1 Pacitan 78,34 99,24
+2 Ponorogo 96,84 90,24
+3 Trenggalek 92,27 91,13
+4 Tulungagung 100,00 95,60
+5 Blitar 98,31 97,08
+6 Kediri 95,17 98,66
+7 Malang 95,00 98,92
+8 Lumajang 94,19 92,43
+9 Jember 100,00 61,14
+10 Banyuwangi 98,29 91,38
+11 Bondowoso 92,39 61,46
+12 Situbondo 91,78 57,93
+13 Probolinggo 97,16 78,56
+14 Pasuruan 100,00 87,55
+15 Sidoarjo 99,36 100,00
+16 Mojokerto 98,85 91,66
+17 Jombang 100,00 97,61
+18 Nganjuk 100,00 97,01
+19 Madiun 100,00 98,18
+20 Magetan 100,00 90,95
+21 Ngawi 95,49 95,71
+22 Bojonegoro 95,20 94,89
+23 Tuban 98,75 86,15
+24 Lamongan 86,81 97,71
+25 Gresik 87,27 94,78
+26 Bangkalan 87,24 89,66
+27 Sampang 94,77 100,00
+28 Pamekasan 93,73 98,96
+29 Sumenep 98,45 97,85
+30 Kota Kediri 100,00 100,00
+31 Kota Blitar 96,99 100,00
+32 Kota Malang 100,00 100,00
+33 Kota Probolinggo 100,00 99,59
+34 Kota Pasuruan 100,00 89,20
+https://www.bps.go.id
+
+
+===== PDF PAGE 145 =====
+Fasilitas Perumahan
+131
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+35 Kota Mojokerto 100,00 100,00
+36 Kota Madiun 100,00 100,00
+37 Kota Surabaya 100,00 100,00
+38 Kota Batu 100,00 100,00
+Jawa Timur 95,65 90,38
+1 Pandeglang 88,28 90,00
+2 Lebak 73,32 80,01
+3 Tangerang 100,00 91,48
+4 Serang 60,20 79,02
+5 Kota Tangerang 100,00 100,00
+6 Kota Cilegon 100,00 100,00
+7 Kota Serang 100,00 98,23
+8 Kota Tangerang Selatan 100,00 100,00
+Banten 91,82 91,34
+1 Jembrana 96,38 93,27
+2 Tabanan 97,95 85,63
+3 Badung 100,00 100,00
+4 Gianyar 97,77 100,00
+5 Klungkung 100,00 100,00
+6 Bangli 95,62 81,65
+7 Karangasem 100,00 100,00
+8 Buleleng 100,00 90,31
+9 Kota Denpasar 100,00 100,00
+Bali 99,03 95,10
+1 Lombok Barat 98,33 60,85
+2 Lombok Tengah 91,19 78,59
+3 Lombok Timur 95,72 92,95
+4 Sumbawa 96,38 85,77
+5 Dompu 100,00 79,14
+6 Bima 100,00 85,31
+7 Sumbawa Barat 91,70 96,49
+8 Lombok Utara 97,08 81,95
+9 Kota Mataram 100,00 93,42
+10 Kota Bima 100,00 71,19
+https://www.bps.go.id
+
+
+===== PDF PAGE 146 =====
+132
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+Nusa Tenggara Barat 96,20 82,65
+1 Sumba Barat 81,23 69,07
+2 Sumba Timur 73,36 76,90
+3 Kupang 81,83 93,50
+4 Timor Tengah Selatan 60,47 99,04
+5 Timor Tengah Utara 88,96 86,47
+6 Belu 75,13 96,50
+7 Alor 98,94 92,13
+8 Lembata 95,75 94,81
+9 Flores Timur 100,00 100,00
+10 Sikka 85,49 87,26
+11 Ende 99,41 96,78
+12 Ngada 88,00 88,47
+13 Manggarai 91,79 88,50
+14 Rote Ndao 83,34 82,45
+15 Manggarai Barat 99,55 92,09
+16 Sumba Tengah 65,47 56,30
+17 Sumba Barat Daya 93,73 61,27
+18 Nagekeo 96,66 95,53
+19 Manggarai Timur 77,72 97,06
+20 Sabu Raijua 74,18 99,63
+21 Malaka 89,34 87,05
+22 Kota Kupang 97,83 85,89
+Nusa Tenggara Timur 84,51 87,79
+1 Sambas 100,00 99,91
+2 Bengkayang 81,78 95,24
+3 Landak 76,76 82,06
+4 Mempawah 93,30 81,35
+5 Sanggau 90,50 79,96
+6 Ketapang 72,63 91,38
+7 Sintang 73,98 84,40
+8 Kapuas Hulu 100,00 90,63
+9 Sekadau 28,36 95,62
+10 Melawi 38,08 83,44
+11 Kayong Utara 100,00 94,04
+https://www.bps.go.id
+
+
+===== PDF PAGE 147 =====
+Fasilitas Perumahan
+133
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+12 Kubu Raya 100,00 92,57
+13 Kota Pontianak 92,21 100,00
+14 Kota Singkawang 86,42 91,86
+Kalimantan Barat 80,34 89,74
+1 Kotawaringin Barat 100,00 100,00
+2 Kotawaringin Timur 80,67 87,03
+3 Kapuas 49,18 88,06
+4 Barito Selatan 88,67 94,60
+5 Barito Utara 32,31 87,09
+6 Sukamara 84,76 65,15
+7 Lamandau 81,70 76,12
+8 Seruyan 66,64 81,80
+9 Katingan 76,38 92,34
+10 Pulang Pisau 73,71 93,97
+11 Gunung Mas 30,31 92,99
+12 Barito Timur 59,32 84,63
+13 Murung Raya 55,27 78,60
+14 Kota Palangka Raya 100,00 100,00
+Kalimantan Tengah 69,44 88,68
+1 Tanah Laut 100,00 95,27
+2 Kotabaru 55,59 79,02
+3 Banjar 59,60 92,56
+4 Barito Kuala 29,80 90,20
+5 Tapin 88,19 78,03
+6 Hulu Sungai Selatan 46,18 71,28
+7 Hulu Sungai Tengah 51,34 88,29
+8 Hulu Sungai Utara 81,55 91,71
+9 Tabalong 78,47 95,97
+10 Tanah Bumbu 87,10 92,43
+11 Balangan 89,65 75,99
+12 Kota Banjarmasin 100,00 75,21
+13 Kota Banjar Baru 53,56 92,33
+Kalimantan Selatan 71,16 86,65
+1 Paser 72,86 94,69
+https://www.bps.go.id
+
+
+===== PDF PAGE 148 =====
+134
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+2 Kutai Barat 75,81 99,68
+3 Kutai Kartanegara 52,67 96,54
+4 Kutai Timur 71,16 91,69
+5 Berau 81,32 91,40
+6 Penajam Paser Utara 91,92 89,46
+7 Mahakam Ulu 47,39 100,00
+8 Kota Balikpapan 100,00 100,00
+9 Kota Samarinda 100,00 100,00
+10 Kota Bontang 100,00 92,87
+Kalimantan Timur 75,14 95,70
+1 Malinau 79,25 100,00
+2 Bulungan 58,73 90,99
+3 Tana Tidung 78,69 96,05
+4 Nunukan 100,00 90,19
+5 Kota Tarakan 92,57 98,81
+Kalimantan Utara 84,10 94,82
+1 Bolaang Mongondow 85,56 55,76
+2 Minahasa 91,98 100,00
+3 Kepulauan Sangihe 88,22 77,46
+4 Kepulauan Talaud 91,26 77,55
+5 Minahasa Selatan 79,43 78,41
+6 Minahasa Utara 100,00 91,98
+7 Bolaang Mongondow Utara 69,85 56,90
+8 Kepulauan Sitaro 92,03 94,91
+9 Minahasa Tenggara 89,85 95,22
+10 Bolaang Mongondow Selatan 90,90 62,89
+11 Bolaang Mongondow Timur 88,18 67,05
+12 Kota Manado 100,00 94,58
+13 Kota Bitung 100,00 98,52
+14 Kota Tomohon 100,00 87,04
+15 Kota Kotamobagu 93,09 86,42
+Sulawesi Utara 90,97 83,93
+1 Banggai Kepulauan 91,82 66,25
+2 Banggai 87,37 68,21
+https://www.bps.go.id
+
+
+===== PDF PAGE 149 =====
+Fasilitas Perumahan
+135
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+3 Morowali 100,00 75,55
+4 Poso 88,59 88,20
+5 Donggala 88,66 47,08
+6 Tolitoli 60,75 44,81
+7 Buol 62,44 70,40
+8 Parigi Moutong 53,78 34,67
+9 Tojo Una-Una 98,91 62,44
+10 Sigi 47,32 49,44
+11 Banggai Laut 92,15 72,37
+12 Morowali Utara 80,14 89,73
+13 Kota Palu 90,46 87,09
+Sulawesi Tengah 76,04 59,90
+1 Kepulauan Selayar 97,11 80,01
+2 Bulukumba 87,88 77,78
+3 Bantaeng 92,93 87,50
+4 Jeneponto 95,52 90,21
+5 Takalar 100,00 87,69
+6 Gowa 94,86 100,00
+7 Sinjai 67,96 90,49
+8 Maros 78,34 99,01
+9 Pangkajene Dan Kepulauan 88,46 93,32
+10 Barru 97,64 91,42
+11 Bone 87,89 100,00
+12 Soppeng 100,00 94,85
+13 Wajo 93,82 97,89
+14 Sidenreng Rappang 96,97 100,00
+15 Pinrang 79,40 94,19
+16 Enrekang 68,23 92,42
+17 Luwu 82,71 97,58
+18 Tana Toraja 52,52 80,62
+19 Luwu Utara 89,82 93,48
+20 Luwu Timur 86,38 83,78
+21 Toraja Utara 37,77 100,00
+22 Kota Makassar 100,00 100,00
+23 Kota Parepare 92,75 100,00
+24 Kota Palopo 75,80 94,98
+https://www.bps.go.id
+
+
+===== PDF PAGE 150 =====
+136
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+Sulawesi Selatan 86,68 94,20
+1 Buton 84,39 77,56
+2 Muna 97,75 88,95
+3 Konawe 91,70 95,56
+4 Kolaka 75,19 96,21
+5 Konawe Selatan 94,47 94,51
+6 Bombana 98,15 73,16
+7 Wakatobi 100,00 84,60
+8 Kolaka Utara 94,85 94,72
+9 Buton Utara 97,75 94,31
+10 Konawe Utara 81,86 90,42
+11 Kolaka Timur 93,49 96,69
+12 Konawe Kepulauan 94,94 82,25
+13 Muna Barat 97,18 86,51
+14 Buton Tengah 87,99 86,50
+15 Buton Selatan 100,00 77,49
+16 Kota Kendari 80,70 91,58
+17 Kota Baubau 100,00 100,00
+Sulawesi Tenggara 91,80 90,31
+1 Boalemo 91,87 70,69
+2 Gorontalo 95,43 73,78
+3 Pohuwato 97,01 71,45
+4 Bone Bolango 87,83 66,59
+5 Gorontalo Utara 86,71 77,43
+6 Kota Gorontalo 100,00 98,25
+Gorontalo 93,34 73,93
+1 Majene 95,37 83,47
+2 Polewali Mandar 85,75 90,92
+3 Mamasa 44,14 76,49
+4 Mamuju 83,22 70,52
+5 Pasangkayu 77,17 48,29
+6 Mamuju Tengah 76,84 87,74
+Sulawesi Barat 78,70 81,55
+https://www.bps.go.id
+
+
+===== PDF PAGE 151 =====
+Fasilitas Perumahan
+137
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+1 Kepulauan Tanimbar 97,69 95,93
+2 Maluku Tenggara 91,06 81,82
+3 Maluku Tengah 96,42 69,78
+4 Buru 95,41 64,04
+5 Kepulauan Aru 80,45 38,70
+6 Seram Bagian Barat 90,31 70,76
+7 Seram Bagian Timur 84,60 64,44
+8 Maluku Barat Daya 98,20 84,66
+9 Buru Selatan 81,60 30,09
+10 Kota Ambon 61,70 79,26
+11 Kota Tual 94,32 84,58
+Maluku 89,55 71,35
+1 Halmahera Barat 100,00 80,02
+2 Halmahera Tengah 100,00 92,10
+3 Kepulauan Sula 80,59 92,60
+4 Halmahera Selatan 71,01 88,02
+5 Halmahera Utara 99,52 32,09
+6 Halmahera Timur 71,35 79,21
+7 Pulau Morotai 93,30 72,29
+8 Pulau Taliabu 79,51 82,43
+9 Kota Ternate 100,00 100,00
+10 Kota Tidore Kepulauan 94,88 86,94
+Maluku Utara 87,61 80,88
+1 Fakfak 98,55 71,54
+2 Kaimana 88,29 52,64
+3 Teluk Wondama 25,05 39,04
+4 Teluk Bintuni 92,04 79,13
+5 Manokwari 94,75 97,46
+6 Manokwari Selatan 68,03 87,01
+7 Pegunungan Arfak 73,23 64,60
+Papua Barat 83,37 76,33
+1 Raja Ampat 83,00 62,03
+2 Sorong 76,10 88,28
+3 Sorong Selatan 56,85 15,33
+https://www.bps.go.id
+
+
+===== PDF PAGE 152 =====
+138
+Data dan Informasi Kemiskinan Kabupaten/Kota 2025
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+4 Maybrat 56,56 72,87
+5 Tambrauw 40,87 81,93
+6 Kota Sorong 90,39 65,98
+Papua Barat Daya 75,46 69,76
+1 Jayapura 69,67 66,88
+2 Kepulauan Yapen 78,08 86,10
+3 Biak Numfor 88,30 96,69
+4 Sarmi 71,38 92,55
+5 Keerom 43,91 54,06
+6 Waropen 93,45 86,50
+7 Supiori 61,89 88,15
+8 Mamberamo Raya 90,58 51,36
+9 Kota Jayapura 99,61 98,01
+Papua 83,00 85,86
+1 Merauke 78,55 71,39
+2 Boven Digoel 29,43 63,98
+3 Mappi 23,03 48,10
+4 Asmat 82,81 45,49
+Papua  Selatan 55,48 56,71
+1 Mimika 98,91 69,39
+2 Dogiyai 88,26 49,95
+3 Deiyai 97,69 92,07
+4 Nabire 93,74 72,00
+5 Paniai 100,00 93,14
+6 Intan Jaya 72,43 99,65
+7 Puncak 32,53 0,00
+8 Puncak Jaya 92,98 25,01
+Papua Tengah 84,80 60,71
+1 Nduga 10,68 77,88
+2 Jayawijaya 44,92 77,60
+3 Lanny Jaya NA 98,38
+4 Tolikara 30,12 10,56
+5 Mamberamo Tengah 34,20 55,63
+https://www.bps.go.id
+
+
+===== PDF PAGE 153 =====
+Fasilitas Perumahan
+139
+Lanjutan Tabel 6.1
+No Kabupaten/Kota Air Layak Jamban Sendiri/
+Bersama
+(1) (2) (3) (4)
+6 Yalimo 59,43 96,45
+7 Yahukimo 29,45 20,97
+8 Pegunungan Bintang 66,90 20,74
+Papua Pegunungan 28,38 59,44
+Catatan:  Not Applicable (NA) menunjukan bahwa data tidak dapat ditampilkan karena nilai                                 relative standar error (RSE) lebih dari 50 persen
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025
+https://www.bps.go.id
+
+
+===== PDF PAGE 154 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 155 =====
+                                                                                        Daftar Pustaka
+141
+Badan Pusat Statistik dan World Bank Institute. 2002. Dasar-Dasar Analisis   
+ Kemiskinan . BPS: Jakarta.
+Badan Pusat Statistik. 2024. Data dan Informasi Kemiskinan Kabupaten/Kota Tahun  
+ 2024 . BPS: Jakarta.
+Foster, James E., J.Geer, and E. Thorbecke. 1984. A Class of Decomposable    
+ Poverty Measures. Econometrika 52:761-766.
+DAFTAR PUSTAKA
+https://www.bps.go.id
+
+
+===== PDF PAGE 156 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 157 =====
+https://www.bps.go.id
+
+
+===== PDF PAGE 158 =====
+BADAN PUSAT STATISTIK
+Jl. dr. Sutomo No. 6-8 Jakarta 10710
+Telp. : (021) 3841195, 3842508, 3810291-4  Fax. : (021) 3863816
+Homepage: http://www.bps.go.id  E-mail: bpshq@bps.go.id
+https://www.bps.go.id

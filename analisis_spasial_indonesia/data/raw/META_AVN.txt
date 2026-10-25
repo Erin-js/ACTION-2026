@@ -1,0 +1,443 @@
+ 
+ 
+ 
+ 
+ 
+ Variabel: Siap/bersedia mulai bekerja/usaha dalam rentang seminggu terakhir jika peluang bekerja/usaha telah tersedia 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BADAN PUSAT STATISTIK 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Beranda 
+ 
+ 
+ 
+ Metadata Statistik 
+ 
+ 
+ 
+ 
+
+ Instrumen 
+ Tentang Kami 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 📊 MS-KEG 
+ Kegiatan Statistik 
+ Rancangan & metodologi sensus, survei, dan kompilasi produk administrasi. 
+ 
+ Jelajahi Katalog → 
+ 
+
+ 
+ 
+ 
+ ≡ MS-VAR 
+ Variabel Statistik 
+ Konsep, definisi operasional, dan klasifikasi standar variabel statistik. 
+ 
+ Jelajahi Katalog → 
+ 
+
+ 
+ 
+ 
+ ▤ MS-IND 
+ Indikator Statistik 
+ Hasil kompilasi indikator statistik nasional, rumus, dan interpretasi. 
+ 
+ Jelajahi Katalog → 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ API 
+ 
+ 
+ 
+ 
+ 
+ INDAH 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ Beranda 
+ 
+ Metadata Statistik 
+ 📊 Kegiatan Statistik (MS-Keg) 
+ ≡ Variabel Statistik (MS-Var) 
+ ▤ Indikator Statistik (MS-Ind) 
+ 
+ 
+ 📥 Instrumen & Regulasi 
+ 🏛 Tentang Kami 
+ ⚡ API (dna.web.bps.go.id) 
+ 🚀 INDAH (indah.bps.go.id) 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ≡ METADATA VARIABEL STATISTIK
+ 
+ Siap/bersedia mulai bekerja/usaha dalam rentang seminggu terakhir jika peluang bekerja/usaha telah tersedia 
+ Direktorat Statistik Kependudukan dan Ketenagakerjaan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ ← Kembali ke Daftar Variabel 
+ ● Dapat Diakses Umum 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ ≡ 
+ 
+ Siap/bersedia mulai bekerja/usaha dalam rentang seminggu terakhir jika peluang bekerja/usaha telah tersedia 
+ 
+ ID Variabel Indah: 230266 
+ Alias: SRH_AVN 
+ Tipe: Integer 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 💡 
+ 
+ Konsep & Definisi 
+ Uraian konseptual dan substansi variabel 
+ 
+ 
+ 
+ 
+ Konsep 
+ Siap/bersedia mulai bekerja/usaha bekerja/berusaha seminggu ke depan 
+ 
+ 
+ 
+ Definisi Variabel 
+ 
+ kesiapan seseorang yang sedang tidak bekerja untuk segera menerima tawaran pekerjaan atau memulai kegiatan usaha jika ada kesempatan kerja yang tersedia dalam waktu satu minggu ke depan dari tanggal pencacahan. 
+ 
+ 
+ 
+ 
+ Kalimat Pertanyaan (Kuesioner) 
+ 
+ "Jika peluang bekerja/usaha telah tersedia, apakah (NAMA) siap/bersedia mulai bekerja/usaha dalam rentang seminggu terakhir?"
+ 
+ 
+ 
+ 
+ Referensi Pemilihan 
+ - 
+ 
+ 
+ Aturan Validasi 
+ TANYAKAN JIKA (SRH_JOB = 1 ATAU SRH_BUS = 1 ATAU (SRH_DES = 1 DAN SRH_DWY ? 4)) ; Ditanyakan pada Sakernas Februari 2025 dan Sakernas Agustus 2025; 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ ⚙️ 
+ 
+ Domain Nilai & Klasifikasi Isian 
+ Struktur rujukan kode dan kategori isian variabel 
+ 
+ 
+ 
+ 
+ Klasifikasi Rujukan 
+ - 
+ 
+ 
+ 
+ Klasifikasi Isian / Value Domain 
+ 
+ Kode Nilai / Kategori 
+ 
+ 
+ 1 
+ Ya 
+ 
+ 
+ 2 
+ Tidak 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 📊 
+ 
+ Spesifikasi Teknis 
+ Atribut pengukuran dan referensi 
+ 
+ 
+ 
+ 
+ Tipe Data 
+ Integer 
+ 
+ 
+ Satuan 
+ - 
+ 
+ 
+ Ukuran 
+ - 
+ 
+ 
+ Referensi Waktu 
+ Seminggu terakhir 
+ 
+ 
+ Dapat Diakses Umum 
+ 
+ Ya 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 📁 
+ 
+ Kegiatan Statistik Terkait 
+ Kegiatan pengumpul variabel 
+ 
+ 
+ 
+ 
+ Survei Angkatan Kerja Nasional 
+ 
+ Tahun: 2025 
+ • 
+ Cara: SURVEI 
+ 
+ 
+ Buka Metadata Kegiatan →
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 🏛 
+ 
+ Produsen Data & Administrasi 
+ Instansi penanggung jawab dan riwayat data 
+ 
+ 
+ 
+ 
+ ID Variabel Indah 
+ #230266 
+ 
+ 
+ Produsen Data 
+ Direktorat Statistik Kependudukan dan Ketenagakerjaan 
+ 
+ 
+ Status Verifikasi 
+ APPROVED 
+ 
+ 
+ Dibuat Pada 
+ 08 Juli 2025 
+ 
+ 
+ Diperbarui Pada 
+ 31 Agustus 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BADAN PUSAT STATISTIK RI 
+ Sistem Rujukan Statistik Terintegrasi (SIRUSA) • Satu Data Indonesia 
+ © Metadata Statistik 2026. Hak Cipta Dilindungi. 
+ 
+ 
+ HUBUNGI KAMI 
+ 
+ 
+ 
+ Jl. Dr. Sutomo 6-8, Jakarta 10710 Indonesia 
+ 
+ 
+ 
+ (+6221) 3841195, 3842508, 3810291 
+ 
+ 
+ 
+ [email protected] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ ID
+ 
+ 
+ EN
+ 
+ 
+
+ 
+
+
+
+
+
+ 
+ 

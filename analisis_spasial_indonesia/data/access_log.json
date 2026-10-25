@@ -1,0 +1,251 @@
+[
+  {
+    "id": "SAK2025_METADATA",
+    "url": "https://silastik.bps.go.id/v3/index.php/mikrodata/view/ZmpnL2FkNDBLZkJqVTZmUERWbXFZdz09",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://silastik.bps.go.id/v3/index.php/mikrodata/detail/ZmpnL2FkNDBLZkJqVTZmUERWbXFZdz09",
+    "content_type": "text/html; charset=UTF-8",
+    "berkas": "data/raw/SAK2025_METADATA.html",
+    "bytes": 175681,
+    "sha256": "fa8744f4e12d34e45726fe92e2834fde65cdc35c11782a094054fb63f139d9e1",
+    "candidate_download_links": [
+      "/v3/index.php/data/download/RDJ6U0lxUUNzWVhtMU9tdWRueFhHUndDb1JEbzRoUFNzN2JBTTlrWkZKeU5ESktKd2U2R3Y0RFVuZEE4M014ZHpsdHJVdE92ek5oeGhPWVB4dTFvL0EzTGtPcUZpbWROeFBKM0NMdkxzUnc9",
+      "/v3/index.php/data/download/RDJ6U0lxUUNzWVhtMU9tdWRueFhHUndDb1JEbzRoUFNzN2JBTTlrWkZKeU5ESktKd2U2R3Y0RFVuZEE4M014ZHpsdHJVdE92ek5oeGhPWVB4dTFvL0dUUXlQaWV2Ry8xOGlqRGtlc1dtc2M9",
+      "/v3/index.php/data/download/RDJ6U0lxUUNzWVhtMU9tdWRueFhHUndDb1JEbzRoUFNzN2JBTTlrWkZKd3FmcUp0K2d5VEk4aXNENzQ5ZHJjdGFrWHI1YUx2Z3NUcTFSdDFkcnlFUW1mdFIrRHBuM1ViTVRxTi9zalRLUTEvQldJUHlTTUhuVmRPYUVWTEN0aWs",
+      "/v3/index.php/data/download/RDJ6U0lxUUNzWVhtMU9tdWRueFhHUndDb1JEbzRoUFNzN2JBTTlrWkZKd3FmcUp0K2d5VEk4aXNENzQ5ZHJjdEg5Q2FORlEwc1d5T0wxNWdicVFlczNMYWVYNjVNY3hUTjAzUkF5R3BqMzczZnhFZkg0TDhOZWk5SWVXOStyK3E",
+      "/v3/index.php/data/download/RDJ6U0lxUUNzWVhtMU9tdWRueFhHUndDb1JEbzRoUFNzN2JBTTlrWkZKd3FmcUp0K2d5VEk4aXNENzQ5ZHJjdGVrdzJNR2VYUnBxQUlpYlp5SXpxZmVwVjRIMlJ3eUI2Vko0QTNkcnhBOGhwNExDRmRHOGhhWUlORWtGaXhyYmg",
+      "/v3/index.php/data/download/RDJ6U0lxUUNzWVhtMU9tdWRueFhHUndDb1JEbzRoUFNzN2JBTTlrWkZKd3FmcUp0K2d5VEk4aXNENzQ5ZHJjdDZOVnFhU2pYckdNY3drNkE3N2MvNXJFUGQxemFyZU85ME03VzF1czJBTnIvbGJSclhsTWREdzd3TnhKNzhYMmQ"
+    ],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "SUSENAS2025_METADATA",
+    "url": "https://silastik.bps.go.id/v3/index.php/mikrodata/cetak_info/ZENiZzRuNFd0QXRVS3BaTnVlKzlNUT09",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://silastik.bps.go.id/v3/index.php/mikrodata/cetak_info/ZENiZzRuNFd0QXRVS3BaTnVlKzlNUT09",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/SUSENAS2025_METADATA.pdf",
+    "bytes": 91217,
+    "sha256": "ba9f5a7e3e2d52f0b2c541007e55c1917274ec37df49c7af0bddd4e7dbb0ef2a",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "PODES2024_METADATA",
+    "url": "https://silastik.bps.go.id/v3/index.php/mikrodata/cetak_info/bjlIdjVWZnA2dkxmaVkxdTdpR0VEZz09",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://silastik.bps.go.id/v3/index.php/mikrodata/cetak_info/bjlIdjVWZnA2dkxmaVkxdTdpR0VEZz09",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/PODES2024_METADATA.pdf",
+    "bytes": 148876,
+    "sha256": "f2c824a1e88226923a4ca5f0fc8ecf7c3d8de5341561b238b716f4cbafb993fa",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "SUSENAS2025_PUB",
+    "url": "https://www.bps.go.id/id/publication/2025/10/10/b37dd4fb6b1727f8cf3c0271/statistik-kesejahteraan-rakyat-2025.html",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://www.bps.go.id/id/publication/2025/10/10/b37dd4fb6b1727f8cf3c0271/statistik-kesejahteraan-rakyat-2025.html",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/SUSENAS2025_PUB.html",
+    "bytes": 85909,
+    "sha256": "8d741e3a46aa2537a003b671eb5d029e52f692184b415395d79115b2955da72b",
+    "candidate_download_links": [
+      "https://webapi.bps.go.id/download.php?f=AQADYRqYTVE9sy4G-F7GMoeXHASwn9dOTXY5ifGav_4DB-eVVxO6hFEIJLXD4pmRDmESnMArXQh00kdQXHJNrYQYDP7e-jQ8jTI9j2Po-Vw9uO7YZ8OCrJ2XJynN_L6AnuVAg-hbLmaCYxREUeFR_5X-wwTHs5ix9kf6hsyWM3TxXdV-FjwZydos5kvYvshDCtnTBVS0bezTv-p1PH-bPgJdpC-NdRQB5eTyV_h6jRQuFbojhOBl7FM-hYMtwnNR_pVylcdyVKOd2H4A7h5PDIz-vldg8d45EIahsN_VE5i4"
+    ],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "POVERTY2025",
+    "url": "https://www.bps.go.id/id/publication/2025/11/28/f7534097ff9c717e794cd6e1/data-dan-informasi-kemiskinan-kabupaten-kota-tahun-2025.html",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://www.bps.go.id/id/publication/2025/11/28/f7534097ff9c717e794cd6e1/data-dan-informasi-kemiskinan-kabupaten-kota-tahun-2025.html",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/POVERTY2025.html",
+    "bytes": 86299,
+    "sha256": "ed07b2643fdcf724b4a8bf7168019afee0e1b3ca75cbed90e0faf7fa1ab98052",
+    "candidate_download_links": [
+      "https://webapi.bps.go.id/download.php?f=AQAD0xmYUjzTeccayxMpeiW0egoPXyqniSEtKPPM50_FAAmRPK7Fi8nWZ-qKS4XkBKd4uxHiiOoBUMK6-EJQpK0_utehxAN9SX-uc1qFDZE2LEgsPDCDScdUHAa3fK4zLup-uzomsQ0FtznTU69r-0dE3XzwhBe-1_D0vtGLZfC2G4_WgqTuDkI2DvXWo7EczXhQsxcx3sm6iwhFFFsAltt-fq6CdQj3HLmKk_6orTwQpHK8pAC7vZ-G4WeWr9EOGuAzZnEa_3vTpV2eAZm7AyPeqiVf3ylDhHTx-q9w_vG_"
+    ],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "DIGITAL2024",
+    "url": "https://www.bps.go.id/id/publication/2025/08/29/beaa2be400eda6ce6c636ef8/telecommunication-statistics-in-indonesia-2024.html",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://www.bps.go.id/id/publication/2025/08/29/beaa2be400eda6ce6c636ef8/telecommunication-statistics-in-indonesia-2024.html",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/DIGITAL2024.html",
+    "bytes": 92674,
+    "sha256": "fe022de08552c283c10d96f0ee7f5e0a1039233d8c3ba22b3fa4d0b583d048f1",
+    "candidate_download_links": [
+      "https://webapi.bps.go.id/download.php?f=AQAD3YTnkEBTdo3VGtwF3gnmesBf0s_rbc4Cwsyv1vyQ9GcdAEo1UUI_ZCjVezWhR9P0qySLPAjwl7ZVFIsPInCXfpQU0exyHzFT84A4MIDGaqvPGPLn2EzfoiK_0Liz5826brV-Dv1Qmd6h5fL1SimBow95BpvP7lUFlQ9BxPhFxPCsDObeBRR00_kRB9LalCDApf2tYgiMH9oPZxBxGBq1y5M-oGs6eb-sV7AmDpnBLSbEm-fH6tFRDOkySw8mDUx65yw-Sj-UT7LTvf9Xy1bU0flHzu0SCs-vgYdDR3iv"
+    ],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "PODES2024_PUB",
+    "url": "https://www.bps.go.id/id/publication/2024/12/10/2f5217e2d6a695a0830290a7/statistik-potensi-desa-indonesia-2024.html",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://www.bps.go.id/id/publication/2024/12/10/2f5217e2d6a695a0830290a7/statistik-potensi-desa-indonesia-2024.html",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/PODES2024_PUB.html",
+    "bytes": 89092,
+    "sha256": "cd78b8b311fcd19c6f28492a88d299fc3bf5af480cd491b5ad2142d7b990ddce",
+    "candidate_download_links": [
+      "https://webapi.bps.go.id/download.php?f=AQADgiJ17aG5P0woJM03V0dmNTYXYgLfAsx2bUxbcJ6Ker67qsV9bYdcpf-Eif3mXpfYsUKzTLI01KCzKrCh-Xkusw28scJkbIxVky2JWjAc99aVyyvYCRrBZWes1EyXFk8_1SFu4oJTK7cYs1GYnMM--LxV7T134I6kHz61nC3CfS8I2DEMIOy3bF2EOtHKmqP7soK5sDeRhy__w-4_aEUa4Km-Bgw9kL3XfXftIeEyLpkhQAN_X1TM1Jw-NvHvRHx3kTJSRzeUSmHIKCq-onhKDaNDSAHjLDr9n1xaJs2w"
+    ],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "PPI2025",
+    "url": "https://www.kemenpppa.go.id/show-pdf/dokumen/detail/profil-perempuan-indonesia-tahun-2025",
+    "tanggal_akses": "2026-10-24",
+    "status": "Gagal diakses langsung",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "PENDIDIKAN2025",
+    "url": "https://www.bps.go.id/id/publication/2025/11/21/d048070f37740b0e04d99350/statistics-of-education-2025.html",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://www.bps.go.id/id/publication/2025/11/21/d048070f37740b0e04d99350/statistics-of-education-2025.html",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/PENDIDIKAN2025.html",
+    "bytes": 85672,
+    "sha256": "796ff398b09710b5f6a1cc2e0b8b6d21d4f631e077956bc20bce2612ee91df2f",
+    "candidate_download_links": [
+      "https://webapi.bps.go.id/download.php?f=AQAD_-ENuPDSPWjivHwSaQyyzlp3s7HnDgrMRMK3_3G4IVy2qjRWPevZnreF9fvIVYCW-nCUlATAEvVYboVDoSjrHLEyoVJln-BYkBNNvIP544MBAlvGizBN0yTEf7GG-L59rNS2QJrXUENRQ9zZ4rmZFlqmgtQpPNdltAkpgSsqQYE7GLV1G7QIcMtBaNUtpIDQXKKHUfSEfITEHGPQa1dHbnnaOxlp5-TI7DE6-htQgPNa6CADBbUdILsMJc5XkkQ8ubIRapNLfzYuuo5ByySngKzoG2AY7P8cO2HJ3a0c"
+    ],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "PEMUDA2025",
+    "url": "https://www.bps.go.id/id/publication/2025/12/12/1a88777089ce471db17bb1fb/statistics-of-indonesian-youth-2025.html",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://www.bps.go.id/id/publication/2025/12/12/1a88777089ce471db17bb1fb/statistics-of-indonesian-youth-2025.html",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/PEMUDA2025.html",
+    "bytes": 85967,
+    "sha256": "6c27570963fd19e5783ebeed1f3fb4d75802ae54eaede08939d54639e7f5d10c",
+    "candidate_download_links": [
+      "https://webapi.bps.go.id/download.php?f=AQADESlgXmJsr4qoJmBQyBHrvE0WHglEs3J0hnc1PVZzY-ouIcSg7XMlTWvvc4U2-S5AKmEV9FPH21wuLBnWEc-t6hPWTa3VD2hNlOK2lH02h97hX2XsXi4rZ9-u8aaRQMniKg4fguLk9UEYsv6l1wh7dDzbmApuoVXy9XarmkbZJDxZhNBgvlITRtEtOZAbl-7bKb-L_BC0gjvBC6fPJcnoYjqVMnv0cGoJGnItuFw5ZhwsnQ0ck6pb_3HDUN8Ld0GYOQ0_22nSPq8AVlloa0Wj8of6vhjq3TdGu65xzkyy"
+    ],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "TRANSPORT2024",
+    "url": "https://www.bps.go.id/id/publication/2025/12/01/ed7ff73d58fc0719ee3df145/land-transportation-statistics-2024.html",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://www.bps.go.id/id/publication/2025/12/01/ed7ff73d58fc0719ee3df145/land-transportation-statistics-2024.html",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/TRANSPORT2024.html",
+    "bytes": 85777,
+    "sha256": "631e3a36ce3bef80d8dbc52ebe8339330f1fb49d3d647540b01698f8a8d86c4a",
+    "candidate_download_links": [
+      "https://webapi.bps.go.id/download.php?f=AQADNAw8s5YedbcDJru8ezmW7EJVeKVR-DsusZ756f3s-7O1h2u_-7GYxHJ5BLCLgitbPCoA8GTcr-rpCTErlmviPrR773h-jfQu8vUezuY_YQH58KAbelUVTtnMrWUc7Whex04h-PMMoznqGoNsemhlYUsclimIBXmu1EwFKrxQcZPKoE5wIgLrdRICNea6k6zjrp5VR4yOV8rGuNHohJSMo_7cBmlECxMhgWbEzFFnrrBZieNsTTu28yt4hP1gjPE3ONEKYPrDhljkcZDCKoscFoSzdrv6GAqHdcBHGd2X"
+    ],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "SAK2025_PUB",
+    "url": "https://www.bps.go.id/id/publication/2025/12/19/42a75ee61332755586fdfcdd/keadaan-angkatan-kerja-di-indonesia-",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://www.bps.go.id/id/publication/2025/12/19/42a75ee61332755586fdfcdd/keadaan-angkatan-kerja-di-indonesia-",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/SAK2025_PUB.html",
+    "bytes": 86200,
+    "sha256": "1bc4a9d1f175a4c7fda8253fdbbcef892bc90335556721d3c9c3a2b3adbb954f",
+    "candidate_download_links": [
+      "https://webapi.bps.go.id/download.php?f=AQADuNOQGk_3bCXud0me0TCHKbKswG3I1P0_epgUuYslI1pdBJP7l-WAVubfl-tVVB3-lei5vcXaJ8AKLg9AY_vAL_YgUtro3ml_RpYuE_ztNrOeOWht7T6Ww43qw5w85NhDqTVh49eL-C95mIwqJ7EdH6GBdO3EH6dHCCGLp4NTQ8edLgCoN2G5FmB_KNILPCD9WPYn4k8DEt01gWiZEyR0v4GyO8kOmICGk1Gv304lh2gQDjhOb59s8J6KAM6wdPGTjvBfV5JxuqIh7P5wJR58pPidyD-sdNrhsJ-lgdMP"
+    ],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "WB_CHILDCARE",
+    "url": "https://www.worldbank.org/en/country/indonesia/publication/access-to-childcare-can-improve-womens-labor-market-outcomes-in-indonesia",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://www.worldbank.org/en/country/indonesia/publication/access-to-childcare-can-improve-womens-labor-market-outcomes-in-indonesia",
+    "content_type": "text/html;charset=utf-8",
+    "berkas": "data/raw/WB_CHILDCARE.html",
+    "bytes": 98413,
+    "sha256": "0aace4139bc5685dee3885402cef33c34f76e6bc5e50414d2f71156aa19607d4",
+    "candidate_download_links": [],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "IZA_CHILD",
+    "url": "https://docs.iza.org/dp16136.pdf",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://docs.iza.org/dp16136.pdf",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/IZA_CHILD.pdf",
+    "bytes": 1248419,
+    "sha256": "67cadc8c3c28c0742a4c73d64a284ed9aae74b03de84ff6c97991d1c38cb1808",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "BIG_PROV",
+    "url": "https://geoservices.big.go.id/rbi/rest/services/BATASWILAYAH/BATAS_WILAYAH/MapServer/12?f=pjson",
+    "tanggal_akses": "2026-10-24",
+    "status": "Gagal diakses langsung",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "BIG_KAB",
+    "url": "https://geoservices.big.go.id/rbi/rest/services/BATASWILAYAH/BATAS_WILAYAH/MapServer/13?f=pjson",
+    "tanggal_akses": "2026-10-24",
+    "status": "Gagal diakses langsung",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "PAUD2024",
+    "url": "https://data.kemendikdasmen.go.id/publikasi/p/pauddasmen-buku-statistik/statistik-pendidikan-anak-usia-dini-paud-tahun-2023-2024",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://data.kemendikdasmen.go.id/publikasi/p/pauddasmen-buku-statistik/statistik-pendidikan-anak-usia-dini-paud-tahun-2023-2024",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/PAUD2024.html",
+    "bytes": 106364,
+    "sha256": "876daf764b5fc18106706ff4d7cad32da7513eef3ea05df6b1324c8089b07a7a",
+    "candidate_download_links": [],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "PASKER",
+    "url": "https://paskerid.kemnaker.go.id/informasi-pasar-kerja",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://paskerid.kemnaker.go.id/informasi-pasar-kerja",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/PASKER.html",
+    "bytes": 102610,
+    "sha256": "eaa99df1799c96b17687ccd6a8d73b34d61806a7b7c38daf7ec4624dd06349b0",
+    "candidate_download_links": [],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "KARIRHUB2025",
+    "url": "https://satudata.kemnaker.go.id/data/kumpulan-data/3235",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://satudata.kemnaker.go.id/data/kumpulan-data/3235",
+    "content_type": "text/html",
+    "berkas": "data/raw/KARIRHUB2025.html",
+    "bytes": 7413,
+    "sha256": "40b94ec5e8985090fb4e93b96462b0de90fed4d72b464308d0e6df4e6e0349a5",
+    "candidate_download_links": [],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  }
+]

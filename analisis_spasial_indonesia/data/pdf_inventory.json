@@ -1,0 +1,47 @@
+[
+  {
+    "berkas": "data\\raw\\DIGITAL2024_PDF.pdf",
+    "pages": 182,
+    "text": "data\\extracted\\DIGITAL2024_PDF.txt"
+  },
+  {
+    "berkas": "data\\raw\\IZA_CHILD.pdf",
+    "pages": 34,
+    "text": "data\\extracted\\IZA_CHILD.txt"
+  },
+  {
+    "berkas": "data\\raw\\PENDIDIKAN2025_PDF.pdf",
+    "pages": 251,
+    "text": "data\\extracted\\PENDIDIKAN2025_PDF.txt"
+  },
+  {
+    "berkas": "data\\raw\\PODES2024_METADATA.pdf",
+    "pages": 43,
+    "text": "data\\extracted\\PODES2024_METADATA.txt"
+  },
+  {
+    "berkas": "data\\raw\\PODES2024_PUB_PDF.pdf",
+    "pages": 270,
+    "text": "data\\extracted\\PODES2024_PUB_PDF.txt"
+  },
+  {
+    "berkas": "data\\raw\\POVERTY2025_PDF.pdf",
+    "pages": 158,
+    "text": "data\\extracted\\POVERTY2025_PDF.txt"
+  },
+  {
+    "berkas": "data\\raw\\SAK2025_PUB_PDF.pdf",
+    "pages": 324,
+    "text": "data\\extracted\\SAK2025_PUB_PDF.txt"
+  },
+  {
+    "berkas": "data\\raw\\SUSENAS2025_METADATA.pdf",
+    "pages": 21,
+    "text": "data\\extracted\\SUSENAS2025_METADATA.txt"
+  },
+  {
+    "berkas": "data\\raw\\SUSENAS2025_PUB_PDF.pdf",
+    "pages": 584,
+    "text": "data\\extracted\\SUSENAS2025_PUB_PDF.txt"
+  }
+]

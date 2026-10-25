@@ -1,0 +1,16 @@
+{
+  "source": "Kemendagri WFS, resource dari katalog SDI_GEOMETRI",
+  "zip": "data/raw/KEMENDAGRI_WFS_ZIP.zip",
+  "shape_type": 3,
+  "geometry_type": "Polyline",
+  "dbf_records": 1298,
+  "usable_as_polygon": false,
+  "status": "DITOLAK sebagai polygon choropleth; sumber ternyata berupa segmen garis batas",
+  "files": [
+    "seamless_bad123_rev130723_1.shx",
+    "seamless_bad123_rev130723_1.cst",
+    "seamless_bad123_rev130723_1.prj",
+    "seamless_bad123_rev130723_1.shp",
+    "seamless_bad123_rev130723_1.dbf"
+  ]
+}

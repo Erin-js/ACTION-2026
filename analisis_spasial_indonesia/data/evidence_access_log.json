@@ -1,0 +1,149 @@
+[
+  {
+    "id": "META_DES",
+    "url": "https://sirusa.bps.go.id/metadata/variabel/658ca45a-3492-c2ba-967b-23da16b2c629",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://sirusa.bps.go.id/metadata/variabel/658ca45a-3492-c2ba-967b-23da16b2c629",
+    "content_type": "text/html; charset=UTF-8",
+    "berkas": "data/raw/META_DES.html",
+    "bytes": 59110,
+    "sha256": "42c13410f7dcc9b4127d63cc7e7c4d034d7134adb1c6e5ce52547992191e2159",
+    "candidate_download_links": [],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "META_DWY",
+    "url": "https://sirusa.bps.go.id/sirusa/variabel/65bc8347-e65e-4c7d-c453-d574a0c8ac88",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://sirusa.bps.go.id/sirusa/variabel/65bc8347-e65e-4c7d-c453-d574a0c8ac88",
+    "content_type": "text/html; charset=UTF-8",
+    "berkas": "data/raw/META_DWY.html",
+    "bytes": 64317,
+    "sha256": "288e9ca09e1dc6542bfa710976e3b53059d40ec8fc5ef934700f3bea41fb0d29",
+    "candidate_download_links": [],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "META_AVN",
+    "url": "https://sirusa.bps.go.id/metadata/variabel/090e3f86-e7be-623b-a27b-d2bbd66e74e9",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://sirusa.bps.go.id/metadata/variabel/090e3f86-e7be-623b-a27b-d2bbd66e74e9",
+    "content_type": "text/html; charset=UTF-8",
+    "berkas": "data/raw/META_AVN.html",
+    "bytes": 61014,
+    "sha256": "2afd2ac6d7af88cd5e32abbb3ae557bf5c566ca3391037b3619ff369b499644f",
+    "candidate_download_links": [],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "WB_CARE_PRESENTATION",
+    "url": "https://thedocs.worldbank.org/en/doc/9ba3f2a164cacef01a472fd443cdedcf-0070012024/original/Report-Presentation-The-Care-Economy-in-Indonesia-Final-20240902.pdf",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://thedocs.worldbank.org/en/doc/9ba3f2a164cacef01a472fd443cdedcf-0070012024/original/Report-Presentation-The-Care-Economy-in-Indonesia-Final-20240902.pdf",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/WB_CARE_PRESENTATION.pdf",
+    "bytes": 1629622,
+    "sha256": "fef86de55c97f4f67b9d11e9869eec22399b4ac627ee2dda7a27543d1f12ec56",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "WB_CARE_REPORT_ID",
+    "url": "https://openknowledge.worldbank.org/bitstreams/def01f54-3416-4d85-b57a-4746be7a988d/download",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://openknowledge.worldbank.org/server/api/core/bitstreams/def01f54-3416-4d85-b57a-4746be7a988d/content",
+    "content_type": "application/pdf;charset=UTF-8",
+    "berkas": "data/raw/WB_CARE_REPORT_ID.pdf",
+    "bytes": 19607665,
+    "sha256": "c148e061f5c21ce0a380e672241ac69ab4f2c7eed534efd90e6aaa010971f5f0",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "ILO_CARE",
+    "url": "https://www.ilo.org/sites/default/files/2024-10/GEDI-STAT%20brief_formatted_28.10.24_final.pdf",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://www.ilo.org/sites/default/files/2024-10/GEDI-STAT%20brief_formatted_28.10.24_final.pdf",
+    "content_type": "application/pdf",
+    "berkas": "data/raw/ILO_CARE.pdf",
+    "bytes": 803774,
+    "sha256": "a0cbdd8d804f292d9404e3c3402c975829f4d80be73d9c179fd128e372969f81",
+    "status": "PDF tersimpan"
+  },
+  {
+    "id": "ILO_JOBSGAP",
+    "url": "https://ilostat.ilo.org/blog/women-are-more-likely-than-men-to-want-a-job-but-not-have-one/",
+    "tanggal_akses": "2026-10-24",
+    "status": "Gagal diakses langsung",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "SAK2025_DOCUMENTATION",
+    "url": "https://drive.bps.go.id/s/WE3A734gea2sa3d/download",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://drive.bps.go.id/s/WE3A734gea2sa3d/download",
+    "content_type": "application/zip",
+    "berkas": "data/raw/SAK2025_DOCUMENTATION.zip",
+    "bytes": 1326427,
+    "sha256": "bdbf562bab03cff4044853605916aba3a6909be2d06f80c701419d939a757a76",
+    "status": "ZIP tersimpan"
+  },
+  {
+    "id": "BIG_SERVICE",
+    "url": "https://geoservices.big.go.id/rbi/rest/services/BATASWILAYAH/BATAS_WILAYAH/MapServer?f=pjson",
+    "tanggal_akses": "2026-10-24",
+    "status": "Gagal diakses langsung",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "SIG_BPS",
+    "url": "https://sig.bps.go.id",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://sig.bps.go.id",
+    "content_type": "text/html; charset=UTF-8",
+    "berkas": "data/raw/SIG_BPS.html",
+    "bytes": 18128,
+    "sha256": "231c909df5f8428ef7629cfae454fba1cc4644d12b36f57e3b61aa73887100fb",
+    "candidate_download_links": [],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "IFLS",
+    "url": "https://www.rand.org/health/surveys/FLS/IFLS.html",
+    "tanggal_akses": "2026-10-24",
+    "status": "Gagal diakses langsung",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "PAUD_REFERENSI",
+    "url": "https://referensi.data.kemendikdasmen.go.id/pendidikan/paud",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://referensi.data.kemendikdasmen.go.id/pendidikan/paud",
+    "content_type": "text/html; charset=UTF-8",
+    "berkas": "data/raw/PAUD_REFERENSI.html",
+    "bytes": 50010,
+    "sha256": "9f23469cd02f940fdf16c48c595310615068f4789a536527c3c4f52bba84d334",
+    "candidate_download_links": [],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  },
+  {
+    "id": "BPS_TPAK_TABLE",
+    "url": "https://www.bps.go.id/id/statistics-table/2/MjIwMCMy/tingkat-partisipasi-angkatan-kerja",
+    "tanggal_akses": "2026-10-24",
+    "http_status": 200,
+    "final_url": "https://www.bps.go.id/id/statistics-table/2/MjIwMCMy/tingkat-partisipasi-angkatan-kerja",
+    "content_type": "text/html; charset=utf-8",
+    "berkas": "data/raw/BPS_TPAK_TABLE.html",
+    "bytes": 146939,
+    "sha256": "14cb9ceff86f2d25d9e163f473548ea847391cd2d6e3c2bec60b3711fb02c5c7",
+    "candidate_download_links": [],
+    "status": "Halaman tersimpan; isi perlu diperiksa"
+  }
+]

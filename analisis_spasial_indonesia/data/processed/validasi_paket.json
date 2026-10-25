@@ -1,0 +1,415 @@
+{
+  "tanggal": "2026-10-24",
+  "pemeriksaan_lulus": 81,
+  "sumber_katalog": 38,
+  "indikator": 55,
+  "pdf_tersimpan": 19,
+  "hasil": [
+    {
+      "pemeriksaan": "Jumlah baris panel_gender_38_provinsi_3_periode.csv",
+      "lulus": true,
+      "rincian": "117"
+    },
+    {
+      "pemeriksaan": "Jumlah baris screening_perubahan_provinsi_feb2025_feb2026.csv",
+      "lulus": true,
+      "rincian": "39"
+    },
+    {
+      "pemeriksaan": "Jumlah baris panel_konteks_38_provinsi_2025.csv",
+      "lulus": true,
+      "rincian": "38"
+    },
+    {
+      "pemeriksaan": "Jumlah baris kemiskinan_514_kabupaten_kota_2025.csv",
+      "lulus": true,
+      "rincian": "514"
+    },
+    {
+      "pemeriksaan": "Jumlah baris kemiskinan_agregat_provinsi_2025.csv",
+      "lulus": true,
+      "rincian": "38"
+    },
+    {
+      "pemeriksaan": "Jumlah baris internet_gender_desa_kota_provinsi_maret2025.csv",
+      "lulus": true,
+      "rincian": "117"
+    },
+    {
+      "pemeriksaan": "Jumlah baris status_perkawinan_gender_15_49_provinsi_maret2025.csv",
+      "lulus": true,
+      "rincian": "78"
+    },
+    {
+      "pemeriksaan": "Jumlah baris internet_gender_provinsi_2021_2024.csv",
+      "lulus": true,
+      "rincian": "304"
+    },
+    {
+      "pemeriksaan": "Jumlah baris kamus_variabel_sakernas_agustus2025.csv",
+      "lulus": true,
+      "rincian": "290"
+    },
+    {
+      "pemeriksaan": "Kunci provinsi unik",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Nilai inti panel konteks tersedia",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Rekonsiliasi jumlah miskin kabupaten-provinsi",
+      "lulus": true,
+      "rincian": "0.04000000000041837"
+    },
+    {
+      "pemeriksaan": "Kode kabupaten belum diisi secara spekulatif",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "DKI perdesaan tetap tidak tersedia",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Kode 53 diperbaiki dengan jejak nama asli",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "ID katalog unik",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "URL sumber eksplisit",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Berkas sumber BPS_IPTK_2026",
+      "lulus": true,
+      "rincian": "data/raw/BPS_IPTK_Feb2026.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber SAK2025_PUB",
+      "lulus": true,
+      "rincian": "data/raw/SAK2025_PUB_PDF.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber SAK2025_METADATA",
+      "lulus": true,
+      "rincian": "data/raw/SAK2025_METADATA.html"
+    },
+    {
+      "pemeriksaan": "Berkas sumber SAK2025_DOCUMENTATION",
+      "lulus": true,
+      "rincian": "data/raw/SAK2025_KUESIONER.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber SAK2025_DOCUMENTATION",
+      "lulus": true,
+      "rincian": "data/raw/SAK2025_DOCUMENTATION.zip"
+    },
+    {
+      "pemeriksaan": "Berkas sumber SAK2025_NON_DISEMINASI",
+      "lulus": true,
+      "rincian": "data/raw/SAK2025_NON_DISEMINASI.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber META_DES",
+      "lulus": true,
+      "rincian": "data/raw/META_DES.html"
+    },
+    {
+      "pemeriksaan": "Berkas sumber META_DWY",
+      "lulus": true,
+      "rincian": "data/raw/META_DWY.html"
+    },
+    {
+      "pemeriksaan": "Berkas sumber META_AVN",
+      "lulus": true,
+      "rincian": "data/raw/META_AVN.html"
+    },
+    {
+      "pemeriksaan": "Berkas sumber SUSENAS2025_PUB",
+      "lulus": true,
+      "rincian": "data/raw/SUSENAS2025_PUB_PDF.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber SUSENAS2025_METADATA",
+      "lulus": true,
+      "rincian": "data/raw/SUSENAS2025_METADATA.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber SUSENAS2026_PUB",
+      "lulus": true,
+      "rincian": "data/raw/SUSENAS2026_PUB_PDF.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber POVERTY2025",
+      "lulus": true,
+      "rincian": "data/raw/POVERTY2025_PDF.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber KONSUMSI2025",
+      "lulus": true,
+      "rincian": "data/raw/KONSUMSI2025_PDF.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber DIGITAL2024",
+      "lulus": true,
+      "rincian": "data/raw/DIGITAL2024_PDF.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber PODES2024_PUB",
+      "lulus": true,
+      "rincian": "data/raw/PODES2024_PUB_PDF.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber PODES2024_METADATA",
+      "lulus": true,
+      "rincian": "data/raw/PODES2024_METADATA.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber PAUD2024",
+      "lulus": true,
+      "rincian": "data/raw/PAUD2024.html"
+    },
+    {
+      "pemeriksaan": "Berkas sumber PAUD_REFERENSI",
+      "lulus": true,
+      "rincian": "data/raw/PAUD_REFERENSI.html"
+    },
+    {
+      "pemeriksaan": "Berkas sumber PENDIDIKAN2025",
+      "lulus": true,
+      "rincian": "data/raw/PENDIDIKAN2025_PDF.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber PEMUDA2025",
+      "lulus": true,
+      "rincian": "data/raw/PEMUDA2025_PDF.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber TRANSPORT2024",
+      "lulus": true,
+      "rincian": "data/raw/TRANSPORT2024.html"
+    },
+    {
+      "pemeriksaan": "Berkas sumber PASKER",
+      "lulus": true,
+      "rincian": "data/raw/PASKER.html"
+    },
+    {
+      "pemeriksaan": "Berkas sumber KARIRHUB2025",
+      "lulus": true,
+      "rincian": "data/raw/KARIRHUB2025.html"
+    },
+    {
+      "pemeriksaan": "Berkas sumber WB_CARE_REPORT_ID",
+      "lulus": true,
+      "rincian": "data/raw/WB_CARE_REPORT_ID.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber WB_CARE_PRESENTATION",
+      "lulus": true,
+      "rincian": "data/raw/WB_CARE_PRESENTATION.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber WB_CHILDCARE",
+      "lulus": true,
+      "rincian": "data/raw/WB_CHILDCARE.html"
+    },
+    {
+      "pemeriksaan": "Berkas sumber IZA_CHILD",
+      "lulus": true,
+      "rincian": "data/raw/IZA_CHILD.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber ILO_CARE",
+      "lulus": true,
+      "rincian": "data/raw/ILO_CARE.pdf"
+    },
+    {
+      "pemeriksaan": "Berkas sumber BRIDGING_BPS",
+      "lulus": true,
+      "rincian": "data/raw/BRIDGING_BPS.html"
+    },
+    {
+      "pemeriksaan": "Berkas sumber SDI_GEOMETRI",
+      "lulus": true,
+      "rincian": "data/raw/SDI_GEOMETRI.html"
+    },
+    {
+      "pemeriksaan": "Berkas sumber SDI_GEOMETRI",
+      "lulus": true,
+      "rincian": "data/raw/KEMENDAGRI_WFS_ZIP.zip"
+    },
+    {
+      "pemeriksaan": "Berkas sumber SDI_GEOMETRI",
+      "lulus": true,
+      "rincian": "data/processed/audit_geometri_sdi.json"
+    },
+    {
+      "pemeriksaan": "Berkas sumber BPS_TPAK_TABLE",
+      "lulus": true,
+      "rincian": "data/raw/BPS_TPAK_TABLE.html"
+    },
+    {
+      "pemeriksaan": "Berkas sumber BPS_KODE53",
+      "lulus": true,
+      "rincian": "data/raw/BPS_KODE53.pdf"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "01_hasil_deep_research.md"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "02_katalog_sumber_per_aspek.md"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "03_kamus_indikator.md"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "kamus_indikator.csv"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "04_rancangan_analisis_spasial.md"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "05_spesifikasi_permintaan_tabulasi_BPS.md"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "06_audit_sumber_dan_batas_bukti.md"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "katalog_sumber.csv"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "data/processed/panel_konteks_38_provinsi_2025.csv"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "data/processed/panel_gender_38_provinsi_3_periode.csv"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "data/processed/screening_perubahan_provinsi_feb2025_feb2026.csv"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "data/processed/kemiskinan_514_kabupaten_kota_2025.csv"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "data/processed/internet_gender_desa_kota_provinsi_maret2025.csv"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "data/processed/status_perkawinan_gender_15_49_provinsi_maret2025.csv"
+    },
+    {
+      "pemeriksaan": "Tautan lokal README.md",
+      "lulus": true,
+      "rincian": "data/README.md"
+    },
+    {
+      "pemeriksaan": "Sintaks build_baseline.py",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Sintaks build_catalogue.py",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Sintaks build_indicators.py",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Sintaks download_documents.py",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Sintaks extract_documents.py",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Sintaks fetch_additional.py",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Sintaks fetch_evidence.py",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Sintaks fetch_geometry.py",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Sintaks fetch_sources.py",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Sintaks index_evidence.py",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Sintaks inspect_evidence.py",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Sintaks inspect_geometry.py",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Sintaks process_auxiliary.py",
+      "lulus": true,
+      "rincian": ""
+    },
+    {
+      "pemeriksaan": "Sintaks validate_package.py",
+      "lulus": true,
+      "rincian": ""
+    }
+  ],
+  "batas": "Pemeriksaan struktur dan rekonsiliasi serta beberapa halaman visual. Tidak ada uji signifikansi survei atau model spasial. Mikrodata penuh dan polygon sesuai belum tersedia; ZIP garis sudah diaudit."
+}

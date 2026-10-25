@@ -1,0 +1,515 @@
+﻿nomor_dalam_provinsi,kabupaten_kota_sumber,tahun,penduduk_miskin_ribu,p0_persen,p1,p2,garis_kemiskinan_rp_kap_bulan,source_id,halaman_pdf,halaman_cetak,kode_bps,status_join,provinsi_sumber
+1,Simeulue,2025,15.58,15.52,2.227,0.458,586505,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+2,Aceh Singkil,2025,22.51,17.07,3.237,0.913,619322,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+3,Aceh Selatan,2025,25.39,9.89,1.552,0.461,538174,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+4,Aceh Tenggara,2025,22.52,9.78,1.036,0.162,502074,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+5,Aceh Timur,2025,52.23,11.24,1.021,0.151,564943,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+6,Aceh Tengah,2025,27.76,12.29,2.371,0.726,636315,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+7,Aceh Barat,2025,34.55,15.5,2.45,0.533,652009,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+8,Aceh Besar,2025,49.9,11.05,1.896,0.529,598160,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+9,Pidie,2025,77.7,16.46,1.993,0.383,618445,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+10,Bireuen,2025,51.6,10.3,1.168,0.192,503866,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+11,Aceh Utara,2025,93.43,14.27,2.058,0.467,483719,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+12,Aceh Barat Daya,2025,21.47,13.3,1.965,0.413,525947,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+13,Gayo Lues,2025,16.59,16.77,1.808,0.296,567201,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+14,Aceh Tamiang,2025,33.96,10.84,1.528,0.334,590294,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+15,Nagan Raya,2025,27.24,15.42,2.337,0.633,642820,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+16,Aceh Jaya,2025,10.5,10.37,1.621,0.365,542092,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+17,Bener Meriah,2025,25.59,16.2,3.079,0.877,602421,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+18,Pidie Jaya,2025,27.62,16.12,2.432,0.556,610755,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+19,Kota Banda Aceh,2025,15.87,5.45,0.71,0.136,872944,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+20,Kota Sabang,2025,4.55,12.75,2.012,0.504,736956,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+21,Kota Langsa,2025,16.28,8.59,1.44,0.377,554363,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+22,Kota Lhokseumawe,2025,19.9,9.01,1.368,0.334,529671,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+23,Kota Subulussalam,2025,11.95,13.88,2.794,0.723,514372,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Aceh
+1,Nias,2025,21.23,14.51,1.952,0.415,541016,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+2,Mandailing Natal,2025,37.16,7.91,0.751,0.124,537240,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+3,Tapanuli Selatan,2025,17.77,6.16,0.608,0.104,527232,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+4,Tapanuli Tengah,2025,46.79,11.03,1.885,0.485,546223,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+5,Tapanuli Utara,2025,23.29,7.47,0.897,0.166,549677,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+6,Toba,2025,13.46,7.21,0.877,0.179,549563,POVERTY2025,25,11,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+7,Labuhan Batu,2025,40.49,7.37,0.659,0.105,575408,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+8,Asahan,2025,54.57,7.18,1.103,0.29,469559,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+9,Simalungun,2025,61.12,6.91,1.013,0.19,513793,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+10,Dairi,2025,20.05,6.98,0.56,0.091,521738,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+11,Karo,2025,30.67,6.66,0.615,0.114,678885,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+12,Deli Serdang,2025,77.7,3.11,0.553,0.164,525433,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+13,Langkat,2025,90.28,8.42,1.141,0.222,528073,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+14,Nias Selatan,2025,54.29,16.16,2.228,0.509,428859,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+15,Humbang Hasundutan,2025,15.62,7.8,1.011,0.177,503769,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+16,Pakpak Bharat,2025,3.53,6.4,0.709,0.148,426571,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+17,Samosir,2025,13.8,10.79,0.84,0.086,473942,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+18,Serdang Bedagai,2025,38.14,6.18,0.618,0.123,535422,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+19,Batu Bara,2025,44.28,10.1,1.128,0.197,613493,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+20,Padang Lawas Utara,2025,24.8,8.04,0.938,0.171,519411,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+21,Padang Lawas,2025,23.69,7.32,0.749,0.143,499761,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+22,Labuhanbatu Selatan,2025,26.12,6.8,1.059,0.338,550141,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+23,Labuhanbatu Utara,2025,32.09,8.42,1.493,0.382,629870,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+24,Nias Utara,2025,29.65,20.79,4.0,1.147,551434,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+25,Nias Barat,2025,18.64,22.47,2.234,0.341,564416,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+26,Kota Sibolga,2025,9.02,10.28,1.294,0.239,637141,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+27,Kota Tanjungbalai,2025,20.02,10.67,1.614,0.375,619558,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+28,Kota Pematangsiantar,2025,16.53,6.24,0.431,0.054,722851,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+29,Kota Tebing Tinggi,2025,15.36,8.74,1.062,0.249,691270,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+30,Kota Medan,2025,171.6,7.25,1.309,0.345,721547,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+31,Kota Binjai,2025,13.87,4.71,0.676,0.14,600451,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+32,Kota Padangsidimpuan,2025,13.57,5.61,0.534,0.063,578095,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+33,Kota Gunungsitoli,2025,21.05,13.85,2.01,0.426,521961,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Utara
+1,Kepulauan Mentawai,2025,13.74,13.22,1.879,0.459,474879,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+2,Pesisir Selatan,2025,31.53,6.52,0.973,0.22,600161,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+3,Solok,2025,25.23,6.52,0.629,0.103,579500,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+4,Sijunjung,2025,13.55,5.15,0.656,0.14,574991,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+5,Tanah Datar,2025,12.57,3.59,0.214,0.024,564372,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+6,Padang Pariaman,2025,25.08,5.86,0.795,0.177,590495,POVERTY2025,26,12,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+7,Agam,2025,30.57,5.97,0.669,0.103,570317,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+8,Lima Puluh Kota,2025,24.61,6.1,0.633,0.103,593402,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+9,Pasaman,2025,18.0,6.02,0.655,0.116,524533,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+10,Solok Selatan,2025,11.44,6.0,0.927,0.215,558817,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+11,Dharmasraya,2025,13.52,4.61,0.552,0.117,633451,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+12,Pasaman Barat,2025,31.68,6.3,0.846,0.143,669360,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+13,Kota Padang,2025,37.38,3.63,0.599,0.163,767616,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+14,Kota Solok,2025,2.31,2.91,0.35,0.069,593520,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+15,Kota Sawahlunto,2025,1.79,2.72,0.331,0.122,545725,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+16,Kota Padang Panjang,2025,2.9,4.97,0.429,0.052,660705,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+17,Kota Bukittinggi,2025,5.46,3.78,0.44,0.112,685824,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+18,Kota Payakumbuh,2025,7.37,4.95,0.535,0.089,674813,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+19,Kota Pariaman,2025,3.63,3.83,0.44,0.07,634304,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Barat
+1,Kuantan Singingi,2025,22.68,6.99,0.736,0.155,751174,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Riau
+2,Indragiri Hulu,2025,26.88,5.83,0.44,0.085,673975,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Riau
+3,Indragiri Hilir,2025,35.97,4.95,0.348,0.063,642777,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Riau
+4,Pelalawan,2025,43.49,7.24,0.859,0.182,741594,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Riau
+5,Siak,2025,23.5,4.4,0.399,0.057,607601,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Riau
+6,Kampar,2025,58.71,6.29,0.94,0.194,600385,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Riau
+7,Rokan Hulu,2025,70.65,8.71,0.835,0.177,712867,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Riau
+8,Bengkalis,2025,35.11,6.08,0.635,0.113,764542,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Riau
+9,Rokan Hilir,2025,55.49,7.16,1.162,0.357,559703,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Riau
+10,Kepulauan Meranti,2025,39.41,20.51,3.045,0.695,673296,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Riau
+11,Kota Pekanbaru,2025,39.16,3.19,0.337,0.081,767408,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Riau
+12,Kota Dumai,2025,9.92,3.08,0.202,0.018,654144,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Riau
+1,Kerinci,2025,18.28,7.48,0.794,0.138,617362,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jambi
+2,Merangin,2025,32.38,8.07,1.6,0.446,629000,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jambi
+3,Sarolangun,2025,28.08,8.74,1.18,0.247,625401,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jambi
+4,Batang Hari,2025,22.83,8.27,1.324,0.275,622440,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jambi
+5,Muaro Jambi,2025,21.05,4.32,0.394,0.092,633575,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jambi
+6,Tanjung Jabung Timur,2025,21.54,9.96,1.402,0.305,601104,POVERTY2025,27,13,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jambi
+7,Tanjung Jabung Barat,2025,33.88,9.67,1.012,0.141,586789,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jambi
+8,Tebo,2025,22.1,5.97,0.399,0.067,602105,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jambi
+9,Bungo,2025,20.73,5.17,0.698,0.162,619464,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jambi
+10,Kota Jambi,2025,47.21,7.69,1.128,0.226,773124,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jambi
+11,Kota Sungai Penuh,2025,2.87,3.23,0.16,0.014,622995,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jambi
+1,Ogan Komering Ulu,2025,39.58,10.08,1.478,0.331,588225,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+2,Ogan Komering Ilir,2025,105.26,11.84,1.355,0.262,493783,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+3,Muara Enim,2025,64.82,9.45,1.282,0.28,512439,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+4,Lahat,2025,58.66,13.69,2.546,0.716,606881,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+5,Musi Rawas,2025,54.7,12.67,1.329,0.227,616298,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+6,Musi Banyuasin,2025,69.61,9.97,1.492,0.38,627094,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+7,Banyuasin,2025,77.63,8.48,1.077,0.22,560840,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+8,Ogan Komering Ulu Selatan,2025,35.49,9.17,1.273,0.265,456280,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+9,Ogan Komering Ulu Timur,2025,62.89,8.86,0.967,0.179,453488,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+10,Ogan Ilir,2025,53.21,11.69,1.451,0.368,614656,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+11,Empat Lawang,2025,27.88,10.48,1.444,0.324,440405,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+12,Penukal Abab Lematang Ilir,2025,18.87,9.27,1.013,0.193,530583,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+13,Musi Rawas Utara,2025,31.25,15.25,2.22,0.472,666294,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+14,Kota Palembang,2025,162.31,9.04,1.403,0.322,699920,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+15,Kota Prabumulih,2025,19.89,9.75,1.187,0.245,687666,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+16,Kota Pagar Alam,2025,11.2,7.7,0.816,0.116,444962,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+17,Kota Lubuk Linggau,2025,26.35,10.49,1.098,0.159,632783,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sumatera Selatan
+1,Bengkulu Selatan,2025,29.82,15.72,2.566,0.569,500588,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bengkulu
+2,Rejang Lebong,2025,33.19,11.71,1.818,0.411,604697,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bengkulu
+3,Bengkulu Utara,2025,31.99,10.07,1.089,0.197,493892,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bengkulu
+4,Kaur,2025,20.26,15.82,2.613,0.6,443789,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bengkulu
+5,Seluma,2025,32.81,15.98,3.501,1.044,513037,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bengkulu
+6,Mukomuko,2025,19.67,10.05,1.535,0.348,575283,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bengkulu
+7,Lebong,2025,12.2,10.1,1.556,0.316,540904,POVERTY2025,28,14,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bengkulu
+8,Kepahiang,2025,15.2,10.38,0.929,0.171,496275,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bengkulu
+9,Bengkulu Tengah,2025,11.61,9.74,1.55,0.327,595054,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bengkulu
+10,Kota Bengkulu,2025,46.23,11.91,1.828,0.419,840710,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bengkulu
+1,Lampung Barat,2025,31.23,9.93,1.515,0.392,590143,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+2,Tanggamus,2025,63.56,10.1,1.071,0.189,521482,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+3,Lampung Selatan,2025,127.74,12.05,2.041,0.602,554969,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+4,Lampung Timur,2025,132.17,12.15,1.591,0.324,522287,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+5,Lampung Tengah,2025,127.83,9.59,1.581,0.423,553397,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+6,Lampung Utara,2025,98.99,15.78,2.584,0.684,573039,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+7,Way Kanan,2025,44.17,9.36,1.246,0.252,501220,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+8,Tulang Bawang,2025,36.14,7.54,0.792,0.164,588734,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+9,Pesawaran,2025,51.09,10.93,1.327,0.223,551469,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+10,Pringsewu,2025,31.66,7.6,0.582,0.1,613173,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+11,Mesuji,2025,12.14,5.92,0.476,0.066,584306,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+12,Tulang Bawang Barat,2025,19.04,6.72,0.642,0.087,577725,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+13,Pesisir Barat,2025,19.51,12.13,1.698,0.351,596941,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+14,Kota Bandar Lampung,2025,80.19,6.95,1.142,0.27,810345,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+15,Kota Metro,2025,11.58,6.44,0.547,0.066,596139,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Lampung
+1,Bangka,2025,16.58,4.71,0.507,0.085,734575,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bangka Belitung
+2,Belitung,2025,12.76,6.44,0.625,0.113,937759,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bangka Belitung
+3,Bangka Barat,2025,6.51,2.92,0.224,0.043,731204,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bangka Belitung
+4,Bangka Tengah,2025,13.71,6.7,0.953,0.241,865464,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bangka Belitung
+5,Bangka Selatan,2025,9.13,4.17,0.496,0.085,707843,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bangka Belitung
+6,Belitung Timur,2025,9.04,6.69,1.347,0.352,925729,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bangka Belitung
+7,Kota Pangkal Pinang,2025,9.99,4.5,0.636,0.134,956990,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bangka Belitung
+1,Karimun,2025,12.56,5.16,0.487,0.085,524326,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kepulauan Riau
+2,Bintan,2025,8.11,4.77,0.518,0.099,528549,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kepulauan Riau
+3,Natuna,2025,4.01,4.81,0.708,0.14,555293,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kepulauan Riau
+4,Lingga,2025,8.24,9.12,0.931,0.149,596564,POVERTY2025,29,15,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kepulauan Riau
+5,Kepulauan Anambas,2025,2.86,6.35,1.017,0.262,540795,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kepulauan Riau
+6,Kota Batam,2025,68.04,3.81,0.755,0.243,954437,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kepulauan Riau
+7,Kota Tanjungpinang,2025,13.47,5.96,0.472,0.057,842147,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kepulauan Riau
+1,Kepulauan Seribu,2025,3.35,12.37,1.95,0.425,801734,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,DKI Jakarta
+2,Kota Jakarta Selatan,2025,75.66,3.23,0.505,0.103,959133,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,DKI Jakarta
+3,Kota Jakarta Timur,2025,117.4,3.94,0.374,0.053,720813,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,DKI Jakarta
+4,Kota Jakarta Pusat,2025,43.06,4.7,0.604,0.109,846307,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,DKI Jakarta
+5,Kota Jakarta Barat,2025,106.39,3.91,0.683,0.158,707669,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,DKI Jakarta
+6,Kota Jakarta Utara,2025,119.02,6.33,0.989,0.227,736415,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,DKI Jakarta
+1,Bogor,2025,401.86,6.26,1.04,0.234,531412,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+2,Sukabumi,2025,164.63,6.41,1.038,0.282,431785,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+3,Cianjur,2025,232.61,9.82,1.391,0.384,482562,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+4,Bandung,2025,236.06,6.04,0.824,0.18,468974,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+5,Garut,2025,252.56,9.39,1.384,0.341,407191,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+6,Tasikmalaya,2025,185.99,10.15,1.535,0.38,413178,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+7,Ciamis,2025,88.72,7.19,0.709,0.105,483644,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+8,Kuningan,2025,119.67,10.74,1.378,0.262,435184,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+9,Cirebon,2025,229.64,10.23,1.79,0.467,491604,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+10,Majalengka,2025,128.67,10.31,1.157,0.239,566574,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+11,Sumedang,2025,105.82,8.81,1.488,0.345,436490,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+12,Indramayu,2025,196.78,11.02,1.897,0.515,578169,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+13,Subang,2025,148.99,9.23,1.417,0.361,449186,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+14,Purwakarta,2025,76.51,7.87,0.974,0.183,483968,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+15,Karawang,2025,169.8,7.08,1.123,0.293,617901,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+16,Bekasi,2025,191.0,4.36,0.443,0.091,698154,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+17,Bandung Barat,2025,169.66,9.87,1.309,0.302,471101,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+18,Pangandaran,2025,33.09,8.03,0.873,0.131,486285,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+19,Kota Bogor,2025,67.16,5.89,0.701,0.134,730079,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+20,Kota Sukabumi,2025,23.17,6.9,0.837,0.168,706415,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+21,Kota Bandung,2025,99.12,3.78,0.587,0.139,644417,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+22,Kota Cirebon,2025,28.12,8.66,0.936,0.163,571809,POVERTY2025,30,16,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+23,Kota Bekasi,2025,129.54,3.96,0.513,0.08,864601,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+24,Kota Depok,2025,63.45,2.31,0.307,0.067,884633,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+25,Kota Cimahi,2025,25.97,4.2,0.344,0.042,642016,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+26,Kota Tasikmalaya,2025,75.22,10.84,1.887,0.45,591600,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+27,Kota Banjar,2025,10.97,5.73,0.811,0.158,451277,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Barat
+1,Cilacap,2025,164.22,9.41,1.391,0.313,469174,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+2,Banyumas,2025,194.87,11.15,1.796,0.427,529310,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+3,Purbalingga,2025,121.8,12.55,1.565,0.299,491091,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+4,Banjarnegara,2025,124.66,13.28,1.8,0.365,424316,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+5,Kebumen,2025,162.54,13.58,1.954,0.402,502841,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+6,Purworejo,2025,72.18,10.06,1.537,0.335,496812,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+7,Wonosobo,2025,106.29,13.34,2.25,0.542,486105,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+8,Magelang,2025,132.21,9.9,1.036,0.17,454591,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+9,Boyolali,2025,86.97,8.71,1.251,0.309,464627,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+10,Klaten,2025,129.68,11.0,1.625,0.381,533141,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+11,Sukoharjo,2025,62.66,6.83,0.619,0.098,536779,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+12,Wonogiri,2025,91.9,9.59,1.39,0.283,479566,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+13,Karanganyar,2025,77.66,8.48,0.908,0.17,523407,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+14,Sragen,2025,100.08,11.22,2.176,0.596,482828,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+15,Grobogan,2025,148.1,10.63,1.866,0.465,526238,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+16,Blora,2025,92.01,10.58,1.265,0.27,492105,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+17,Rembang,2025,85.32,13.01,3.345,1.073,550265,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+18,Pati,2025,105.27,8.24,1.143,0.24,598600,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+19,Kudus,2025,60.37,6.59,0.765,0.149,576195,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+20,Jepara,2025,77.67,5.79,0.533,0.096,535150,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+21,Demak,2025,131.47,10.87,1.654,0.406,569035,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+22,Semarang,2025,70.29,6.3,0.908,0.207,558501,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+23,Temanggung,2025,62.05,7.78,0.665,0.103,443089,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+24,Kendal,2025,83.73,8.4,1.465,0.349,521061,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+25,Batang,2025,61.75,7.79,1.123,0.266,436936,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+26,Pekalongan,2025,73.8,8.05,0.961,0.173,538371,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+27,Pemalang,2025,173.38,13.32,2.389,0.62,530254,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+28,Tegal,2025,88.7,6.16,0.726,0.123,516933,POVERTY2025,31,17,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+29,Brebes,2025,257.29,14.15,2.203,0.502,563762,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+30,Kota Magelang,2025,6.93,5.68,0.533,0.091,662129,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+31,Kota Surakarta,2025,40.08,7.69,1.314,0.389,678315,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+32,Kota Salatiga,2025,8.66,4.2,0.606,0.12,630119,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+33,Kota Semarang,2025,74.36,3.8,0.405,0.054,709785,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+34,Kota Pekalongan,2025,19.49,6.14,0.968,0.265,639402,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+35,Kota Tegal,2025,18.27,7.28,1.417,0.349,702113,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Tengah
+1,Kulon Progo,2025,67.25,14.53,1.81,0.336,452717,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,DI Yogyakarta
+2,Bantul,2025,127.25,11.54,1.282,0.257,531456,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,DI Yogyakarta
+3,Gunungkidul,2025,113.48,14.15,1.994,0.424,413617,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,DI Yogyakarta
+4,Sleman,2025,89.28,6.71,0.756,0.141,534300,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,DI Yogyakarta
+5,Kota Yogyakarta,2025,28.58,6.14,0.61,0.083,729196,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,DI Yogyakarta
+1,Pacitan,2025,72.47,12.97,1.768,0.358,386174,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+2,Ponorogo,2025,77.93,8.86,1.223,0.264,428183,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+3,Trenggalek,2025,72.35,10.29,1.089,0.2,450334,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+4,Tulungagung,2025,63.17,5.96,0.42,0.042,463364,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+5,Blitar,2025,89.04,7.57,1.206,0.272,417158,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+6,Kediri,2025,157.47,9.81,0.995,0.188,419486,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+7,Malang,2025,235.63,8.78,0.895,0.154,436153,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+8,Lumajang,2025,90.64,8.6,0.681,0.079,420165,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+9,Jember,2025,216.76,8.67,0.533,0.051,474903,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+10,Banyuwangi,2025,100.13,6.13,0.406,0.063,485012,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+11,Bondowoso,2025,96.71,12.2,1.663,0.374,526325,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+12,Situbondo,2025,78.02,11.17,0.709,0.067,428100,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+13,Probolinggo,2025,196.26,16.31,1.839,0.389,545221,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+14,Pasuruan,2025,138.43,8.21,0.801,0.148,464861,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+15,Sidoarjo,2025,107.57,4.4,0.628,0.189,617911,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+16,Mojokerto,2025,102.67,8.79,1.481,0.354,526397,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+17,Jombang,2025,107.82,8.36,0.898,0.151,532053,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+18,Nganjuk,2025,107.3,10.06,1.454,0.32,561807,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+19,Madiun,2025,71.59,10.4,1.707,0.322,476506,POVERTY2025,32,18,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+20,Magetan,2025,58.38,9.14,0.739,0.115,470409,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+21,Ngawi,2025,114.9,13.62,1.646,0.263,459551,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+22,Bojonegoro,2025,144.9,11.49,1.455,0.271,490299,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+23,Tuban,2025,168.86,14.13,1.887,0.423,504823,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+24,Lamongan,2025,145.45,12.03,1.159,0.191,543475,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+25,Gresik,2025,138.55,9.95,1.923,0.571,635154,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+26,Bangkalan,2025,187.9,18.25,3.135,0.749,566280,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+27,Sampang,2025,213.98,20.61,2.059,0.325,504557,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+28,Pamekasan,2025,118.52,12.77,1.449,0.244,482278,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+29,Sumenep,2025,188.48,17.02,2.183,0.472,521366,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+30,Kota Kediri,2025,17.93,6.04,0.623,0.207,648506,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+31,Kota Blitar,2025,9.69,6.6,0.842,0.154,625337,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+32,Kota Malang,2025,34.41,3.85,0.392,0.046,737954,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+33,Kota Probolinggo,2025,14.11,5.69,0.357,0.052,683244,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+34,Kota Pasuruan,2025,12.83,6.18,1.028,0.22,588312,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+35,Kota Mojokerto,2025,6.77,5.05,0.759,0.147,630959,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+36,Kota Madiun,2025,6.96,3.89,0.379,0.054,666073,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+37,Kota Surabaya,2025,105.09,3.56,0.413,0.112,775597,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+38,Kota Batu,2025,6.22,2.86,0.365,0.064,671273,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Jawa Timur
+1,Pandeglang,2025,105.35,8.51,0.985,0.182,501772,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Banten
+2,Lebak,2025,106.52,8.03,1.011,0.271,455831,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Banten
+3,Tangerang,2025,265.9,6.42,0.887,0.209,655324,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Banten
+4,Serang,2025,68.51,4.48,0.617,0.123,461388,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Banten
+5,Kota Tangerang,2025,124.76,5.19,0.693,0.144,838535,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Banten
+6,Kota Cilegon,2025,16.05,3.44,0.441,0.118,696397,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Banten
+7,Kota Serang,2025,41.07,5.51,0.736,0.177,556702,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Banten
+8,Kota Tangerang Selatan,2025,44.61,2.39,0.26,0.038,864323,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Banten
+1,Jembrana,2025,12.45,4.33,0.459,0.077,554136,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bali
+2,Tabanan,2025,19.45,4.23,0.66,0.125,628223,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bali
+3,Badung,2025,14.66,1.9,0.26,0.074,769560,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bali
+4,Gianyar,2025,20.0,3.71,0.568,0.161,522497,POVERTY2025,33,19,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bali
+5,Klungkung,2025,9.48,5.18,0.841,0.17,427844,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bali
+6,Bangli,2025,11.28,4.83,0.616,0.114,486007,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bali
+7,Karangasem,2025,27.32,6.4,0.523,0.078,453685,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bali
+8,Buleleng,2025,35.39,5.2,0.466,0.071,592706,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bali
+9,Kota Denpasar,2025,23.2,2.16,0.162,0.029,862522,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Bali
+1,Lombok Barat,2025,92.12,11.9,1.142,0.187,594141,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Barat
+2,Lombok Tengah,2025,109.25,10.68,1.505,0.311,568910,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Barat
+3,Lombok Timur,2025,173.79,13.53,2.456,0.614,602564,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Barat
+4,Sumbawa,2025,58.23,11.79,1.61,0.351,492991,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Barat
+5,Dompu,2025,31.27,11.15,1.308,0.22,484327,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Barat
+6,Bima,2025,66.81,12.59,1.371,0.251,465479,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Barat
+7,Sumbawa Barat,2025,19.46,10.98,2.17,0.647,629139,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Barat
+8,Lombok Utara,2025,49.28,20.74,2.703,0.599,611125,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Barat
+9,Kota Mataram,2025,39.82,7.15,1.335,0.349,689992,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Barat
+10,Kota Bima,2025,14.54,7.33,0.532,0.065,520143,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Barat
+1,Sumba Barat,2025,37.08,26.47,4.412,1.069,460702,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+2,Sumba Timur,2025,70.35,25.64,6.125,2.134,481754,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+3,Kupang,2025,87.5,20.32,3.114,0.73,504863,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+4,Timor Tengah Selatan,2025,116.74,24.5,5.03,1.41,454423,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+5,Timor Tengah Utara,2025,53.44,20.17,4.662,1.28,516059,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+6,Belu,2025,30.4,12.79,2.053,0.427,490904,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+7,Alor,2025,38.68,18.29,1.78,0.336,464871,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+8,Lembata,2025,36.78,23.27,5.084,1.39,538773,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+9,Flores Timur,2025,28.92,10.88,1.424,0.319,429094,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+10,Sikka,2025,36.74,11.25,1.359,0.344,447472,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+11,Ende,2025,58.92,21.31,3.549,0.865,549363,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+12,Ngada,2025,19.53,11.22,1.666,0.354,510269,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+13,Manggarai,2025,65.81,18.1,3.574,1.003,472888,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+14,Rote Ndao,2025,51.64,24.37,3.395,0.727,443901,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+15,Manggarai Barat,2025,49.55,16.09,2.955,0.812,477226,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+16,Sumba Tengah,2025,22.81,29.23,5.715,1.891,397817,POVERTY2025,34,20,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+17,Sumba Barat Daya,2025,97.68,25.66,6.662,2.139,513816,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+18,Nagekeo,2025,18.63,12.18,2.212,0.505,516140,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+19,Manggarai Timur,2025,70.99,23.51,4.675,1.162,485247,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+20,Sabu Raijua,2025,30.65,27.18,5.586,1.817,571961,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+21,Malaka,2025,28.05,13.52,1.559,0.247,494018,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+22,Kota Kupang,2025,37.91,7.57,1.007,0.214,794609,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Nusa Tenggara Timur
+1,Sambas,2025,35.07,6.37,0.724,0.123,542366,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+2,Bengkayang,2025,16.09,5.83,0.586,0.101,454765,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+3,Landak,2025,35.34,8.9,0.845,0.148,497262,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+4,Mempawah,2025,12.38,4.49,0.474,0.093,494531,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+5,Sanggau,2025,22.93,4.61,0.348,0.045,460246,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+6,Ketapang,2025,46.82,8.44,1.59,0.439,591623,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+7,Sintang,2025,35.02,7.93,1.342,0.433,684401,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+8,Kapuas Hulu,2025,19.47,6.86,1.033,0.225,579450,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+9,Sekadau,2025,11.64,5.61,0.56,0.097,437854,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+10,Melawi,2025,23.36,10.51,1.01,0.178,682632,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+11,Kayong Utara,2025,10.58,8.75,1.032,0.183,404384,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+12,Kubu Raya,2025,24.4,3.99,0.255,0.024,539656,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+13,Kota Pontianak,2025,27.5,4.0,0.373,0.053,729168,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+14,Kota Singkawang,2025,10.36,4.28,0.474,0.063,638961,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Barat
+1,Kotawaringin Barat,2025,14.18,4.27,0.556,0.118,558961,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+2,Kotawaringin Timur,2025,27.7,5.83,1.004,0.266,596118,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+3,Kapuas,2025,20.43,5.48,0.572,0.099,529062,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+4,Barito Selatan,2025,7.09,4.94,0.369,0.077,564336,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+5,Barito Utara,2025,7.44,5.52,0.685,0.142,654095,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+6,Sukamara,2025,2.87,4.02,0.723,0.167,704449,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+7,Lamandau,2025,2.89,3.33,0.424,0.082,701587,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+8,Seruyan,2025,15.64,6.72,0.572,0.067,668687,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+9,Katingan,2025,9.75,5.3,0.609,0.108,640905,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+10,Pulang Pisau,2025,6.23,4.79,0.852,0.258,564867,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+11,Gunung Mas,2025,6.67,5.48,0.871,0.205,585476,POVERTY2025,35,21,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+12,Barito Timur,2025,8.12,6.1,1.162,0.323,690677,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+13,Murung Raya,2025,7.64,6.19,1.156,0.338,673423,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+14,Kota Palangka Raya,2025,11.16,3.62,0.377,0.06,587075,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Tengah
+1,Tanah Laut,2025,10.83,3.0,0.269,0.049,679188,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Selatan
+2,Kotabaru,2025,15.89,4.39,0.503,0.113,603599,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Selatan
+3,Banjar,2025,16.92,2.74,0.232,0.028,634526,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Selatan
+4,Barito Kuala,2025,13.97,4.31,0.569,0.124,459547,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Selatan
+5,Tapin,2025,5.77,2.91,0.347,0.099,562504,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Selatan
+6,Hulu Sungai Selatan,2025,7.55,3.12,0.483,0.123,598545,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Selatan
+7,Hulu Sungai Tengah,2025,13.94,5.03,0.342,0.037,530279,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Selatan
+8,Hulu Sungai Utara,2025,11.71,4.81,0.436,0.069,613161,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Selatan
+9,Tabalong,2025,12.5,4.67,0.221,0.018,646864,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Selatan
+10,Tanah Bumbu,2025,13.81,3.13,0.433,0.119,660029,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Selatan
+11,Balangan,2025,6.42,4.64,0.511,0.094,544169,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Selatan
+12,Kota Banjarmasin,2025,33.16,4.52,0.507,0.099,752092,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Selatan
+13,Kota Banjar Baru,2025,10.27,3.44,0.384,0.075,814292,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Selatan
+1,Paser,2025,24.05,8.13,1.47,0.406,663239,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Timur
+2,Kutai Barat,2025,13.24,8.72,0.843,0.135,738206,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Timur
+3,Kutai Kartanegara,2025,54.99,6.72,0.785,0.152,705397,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Timur
+4,Kutai Timur,2025,34.91,8.07,1.199,0.258,773239,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Timur
+5,Berau,2025,10.96,4.44,0.552,0.107,753416,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Timur
+6,Penajam Paser Utara,2025,9.34,5.78,0.94,0.231,633181,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Timur
+7,Mahakam Ulu,2025,2.73,10.09,1.197,0.232,812492,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Timur
+8,Kota Balikpapan,2025,12.88,1.97,0.343,0.095,836374,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Timur
+9,Kota Samarinda,2025,30.45,3.45,0.666,0.188,909746,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Timur
+10,Kota Bontang,2025,6.18,3.21,0.345,0.061,831247,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Timur
+1,Malinau,2025,5.24,5.56,0.248,0.014,821188,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Utara
+2,Bulungan,2025,9.92,7.26,0.84,0.173,594190,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Utara
+3,Tana Tidung,2025,1.59,4.56,0.533,0.147,537590,POVERTY2025,36,22,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Utara
+4,Nunukan,2025,11.81,5.27,1.261,0.553,621290,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Utara
+5,Kota Tarakan,2025,14.01,5.03,0.038,0.0,889483,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Kalimantan Utara
+1,Bolaang Mongondow,2025,18.4,6.98,0.735,0.118,454500,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+2,Minahasa,2025,20.63,5.88,1.037,0.244,385934,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+3,Kepulauan Sangihe,2025,14.49,10.91,1.054,0.142,360933,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+4,Kepulauan Talaud,2025,7.95,8.34,1.365,0.312,396995,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+5,Minahasa Selatan,2025,17.67,8.26,1.414,0.33,461640,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+6,Minahasa Utara,2025,12.5,6.05,0.884,0.247,453321,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+7,Bolaang Mongondow Utara,2025,6.03,7.15,0.863,0.187,364581,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+8,Kepulauan Sitaro,2025,5.64,8.32,0.7,0.113,415648,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+9,Minahasa Tenggara,2025,11.09,10.31,1.817,0.492,426987,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+10,Bolaang Mongondow Selatan,2025,7.39,10.52,1.507,0.425,445063,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+11,Bolaang Mongondow Timur,2025,4.04,5.32,0.595,0.105,459824,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+12,Kota Manado,2025,21.73,4.99,0.877,0.242,592668,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+13,Kota Bitung,2025,13.57,5.81,0.676,0.123,557556,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+14,Kota Tomohon,2025,5.55,4.86,0.687,0.117,573165,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+15,Kota Kotamobagu,2025,7.18,5.14,0.471,0.132,495416,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Utara
+1,Banggai Kepulauan,2025,13.92,11.49,2.142,0.554,471281,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tengah
+2,Banggai,2025,25.17,6.23,0.743,0.136,535425,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tengah
+3,Morowali,2025,13.65,10.38,1.065,0.212,603022,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tengah
+4,Poso,2025,36.49,12.9,2.22,0.645,632147,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tengah
+5,Donggala,2025,45.92,14.66,2.71,0.728,450811,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tengah
+6,Tolitoli,2025,29.98,12.2,2.198,0.602,461159,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tengah
+7,Buol,2025,22.35,12.48,1.615,0.344,496424,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tengah
+8,Parigi Moutong,2025,71.88,13.51,2.927,0.935,575644,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tengah
+9,Tojo Una-Una,2025,23.59,14.67,1.693,0.284,636439,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tengah
+10,Sigi,2025,26.03,10.47,1.77,0.444,474669,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tengah
+11,Banggai Laut,2025,10.44,12.71,1.435,0.221,453715,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tengah
+12,Morowali Utara,2025,14.78,10.38,1.539,0.366,609792,POVERTY2025,37,23,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tengah
+13,Kota Palu,2025,21.99,5.26,0.665,0.144,685888,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tengah
+1,Kepulauan Selayar,2025,14.77,10.61,1.495,0.318,477794,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+2,Bulukumba,2025,25.88,6.06,0.702,0.124,444994,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+3,Bantaeng,2025,14.74,7.68,0.829,0.15,453167,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+4,Jeneponto,2025,42.56,11.42,1.176,0.182,435704,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+5,Takalar,2025,22.17,7.27,0.821,0.168,475861,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+6,Gowa,2025,54.04,6.64,1.094,0.295,496555,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+7,Sinjai,2025,18.44,7.41,0.948,0.212,426191,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+8,Maros,2025,32.67,8.9,1.542,0.376,560172,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+9,Pangkajene Dan Kepulauan,2025,40.37,11.6,1.077,0.18,471043,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+10,Barru,2025,14.13,8.0,0.939,0.17,426792,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+11,Bone,2025,69.73,9.13,1.084,0.212,452560,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+12,Soppeng,2025,15.34,6.65,0.94,0.169,441117,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+13,Wajo,2025,24.15,5.86,0.819,0.149,450789,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+14,Sidenreng Rappang,2025,15.2,4.91,0.742,0.147,472303,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+15,Pinrang,2025,32.52,8.38,1.242,0.247,426624,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+16,Enrekang,2025,23.09,10.73,1.401,0.292,451580,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+17,Luwu,2025,41.76,10.97,1.49,0.284,447602,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+18,Tana Toraja,2025,25.82,10.54,1.128,0.173,435955,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+19,Luwu Utara,2025,35.03,10.74,2.287,0.707,441412,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+20,Luwu Timur,2025,18.55,5.79,1.2,0.322,469563,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+21,Toraja Utara,2025,24.48,10.05,1.582,0.365,435309,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+22,Kota Makassar,2025,71.63,4.43,0.523,0.104,610536,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+23,Kota Parepare,2025,6.73,4.44,0.385,0.078,483487,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+24,Kota Palopo,2025,14.31,7.18,1.247,0.338,481362,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Selatan
+1,Buton,2025,13.89,13.46,1.686,0.326,372899,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+2,Muna,2025,28.81,12.4,1.744,0.394,451345,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+3,Konawe,2025,33.04,12.78,2.752,0.817,462463,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+4,Kolaka,2025,29.45,10.19,1.648,0.399,493073,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+5,Konawe Selatan,2025,37.4,11.18,1.667,0.351,370133,POVERTY2025,38,24,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+6,Bombana,2025,20.15,10.14,1.816,0.429,441758,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+7,Wakatobi,2025,13.98,13.4,2.463,0.689,371128,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+8,Kolaka Utara,2025,21.47,12.94,2.326,0.645,552220,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+9,Buton Utara,2025,8.69,13.22,1.456,0.293,442786,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+10,Konawe Utara,2025,8.19,11.89,2.099,0.488,425351,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+11,Kolaka Timur,2025,18.99,12.57,2.599,0.835,548146,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+12,Konawe Kepulauan,2025,5.01,14.42,1.659,0.288,432435,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+13,Muna Barat,2025,10.97,12.83,1.915,0.396,451711,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+14,Buton Tengah,2025,12.61,13.4,1.855,0.329,358029,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+15,Buton Selatan,2025,11.0,13.64,1.49,0.222,356075,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+16,Kota Kendari,2025,18.38,4.18,0.554,0.113,554111,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+17,Kota Baubau,2025,12.41,6.83,0.677,0.096,462878,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Tenggara
+1,Boalemo,2025,29.4,16.37,3.481,0.929,560482,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Gorontalo
+2,Gorontalo,2025,56.13,14.89,1.655,0.296,635880,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Gorontalo
+3,Pohuwato,2025,26.1,15.24,1.926,0.332,427572,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Gorontalo
+4,Bone Bolango,2025,21.11,13.16,1.915,0.445,555489,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Gorontalo
+5,Gorontalo Utara,2025,17.9,15.89,2.605,0.649,424573,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Gorontalo
+6,Kota Gorontalo,2025,12.12,5.31,0.437,0.056,731952,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Gorontalo
+1,Majene,2025,23.4,12.98,1.55,0.272,511028,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Barat
+2,Polewali Mandar,2025,63.29,14.02,2.015,0.461,525705,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Barat
+3,Mamasa,2025,22.87,13.66,1.79,0.35,367511,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Barat
+4,Mamuju,2025,22.48,6.99,0.725,0.131,378196,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Barat
+5,Pasangkayu,2025,9.65,4.96,0.615,0.101,477892,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Barat
+6,Mamuju Tengah,2025,10.62,7.22,1.401,0.366,344125,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Sulawesi Barat
+1,Kepulauan Tanimbar,2025,26.46,23.38,4.067,1.01,682859,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku
+2,Maluku Tenggara,2025,21.42,21.16,2.706,0.486,728291,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku
+3,Maluku Tengah,2025,63.05,16.71,2.536,0.593,643104,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku
+4,Buru,2025,23.95,15.11,2.42,0.501,638726,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku
+5,Kepulauan Aru,2025,22.25,23.1,3.357,0.744,673363,POVERTY2025,39,25,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku
+6,Seram Bagian Barat,2025,38.01,21.85,4.23,1.315,554140,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku
+7,Seram Bagian Timur,2025,24.33,20.9,3.535,0.912,524878,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku
+8,Maluku Barat Daya,2025,20.43,27.65,3.883,0.949,719253,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku
+9,Buru Selatan,2025,9.63,14.84,1.926,0.405,789414,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku
+10,Kota Ambon,2025,22.3,4.34,0.442,0.078,783697,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku
+11,Kota Tual,2025,15.94,19.39,3.72,1.057,777956,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku
+1,Halmahera Barat,2025,9.69,7.9,1.044,0.225,525327,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku Utara
+2,Halmahera Tengah,2025,5.61,9.16,1.173,0.247,647982,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku Utara
+3,Kepulauan Sula,2025,8.05,7.65,0.651,0.097,529754,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku Utara
+4,Halmahera Selatan,2025,11.78,4.81,0.246,0.023,512217,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku Utara
+5,Halmahera Utara,2025,8.84,4.35,0.379,0.094,490223,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku Utara
+6,Halmahera Timur,2025,11.05,10.54,2.194,0.678,705734,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku Utara
+7,Pulau Morotai,2025,3.29,4.49,0.592,0.137,494261,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku Utara
+8,Pulau Taliabu,2025,3.72,6.63,0.669,0.122,574242,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku Utara
+9,Kota Ternate,2025,8.51,3.34,0.225,0.023,753052,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku Utara
+10,Kota Tidore Kepulauan,2025,6.73,6.54,0.762,0.142,643293,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Maluku Utara
+1,Fakfak,2025,17.04,19.86,3.774,1.007,754624,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Barat
+2,Kaimana,2025,9.9,13.83,2.762,0.795,710589,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Barat
+3,Teluk Wondama,2025,10.16,27.57,6.128,1.775,766187,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Barat
+4,Teluk Bintuni,2025,18.48,25.34,5.754,1.747,810638,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Barat
+5,Manokwari,2025,31.72,17.38,4.689,1.558,849546,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Barat
+6,Manokwari Selatan,2025,7.75,26.52,4.116,0.933,771161,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Barat
+7,Pegunungan Arfak,2025,11.86,30.88,5.841,1.395,785149,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Barat
+1,Raja Ampat,2025,8.6,16.57,2.271,0.44,658931,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Barat Daya
+2,Sorong,2025,25.61,25.1,5.676,1.686,661253,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Barat Daya
+3,Sorong Selatan,2025,9.49,17.66,4.093,1.222,606474,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Barat Daya
+4,Maybrat,2025,13.53,29.0,6.992,2.275,591993,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Barat Daya
+5,Tambrauw,2025,4.96,28.94,5.007,1.149,606660,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Barat Daya
+6,Kota Sorong,2025,41.39,13.55,2.559,0.744,985416,POVERTY2025,40,26,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Barat Daya
+1,Jayapura,2025,17.18,13.03,3.305,1.252,766257,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua
+2,Kepulauan Yapen,2025,28.7,28.0,8.02,3.069,821782,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua
+3,Biak Numfor,2025,39.74,25.73,5.643,1.638,712459,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua
+4,Sarmi,2025,6.41,15.17,1.733,0.3,686762,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua
+5,Keerom,2025,10.79,17.76,4.256,1.28,875121,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua
+6,Waropen,2025,11.45,32.6,7.702,2.274,878213,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua
+7,Supiori,2025,9.47,42.56,12.241,4.955,618030,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua
+8,Mamberamo Raya,2025,9.32,35.09,5.589,1.269,905387,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua
+9,Kota Jayapura,2025,38.33,12.03,2.523,0.788,1253343,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua
+1,Merauke,2025,27.72,11.31,2.905,1.073,517764,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Selatan
+2,Boven Digoel,2025,16.26,21.96,3.199,0.72,665009,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Selatan
+3,Mappi,2025,30.5,28.46,4.689,1.144,513706,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Selatan
+4,Asmat,2025,31.06,28.47,3.852,0.777,520641,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Selatan
+1,Mimika,2025,31.31,13.7,3.651,1.447,1166466,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Tengah
+2,Dogiyai,2025,29.96,29.34,4.341,0.85,752603,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Tengah
+3,Deiyai,2025,29.84,37.29,3.543,0.62,817167,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Tengah
+4,Nabire,2025,34.18,22.65,6.725,2.854,884601,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Tengah
+5,Paniai,2025,63.26,36.31,4.569,1.113,754356,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Tengah
+6,Intan Jaya,2025,21.37,39.21,6.636,1.812,980000,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Tengah
+7,Puncak,2025,43.55,36.94,4.98,0.903,943351,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Tengah
+8,Puncak Jaya,2025,48.85,35.46,8.369,2.955,933545,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Tengah
+1,Nduga,2025,40.29,32.89,4.879,1.377,837239,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Pegunungan
+2,Jayawijaya,2025,61.64,29.08,7.733,2.72,913719,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Pegunungan
+3,Lanny Jaya,2025,68.04,31.59,7.187,2.383,1019014,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Pegunungan
+4,Tolikara,2025,45.62,28.75,2.695,0.385,861729,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Pegunungan
+5,Mamberamo Tengah,2025,18.81,32.2,7.042,2.094,901904,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Pegunungan
+6,Yalimo,2025,19.9,27.35,6.364,1.811,775882,POVERTY2025,41,27,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Pegunungan
+7,Yahukimo,2025,62.42,30.61,3.737,0.703,908562,POVERTY2025,42,28,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Pegunungan
+8,Pegunungan Bintang,2025,20.61,25.87,2.178,0.289,1132178,POVERTY2025,42,28,,Nama sesuai sumber; kode BPS dan relasi geometri belum dipadankan,Papua Pegunungan

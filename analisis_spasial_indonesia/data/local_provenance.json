@@ -1,0 +1,20 @@
+[
+  {
+    "file": "data\\raw\\panel_nasional_sumber_lokal.csv",
+    "origin": "C:\\Users\\ACER\\OneDrive\\Dokumen\\COMPETITION\\ACTION 2026\\analisis_gender_jambi\\data\\raw\\panel_nasional_38_provinsi.csv",
+    "sha256": "004361f97ffa93f90df6b1839686b15ec893a35008d217e90f38d89917b13895",
+    "catatan": "Disalin dari riset lokal terdahulu; bukan unduhan baru. Sumber asal BPS IPTK Februari 2026."
+  },
+  {
+    "file": "data\\raw\\kamus_panel_sumber_lokal.csv",
+    "origin": "C:\\Users\\ACER\\OneDrive\\Dokumen\\COMPETITION\\ACTION 2026\\analisis_gender_jambi\\data\\raw\\kamus_panel_nasional.csv",
+    "sha256": "93d5c00aa16870e5811331666bb269d032ddf3985fad0e8c695cad100b982552",
+    "catatan": "Disalin dari riset lokal terdahulu; bukan unduhan baru. Sumber asal BPS IPTK Februari 2026."
+  },
+  {
+    "file": "data\\raw\\BPS_IPTK_Feb2026.pdf",
+    "origin": "C:\\Users\\ACER\\OneDrive\\Dokumen\\COMPETITION\\ACTION 2026\\analisis_gender_jambi\\data\\raw\\BPS_IPTK_Feb2026.pdf",
+    "sha256": "3680b8fbfed6b91e9036b4a7bf5e86cd633bd9e98f1c773ef0e3d9b1efe665db",
+    "catatan": "Disalin dari riset lokal terdahulu; bukan unduhan baru. Sumber asal BPS IPTK Februari 2026."
+  }
+]

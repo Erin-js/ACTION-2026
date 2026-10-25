@@ -1,0 +1,1788 @@
+
+
+===== PDF PAGE 1 =====
+ ILO Brief 1
+The impact of care responsibilities on women’s labour force participation
+ Statistical Brief
+October 2024
+The impact of care responsibilities on 
+women’s labour force participation
+ Worldwide, in 2023, 748 million people aged 15 and 
+above were outside the labour force due to care 
+responsibilities, of which 708 million were women 
+and 40 million were men.
+ Care responsibilities are the main barrier 
+preventing women from participating in the labour 
+force, while men usually cite other personal 
+reasons such as education or illness. 
+ The share of women outside the labour force due 
+to care responsibilities is 45 percent globally, with 
+the highest shares in Northern Africa (63 per cent) 
+and the Arab States (59 per cent).
+ This includes two-thirds of, or 379 million, women of 
+prime age (25-54 years) who are not in the labour 
+force due to care responsibilities. This unequal 
+distribution of unpaid care work between women 
+and men hinders women’s economic inclusion and 
+effective labour market participation and widens 
+gender gaps in the world of work.
+ Urgent action is needed to ensure decent work in the 
+care economy and to promote decent work by 
+ensuring access to care for all, by giving effect to the 
+ILO Resolution concerning decent work and the care 
+economy (2024).
+Table of contents
+Introduction………………………………………………………………….….2
+Persistent gender gaps in labour force participation......... 3
+Care responsibilities are the main barrier to women’s 
+labour force participation....................................................... 3
+The effect of socio-demographics ......................................... 5
+Then and now: Changes since 2018...................................... 7
+Policy implications: The role of investments in early 
+childhood care and education................................................ 9
+Conclusion .............................................................................. 11
+Acknowledgements ............................................................... 13
+Annex ...................................................................................... 13
+Methodology ..................................................................... 13
+Table: Share of women and men outside the labour 
+force due to care responsibilities and to personal or 
+family reasons ................................................................... 16
+References .............................................................................. 21
+Key messages
+
+===== PDF PAGE 2 =====
+ ILO Brief 2
+The impact of care responsibilities on women’s labour force participation
+Introduction
+Care is central to human, social, economic and 
+environmental well-being, and sustainable development. 
+Care work, paid and unpaid, is essential to all other work 
+(ILO 2024a). This recognition is at the heart of the ILO 
+Resolution concerning decent work and the care economy, 
+adopted by governments, employers’ and workers’ 
+organizations at the International Labour Conference in 
+June 2024 (hereinafter the “ILO Resolution”). According to 
+the ILO Resolution, a well-functioning care economy not 
+only supports individuals and families, but also 
+contributes to a healthier workforce, creates jobs and 
+enhances productivity, positively impacting businesses, 
+workers and society as a whole. This landmark tripartite 
+agreement also highlights that women, especially those in 
+vulnerable and marginalised situations, provide the major 
+share of unpaid care work, which creates structural 
+barriers to their participation, retention and progression 
+in the labour force.
+In 2018, ILO data showed that globally, 606 million women 
+of working age were not participating in the labour 
+market due to care responsibilities, while only 41 million 
+men were outside of the labour force for the same reason 
+(ILO 2018).1 Globally, the principal reason given by women 
+of working age for being outside the labour force was 
+unpaid care work2
+(42 per cent). For men, it was “being in 
+education, sick or disabled” (44 per cent).
+The new ILO global and regional estimates presented in 
+this brief indicate that care responsibilities remain the 
+main reason for women to be outside the labour force. In 
+2023, 748 million people aged 15 and above (708 million 
+women and 40 million men) cite care responsibilities as 
+the reason for being outside the labour market. The 
+deeply entrenched gendered division of care 
+responsibilities continues to limit women’s access to 
+decent work, restricting their ability to engage in paid 
+work and to advance in their careers. 
+The COVID-19 pandemic exacerbated these disparities and 
+intensified the amount of unpaid care work provided by 
+women and girls in particular. As a result, many women 
+left the labour force or reduced their working hours. In 
+2020, 2 million mothers left the labour force according to 
+1
+ILO estimates in 2018 and 2024 are not comparable due to methodological enhancements, extended data availability and country revisions.
+2 Unpaid care work entails caring for children, older parents or other family members, or engaging in household tasks such as cleaning and cooking.
+3
+In addition to the ILO Resolution and other commitments, the Human Rights Council’s Resolution on the centrality of care and support from a human 
+rights perspective (2023), the United Nations Economic and Social Council Resolution “Promoting care and support systems for social development” (2024) 
+and the Apulia G7 Leaders’ Communiqué (2024) that commits G7 countries to tackle the unequal gender distribution of care work and support 200 million 
+more women to enter into the workforce by 2035 by investing in efforts to close the global gap in the availability of childcare (Leaders of the Group of 
+Seven (G7) 2024).
+ILO global estimates (ILO 2022a). In many countries, the 
+effects of the pandemic were profound, deepening gender 
+inequalities in labour force participation (ILO 2020). 
+Changes in the world of work, demographic shifts, 
+technological innovations and climate change are 
+reshaping the demand for, supply of, and access to care 
+services. Without policy action, these shifts are likely to 
+worsen existing inequalities (ILO 2024b). Further, the 
+rapid pace of population ageing in some countries and the 
+impacts of climate change are increasing the demand for 
+social protection and care services while simultaneously 
+straining the supply of care workers and public services. 
+These pressures add to existing decent work deficits 
+among care workers (ILO 2024c). 
+The new estimates in this brief support ongoing global 
+commitments3 by providing updated disaggregated data 
+on the impact of care responsibilities on women’s labour 
+force participation. This data is essential for 
+understanding the care economy, shaping effective policy, 
+and efficiently monitoring efforts to transform the care 
+economy through initiatives aimed at promoting decent 
+work and gender equality.
+This brief provides a detailed overview and analysis of the 
+new ILO global and regional estimates of persons outside 
+the labour force due to care responsibilities. The analysis 
+includes a deeper look at how gender gaps and other 
+disparities related to age, education and rural/urban 
+location affect the share of women outside of the labour 
+force due to care responsibilities. The brief also presents 
+how women’s labour market inactivity has changed over 
+the last five years in selected countries with available data 
+and spotlights care policy reforms that occurred during 
+the review period. Lastly, the brief discusses policy 
+implications, in particular the role of public investments in 
+early childhood care and education (ECCE), as a key means 
+to support labour force participation of unpaid carers and 
+promote gender equality in the workforce. The annexes 
+present the methodology used to generate these 
+estimates and provide country data and related sources.
+
+===== PDF PAGE 3 =====
+ ILO Brief 3
+The impact of care responsibilities on women’s labour force participation
+Persistent gender gaps in labour 
+force participation
+In 2023, women’s global labour force participation rate 
+stood at 48.7 per cent, significantly lower than the rate of 
+73.0 per cent for men—a gap of more than 24 percentage 
+points (figure 1). This disparity varies across regions. In 
+some high-income European countries, the gap tends to 
+be smaller with women’s participation exceeding 70 per 
+cent, while men’s rates are only slightly higher. However, 
+in some parts of the world, such as the Arab States, 
+Northern Africa, and Southern Asia, the gender gap 
+widens dramatically, ranging from 46 to 54 percentage 
+points.
+ Figure 1. Labour force participation rate by sex, 
+2023
+Source: ILOSTAT, ILO modelled estimates, November 2023.
+The gender gap in labour force participation in many parts 
+of the world is often linked to societal expectations, 
+gender norms and gender stereotypes around caregiving 
+and work, where women are still considered the main 
+“caregivers”, and men “breadwinners”. As such, women 
+are often expected to prioritize family over employment. 
+Data clearly shows that the presence of children, 
+especially young children (under the age of 6), significantly
+decreases women’s likelihood of being in the workforce
+(ILO 2023a). For women with young children living in 
+couples or extended families, labour force participation is 
+12 to 14 percentage points lower than among those 
+without young children. Meanwhile, men’s participation is 
+largely unaffected by the presence of young children and 
+may even increase. The net result is stark gender gaps in 
+participation—38 percentage points for couples and 36 
+percentage points for extended families with young 
+children, compared to a 23-percentage point gap for those 
+without children (figure 2).
+ Figure 2. Global prime-age labour force 
+participation rate by sex and household type, 2023
+Note: Prime age refers to persons aged 25 to 54 years.
+Source: ILOSTAT, ILO modelled estimates, November 2023.
+Care responsibilities are the main 
+barrier to women’s labour force 
+participation
+Worldwide, in 2023, 2.4 billion people aged 15 and above 
+are not participating in the labour force, among whom 1.6 
+billion are women (66 per cent). While many are in 
+education or retirement, a significant number want to 
+work but face various barriers to employment. What 
+factors contribute to this phenomenon? To shed light on 
+these dynamics, the ILO used household surveys, 
+especially labour force surveys, from 125 countries to 
+derive data on labour force status, willingness to work, 
+and reasons for being unavailable or not seeking 
+employment. Data for missing countries were imputed to 
+produce robust global and regional estimates. For 
+additional details, refer to the methodology box in the 
+annex. 
+Among those not in the labour force in 2023, 748 million 
+people cite care responsibilities as the reason for being 
+outside the labour force, accounting for over 30 per cent 
+of inactive people globally. This underscores the 
+magnitude of unpaid care work and its impact on labour 
+market participation. Care responsibilities account for 45 
+per cent—or 708 million—of women outside the labour 
+force globally (figure 3). In contrast, only 5 per cent of 
+inactive men, or about 40 million, report caregiving as the 
+reason for non-participation. This stark gender 
+discrepancy highlights the disproportionate role that 
+women take on in child-rearing, care and support for 
+persons with disabilities, and those in need of long-term 
+care, housekeeping and other care responsibilities. Men, 
+on the other hand, most frequently cite personal reasons 
+
+===== PDF PAGE 4 =====
+ ILO Brief 4
+The impact of care responsibilities on women’s labour force participation
+(58 per cent), such as being in education or dealing with 
+health-related issues, as factors keeping them out of the 
+labour market. In fact, according to data from 108 
+countries, 60 per cent of men citing personal reasons 
+were in education, compared to only 22 per cent of 
+women. This suggests that other personal reasons beyond 
+education may be limiting women’s participation in the 
+workforce, such as cultural norms and societal 
+expectations that discourage women from being in the 
+labour market. Notably, the personal reasons category 
+includes those whose partners do not want them to 
+engage in paid work, as well as other involuntary reasons.
+ Figure 3. Global distribution of men and women outside the labour force by reason for inactivity, 2023
+Note: Persons citing labour market reasons include individuals unable to find work and discouraged jobseekers. Personal reasons refer to 
+personal obligations or commitments and health-related issues such as illness and disability; they include students and trainees, those whose 
+partner does not want them to work, and other involuntary reasons. Persons citing care responsibilities include individuals providing 
+essential care to family members including but not limited to children. Lastly, persons who do not need or want to work include those who 
+may be financially secure, retired or pursuing other interests.
+Source: ILO estimates.
+While these figures paint an overall picture, they mask 
+considerable regional differences. Levels of development, 
+economic and employment policies, social and care 
+policies, and legal and cultural norms all play crucial roles 
+in shaping women’s availability to participate in the labour 
+force. Women in parts of Africa and the Arab States have 
+the highest shares outside the labour force due to care 
+obligations. In Northern Africa, 63 per cent of inactive 
+women cite caregiving reasons, while in the Arab States, 
+the rate is 59 per cent (figure 4). These figures suggest 
+that gender roles and a lack of care and support policies 
+and systems, such as maternity protection, paid parental 
+leave and affordable childcare, significantly limit women’s 
+labour force participation (ILO 2024d).
+Sub-Saharan Africa presents a somewhat different picture, 
+with only 28 per cent of women reporting caregiving as a 
+barrier to labour force participation. Although female 
+labour force participation rates are much higher, almost 
+all working women (90 per cent) are engaged in informal 
+employment. This is often the only arrangement that
+provides some flexibility, autonomy and geographic 
+proximity to home to allow women to combine paid 
+economic activity with care responsibilities (ILO 2007; ILO 
+and WIEGO 2020). In Asia and the Pacific, 52 per cent of 
+women outside the labour force cite care obligations as 
+the reason, with subregional rates ranging from 44 per 
+cent in Eastern Asia to 56 per cent in Southern Asia. In the 
+Americas, the variation between subregions is stark. In 
+Latin America and the Caribbean, 47 per cent of inactive 
+women report caregiving reasons. In contrast, the share 
+in Northern America is much lower, at 19 per cent. Finally, 
+in Europe and Central Asia, 21 per cent of inactive women 
+attribute this to care responsibilities, with Eastern Europe 
+having the lowest rate globally at 11 per cent. Historically, 
+many countries in Eastern Europe had social policies and 
+workplace practices that supported higher female labour 
+force participation. However, the effectiveness of these 
+0
+50
+100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Men omen
+Labour market
+Personal
+Care responsibilities
+ oes not need or want a ob
+ ot elsewhere classi ed
+
+===== PDF PAGE 5 =====
+ ILO Brief 5
+The impact of care responsibilities on women’s labour force participation
+systems varies today, with some countries maintaining 
+robust support while others have seen declines (Karu 
+2022; Avli aš 2020; ILO, forthcoming-a).
+ Figure 4. Share of men and women outside the 
+labour force due to care responsibilities, 2023
+Source: ILO estimates.
+The effect of socio-demographics 
+Understanding the barriers to labour force participation 
+for women requires a closer look at how various socio￾demographic factors come into play, such as age, 
+education level and geographic location (i.e. living in a 
+rural or urban area). Unsurprisingly, age plays a crucial 
+role in determining whether women cite caregiving 
+responsibilities as the reason for being out of the 
+workforce. By narrowing the focus to prime-age women 
+(25 to 54 years old)—those more likely to be in 
+childbearing and child-rearing stages, among other care 
+responsibilities—the figures become even more striking. 
+Globally, two-thirds of prime-age women outside the 
+labour force, namely 379 million women, cite caregiving
+responsibilities as the reason for their inactivity. In high￾income countries, this rate stands at 48 per cent, while in 
+lower-middle-income countries, it skyrockets to 74 per 
+cent (figure 5). Across regions and subregions, this trend 
+is most pronounced in Northern Africa, Southern Asia, the 
+Arab States, and Central and Western Asia, where over 70 
+per cent of prime-age women outside the labour force 
+indicate caregiving as the reason for inactivity. These 
+figures underscore the challenges women face in 
+balancing work and family across different socio-economic 
+contexts and throughout their lives. 
+ Figure 5. Share of prime-age women outside the 
+labour force due to care responsibilities, 2023
+Note: Prime age refers to persons aged 25 to 54 years. 
+Source: ILO estimates.
+Educational attainment can also influence women’s 
+participation in the labour force, particularly among those 
+reporting care-related reasons for inactivity. In most 
+regions, women outside the labour force due to care 
+responsibilities are more likely to have less than basic 
+ orld 45 5 
+High income 19 3 
+ pper-middle income 47 8 
+Lower-middle income 54 3 
+Low income 43 3 
+Africa 41 3 
+ orthern Africa 63 2 
+Sub-Saharan Africa 28 3 
+Americas 37 6 
+Latin America and
+the Caribbean 47 7 
+ orthern America 19 4 
+Arab States 59 3 
+Asia and the Paci c 52 6 
+Eastern Asia 44 7 
+South-Eastern Asia
+and the Paci c 53 12 
+Southern Asia 56 3 
+Europe and Central Asia 21 2 
+Central and estern
+Asia 54 3 
+Eastern Europe 11 2 
+ orthern, Southern
+and estern Europe 12 2 
+ orld Income group Region Subregion
+ orthern Africa
+Southern Asia
+Lower-middle income
+Arab States
+Central and estern 
+Asia
+Latin America and the 
+Caribbean
+Asia and the Paci c
+ orld
+Americas
+Eastern Europe
+Africa
+South-Eastern Asia and 
+the Paci c
+Low income
+Europe and Central 
+Asia
+ orthern America
+ pper-middle income
+High income
+Sub-Saharan Africa
+Eastern Asia
+ orthern, Southern 
+and estern Europe
+77 
+74 
+74 
+72 
+71 
+68 
+67 
+66 
+65 
+64 
+62 
+61 
+60 
+59 
+57 
+56 
+48 
+47 
+44 
+43 
+
+===== PDF PAGE 6 =====
+ ILO Brief 6
+The impact of care responsibilities on women’s labour force participation
+education compared to those stating other reasons for
+their inactivity. This is especially pronounced in the Arab 
+States, where 66 per cent (based on weighted averages for 
+five countries) of inactive women citing care reasons had 
+less than basic education, while only 34 per cent of those 
+indicating other reasons had similarly low educational 
+attainment (figure 6). This disparity highlights the need for 
+increasing access and enrolment in education for women 
+and girls, as well as supportive systems that empower 
+women with lower educational attainment to enter and 
+remain in the labour market.
+Rural women in particular face multiple layers of 
+disadvantage in the labour market. Often present in the 
+informal economy, they often lack access to social 
+protection and essential public services—such as 
+healthcare, early childhood education and long-term care 
+facilities— which limits their opportunities to participate in 
+paid employment. Additionally, the adverse impacts of 
+climate and environmental change in rural areas, along 
+with the lack of gender-responsive mitigation and 
+adaptation efforts, are further exacerbating the unequal 
+gender distribution of unpaid care work (ILO 2024c;
+2024e). Notably, except for Asia and the Pacific, rural 
+women outside the labour force are more likely than their 
+urban counterparts to attribute their inactivity to care￾related reasons across regions. This trend aligns with the 
+significantly higher rates of rural women who are NEET 
+(not in employment, education or training), reflecting 
+compounded barriers that hinder their engagement in 
+both work and educational opportunities. 
+Across regions and subregions, the Arab States and 
+Northern Africa have the highest shares (weighted 
+averages) of rural women outside the labour force for 
+care-related reasons, at 74 per cent and 72 per cent 
+respectively, compared to 68 per cent and 66 per cent in 
+urban areas (figure 7). The largest difference between 
+rural and urban women is seen in Latin America and the 
+Caribbean, with 60 per cent of rural women outside the 
+labour force reporting that their inactivity is due to 
+caregiving, versus 43 per cent in urban areas. In Southern 
+Asia, rural women report a much lower share of care￾related inactivity at 52 per cent, compared to 64 per cent 
+among urban women, arising from complex socio￾economic and cultural factors.4
+4
+It is important to note too that rural women in Southern Asia are often engaged in the labour force as (unpaid) contributing family workers (Deshpande, 
+Ashwini, and Naila Kabeer 2024).
+ Figure 6. Distribution of women outside the labour 
+force by education level: care responsibilities vs. 
+other reasons
+Note: Data are weighted averages; the number of available 
+countries in each group is indicated in parentheses. Education 
+levels are defined as follows: “Less than basic” includes those with 
+no schooling or early childhood education; “Basic” includes primary 
+and lower-secondary education; "Intermediate” includes upper￾secondary and post-secondary non-tertiary education; and 
+“Advanced” includes tertiary education.
+Source: Authors' calculations based on data from the ILO 
+Harmonized Microdata Collection.
+Less than basic Basic Intermediate
+Advanced Level not stated
+ 
+Care
+Other
+ 
+Care
+Other
+ 
+Care
+Other
+ 
+Care
+Other
+ 
+Care
+Other
+ 
+Care
+Other
+27 39 21 11 
+19 37 29 13 
+41 26 26 
+29 41 21 
+16 36 34 13 
+25 42 23 
+66 16 12 
+34 29 25 11 
+27 44 16 12 
+31 41 18 9 
+45 30 14 
+39 37 14 
+
+===== PDF PAGE 7 =====
+ ILO Brief 7
+The impact of care responsibilities on women’s labour force participation
+ Figure 7. Share of women outside the labour force due to care responsibilities: rural vs. urban areas
+Note: Data are weighted averages; the number of available countries in each group is indicated in parentheses.
+Source: Authors' calculations based on data from the ILO Harmonized Microdata Collection.
+Overall, care responsibilities seem to significantly hinder
+female labour force participation among prime-age 
+women, those with lower levels of education, and rural 
+residents. These findings underscore the importance of 
+implementing integrated and coherent care and support 
+policies and systems for decent work and gender equality
+to reduce barriers and facilitate greater participation for 
+these groups. To this effect, the ILO Resolution advocates 
+for care measures that address the needs of groups and 
+persons in situations of vulnerability, including the 
+development of community-based approaches also 
+supported by social and solidarity economy (SSE) 
+initiatives. It also encourages monitoring the impacts of 
+climate change on care, including unpaid care work, and 
+considering care issues in relation to climate change 
+adaptation and mitigation policies and actions (ILO 
+2024a). 
+Then and now: Changes since 2018
+Since 2018, many countries have made progress in 
+reducing the share of women outside the labour force due 
+to care responsibilities. Figure 8 shows changes in the 
+share for 40 countries5 with comparable data for two 
+years between circa 2018 and the most recent year. The 
+chart illustrates that the share of women outside the 
+5 This represents 26 per cent of the global population of persons outside the labour force due to care responsibilities. 
+6 The 5R Framework for Decent Care Work is a human rights-based and gender-responsive approach to public policy. The Framework creates a virtuous 
+circle that mitigates care-related inequalities, addresses the barriers preventing women from entering paid work and improves the conditions of all care 
+workers and, by extension, the quality of care (ILO 2018).
+labour force due to care responsibilities has decreased in 
+31 countries. Notably, significant declines—defined as 
+reductions between 10 to 30 percentage points—were 
+recorded in Saudi Arabia (-30.5), Bangladesh (-12.9), 
+Guatemala (-12.4), and Zambia (-11.0). Moderate 
+reductions (less than 10 points) were more common, 
+including in countries such as El Salvador (-7.6), Niger (-
+5.1), and Sri Lanka (-3.1). 
+Multiple factors – including policies, legal and regulatory 
+frameworks, services, infrastructure, institutions, 
+financing mechanisms and social norms – play a crucial 
+role in shaping the provision and receipt of care and 
+support across the life-course (ILO 2024a). These factors 
+directly influence women’s labour force participation by 
+determining the availability, affordability and quality of 
+care services, the distribution of unpaid care work and the 
+societal expectations surrounding caregiving. A reduction 
+in the share of women outside the labour force due to 
+care responsibilities could suggest that law and policy 
+changes, aligned with the ILO 5R Framework for Decent 
+Care Work,
+6 have enabled a more equal distribution of 
+unpaid care work or improved access to care services, 
+thereby lessening the role that care plays in keeping 
+women outside of the labour force.
+Arab States (4) 68 74 
+ orthern Africa (3) 66 72 
+Central and estern Asia (3) 62 66 
+Latin America and the Caribbean (15) 43 60 
+Eastern Asia (2) 56 61 
+Southern Asia (4) 52 64 
+South-Eastern Asia and the Paci c (11) 47 52 
+ 40 48 
+Sub-Saharan Africa (25) 25 29 
+ orthern America (1) 18 21 
+Eastern Europe (9) 10 14 
+ orthern, Southern and estern Europe (24) 12 12 
+ rban
+ 
+Rural
+ 
+10 20 30 40 50 60 70 
+
+===== PDF PAGE 8 =====
+ ILO Brief 8
+The impact of care responsibilities on women’s labour force participation
+ Figure 8. Share of women outside the labour force due to care responsibilities, latest year and circa 2018
+Note: Data are sorted by percentage point differences, starting with the largest negative changes. Increases from circa 2018 to the latest year 
+are colour-coded in red.
+Source: ILOSTAT.
+In Saudi Arabia, the share of women outside the labour 
+force due to care responsibilities decreased from 68 per 
+cent in 2018 to 37 per cent in 2021. This coincides with 
+policy reforms introduced under the Vision 2030 Plan
+launched in 2016, which have improved women’s mobility 
+and ability to access employment opportunities 
+(Government of Saudi Arabia 2016). Policy changes also 
+include the development of the childcare sector, in 
+response to the growing need for childcare as more 
+women joined the workforce. This sector has expanded, 
+providing both public and private childcare options, which 
+could help reduce reliance on migrant domestic workers 
+who currently support the provision of paid care work 
+(UNESCWA 2022, ILO 2021). The Early Learning Standards
+Saudi Arabia (2018-2021) 37 68 
+Bangladesh (2017-2022) 68 81 
+Guatemala (2018-2022) 58 71 
+ ambia (2018-2022) 30 40 
+Poland (2018-2023) 10 19 
+Ireland (2018-2022) 22 30 
+El Salvador (2018-2023) 63 70 
+Slovakia (2018-2022) 11 18 
+ orth Macedonia (2018-2023) 35 42 
+ kraine (2018-2021) 22 28 
+Bolivia (Plurinational State of) (2018-2023) 44 49 
+ iger (2019-2022) 59 64 
+Austria (2018-2023) 7 11 
+ ominican Republic (2018-2023) 43 47 
+ nited ingdom of Great Britain and orthern 
+Ireland (2018-2023) 12 16 
+Chile (2018-2023) 34 37 
+Albania (2018-2022) 13 16 
+Sri Lanka (2018-2022) 59 62 
+Mexico (2018-2023) 70 73 
+Australia (2018-2021) 26 28 
+Trinidad and Tobago (2019-2022) 38 41 
+South Africa (2018-2023) 20 22 
+ nited States of America (2019-2023) 21 22 
+Russian Federation (2018-2023) 8 10 
+Costa Rica (2018-2023) 40 42 
+Belarus (2018-2023) 5 6 
+Bra il (2018-2023) 32 33 
+Guinea-Bissau (2019-2022) 22 23 
+Republic of orea (2018-2023) 62 62 
+ enya (2019-2021) 32 33 
+Canada (2018-2023) 1 1 
+Iran (Islamic Republic of) (2018-2022) 80 81 
+ yrgy stan (2018-2022) 43 43 
+Jordan (2018-2022) 64 65 
+Botswana (2019-2023) 35 37 
+Egypt (2018-2022) 68 72 
+Occupied Palestinian Territory (2018-2022) 58 63 
+ iet am (2018-2023) 31 39 
+ imbabwe (2019-2023) 34 42 
+Honduras (2018-2023) 57 65 
+Latest year
+ 
+Circa 2018
+ 
+10 50 90 
+
+===== PDF PAGE 9 =====
+ ILO Brief 9
+The impact of care responsibilities on women’s labour force participation
+and National Curriculum for early childhood care aim to 
+improve the quality of education for children aged 0 to 6 
+years (UNESCO n.d.-a). In July 2024, Saudi Arabia’s 
+government enacted reforms to the social insurance 
+programme, introducing a 12-week maternity leave 
+benefit paid at 100 per cent of previous earnings for Saudi 
+and non-Saudi workers. It replaces an employer liability 
+scheme with a contributory social insurance scheme, 
+aligning with the requirements of the Maternity Protection 
+Convention, 2000 (No. 183) on the benefit level and the 
+source of funding, while just falling short of the duration 
+stipulated by the Convention of 14 weeks (ILO 2024f).7
+In Guatemala, women’s inactivity due to unpaid care work 
+decreased from 71 per cent in 2018 to 58 per cent in 2022. 
+The increased availability of public pre-primary schools –
+leading to an increase of net enrolment rates in pre￾primary education from 22 per cent in 2018 to 27 per cent 
+in 2023 (UNESCO n.d.-b) – and greater investments in 
+healthcare, particularly services for older persons – have 
+reduced the amount of home-based care, freeing up more 
+time for unpaid carers, mainly women, to engage in paid 
+work (PAHO 2022). 
+In Bangladesh, the share of women outside the labour 
+force due to care responsibilities dropped from 81 per 
+cent in 2017 to 68 per cent in 2022. In addition to 
+increasing literacy rates, lowering maternal and child 
+mortality and improving gender parity in primary 
+education, Bangladesh has made gender equality in 
+labour force participation a priority. The Child Daycare 
+Centre Act of 2021 was enacted to support working 
+parents, particularly mothers, by making childcare 
+services8 more accessible and reliable, particularly in 
+sectors such as manufacturing. The budgetary allocation 
+for daycare centres rose by over 12 percent, from 216 
+million Bangladeshi taka (BDT) in 2018–2019 to BDT 242 
+million in 2023–2024, with a projected increase to BDT 332 
+million by 2026–2027 (ILO, forthcoming-b).
+The combination of various social protection programmes 
+and care policy interventions have supported the drop in 
+the share of women outside the labour force due to care 
+responsibilities in Zambia—from 40 per cent in 2018 to 30 
+per cent in 2022. These measures include higher access to 
+pre-primary education, with an increase in net enrolment 
+rates from 19.7 per cent in 2018 to 28.5 per cent in 2023, 
+7 The amendments will come into effect in February 2025.
+8 There are four kinds of childcare services outlined in this law: Daycare centres subsidized by the government; daycare centres operated by government 
+entities, agencies, directorates, departments, statutory or autonomous bodies that offer services free of charge; commercial daycare centres run by 
+individuals or organizations for profit; and non-profit daycare centres managed by individuals, organizations, non-governmental organizations, clubs, 
+associations, corporations, or the industrial sector. The childcare services are monitored by the Women and Child Affairs Ministry (The Daily Star 2021).
+and the Home-Grown School Meals programme, which 
+provides locally sourced meals to over one million children 
+in pre-primary and primary schools in all ten provinces in 
+Zambia (Zambian Ministry of General Education 2020). 
+Moreover, the expansion of the Social Cash Transfer 
+programme, as part of the national social protection 
+system, increased coverage of beneficiaries from 880 
+thousand in August 2021 to 973 thousand by July 2022 
+(ILO, n.d.). This social assistance combined with nutrition 
+and ECCE services help ease the economic and time 
+pressures related to childcare and have supported more 
+women to seek employment (Favero 2020). 
+Figure 8 also shows that some countries, such as Costa 
+Rica, the Republic of Korea, Iran and Kyrgyzstan, exhibit 
+both high shares of women outside the labour force (40 
+per cent or more) and relatively marginal changes (below 
+2 percentage points). This could indicate that while there 
+have been some efforts to address care responsibilities, 
+they have not been sufficient to make substantial 
+differences in labour force inclusion for women and 
+change social norms around the division of unpaid care 
+work, or other potentially discriminatory norms.
+On the other end of the spectrum, 9 out of 40 countries 
+show increases in the share of women outside the labour 
+force due to care responsibilities, with Honduras (+8.3), 
+Zimbabwe (+8.0) and Viet Nam (+7.6) experiencing 
+increases above 7 percentage points. This suggests that 
+these countries, with relatively moderate shares of women 
+outside the labour force due to unpaid care work (above 
+30 per cent), might be facing growing care needs – likely 
+as a result of the COVID-19 pandemic or ageing 
+populations – alongside socio-economic challenges that 
+exacerbate women’s unpaid care work and hinder their 
+participation in paid work.
+Policy implications: The role of 
+investments in early childhood care 
+and education
+The ILO Resolution recognizes that investing in the care 
+economy can lead, among other benefits, to decent work 
+and stronger female participation in the labour market 
+(ILO 2024a). Therefore, it calls on ILO constituents to 
+invest in and make available high-quality, affordable, 
+
+===== PDF PAGE 10 =====
+ ILO Brief 10
+The impact of care responsibilities on women’s labour force participation
+adequate and accessible care services, including childcare 
+services (ILO 2024a). ILO research shows that there is a 
+strong investment case for paid childcare-related leave 
+(maternity, paternity and parental leave) and ECCE. A 
+study covering 82 countries finds that every US dollar 
+invested in closing gaps in childcare-related leave and 
+ECCE could result in an average increase of US$3.76 in 
+global gross domestic product (GDP) by 2035. The 
+investment benefit is not limited to the potential return on 
+investment, there are also benefits related to job 
+generation and gender equality. Investment in 
+transformative childcare policy packages could also have a 
+potential to generate 96 million direct jobs in ECCE by 
+2035; reduce the global gender gap in monthly earnings
+from 20.1 per cent in 2019 to 8 per cent in 2035; and 
+increase women’s employment to a global average of 56.5 
+per cent in 2035, up from 46.2 per cent in 2019 (ILO 
+2023b). Children also have better developmental 
+outcomes when the countries in which they live anchor a 
+right to universal ECCE services into national legislation 
+and provide these services in practice.
+Figure 9 shows the relationship between government 
+expenditure in pre-primary education as a percentage of 
+GDP (UNESCO n.d.-b)9 and the share of women outside the 
+labour force due to care responsibilities for the latest year,
+in 50 countries with available data for both indicators. It 
+illustrates that while women’s inactivity due to care is 
+driven by multiple factors, public investments in ECCE 
+matter. In countries that invest more in pre-primary 
+education, the share of women outside the labour force 
+due to care responsibilities tends to be lower than those in 
+countries investing comparatively less. For instance, Iran,
+Egypt, Jordan, Mali and India have more than 50 per cent 
+of women outside the labour force due to care 
+responsibilities and may need further investment in the 
+care economy, particularly in ECCE. On the other hand, 
+countries such as Belarus, Bulgaria, Latvia and Sweden
+have less than 10 per cent of women outside the labour 
+force due to caregiving while investing around 1 per cent 
+of GDP in ECCE. 
+An increasing number of countries are taking steps to 
+increase investments in ECCE. Poland and Slovakia
+boosted investments in pre-primary education up to 0.76 
+and 0.62 per cent of GDP, respectively, from 2018 to 2021,
+9 The most recent year was selected based on information availability. The information on the most recent government expenditure in pre-primary 
+education as a percentage of GDP was obtained from UNESCO Institute for Statistics and the most recent value was selected from the period between 2021 
+and 2023. As in the case of the share of women outside the labour force due to care responsibilities, the latest value for government expenditure 
+corresponds to 2023 (or alternatively, 2022 if information was not available for 2023, followed by 2021 if information was not available for 2023 or 2022). 
+Only countries with information for both government expenditure and the share of women outside of the labour force due to care responsibilities for the 
+period between 2021 and 2023 were considered (50 countries). 
+with corresponding reductions in women’s inactivity due 
+to unpaid care work (-9.0 and -7.2 percentage points,
+respectively). In addition, in Poland, the share of fathers 
+using paternity leave increased from 60 per cent in 2022 
+to 67 per cent in 2023. As a result of the introduction of 9 
+weeks of paid parental leave reserved for each parent in 
+2023, 19 thousand fathers also took some parental leave 
+in 2023 compared to 3,700 in 2022. A 2023 law 
+establishing the Active Parent Programme is expected to 
+facilitate parents’ return to work after parental leave, by 
+providing a benefit of €353 per month to cover daycare 
+costs or hiring of a homebased childcare worker or a close 
+relative (Kurowska, Godlewska-Bujok, and Michón 2024). 
+In Slovakia, the parliament passed a law in 2023 to 
+guarantee a place in kindergarten for any child aged 4 
+years by September 2024 and to any child aged 3 years by 
+September 2025 ( ančíková 2024).
+South Africa increased expenditure on pre-primary 
+education between 2018 and 2023, from 0.08 to 0.10 per 
+cent of GDP, and in the same period the share of women 
+outside the labour force due to care decreased from 22 
+per cent to 20 per cent. In the Dominican Republic, the 
+government increased the expenditure on pre-primary 
+education to almost 0.3 per cent of GDP in 2023, while the 
+share of women outside the labour force due to care 
+decreased from 47 per cent to 43 per cent between 2018 
+and 2023. In 2016, advocacy of national union 
+confederations led to the ratification of the Maternity 
+Protection Convention, 2000 (No. 183) (El Congreso 
+Nacional de la República Dominicana 2014; ITUC 2024). As 
+a result, in 2017, maternity leave was extended from 12 
+weeks to 14 weeks, paid at 100 per cent of previous 
+earnings by social security (Consejo Nacional de Seguridad 
+Social 2017; Business & Human Rights Resource Centre 
+2022). As part of a Joint UN Programme, the ILO 
+supported the National Institute of Professional Technical 
+Training (INFOTEP) in enhancing care training programs in 
+line with the National Qualifications Framework as part of 
+the National Care System. Key results included the 
+development of a human-rights based personal assistance 
+programme for people with disabilities and the 
+implementation of the first cycle of an enhanced training 
+and certification programme for early childhood and long￾term care workers (United Nations 2024).
+
+===== PDF PAGE 11 =====
+ ILO Brief 11
+The impact of care responsibilities on women’s labour force participation
+Despite its evident benefits, public investment in ECCE 
+typically remains below 1 per cent of GDP among 50 
+countries with available data (figure 9). Overall, this is far 
+below the investment requirements needed to address 
+increasing childcare needs, promote child development 
+and support women’s employment opportunities. 
+According to a 2022 ILO report, this investment gap would 
+represent an average of 1.5 per cent of GDP globally by 
+2035, ranging between 1.1 per cent in Europe to 4.2 per 
+cent in Africa (ILO 2022b). Current investment in the 50 
+countries with available data is also below the minimum 
+benchmark of at least 1 per cent of GDP for Early 
+Childhood Education (ECE) financing, which is 
+recommended in the ILO Policy Guidelines on the 
+Promotion of Decent Work for Early Childhood Education 
+Personnel to ensure quality and accessible pre-primary 
+education on par with primary education and to achieve 
+the Sustainable Development Goals by 2030 (ILO 2013). 
+Only a few countries, including the Republic of Moldova, 
+Belarus, Sweden, Bulgaria and Kyrgyzstan, have 
+investments in ECCE ranging from 1 to 1.5 per cent of 
+GDP.
+ Figure 9. Share of women outside the labour force due to care responsibilities and government expenditure 
+on pre-primary education, latest year
+Source: ILOSTAT and UNESCO Institute for Statistics.
+Conclusion 
+While unemployment statistics shed light on persons 
+without employment, they do not capture the broader 
+segment of the population that is not looking or not 
+available for employment. By focusing on individuals 
+outside the labour force, this analysis provides insights 
+into the social, economic and cultural factors that prevent 
+or dissuade people from entering the labour market. 
+0
+20
+40
+60
+80
+100 
+0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 
+A T
+BLR
+BEL
+BOL
+BGR
+CI 
+ HM
+CHL
+CRI
+C E
+ 
+ OM
+EG 
+SL 
+FI 
+FRA
+ E 
+GTM
+H 
+I 
+IR 
+ITA
+JAM
+JOR
+ G 
+L A
+LT 
+L 
+MLI
+MLT
+M S
+ L 
+ OR
+PER
+PHL
+POL
+PRT
+ OR
+M A
+RO 
+S 
+S 
+ AF
+ESP
+S E CHE
+ R
+GBR
+ SA
+ R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PDF PAGE 12 =====
+ ILO Brief 12
+The impact of care responsibilities on women’s labour force participation
+The new ILO global and regional estimates presented in 
+this brief highlight the persistent challenges women face 
+due to care responsibilities, which continue to be the
+major barrier to their full participation in the labour force, 
+thereby aggravating gender-based inequalities in the 
+labour market. 
+This analysis shows that a staggering 708 million women 
+are outside the labour force due to care responsibilities. 
+Socio-demographic disaggregation also highlights the 
+interplay between age, education and geographic 
+location, and underscores the vulnerability of certain 
+groups of women in some regions. Care responsibilities 
+disproportionately affect prime-age women (25 to 54 
+years old), particularly in lower-middle-income countries, 
+where over 74 per cent of prime-age women outside the 
+labour force cite care responsibilities as the reason for not 
+being part of the labour force. Women with lower 
+educational attainment are also more likely to be excluded 
+from the labour market due to care responsibilities. 
+Additionally, rural women face greater barriers, with care 
+responsibilities accounting for higher labour force 
+inactivity compared to urban women, especially in regions 
+such as Northern Africa and the Arab States. The impact of 
+climate change and demographic transitions could 
+intensify these inequalities. 
+Some progress has been made in investing in care and 
+support policies and systems in some countries, thus 
+improving the inclusion of women in the labour force and 
+promoting broader gender equality and equity. However, 
+the care economy continues to be underfunded and 
+inadequate care and support policies and systems keep 
+millions of women and their families at a disadvantage. To 
+mark the International Day for Care and Support (29 
+October), the ILO calls for urgent action to give effect to 
+the ILO Resolution concerning decent work and the care 
+economy. Ensuring decent work in the care economy;
+promoting equality of opportunity and treatment; and 
+providing decent employment opportunities for women 
+and men through adequate investments in care policies, 
+services and systems are essential pathways to social 
+justice. Integrated and coherent care policies and systems, 
+grounded in international labour standards and social 
+dialogue and framed by the ILO 5R Framework for Decent 
+Care Work (recognition, reduction and redistribution of 
+unpaid care and reward and representation of care 
+workers), should be the foundation. Among others, the 
+10 For the comprehensive set of recommendations please refer to ILO 2024a.
+ILO Resolution calls on governments, workers’ and 
+employers’ organi ations to:10
+ Promote the ratification and implementation 
+of international labour standards relevant to 
+the care economy, including all fundamental 
+Conventions. 
+ Advance decent work in the care economy, 
+based on a life-course approach to care, 
+embracing the 5R Framework for Decent Care 
+Work. 
+ Mainstream care into relevant public policies, 
+including employment, skills, macroeconomic, 
+social and labour protection, migration and 
+environmental policies, and ensure adequate 
+public financing. 
+ Promote employment and macroeconomic 
+policies that create decent jobs in the care 
+economy, including through promoting 
+formalization of informal care jobs and 
+enterprises, including for domestic workers. 
+ Ensure sufficient fiscal space for investment in 
+the care economy and make available high￾quality, affordable, adequate and accessible 
+care services, including childcare, health care 
+and long-term care for all workers, including for 
+workers in the informal economy.
+ Create an enabling environment for 
+sustainable enterprises and develop a 
+conducive environment for SSE entities, 
+including gender-responsive policies that 
+promote productivity, investment in education 
+and skills development, and enhanced access to 
+business opportunities, formalization and finance. 
+ Ensure appropriate responses to the needs of all 
+workers with care responsibilities by ensuring 
+comprehensive maternity protection and care 
+leave and protection policies, including 
+paternity, parental leave and long-term care 
+leave.
+ Strengthen policies and measures facilitating 
+work–life balance, paid work and care 
+responsibilities, including measures related to 
+the organization, time and location of work, and 
+other terms and conditions of employment.
+
+===== PDF PAGE 13 =====
+ ILO Brief 13
+The impact of care responsibilities on women’s labour force participation
+ Address the unequal gender distribution of 
+ k, ’ 
+economic inclusion and autonomy beyond 
+caregiving, including by changing social norms 
+and gender stereotypes around caregiving roles. 
+ Build and maintain universal social protection 
+systems that provide adequate protection to care 
+workers in all types of employment and recognize 
+unpaid care work and ensure labour protection 
+measures for maximum limits on working time, 
+adequate minimum wages, occupational safety 
+and health, and preventing and addressing 
+violence and harassment, including gender-based 
+violence and harassment.
+ Promote the voice and representation of, and 
+consult with, care worker organizations, 
+organizations of employers of care workers and 
+unpaid family carers.
+ Monitor the impacts of climate change and 
+technological change on care, including 
+unpaid care work, and consider care issues in 
+relation to emerging labour market governance 
+issues and climate change adaptation and 
+mitigation policies and actions.
+ Collect and disseminate data on unpaid and 
+paid care work, in line with existing international 
+statistical standards and with international 
+statistical standards that will be developed to 
+provide an evidence base for policymaking.
+The new ILO estimates provide a critical tool for 
+understanding inequalities in the labour force generated 
+by unequal care responsibilities and monitoring progress 
+on the global commitments that aim to close these gaps. 
+By implementing the ILO Resolution, countries can ensure 
+that unpaid care work is no longer a barrier to women’s 
+employment, thereby advancing decent work and gender 
+equality for all. 
+Acknowledgements 
+This brief was prepared by the Data Production and 
+Analysis Unit (DPAU) of the Statistics Department of the 
+ILO, under the supervision of Steven Kapsos and Rafael 
+Diez de Medina, and the Gender, Equality and Diversity 
+and Inclusion (GEDI) Branch of the Conditions of Work and 
+Equality Department (WORKQUALITY) of the ILO, under 
+the supervision of Sukti Dasgupta, Chidi King and 
+Emanuela Pozzan. It was written by Laura Addati and 
+Marie-Claire Sodergren. The authors wish to thank Lorena 
+Pastor Palacios and Mia Touma in GEDI for their research 
+assistance, review and inputs, Paloma Carrillo and Marta 
+Golin of DPAU and Manuel Andres Vega Cuberos of 
+WORKQUALITY for their helpful comments. The 
+underlying database on persons outside the labour force 
+by reason for inactivity was prepared by DPAU, with 
+special thanks to the ILOSTAT microdata team, including 
+Evangelia Bourmpoula, Vipasana Karkee, Donika Limani, 
+Quentin Mathys and Yves Perardel, and to David Bescond 
+for producing the global and regional estimates.
+Annex
+Methodology 
+In or out of the labour force? Understanding key 
+terms
+In discussions surrounding employment and labour force 
+participation, the concepts of “employment”, “labour 
+force,” and “not in the labour force” are pivotal, yet often
+misunderstood. This section aims to clarify these terms to 
+provide a foundational understanding for the 
+methodological description that follows.
+The statistics produced for this analysis are based on the 
+concepts and definitions adopted by the 13th International 
+Conference of Labour Statisticians (ICLS) rather than those 
+of the more recent 19th ICLS, in order to maximize country 
+coverage. Users should also note that data may differ 
+from national figures. The magnitude of the differences 
+depends on the extent to which a country is applying 
+international statistical standards, and which set of 
+standards are applied. For more information, refer to the 
+quick guides on microdata processing and the impact of 
+new statistical standards on ILOSTAT databases.
+The encompasses all persons of working age 
+(i.e. aged 15 and above) who are either employed or 
+unemployed. Speci cally, this includes:
+ Employed individuals, which refer to those
+currently engaged in employment (i.e. work for 
+pay or profit), regardless of the nature of their 
+employment. In other words, it includes persons 
+in paid employment and self-employment, 
+whether formal or informal. 
+ Unemployed individuals, which refer to those
+who are without work, currently available for 
+work, and actively seeking work. All three criteria 
+must be met. Future starters, that is, persons who 
+did not look for work but planned for a future job 
+
+===== PDF PAGE 14 =====
+ ILO Brief 14
+The impact of care responsibilities on women’s labour force participation
+start are also counted as unemployed, as well as 
+participants in skills training or retraining 
+schemes within employment promotion 
+programmes. 
+Conversely, individuals classi ed as 
+ include those who are not employed and either not 
+actively seeking or not available to work. This group 
+encompasses persons in a variety of circumstances, such 
+as students, retirees, caregivers, discouraged workers, 
+and persons unable to participate in the labour force due 
+to physical or mental health challenges. 
+Leveraging microdata to uncover insights on 
+labour force participation and non-participation 
+The ILO collects the underlying household survey (mostly 
+labour force survey) datasets, also known as microdata, 
+compiled by national statistical offices around the world. 
+Currently, these microdata files are available for 177 
+countries and territories. Microdata allows for a granular 
+analysis of the working-age population by capturing 
+detailed information at the individual level. 
+A recent example of using the ILO’s Harmoni ed 
+Microdata Collection to delve into gender issues in the 
+labour market is the production of labour force 
+participation rates by household type including the 
+presence of children. These new data provide insights into 
+how much lower the participation of women with children 
+is compared to their male counterparts. Similarly, the 
+microdata enables the exploration of the nuanced reasons 
+behind not participating in the labour market. 
+Capturing reasons for being outside the labour 
+force
+There is no standard practice in household surveys for 
+capturing reasons for being outside the labour force. To 
+facilitate international comparisons, the various reasons 
+are regrouped into the following broad categories:
+ Labour market reasons: This category includes 
+individuals who are unable to find work or are 
+discouraged jobseekers who have stopped 
+actively searching for employment due to 
+repeated rejections or a belief that no jobs are 
+available for them. It also includes individuals 
+who are too young or too old to work according 
+to prospective employers, regardless of whether 
+actual age restrictions prevent them from 
+entering or staying in the labour market.
+ Personal or family reasons: This encompasses 
+individuals citing personal obligations, such as 
+caregiving responsibilities, health issues, or family 
+commitments, which prevent them from 
+engaging in the labour market. It also includes 
+students and trainees, those whose partner does 
+not want them to work and other involuntary 
+reasons. 
+ Does not need or want to work: This group 
+includes individuals that do not require or desire 
+employment; they may be financially secure, 
+retired or pursuing other interests.
+ Not elsewhere classified: This category captures 
+individuals whose reasons do not fit into the 
+other previously specified categories or who were 
+not asked.
+An important aspect of this categorization is the “ ot 
+asked” group who did not respond to the relevant 
+question and thus fall into the “ ot elsewhere classified” 
+category. In many datasets, a significant portion of 
+responses are classified here due to survey skip patterns. 
+That is, some respondents may skip questions about their 
+reasons for not participating in the labour force due to a 
+prior answer. For example, the question may not be asked 
+to persons above a certain age (e.g. those aged 75 and 
+above in European countries) or persons indicating they 
+are not willing to work. 
+If more than 15 per cent of inactive persons fall into the 
+“ ot elsewhere classified” category, the data are discarded
+since high rates of such responses obscure the true 
+distribution of reasons for being outside the labour force. 
+This ensures that the data used for statistical analysis is 
+robust and reflects actual reasons for non-participation. 
+In addition, many of the household surveys contained 
+information on whether “personal or family reasons” are 
+specifically related to care, such as taking care of children, 
+elderly adults and sick or disabled family members. As 
+such, a dummy variable was created to identify if the 
+reason is care-related or not. This is the basis of the 
+indicators on the number and share of persons outside of 
+the labour force citing care responsibilities as the reason 
+for inactivity. 
+This brief provides information similar to that found in the 
+2018 ILO report Care work and care jobs for the future of 
+decent work, such as the figures on persons outside the 
+labour force by reason. While the country-level data 
+production process was comparable to what is outlined 
+here, the earlier global findings were based on a smaller 
+set of countries (90 countries with available data at that 
+time) and the “ ot elsewhere classified” category was not 
+
+===== PDF PAGE 15 =====
+ ILO Brief 15
+The impact of care responsibilities on women’s labour force participation
+directly addressed in the methodology. Consequently, the 
+data from the two reports are not comparable.
+Global and regional aggregates
+The global and regional labour force participation rates 
+presented in the brief are modelled estimates based on 
+econometric models. For further information, refer to the 
+ILOSTAT database description on ILO Modelled Estimates.
+Unless otherwise indicated, the remaining global and 
+regional figures are ILO estimates. Data on the number 
+and share of persons outside the labour force by reason, 
+including due to care responsibilities, come from the 
+household survey microdata for 125 countries, 
+representing 71 per cent of inactive persons globally. For 
+countries lacking data, we use ILO modelled estimates on 
+persons outside the labour force as a benchmark. For the 
+broad categories of reasons for being outside the labour 
+force, we apply the weighted average share of inactive 
+persons citing a specific reason as a percentage of total 
+inactive persons from countries within the same income 
+group that have available data. For care-related reasons, 
+which are a subset of the category “personal or family 
+reasons”, the information is not available for 12 of the 125 
+countries with data available for the broader category. For 
+these missing countries, we calculate by income group the 
+weighted average share of persons citing care as a 
+percentage of those citing personal or family reasons 
+across the 113 countries with both sets of information. 
+These weighted averages are then applied to the 
+observed rates of persons outside the labour force due to 
+personal or family reasons for the 12 countries. For all 
+categories, the resulting country-level figures, both 
+directly sourced and estimated, are then aggregated by 
+region and income group.
+Groupings are based on ILO regions and subregions and 
+World Bank income groups; for details, see the country 
+groupings page on ILOSTAT. 
+In the socio-demographic section, global and regional 
+figures by education and by rural/urban areas are 
+weighted averages based on countries for which data are 
+available (using the latest year in each country), which is 
+fewer than the total number of countries in each group. 
+Improving data collection on unpaid care work 
+Despite the insights gained from the available data, there 
+remain significant challenges in accurately capturing the 
+full scope of caregiving responsibilities in household 
+surveys. From this exercise, we find that the high shares of 
+inactive persons falling into the “ ot elsewhere classified” 
+category (because of survey skip patterns) suggest that 
+existing surveys do not fully capture respondents' 
+situations in many cases. Moreover, survey questions on 
+reasons for being outside the labour force should be 
+designed to capture a wider range of caregiving scenarios, 
+including childcare, long-term care (or care for older 
+persons), care and support for people with disabilities, 
+and informal community care. We attempted to capture 
+whether the reason for non-participation was specifically 
+related to childcare; however, data with this detail were 
+available for only 15 countries, making it insufficient to 
+draw any meaningful or representative analysis at a global 
+or regional level.
+More importantly, countries should prioritize the 
+measurement of unpaid domestic and care work, which is 
+often overlooked. While various methods exist, diary￾based approaches, such as independent diary-based time￾use surveys, offer the best data quality. However, many 
+countries lack experience with these surveys. As such, the 
+20th ICLS in 2018 tasked the ILO with developing guidance 
+to integrate time-use measurement into labour force 
+surveys, resulting in the publication of the ILO Own-use 
+provision of services measurement guide. This guide 
+includes a ‘light’ time-use diary, balancing respondent 
+burden and proven approaches, to gather high quality 
+data on time use, aligned with the latest international 
+statistical standards. In addition to a 24-hour diary, the 
+module captures simultaneous activities and includes a 
+recovery sequence targeted at unpaid care of family 
+members, which ensures comprehensive coverage of 
+unpaid domestic and care work. The ILO offers technical 
+support for implementing the module in labour force 
+surveys, including with a CSPro-based application for 
+implementation through computer assisted personal 
+interviewing (CAPI). By integrating such measurement 
+tools, countries can improve their understanding of 
+unpaid care work and better inform policies aimed at 
+supporting caregivers both within and outside the 
+workforce and monitor their impact.
+
+===== PDF PAGE 16 =====
+ ILO Brief 16
+The impact of care responsibilities on women’s labour force participation
+ Table 1. Share of women and men outside the labour force due to care responsibilities and to personal or 
+family reasons
+Country or territory Survey (English label) Latest 
+year
+Share outside the 
+labour force due to 
+care responsibilities (%)
+Share outside the labour 
+force due to personal or 
+family reasons 
+(%)
+Women Men Women Men
+Afghanistan Labour Force Survey 2020 61.5 0.9 78.6 34.5
+Albania Labour Force Survey 2022 13.0 0.7 44.9 41.1
+Angola Employment Survey 2021 … … 48.7 47.3
+Armenia Households Living 
+Conditions Survey
+2018 26.3 1.4 51.7 42.4
+Australia Household, Income and 
+Labour Dynamics Survey
+2021 25.8 6.3 42.8 36.0
+Austria Labour Force Survey 2023 7.2 0.8 57.9 54.0
+Bahamas Labour Force & Household 
+Survey
+2019 13.3 2.5 (u) 50.2 43.5
+Bangladesh Labour Force Survey 2022 67.9 23.6 82.3 74.0
+Barbados Labour Force Survey 2019 … … 29.2 28.5
+Belarus Labour Force Survey 2023 4.6 0.7 29.5 43.4
+Belgium EU Labour Force Survey 2022 8.6 0.9 44.8 40.4
+Benin Monitoring Survey of the 
+Modular and Integrated 
+Survey of Household Living 
+Conditions
+2022 27.5 2.9 69.4 68.8
+Bolivia (Plurinational 
+State of)
+Continuous Employment 
+Survey
+2023 43.5 1.5 81.3 71.0
+Bosnia and 
+Herzegovina
+Labour Force Survey 2019 26.5 4.3 60.6 35.1
+Botswana Multi-Topic Household 
+Survey
+2023 36.5 17.7 71.9 71.7
+Brazil Continuous National 
+Household Sample Survey
+2023 31.6 4.2 92.7 87.8
+Bulgaria EU Labour Force Survey 2022 10.3 2.6 34.9 38.0
+Burkina Faso Harmonized Survey on 
+Household Living Conditions
+2022 38.7 0.5 67.3 55.7
+Burundi Living Standards Survey 2020 7.5 4.8 85.1 85.1
+Cabo Verde Continuous Multi-Objective 
+Survey Employment and 
+Labor Market Statistics
+2015 14.1 (u) 83.5 74.3
+Cambodia Household Socio-Economic 
+Survey
+2021 55.5 23.1 95.5 92.6
+Cameroon Household Survey 2021 … … 60.3 65.9
+Canada Labour Force Survey 2023 0.8 1.2 2.2 2.5
+Chile National Employment Survey 2023 33.8 3.6 69.0 56.1
+
+===== PDF PAGE 17 =====
+ ILO Brief 17
+The impact of care responsibilities on women’s labour force participation
+Country or territory Survey (English label) Latest 
+year
+Share outside the 
+labour force due to 
+care responsibilities (%)
+Share outside the labour 
+force due to personal or 
+family reasons 
+(%)
+Women Men Women Men
+Congo, Democratic 
+Republic of the
+Indicator Cluster Survey 2020 18.6 1.7 59.3 52.9
+Costa Rica Continuous Employment 
+Survey
+2023 40.3 2.4 90.2 82.8
+Croatia EU Labour Force Survey 2022 8.1 0.5 30.9 25.8
+Czechia Labour Force Sample Survey 2021 15.0 0.5 34.8 30.2
+Côte d'Ivoire Living Standards 
+Measurement Survey
+2022 35.5 0.3 72.0 68.8
+Denmark EU Labour Force Survey 2022 2.0 0.3 24.1 25.5
+Dominican Republic Continuous National Labour 
+Force Survey
+2023 43.2 2.3 77.3 61.0
+Ecuador National Survey on 
+Employment, Unemployment 
+and Underemployment
+2023 … … 76.1 63.6
+Egypt Labour Force Sample Survey 2022 72.1 (u) 96.1 84.8
+El Salvador Multi-purpose Household 
+Survey
+2023 62.6 6.0 82.3 54.5
+Estonia Labour Force Survey 2022 9.3 2.3 40.4 50.3
+Ethiopia National Labor Force Survey 2021 16.2 6.3 84.0 78.0
+Finland EU Labour Force Survey 2022 4.6 0.8 32.2 33.3
+France Employment Survey 2023 8.1 0.8 32.4 28.9
+Gambia Labour Force Survey 2018 39.0 0.8 72.4 55.8
+Georgia Labour Force Survey 2020 31.6 3.4 50.6 38.5
+Germany EU Labour Force Survey 2022 9.9 1.1 31.1 28.1
+Ghana Living Standards Survey 2013 19.9 4.5 79.0 75.2
+Greece Labour Force Survey 2023 13.1 0.3 37.3 27.7
+Guatemala Living Conditions National 
+Survey
+2023 57.3 5.0 72.4 58.4
+Guinea-Bissau Harmonized Survey on 
+Household Living Conditions
+2022 22.0 0.5 68.4 62.1
+Haiti Households Living 
+Conditions Survey
+2012 … … 50.9 63.4
+Honduras Continuous Multi-Purpose 
+Household Survey
+2023 65.3 5.7 88.5 64.1
+Hungary Labour Force Survey 2022 10.9 2.8 34.4 40.6
+India Periodic Labour Force Survey 2023 53.0 1.1 97.8 91.4
+Indonesia National Labour Force 
+Survey
+2019 … … 91.2 69.1
+Iran (Islamic Republic 
+of)
+Labour Force Survey 2022 81.0 2.2 94.6 45.8
+
+===== PDF PAGE 18 =====
+ ILO Brief 18
+The impact of care responsibilities on women’s labour force participation
+Country or territory Survey (English label) Latest 
+year
+Share outside the 
+labour force due to 
+care responsibilities (%)
+Share outside the labour 
+force due to personal or 
+family reasons 
+(%)
+Women Men Women Men
+Iraq Labour Force Survey 2021 72.5 6.0 92.3 66.3
+Ireland EU Labour Force Survey 2022 19.1 3.7 48.3 43.8
+Italy EU Labour Force Survey 2022 22.1 1.7 53.2 34.3
+Jordan Employment and 
+Unemployment Survey
+2022 65.1 0.8 95.4 61.4
+Kenya Continuous household 
+survey
+2021 32.3 1.4 83.1 77.7
+Kyrgyzstan Employment and 
+Unemployment Survey
+2022 43.3 4.2 68.8 55.8
+Latvia EU Labour Force Survey 2022 8.5 2.2 37.4 47.4
+Lesotho Integrated Labour Force 
+Survey
+2019 60.0 45.6 89.4 89.3
+Lithuania EU Labour Force Survey 2022 6.4 1.5 32.2 45.8
+Luxembourg EU Labour Force Survey 2022 8.2 0.7 (u) 38.0 33.6
+Madagascar Periodic Household Survey 2022 49.7 13.5 81.6 76.1
+Maldives Household Income and 
+Expenditure Survey
+2019 44.6 1.4 88.6 72.4
+Mali Harmonized Survey on 
+Household Living Conditions
+2022 62.3 2.1 80.6 59.1
+Malta Labour Force Survey 2022 44.4 1.3 68.4 33.6
+Mauritania Living Standards Survey 2019 28.8 18.0 50.4 43.1
+Mauritius Continuous Multi-Purpose 
+Household Survey
+2023 50.2 0.2 (u) 72.6 42.4
+Mexico National Occupation and 
+Employment Survey
+2023 69.7 12 88.2 55.1
+Mongolia Labour Force Survey 2018 28.4 7.1 59.9 57.2
+Myanmar Labour Force Survey 2020 62.8 3.9 96.5 84.5
+Namibia Labour Force Survey 2018 11.2 2.0 70.1 67.3
+Netherlands EU Labour Force Survey 2022 8.4 1.5 32.9 29.1
+New Caledonia Labour Force Survey 2019 20.3 2.1 49.1 39.7
+Nicaragua National Household Survey 
+on Measuring Living 
+Conditions
+2014 63.7 4.0 87.6 68.8
+Niger National Survey on 
+Household Living Conditions
+2022 59.5 1.0 78.4 47.4
+Nigeria Unemployment, Under￾employment Watch
+2022 29.7 0.2 (u) 78.5 80.6
+North Macedonia Labour Force Survey 2023 34.8 1.2 54.6 30.4
+Norway EU Labour Force Survey 2022 2.4 0.3 (u) 42.8 40.4
+
+===== PDF PAGE 19 =====
+ ILO Brief 19
+The impact of care responsibilities on women’s labour force participation
+Country or territory Survey (English label) Latest 
+year
+Share outside the 
+labour force due to 
+care responsibilities (%)
+Share outside the labour 
+force due to personal or 
+family reasons 
+(%)
+Women Men Women Men
+Occupied Palestinian 
+Territory
+Labour Force Survey 2022 63.3 (u) 94.3 74.7
+Panama Labour Market Survey 2023 43.6 3.3 73.7 58.3
+Papua New Guinea Socio-Demographic and 
+Economic Survey
+2022 34.9 15.1 84.1 75.5
+Paraguay Continuous Employment 
+Survey, Urban
+2016 … … 91.3 74.6
+Peru Permanent Employment 
+Survey, National
+2023 58.7 18.1 87.4 68.6
+Philippines Labour Force Survey 2022 41.5 4.7 90.6 80.1
+Poland Labour Force Survey 2023 9.6 1.3 34.2 39.3
+Portugal EU Labour Force Survey 2022 9.6 1.0 41.2 37.1
+Republic of Korea Economically Active 
+Population Survey
+2023 61.8 3.3 82.4 61.4
+Republic of Moldova Labour Force Survey 2023 20.3 0.8 44.8 27.5
+Romania Household Labour Force 
+Survey
+2023 14.2 0.9 36.5 32.1
+Russian Federation Labour Force Survey 2023 7.7 0.9 26.2 35.8
+Rwanda Integrated Household Survey 
+on Living Conditions
+2014 11.6 4.1 79.5 79.0
+Samoa Labour Force Survey 2017 51.1 35.2 75.1 75.7
+Saudi Arabia Labour Force Survey 2021 37.2 0.8 73.5 54.7
+Senegal Harmonized Survey on 
+Household Living Conditions
+2022 47.3 0.7 75.0 55.9
+Sierra Leone Integrated Household Survey 2018 13.6 1.3 60.0 60.3
+Singapore Labour Force Survey 2023 … … 69.9 57.9
+Slovakia Labour Force Survey 2022 10.6 1.0 39.6 40.5
+Slovenia Labour Force Survey 2022 4.7 0.6 29.2 31.3
+Solomon Islands Household Income and 
+Expenditure Survey
+2013 24.5 4.0 62.7 68.9
+Somalia Labour Force Survey 2019 47.4 11.4 78.6 68.0
+South Africa Quarterly Labour Force 
+Survey
+2023 20.0 3.1 53.4 51.2
+Spain EU Labour Force Survey 2022 10.4 1.3 41.0 35.0
+Sri Lanka Labour Force Survey 2022 58.8 4.1 81.6 61.1
+Sudan Labor Market Panel Survey 2011 61.8 2.5 92.0 80.4
+Sweden EU Labour Force Survey 2022 3.2 0.4 37.8 36.6
+Switzerland Labour Force Survey 2023 4.5 0.3 14.5 11.3
+Tajikistan Living Standards Survey 2009 64.5 (u) 79.4 42.3
+
+===== PDF PAGE 20 =====
+ ILO Brief 20
+The impact of care responsibilities on women’s labour force participation
+Country or territory Survey (English label) Latest 
+year
+Share outside the 
+labour force due to 
+care responsibilities (%)
+Share outside the labour 
+force due to personal or 
+family reasons 
+(%)
+Women Men Women Men
+Tanzania, United 
+Republic of
+Labour Force Survey 2020 12.8 3.9 85.3 88.8
+Thailand Household Socio-Economic 
+Survey
+2019 75.7 51.2 96.3 87.5
+Timor-Leste Labour Force Survey 2021 38.0 20.6 73.5 67.0
+Togo Living Standards 
+Measurement Survey
+2022 19.5 0.4 (u) 68.1 74.1
+Tonga Labour Force Survey 2023 6.3 5.1 10.8 12.2
+Tunisia National Population and 
+Employment Survey
+2019 61.1 3.1 87.7 49.9
+Türkiye Household Labour Force 
+Survey
+2020 58.8 0.4 81.0 40.6
+Uganda National Household Survey 2019 … … 85.3 79.4
+Ukraine Labour Force Survey 2021 21.6 6.3 33.4 28.5
+United Arab Emirates Labour Force Survey 2023 … … 95.4 83.0
+United Kingdom of 
+Great Britain and 
+Northern Ireland
+Labour Force Survey 2023 12.0 2.9 36.1 30.9
+United States of 
+America
+Current Population Survey 2023 20.5 4.7 35.6 26.0
+Uruguay Continuous Household 
+Survey
+2023 15.0 0.9 36.9 33.1
+Venezuela (Bolivarian 
+Republic of)
+Household Sample Survey 2017 63.3 5.9 90.3 64.9
+Viet Nam Labour Force Survey 2023 38.8 10.8 75.6 64.3
+Yemen Labour Force Survey 2014 69.9 0.5 91.4 74.8
+Zambia Labour Force Survey 2022 29.5 5.8 73.6 66.6
+Zimbabwe Labour Force Survey 2023 … … 79.8 73.1
+Note: “…” indicates data are not available and “(u)” denotes data are unreliable. Care responsibilities are a subset of the “personal or family 
+reasons” category. For further details, refer to the methodology section. 
+The table above displays the data available at the time of publication. Data are also available on ILOSTAT, the ILO’s portal 
+to labour statistics, where databases are continually updated. This table is directly available at:
+https://rshiny.ilo.org/dataexplorer1/?id=EIP_RCAR_SEX_RT_A. 
+
+===== PDF PAGE 21 =====
+ ILO Brief 21
+The impact of care responsibilities on women’s labour force participation
+References
+Avli aš, Son a. 2020. ‘Growth Models and Female Labor 
+in Post-Socialist Eastern Europe’. Social Politics: 
+International Studies in Gender, State & Society 
+27 (3): 534–61. doi:10.1093/sp/jxz012.
+Business & Human Rights Resource Centre. 2022. 
+‘ ominican Republic: Trade nions Propose 
+Balancing the Responsibilities of Work and 
+Family Life in the Reform of the Labour Code’, 
+2022. https://www.business￾humanrights.org/en/latest-news/dominican￾republic-trade-unions-propose-balancing-the￾responsibilities-of-work-and-family-life-in-the￾reform-of-the-labour-code/.
+Conse o acional de Seguridad Social. 2017. ‘C SS 
+aumenta subsidio por maternidad a 14 
+semanas’. 2017. 
+https://www.cnss.gob.do/index.php/noticias/ite
+m/347-cnss-aumenta-subsidio-por-maternidad￾a-14-semanas.
+ ančíková, u ana. 2024. ‘Slovak Republic’. Leave 
+ etwork.
+ eshpande, Ashwini, and aila abeer. 2024. ‘ orms 
+that matter: Exploring the distribution of 
+women’s work between income generation, 
+expenditure-saving and unpaid domestic 
+responsibilities in India’. World Development, 
+174(106).
+ECOSOC ( nited ations Economic and Social Council). 
+2024. ‘Resolution Adopted by the Economic and 
+Social Council on 5 June 202: Promoting Care 
+and Support Systems for Social evelopment’.
+El Congreso Nacional de la República Dominicana. 2014. 
+‘Res. o. 211-14 Que Aprueba El Convenio No. 
+183, Sobre Protección de La Maternidad 2000, 
+Adoptado Por La Organización Internacional 
+Del Trabajo, En Ginebra. G.O. No. 10761 Del 9 
+de Julio de 2014.’ 
+https://observatoriojusticiaygenero.poderjudici
+al.gob.do/documentos/PDF/normativas/NOR_R
+es_No_211_14.pdf.
+Favero, Michele. 2020. ‘Learning How to Reduce Poverty 
+and Enhance Food Security by Protecting 
+Children in ambia’. Socialprotection.Org.
+Government of Saudi Arabia. 2016. ‘Saudi ision 2030’. 
+2016. https://www.vision2030.gov.sa/en.
+G7 (Leaders of the Group of Seven). 2024. ‘Apulia G7 
+Leaders’ Communiqué’.
+ILO (International Labour Organi ation). 2007. 
+‘Expanding omen’s Employment 
+Opportunities: Informal Economy orkers and 
+the eed for Childcare’.
+———. 2013. ‘Policy Guidelines on the Promotion of 
+ ecent ork for Early Childhood Education 
+Personnel’.
+———. 2018. ‘Care ork and Care Jobs for the Future of 
+ ecent ork’.
+———. 2020. ‘ILO Monitor: CO I -19 and the world of 
+work. Fifth edition Updated estimates and 
+analysis’.
+———. 2021. ‘Making Decent Work a Reality for 
+Domestic Workers. Progress and prospects ten 
+years after the adoption of the Domestic 
+Workers Convention, 2011 (No. 189)’.
+———. 2022a. ‘Over 2 million moms left the labour 
+force in 2020 according to new global 
+estimates’. https://ilostat.ilo.org/blog/over-2-
+million-moms-left-the-labour-force-in-2020-
+according-to-new-global-estimates/
+———. 2022b. ‘Care at ork: Investing in Care Leave 
+and Services for a More Gender Equal World of 
+ ork’. Report.
+http://www.ilo.org/global/topics/care￾economy/WCMS_838653/lang--en/index.htm.
+———. 2023a. ‘ ew data shine light on gender gaps in 
+the labour market’. Spotlight on ork Statistics 
+n°12. ILO brief.
+———. 2023b. ‘The Bene ts of Investing in 
+Transformative Childcare Policy Packages 
+towards Gender Equality and Social Justice’.
+———. 2024a. Resolution Concerning ecent ork and 
+the Care Economy. ILC.112/Resolution . 
+Geneva.
+———. 2024b. ecent ork and the Care Economy. 
+ILC.112/Report I.
+———. 2024c. ‘ orld Social Protection Report 2024-26: 
+ niversal Social Protection for Climate Action 
+and a Just Transition’.
+———. 2024d. ‘Care at ork: Investing in Care Leave 
+and Services for a More Gender Equal orld of 
+ ork. Companion Regional Report for the 
+Middle East and orth Africa’.
+———. 2024e. ‘Gender, Equality and Inclusion for a Just 
+Transition in Climate Action: A Policy Guide’.
+———. 2024f. ‘Quarterly Social Security Policy Monitor’. 
+18.
+———. n.d. ‘Social Protection Platform: ambia’. 
+———. forthcoming-a. ‘Regional Report for the estern 
+Balkans and Moldova on Care Policies for 
+ orkers with Family Responsibilities’.
+———. forthcoming-b. ‘Roadmap for Childcare in 
+Bangladesh’.
+ILO and IEGO ( omen in Informal Employment: 
+Globali ing and Organi ing). 2020. ‘Quality 
+Childcare Services for orkers in the Informal 
+Economy.’ Policy Brief o 1.
+ITUC (International Trade Union Confederation). 2024. 
+‘IT C Submission: Input to the Study on Care 
+and Support, Pursuant to HRC Resolution 54/6’. 
+https://www.ohchr.org/sites/default/files/docu
+ments/issues/ohchr-cfis/care-support/subm-
+
+===== PDF PAGE 22 =====
+ ILO Brief 22
+The impact of care responsibilities on women’s labour force participation
+hrc-resolution-546-trad-unio-internati-ituc-ituc￾input-1.docx.
+ aru, Marre. 2022. ‘Chapter 17: Generous but nequal: 
+The Contradictions of Parenting Leaves in the 
+Baltic States’. In Research Handbook on Leave 
+Policy.
+ urowska, Anna, Barbara Godlewska-Bu ok, and Piotr 
+Michón. 2024. ‘Poland’. Leave etwork.
+PAHO (Pan American Health Organi ation). 2022. 
+‘Guatemala - Country Pro le’. Health in the 
+Americas.
+The aily Star. 2021. ‘Parliament Passes aycare Centre 
+Bill to Support orking Parents’. 
+https://www.thedailystar.net/bangladesh/news
+/parliament-passes-daycare-centre-bill￾support-working-parents-2112077.
+ ESCO (The nited ations Educational, Scienti c and 
+Cultural Organi ation). n.d.-a. ‘Empowering 
+Early Childhood Education in Saudi Arabia: 
+Programmes and Initiatives - Early Childhood 
+Care and Education’. Early Childhood Care and 
+Education.
+———. n.d.-b. ‘UIS Statistics’.
+ ESC A ( nited ations Economic and Social 
+Commission for estern Asia). 2022. ‘Case 
+Study: Childcare in the ingdom of Saudi 
+Arabia’.
+ nited ations. 2024. ‘Care Communities: esign and 
+Implementation of the ational Care Policy 
+Pilot in Prioriti ed Territories in the ominican 
+Republic’.
+ ambian Ministry of General Education. 2020. ‘ ational 
+Strategy on Home-Grown School Meals (2020-
+2024)’. ESCO.
+Contact details
+International Labour Organization
+Route des Morillons 4
+CH-1211 Geneva 22
+Switzerland
+Statistics Department
+https://ilostat.ilo.org/ | ilostat@ilo.org
+Conditions of Work and Equality Department
+https://ilo.org/care | carepolicy@ilo.org
+DOI: https://doi.org/10.54394/LPTT5569
+© International Labour Organization 2024

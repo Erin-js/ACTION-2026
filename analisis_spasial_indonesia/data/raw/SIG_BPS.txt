@@ -1,0 +1,327 @@
+ 
+ 
+ 
+ Sistem Informasi Geografis BPS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indonesia 
+ | 
+ English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Beranda 
+ 
+ 
+ Geoportal BPS 
+ 
+ Geoportal API 
+ 
+ Kode Relasi 
+ 
+ Tentang 
+ -->
+ 
+ Peta Interaktif 
+ 
+ Peta Tematik 
+ Peta Wilkerstat 
+ Peta Inflasi 
+ Potensi Desa -->
+ Peta Ketenagakerjaan Indonesia 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Peta Statistik Indonesia 2018 
+ Peta Statistik Indonesia 2018 (SI2018) adalah peta tematik dengan sumber data Statistik Indonesia tahun 2018. Peta Statistik Indonesia dibagi menjadi 3 tema yakni Penduduk, Ekonomi, dan Pertanian 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Geoportal Badan Pusat Statistik 
+ Portal gis berbasis arcgis server enterprise 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ -->
+ Previous -->
+ 
+ 
+ 
+ 
+ Next -->
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Sistem Informasi Geografis 
+ 
+ Selamat datang di Sistem Informasi Geospasial-BPS. Situs ini bertujuan untuk menyajikan kepada publik berbagai informasi yang terkait dengan kerangka wilayah kerja statistik, peta, dan data.
+ 
+ 
+ Wilayah kerja statistik (wilkerstat) menyajikan tiga hal utama yaitu; Hirarki menggambarkan tingkatan wilkerstat; Sistem Pengkodean menjelaskan tata cara pemberian kode wilayah; dan 
+ Kode relasi yang menghubungkan sistem pengkodean wilayah antara Badan Pusat Statistik (BPS), Kementrian Dalam Negeri (Kemendagri), dan Kode Pos.
+ 
+ 
+ Peta yang disajikan pada situs ini dikelompokkan menjadi dua jenis utama yaitu Peta Interaktif dan Peta Analog. Peta Interaktif terdiri dari: (1). Peta Tematik atau peta statistik yang menyajikan informasi dengan tema sosial dan kependudukan, pertanian dan ekonomi; (2). Peta indeks menyajikan kerangka wilayah kerja statistik dalam bentuk spasial. Peta Analog merupakan kumpulan peta tematik yang disimpan kedalam format siap cetak.
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kode Relasi 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Tematik Interaktif 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Batas Wilkerstat 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ Hirarki Wilkerstat 
+ (Wilayah Kerja Statistik) 
+ Hirarki menggambarkan bagaimana tingkatan Wilayah Kerja Statistik yang dijadikan dasar Master Area Frame di setiap kegiatan sensus survei di Badan Pusat Statistik 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Sistem Pengkodean 
+ Wilayah Kerja Statistik 
+ Kode dan nama Wilayah Kerja Statistik adalah identitas wilayah kerja statistik yang meliputi provinsi, kabupaten/kota, kecamatan, desa/kelurahan. Kode dan nama wilayah kerja statistik ditetapkan melalui Peraturan Kepala Badan Pusat Statistik tentang Wilayah Kerja Statistik yang terbit setiap tahun.
+ 
+ Baca Selengkapnya 
+ 
+ 
+ 
+
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Navigasi 
+ 
+ 
+ Situs BPS 
+ 
+ 
+ Geoportal 
+ 
+ 
+ Syarat dan ketentuan 
+ 
+ 
+ 
+ 
+ Kontak 
+ 
+ 
+ 
+ 
+ 
+ Direktorat Pengembangan Metodologi Sensus dan Survei 
+ Badan Pusat Statistik
+ (BPS - Statistics Indonesia) 
+ Jl. Dr. Sutomo 6-8 Jakarta 10710 Indonesia 
+ 
+ 
+ 
+ 
+ 
+ (62-21) 3841195, 3842508, 3810291 
+ Senin - Selasa 07.30 - 16.00 
+ 
+ 
+ 
+ 
+ 
+ bpshq@bps.go.id 
+ 
+ 
+ 
+ 
+ 
+ Kritik dan saran 
+ Apabila terdapat kritik dan saran silahkan tuliskan pada kolom dibawah ini 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kirim
+ 
+ 
+ 
+ 
+ Kami tidak akan membagikan kontak anda pada siapaun 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hak Cipta © 2020 Badan Pusat Statistik 
+ Semua Hak Dilindungi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
